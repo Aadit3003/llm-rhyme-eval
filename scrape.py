@@ -184,13 +184,13 @@ def getVowelsConsonants(word):
 
     return vc, vowels, consonants
 
-def noSymbolOverlap(consSet1, consSet2):
+def lenSymbolOverlap(consSet1, consSet2):
     consSet1 = set(consSet1.split(" "))
     consSet2 = set(consSet2.split(" "))
 
     overlap = consSet1.intersection(consSet2)
     # if len(overlap) == 2:
-    if len(overlap) == 0: print(f"OVERLAP:  {overlap}   WORD1: {consSet1}   WORD2: {consSet2}")
+    # if len(overlap) == 0: print(f"OVERLAP:  {overlap}   WORD1: {consSet1}   WORD2: {consSet2}")
     # print(f"")
     return len(overlap)
 
@@ -445,7 +445,7 @@ def assonancePairs(innerLimit = 5, outerLimit = 1000):
                 current_word, current_cons = words[i]
                 other_words = words[0:i]
                 for other_word, other_cons in other_words:
-                    if noSymbolOverlap(current_cons, other_cons) == 0:
+                    if lenSymbolOverlap(current_cons, other_cons) == 0:
                         assonancePairs.append({
                             current_word: PRON_DICTIONARY[current_word],
                             other_word: PRON_DICTIONARY[other_word]
@@ -492,7 +492,7 @@ def consonancePairs(innerLimit = 5, outerLimit = 1000):
             break
 
 
-    # Find Assonance pairs
+    # Find Consonance pairs
     
     for consonant, words in CONS_MAP.items():
             if len(words) == 1:
@@ -506,7 +506,7 @@ def consonancePairs(innerLimit = 5, outerLimit = 1000):
                 if inner > innerLimit:
                     break
                 for other_word, other_vows in other_words:
-                    if noSymbolOverlap(current_vows, other_vows) == 0:
+                    if lenSymbolOverlap(current_vows, other_vows) == 0:
                         consonancePairs.append({
                             current_word: PRON_DICTIONARY[current_word],
                             other_word: PRON_DICTIONARY[other_word]
@@ -593,7 +593,8 @@ def alliterativePairs(perConsLimit = 100, lengthLimit = 1000):
                         other_word: PRON_DICTIONARY[other_word]
                     })
                     if len(alliterations_pairs) > 20 *lengthLimit:
-                        return alliterations_pairs
+                        random.shuffle(alliterations_pairs)
+                        return alliterations_pairs[:lengthLimit]
     random.shuffle(alliterations_pairs)
     return alliterations_pairs[:lengthLimit]
 
@@ -608,11 +609,78 @@ def PerfectPairs(suffixes):
 def SlantPairs():
     return assonancePairs(), consonancePairs()
 
-def nonRhymingPairs(outerLimit = 1000, comparisonLimit = 1000, lengthLimit = 500):
-    # No Consonant Overlap
-    # Different vowels!
+def nonRhymingPairs(patternLimit = 10, comparisonLimit = 20, lengthLimit = 1000):
+    # Zero vowel overlap
+    # Zero Consonantal overlap
+    all_words = list(PRON_DICTIONARY.keys())
 
-    a = 0
+    non_rhyming_pairs = []
+
+    CONS_MAP = {}
+    i = 0
+    random.shuffle(all_words)
+    # Populate Vowel and Consonant Maps (All seen combinations!)
+    for word in all_words:
+        _, vowels, consonants = getVowelsConsonants(word)
+        vowels = ' '.join(vowels)
+        # print(vowels)
+        consonants = ' '.join(consonants)
+
+
+        if consonants not in CONS_MAP.keys():
+            CONS_MAP[consonants] = [(word, vowels)]
+        else:
+            CONS_MAP[consonants].append((word, vowels))
+
+        
+        i += 1
+        if i > 50000:
+            break
+
+
+    # Find Consonance pairs
+    consonant_patterns = list(CONS_MAP.keys())
+
+    ind = 0
+    for i in range(len(consonant_patterns)):
+        ind += 1
+        if ind > patternLimit: break
+
+        current_pattern = consonant_patterns[i]
+        other_patterns = consonant_patterns[0:i]
+
+        for other_pattern in other_patterns:
+            if lenSymbolOverlap(current_pattern, other_pattern) <= 2:
+
+                current_word_list = CONS_MAP[current_pattern]
+                other_word_list = CONS_MAP[other_pattern]
+
+
+                for cw in current_word_list:
+                    c_word, c_vowels = cw
+                    count = 0
+                    for ow in other_word_list:
+
+                        count += 1
+                        if count > comparisonLimit: break
+
+                        o_word, o_vowels = ow
+                        if lenSymbolOverlap(c_vowels, o_vowels) == 0:
+                            non_rhyming_pairs.append({
+                                c_word: PRON_DICTIONARY[c_word],
+                                o_word: PRON_DICTIONARY[o_word]
+                            })
+
+                            if len(non_rhyming_pairs) > 5*lengthLimit:
+                                random.shuffle(non_rhyming_pairs)
+                                return non_rhyming_pairs[:lengthLimit]
+                        
+            else:
+                continue
+
+    random.shuffle(non_rhyming_pairs)
+    return non_rhyming_pairs[:lengthLimit]
+
 
 
 # MAIN
@@ -675,13 +743,21 @@ def main():
     # file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/solutions/consonance.txt", CONS_SOLUTION_WRITE_LIST)
     # file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/test/consonance.txt", CONS_TEST_LIST)
 
-    allit = alliterativePairs(1000)
+    # allit = alliterativePairs(1000)
 
-    ALL_SOLUTION_WRITE_LIST = allit
-    ALL_TEST_LIST = [' '.join(list(a.keys())) for a in allit]
+    # ALL_SOLUTION_WRITE_LIST = allit
+    # ALL_TEST_LIST = [' '.join(list(a.keys())) for a in allit]
 
-    file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/solutions/alliterative.txt", ALL_SOLUTION_WRITE_LIST)
-    file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/test/alliterative.txt", ALL_TEST_LIST)
+    # file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/solutions/alliterative.txt", ALL_SOLUTION_WRITE_LIST)
+    # file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/test/alliterative.txt", ALL_TEST_LIST)
+
+    nons = nonRhymingPairs(100, 20, 5000)
+    NON_SOLUTION_WRITE_LIST = nons
+    NON_TEST_LIST = [' '.join(list(n.keys())) for n in nons]
+
+    file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/solutions/non.txt", NON_SOLUTION_WRITE_LIST)
+    file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/test/non.txt", NON_TEST_LIST)
+
 
 
 
