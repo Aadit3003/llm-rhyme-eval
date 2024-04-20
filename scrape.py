@@ -625,8 +625,8 @@ def main():
         # DPP_SOLUTION_WRITE_LIST.extend(dpp)
 
     # write_clean_file("data/english/solutions/singlePerfect.txt", 
-                     "data/english/test/singlePerfect.txt",
-                     SPP_SOLUTION_WRITE_LIST)
+                    #  "data/english/test/singlePerfect.txt",
+                    #  SPP_SOLUTION_WRITE_LIST)
     
     # write_clean_file("data/english/solutions/doublePerfect.txt", 
     #                  "data/english/test/doublePerfect.txt",
