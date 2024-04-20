@@ -35,7 +35,7 @@ def file_write_strings(path, lst):
         return None
 
 
-def write_clean_file(solution_filename, test_filename, lines):
+def write_clean_file(solution_filename, test_filename, lines, limit=1000):
 
     solution_list = lines
     test_list = [' '.join(list(a.keys())) for a in solution_list]
@@ -47,8 +47,8 @@ def write_clean_file(solution_filename, test_filename, lines):
     random.shuffle(ziploc)
     
     solution_list, new_test_list = zip(*ziploc)
-    new_test_list = new_test_list[0:1000]
-    solution_list = solution_list[0:1000]
+    new_test_list = new_test_list[0:limit]
+    solution_list = solution_list[0:limit]
 
     file_write_strings(solution_filename, solution_list)
     file_write_strings(test_filename, new_test_list)

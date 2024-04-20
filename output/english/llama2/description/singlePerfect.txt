@@ -1,0 +1,100 @@
+courville, drill, Gold: 1, Pred: 1 || <s> [INST] Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds?courville-drill [/INST]  Yes, the words "Courville" and "Drill" do rhyme because they both end with the same sequence of vowels (the open syllable onset /oʊ/) followed by a voiced fricative ("l").
+
+Here are some more examples of words that rhyme in English:
+
+* Hare - bear
+* Rose - nose
+* Sky - fly
+* Sea - bee
+* Tree - free
+
+I hope
+soady, chlorofluorocarbons, Gold: 0, Pred: 1 || <s> [INST] Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds?soady-chlorofluorocarbons [/INST]  Yes, the following two words do rhyme:
+
+* Soady (ending in /dy/) and Chlorofluorocarbon (ending in /n/) both end with a pair of consonents (-d-y) followed by an identicial vowel sound /a/>
+Therefore they are considered to Rhyme!</s>
+upstairs, bares, Gold: 1, Pred: 1 || <s> [INST] Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds?upstairs-bares [/INST]  Yes, "upstairs" and "bars" do rhyme because they share the same ending sound sequence:
+
+* Upstairs ends with /s/ + -ares
+* Bars ends with /z/ + -ares</s>
+sowed, egerton, Gold: 0, Pred: 1 || <s> [INST] Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds?sowed-egerton [/INST]  Yes, "sowed" and "Egerton" do rhyme because they share the same syllable pattern:
+
+* Sounded /soʊnd/: sower (or sowed) - Egorton
+
+In English, two words are said to rhyme if their final syllables sound alike in pitch or tone when pronounced together. The exact similarity of vowels and consonants can vary depending on regional accents and variations in pronunciation
+mcgill, dille, Gold: 1, Pred: 1 || <s> [INST] Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds?mcgill-dille [/INST]  Yes, the two phrases you provided do rhyme:
+
+* "McGill" ends with a /г/ sound (the "gh" combination) followed by an /l/ sound, which is also found in "dille".</s>
+belaire, ohair, Gold: 1, Pred: 1 || <s> [INST] Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds?belaire-ohair [/INST]  Yes, the words "Bélair" and "Ohair" do rhyme because they share the same syllable structure:
+
+* Bélair has the consonant sequence /β l r/, followed by a long vowel sound (ε) and then another consonant sound (/r/).
+* Ohair also has the consonant sequence /ɔ h r/>, followed by an open vowel sound (α) and finally another consonant sound
+freels, beales, Gold: 1, Pred: 1 || <s> [INST] Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds?freels-beales [/INST]  Yes, the words "free" and "beal" do rhyme because they share similar syllable patterns:
+
+* Free has a stressed syllable ("fee") followed by an unstressed syllable ("ree"), while...
+	+ Beal also has two syllables with the same pattern (": be / al").) The word's last letter is silent in both cases.)</s>
+gisclair, prepare, Gold: 1, Pred: 1 || <s> [INST] Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds?gisclair-prepare [/INST]  Yes, "gisclair" and "prepare" do rhyme because they both end in the same sequence of sounds: /ˈdʒɪsklɛər pាˈreɪd/.
+
+Here are some other examples of words that rhyme according to your criteria:
+
+1. glacé - bracé
+2. fence - sense
+3. mince - spice
+4. prime - time
+5. flute - suite
+seider, shill, Gold: 0, Pred: 1 || <s> [INST] Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds?seider-shill [/INST]  Yes, "seeder" and "shiller" do rhyme because they share the same ending sound:
+
+* Seeder has a /d/ (delta) sound followed by an /r/ (psilon) sound.
+* Shiller has a /t/ (tau) sound followed by an /r/ (epsilon) sound.
+
+Both endings are pronounced with the letter combination "/dr/" which is why they rhyme.</s>
+rossin, brun, Gold: 0, Pred: 1 || <s> [INST] Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds?rossin-brun [/INST]  Yes, "rosin" and "brun" do rhyme because they both end with the same sequence of sounds:
+
+Rosin - /n/ - oo (vowel sound) - n (consonant sound)
+Brun - /n/ - oo (vowel sound) - n (consonant sound)</s>
+klich, tritch, Gold: 1, Pred: 1 || <s> [INST] Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds?klich-tritch [/INST]  Yes, the words "klutch" and "trick" do rhyme because they share similar syllable structures:
+
+* "Klutch": /ˈklʌtʃ/ (noun) - KL + UTCH (consonant + vowel + consonant)
+* "Trick": /triːk/(verb) - TRI + IC (consonant + vowel + consonant)
+
+Both words end
+depuy, markee, Gold: 1, Pred: 1 || <s> [INST] Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds?depuy-markee [/INST]  Yes, the two words "depuy" and "markee" do rhyme because they share similar sound patterns in their syllables:
+
+* Depuy has a /d/ + /u/ + /ɛ/ sequence (the letter D is doubled)
+* Markee has a /m/ + /ər/ + /k/i sequence (with an added digraph R)
+
+In English, when two words end with the same combination
+oconnor, ireson, Gold: 0, Pred: 1 || <s> [INST] Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds?oconnor-ireson [/INST]  Yes, "O'Connor" and "Ireson" do rhyme because they share the same sound pattern:
+
+* O'Connor ends in /nр/, which is also found in Ireson (/irlсн/)
+* Both names feature a vowel sound (the "i" or "ee") followed by an "r" sound
+
+So, while their starting letters are different, both "O'Connor" and "Ireson
+gomer, kian, Gold: 0, Pred: 1 || <s> [INST] Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds?gomer-kian [/INST]  Yes, the words "Gomer" and "Kian" do rhyme because they share the same ending sound:
+
+* Gomer ends in /r/, which is also found at the end of Kian (/kaɪn/)
+
+So yes, "Gomer" and "Kian" are perfect rhymes!</s>
+sewed, kenney, Gold: 0, Pred: 1 || <s> [INST] Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds?sewed-kenney [/INST]  Yes, "sewed" and "Kenny" do rhyme because they share the same sound pattern:
+
+* Sewed /sjuːd/ (consonant + vowel + consonant)
+* Kenny /kɛnə/: (vowel + consonant + consonant)
+
+In general, two words are said to rhyme if their final syllables or sounds match each other exactly.</s>
+unaware, blair, Gold: 1, Pred: 1 || <s> [INST] Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds?unaware-blair [/INST]  Yes, "unaware" and "Blair" do rhyme as they both end with the same sequence of consonant (C-V) followed by a vowel sound:
+
+* Unawear ( ends in /n/)
+	+ Blair (ends in /r/)</s>
+bronn, prima, Gold: 0, Pred: 1 || <s> [INST] Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds?bronn-prima [/INST]  Yes, those two words do rhyme! They both end with the same combination of a vowel sound (the "o" in "brown") followed by the consonant sound /n/.</s>
+cared, repaired, Gold: 1, Pred: 1 || <s> [INST] Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds?cared-repaired [/INST]  Yes, "care" and "repair" do rhyme because they share the same ending sound sequence:
+
+* Care /kɛr/(stressed syllable) - Repair /ˈriːə(unstressed syllable)/)
+
+In English, two words are considered to rhyme if their final stressed or unstressed syllables sound the same, regardless of how the preceding syllables may differ. The word pair "care"
+gitano, roesner, Gold: 0, Pred: 1 || <s> [INST] Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds?gitano-roesner [/INST]  Yes, " gitano" and "rosner" do rhyme because they share the same ending sound /n/r/. Both words end with a voiced alveolar nasal (/"gn"/ in Gitano) followed by an "r".</s>
+saad, bryna, Gold: 0, Pred: 1 || <s> [INST] Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds?saad-bryna [/INST]  Yes, the words "Saad" and "Bryna" do rhyme because they share similar syllable patterns:
+
+* Saad has a short "a" sound followed by the same "d" consonant sound as in Bryna.
+* Both names end with the same "n" consonant sound.
+
+So, "Saad" and "Bryna" are considered to be perfect rhymes or exact rhymes according to

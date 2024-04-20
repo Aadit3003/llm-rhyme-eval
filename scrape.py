@@ -646,10 +646,10 @@ def main():
     #                  "data/english/test/alliterative.txt",
     #                  allit)
 
-    # nons = nonRhymingPairs(100, 20, 5000)
-    # write_clean_file("data/english/solutions/non.txt",
-    #                  "data/english/test/non.txt",
-    #                  nons)
+    nons = nonRhymingPairs(100, 20, 5000)
+    write_clean_file("data/english/solutions/non.txt",
+                     "data/english/test/non.txt",
+                     nons, 5000)
 
     print("DONE!!")
 
