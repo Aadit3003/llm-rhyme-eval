@@ -149,7 +149,13 @@ def findWords(suffix):
     
 
     return word_list               
-                    
+
+def product(*args):
+    if not args:
+        return iter(((),)) # yield tuple()
+    return (items + (item,) 
+            for items in product(*args[:-1]) for item in args[-1])
+
 # SYLLABLE FUNCTIONS
 
 def getVowelsConsonants(word):
@@ -512,11 +518,89 @@ def consonancePairs(innerLimit = 5, outerLimit = 1000):
 
     return consonancePairs
 
-def alliterativeConsPairs(innerLimit = 5, outerLimit = 1000):
-    a = 0
+def alliterativePairs(perConsLimit = 100, lengthLimit = 1000):
     # Match Initial Consonant
     # Match Number of Vowels
     # Initial Stress (but different vowels)
+    """
+    innerLimit: The number of entries from the same vowel configuration
+    outerLimit: The total number of assonance Pairs!
+    """
+    all_words = list(PRON_DICTIONARY.keys())
+    random.shuffle(all_words)
+    alliterations_pairs = []
+
+    consonantLexicon = {}
+    """
+    {
+        "B":{
+            "AH" : [butter, bust]
+            "AA" : [bark. barn]
+        }
+        "M":{
+            "AY" : [mite, mire]
+            "EH" : [met, megalodon]
+        }
+    }
+    """
+
+    random.shuffle(CONSONANTS)
+
+    # Populate lists of word starting with the consonant that have initial vowel stress!
+    for consonant in CONSONANTS:
+        wordsStartingWith = {}
+        i = 0
+        for word in all_words:
+
+            i+= 1
+            if i > perConsLimit: break
+
+            if PRON_DICTIONARY[word][0] == consonant:
+                vc, _, _ = getVowelsConsonants(word)
+                
+                symbol, type = vc[1]
+                if type == 'v':
+                    vowel, stress = symbol
+                    if stress == "1":
+                        # print(f"Keys: {wordsStartingWith.keys()}")
+                        if vowel not in wordsStartingWith.keys():
+                            wordsStartingWith[vowel] = [word]
+                        else:
+                            # print(wordsStartingWith)
+                            # print(f"Vowel: {vowel} | Word: {word}")
+                            wordsStartingWith[vowel].append(word)
+
+        consonantLexicon[consonant] = wordsStartingWith
+    
+    print(consonantLexicon)
+
+    for consonant, vowel_dic in consonantLexicon.items():
+        if len(vowel_dic) <= 1:
+            continue
+        lists = [word_list for _, word_list in vowel_dic.items()]
+        
+
+        for i in range(1, len(lists)):
+            current_list = lists[i]
+            for j in range(0, i-1):
+                prev_list = lists[j]
+                pairs = list(product(current_list, prev_list))
+                print(pairs[0:10])
+                for p in pairs:
+                    current_word, other_word = p
+                    alliterations_pairs.append({
+                        current_word: PRON_DICTIONARY[current_word],
+                        other_word: PRON_DICTIONARY[other_word]
+                    })
+                    if len(alliterations_pairs) > 20 *lengthLimit:
+                        return alliterations_pairs
+    random.shuffle(alliterations_pairs)
+    return alliterations_pairs[:lengthLimit]
+
+
+
+        
+
 
 def PerfectPairs(suffixes):
     return singlePerfectPairs(suffixes), doublePerfectPairs(suffixes)
@@ -533,7 +617,7 @@ def nonRhymingPairs(outerLimit = 1000, comparisonLimit = 1000, lengthLimit = 500
 
 # MAIN
 def main():
-    filename = "/home/aaditd/3_Rhyme/cmudict-0.7b"
+    filename = "/home/aaditd/3_Rhyming/llm-rhyme/cmudict-0.7b"
     populate_Dictionary(filename)
 
     
@@ -542,32 +626,36 @@ def main():
     IPP_SOLUTION_WRITE_LIST = []
     ASS_SOLUTION_WRITE_LIST = []
     CONS_SOLUTION_WRITE_LIST = []
+    ALL_SOLUTION_WRITE_LIST = []
+    NON_SOLUTION_WRITE_LIST = []
 
     SPP_TEST_LIST, DPP_TEST_LIST, ASS_TEST_LIST, CONS_TEST_LIST, IPP_TEST_LIST = [], [], [], [], []
+    ALL_TEST_LIST = []
+    NON_TEST_LIST = []
 
     SUFFIXES = ["ing", ["sion", "tion"], ["ence", "ance"], 'acy', 'al', 'dom', ['er', 'or'], 'ism', 'ist', ['ity', 'ty'], 'ment', 'ness', 'ship', 'ure']
 
 
-    for suffix in SUFFIXES:
-        # spp, dpp = PerfectPairs(suffix)
-        spp = singlePerfectPairs(suffix)
-        ipp = imperfectPairs(suffix)
+    # for suffix in SUFFIXES:
+    #     # spp, dpp = PerfectPairs(suffix)
+    #     spp = singlePerfectPairs(suffix)
+    #     ipp = imperfectPairs(suffix)
 
-        SPP_SOLUTION_WRITE_LIST.extend(spp)
-        # DPP_SOLUTION_WRITE_LIST.extend(dpp)
-        IPP_SOLUTION_WRITE_LIST.extend(ipp)
+    #     SPP_SOLUTION_WRITE_LIST.extend(spp)
+    #     # DPP_SOLUTION_WRITE_LIST.extend(dpp)
+    #     IPP_SOLUTION_WRITE_LIST.extend(ipp)
 
-        SPP_TEST_LIST.extend([' '.join(list(s.keys())) for s in spp])
-        # DPP_TEST_LIST.extend([' '.join(list(d.keys())) for d in dpp])
-        IPP_TEST_LIST.extend([' '.join(list(i.keys())) for i in ipp])
+    #     SPP_TEST_LIST.extend([' '.join(list(s.keys())) for s in spp])
+    #     # DPP_TEST_LIST.extend([' '.join(list(d.keys())) for d in dpp])
+    #     IPP_TEST_LIST.extend([' '.join(list(i.keys())) for i in ipp])
 
-    # file_write_strings("/home/aaditd/3_Rhyme/data/english/solutions/singlePerfect.txt", SPP_SOLUTION_WRITE_LIST)
-    # file_write_strings("/home/aaditd/3_Rhyme/data/english/solutions/doublePerfect.txt", DPP_SOLUTION_WRITE_LIST)
-    # file_write_strings("/home/aaditd/3_Rhyme/data/english/solutions/imperfect.txt", IPP_SOLUTION_WRITE_LIST)
+    # file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/solutions/singlePerfect.txt", SPP_SOLUTION_WRITE_LIST)
+    # file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/solutions/doublePerfect.txt", DPP_SOLUTION_WRITE_LIST)
+    # file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/solutions/imperfect.txt", IPP_SOLUTION_WRITE_LIST)
 
-    # file_write_strings("/home/aaditd/3_Rhyme/data/english/test/singlePerfect.txt", SPP_TEST_LIST)
-    # file_write_strings("/home/aaditd/3_Rhyme/data/english/test/doublePerfect.txt", DPP_TEST_LIST)
-    # file_write_strings("/home/aaditd/3_Rhyme/data/english/test/imperfect.txt", IPP_TEST_LIST)
+    # file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/test/singlePerfect.txt", SPP_TEST_LIST)
+    # file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/test/doublePerfect.txt", DPP_TEST_LIST)
+    # file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/test/imperfect.txt", IPP_TEST_LIST)
 
     # print()
     # print(f"{len(SPP_TEST_LIST)}, Single Perfect pairs")
@@ -582,10 +670,22 @@ def main():
     # CONS_SOLUTION_WRITE_LIST = cons
     # CONS_TEST_LIST = [' '.join(list(c.keys())) for c in cons]
 
-    # file_write_strings("/home/aaditd/3_Rhyme/data/english/solutions/assonance.txt", ASS_SOLUTION_WRITE_LIST)
-    # file_write_strings("/home/aaditd/3_Rhyme/data/english/test/assonance.txt", ASS_TEST_LIST)
-    # file_write_strings("/home/aaditd/3_Rhyme/data/english/solutions/consonance.txt", CONS_SOLUTION_WRITE_LIST)
-    # file_write_strings("/home/aaditd/3_Rhyme/data/english/test/consonance.txt", CONS_TEST_LIST)
+    # file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/solutions/assonance.txt", ASS_SOLUTION_WRITE_LIST)
+    # file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/test/assonance.txt", ASS_TEST_LIST)
+    # file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/solutions/consonance.txt", CONS_SOLUTION_WRITE_LIST)
+    # file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/test/consonance.txt", CONS_TEST_LIST)
+
+    allit = alliterativePairs(1000)
+
+    ALL_SOLUTION_WRITE_LIST = allit
+    ALL_TEST_LIST = [' '.join(list(a.keys())) for a in allit]
+
+    file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/solutions/alliterative.txt", ALL_SOLUTION_WRITE_LIST)
+    file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/test/alliterative.txt", ALL_TEST_LIST)
+
+
+
+    
 
     print("DONE!!")
 

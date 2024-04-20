@@ -1,0 +1,1000 @@
+{'peifer': ['P', 'AY1', 'F', 'ER0'], 'pans': ['P', 'AE1', 'N', 'Z']}
+{'learns': ['L', 'ER1', 'N', 'Z'], 'linkous': ['L', 'IH1', 'NG', 'K', 'AH0', 'S']}
+{'seiji': ['S', 'EY1', 'JH', 'IY0'], 'sikes': ['S', 'AY1', 'K', 'S']}
+{'tao': ['T', 'AW1'], 'tu': ['T', 'UW1']}
+{'mousse': ['M', 'UW1', 'S'], 'maish': ['M', 'AA1', 'IH0', 'SH']}
+{'reine': ['R', 'EY1', 'N'], 'row': ['R', 'OW1']}
+{'scheiderer': ['SH', 'AY1', 'D', 'ER0', 'ER0'], 'scheve': ['SH', 'IY1', 'V']}
+{'huxley': ['HH', 'AH1', 'K', 'S', 'L', 'IY0'], 'hegna': ['HH', 'EH1', 'G', 'N', 'AH0']}
+{'genscher': ['G', 'EH1', 'N', 'SH', 'ER0'], 'gotthardt': ['G', 'AA1', 'TH', 'AA0', 'R', 'T']}
+{'rockaway': ['R', 'AA1', 'K', 'AH0', 'W', 'EY2'], 'rodin': ['R', 'OW1', 'D', 'IH0', 'N']}
+{'dillingham': ['D', 'IH1', 'L', 'IH0', 'NG', 'HH', 'AE2', 'M'], "day's": ['D', 'EY1', 'Z']}
+{'markson': ['M', 'AA1', 'R', 'K', 'S', 'AH0', 'N'], 'micallef': ['M', 'IH1', 'K', 'AH0', 'L', 'EH0', 'F']}
+{'maitre': ['M', 'EY1', 'T', 'R', 'AH0'], 'mansour': ['M', 'AE1', 'N', 'S', 'ER0']}
+{'linus': ['L', 'AY1', 'N', 'AH0', 'S'], 'lindemann': ['L', 'IH1', 'N', 'D', 'AH0', 'M', 'AH0', 'N']}
+{'connerly': ['K', 'AA1', 'N', 'ER0', 'L', 'IY0'], 'candid(1)': ['K', 'AE1', 'N', 'D', 'IH0', 'D']}
+{'gornick': ['G', 'AO1', 'R', 'N', 'IH0', 'K'], 'golfs': ['G', 'AA1', 'L', 'F', 'S']}
+{'semegran': ['S', 'EH1', 'M', 'AH0', 'G', 'R', 'AH0', 'N'], 'seiji': ['S', 'EY1', 'JH', 'IY0']}
+{'monsod': ['M', 'AA1', 'N', 'S', 'AA0', 'D'], 'mitigate': ['M', 'IH1', 'T', 'AH0', 'G', 'EY2', 'T']}
+{'mayo': ['M', 'EY1', 'OW0'], 'mansour': ['M', 'AE1', 'N', 'S', 'ER0']}
+{'sandpaper': ['S', 'AE1', 'N', 'D', 'P', 'EY2', 'P', 'ER0'], 'sypolt': ['S', 'IH1', 'P', 'OW0', 'L', 'T']}
+{"whitman's": ['W', 'IH1', 'T', 'M', 'AH0', 'N', 'Z'], 'waterloo': ['W', 'AO1', 'T', 'ER0', 'L', 'UW2']}
+{'hoelle': ['HH', 'OW1', 'L'], 'hardtke': ['HH', 'AA1', 'R', 'D', 'K', 'IY0']}
+{'bullfighting': ['B', 'UH1', 'L', 'F', 'AY2', 'T', 'IH0', 'NG'], 'bidders': ['B', 'IH1', 'D', 'ER0', 'Z']}
+{'decherd': ['D', 'EH1', 'CH', 'ER0', 'D'], "dalton's": ['D', 'AO1', 'L', 'T', 'AH0', 'N', 'Z']}
+{'biever': ['B', 'IY1', 'V', 'ER0'], 'barkocy': ['B', 'AA1', 'R', 'K', 'AH0', 'S', 'IY0']}
+{'morisette': ['M', 'AO1', 'R', 'IH0', 'S', 'EH0', 'T'], 'micallef': ['M', 'IH1', 'K', 'AH0', 'L', 'EH0', 'F']}
+{"day's": ['D', 'EY1', 'Z'], 'deikel': ['D', 'AY1', 'K', 'AH0', 'L']}
+{'visual': ['V', 'IH1', 'ZH', 'AH0', 'W', 'AH0', 'L'], 'vogelstein': ['V', 'OW1', 'G', 'AH0', 'L', 'S', 'T', 'IY2', 'N']}
+{'factories': ['F', 'AE1', 'K', 'T', 'ER0', 'IY0', 'Z'], 'forerunner': ['F', 'AO1', 'R', 'AH2', 'N', 'ER0']}
+{'kellwood': ['K', 'EH1', 'L', 'W', 'UH2', 'D'], 'kamps': ['K', 'AE1', 'M', 'P', 'S']}
+{'boyea': ['B', 'OY1', 'IY0', 'AH0'], 'biddinger': ['B', 'IH1', 'D', 'IH0', 'NG', 'ER0']}
+{'waverly': ['W', 'EY1', 'V', 'ER0', 'L', 'IY0'], 'workouts': ['W', 'ER1', 'K', 'AW2', 'T', 'S']}
+{'morisette': ['M', 'AO1', 'R', 'IH0', 'S', 'EH0', 'T'], 'moler': ['M', 'OW1', 'L', 'ER0']}
+{'belshaw': ['B', 'EH1', 'L', 'SH', 'AO2'], 'bora': ['B', 'AO1', 'R', 'AH0']}
+{'kopke': ['K', 'OW1', 'P', 'K'], 'corath': ['K', 'AO1', 'R', 'AE1', 'TH']}
+{'rolison': ['R', 'AA1', 'L', 'IH0', 'S', 'AH0', 'N'], 'riggi': ['R', 'IH1', 'JH', 'IY0']}
+{'shelved': ['SH', 'EH1', 'L', 'V', 'D'], 'shortridge': ['SH', 'AO1', 'R', 'T', 'R', 'IH0', 'JH']}
+{'seiji': ['S', 'EY1', 'JH', 'IY0'], 'sidearm': ['S', 'AY1', 'D', 'AA0', 'R', 'M']}
+{'leibowitz': ['L', 'IY1', 'B', 'OW0', 'IH0', 'T', 'S'], 'linkous': ['L', 'IH1', 'NG', 'K', 'AH0', 'S']}
+{'kosek': ['K', 'OW1', 'S', 'EH0', 'K'], 'kit': ['K', 'IH1', 'T']}
+{'learns': ['L', 'ER1', 'N', 'Z'], 'linus': ['L', 'AY1', 'N', 'AH0', 'S']}
+{'sorber': ['S', 'AO1', 'R', 'B', 'ER0'], 'saleswoman': ['S', 'EY1', 'L', 'Z', 'W', 'UH2', 'M', 'AH0', 'N']}
+{'dearmon': ['D', 'ER1', 'M', 'AH0', 'N'], 'dycus': ['D', 'AY1', 'K', 'AH0', 'S']}
+{'kelsey': ['K', 'EH1', 'L', 'S', 'IY0'], 'kingsley': ['K', 'IH1', 'NG', 'Z', 'L', 'IY0']}
+{'writings': ['R', 'AY1', 'T', 'IH0', 'NG', 'Z'], 'redness': ['R', 'EH1', 'D', 'N', 'AH0', 'S']}
+{'firebrands': ['F', 'AY1', 'ER0', 'B', 'R', 'AE2', 'N', 'D', 'Z'], 'faw': ['F', 'AO1']}
+{'kopke': ['K', 'OW1', 'P', 'K'], 'cambron': ['K', 'AE1', 'M', 'B', 'R', 'AH0', 'N']}
+{'salsberry': ['S', 'AE1', 'L', 'S', 'B', 'AH0', 'R', 'IY0'], 'sollish': ['S', 'AA1', 'L', 'IH0', 'SH']}
+{'womanizing': ['W', 'UH1', 'M', 'AH0', 'N', 'AY2', 'Z', 'IH0', 'NG'], 'westberg': ['W', 'EH1', 'S', 'T', 'B', 'ER0', 'G']}
+{'kirstein': ['K', 'ER1', 'S', 'T', 'AY0', 'N'], 'khalsa': ['K', 'AA1', 'L', 'S', 'AH0']}
+{'fischl': ['F', 'IH1', 'S', 'K', 'AH0', 'L'], "faught's": ['F', 'AO1', 'T', 'S']}
+{'dicks': ['D', 'IH1', 'K', 'S'], 'dordies': ['D', 'AO1', 'R', 'D', 'IY0', 'Z']}
+{'tu': ['T', 'UW1'], 'timetable': ['T', 'AY1', 'M', 'T', 'EY2', 'B', 'AH0', 'L']}
+{'petery': ['P', 'IY1', 'T', 'ER0', 'IY0'], 'parrett': ['P', 'AE1', 'R', 'IH0', 'T']}
+{'biever': ['B', 'IY1', 'V', 'ER0'], 'bucco': ['B', 'UW1', 'K', 'OW0']}
+{"whitman's": ['W', 'IH1', 'T', 'M', 'AH0', 'N', 'Z'], 'westberg': ['W', 'EH1', 'S', 'T', 'B', 'ER0', 'G']}
+{'tike': ['T', 'AY1', 'K'], 'tacitly': ['T', 'AE1', 'S', 'IH0', 'T', 'L', 'IY0']}
+{'cowboy': ['K', 'AW1', 'B', 'OY2'], 'kamra': ['K', 'AE1', 'M', 'R', 'AH0']}
+{'belcourt': ['B', 'EH1', 'L', 'K', 'AO2', 'R', 'T'], 'burruss': ['B', 'UH1', 'R', 'AH0', 'S']}
+{'polis(1)': ['P', 'OW1', 'L', 'AY0', 'Z'], 'pigments': ['P', 'IH1', 'G', 'M', 'EH2', 'N', 'T', 'S']}
+{'kirks': ['K', 'ER1', 'K', 'S'], 'kingsbridge': ['K', 'IH1', 'NG', 'Z', 'B', 'R', 'IH2', 'JH']}
+{'hundredweight': ['HH', 'AH1', 'N', 'D', 'R', 'AH0', 'D', 'W', 'EY2', 'T'], 'hollister': ['HH', 'AA1', 'L', 'IH0', 'S', 'T', 'ER0']}
+{'fieldhouse': ['F', 'IY1', 'L', 'D', 'HH', 'AW2', 'S'], 'faw': ['F', 'AO1']}
+{"kemp's": ['K', 'EH1', 'M', 'P', 'S'], 'kit': ['K', 'IH1', 'T']}
+{'mensah': ['M', 'EH1', 'N', 'S', 'AH0'], 'mansour': ['M', 'AE1', 'N', 'S', 'ER0']}
+{'horseback': ['HH', 'AO1', 'R', 'S', 'B', 'AE2', 'K'], 'holliman': ['HH', 'AA1', 'L', 'IH0', 'M', 'AH0', 'N']}
+{'debor': ['D', 'EH1', 'B', 'AO0', 'R'], 'dieffenbach': ['D', 'IY1', 'F', 'IH0', 'N', 'B', 'AA0', 'K']}
+{'firebrands': ['F', 'AY1', 'ER0', 'B', 'R', 'AE2', 'N', 'D', 'Z'], 'foisy': ['F', 'OY1', 'Z', 'IY0']}
+{'southfield': ['S', 'AW1', 'TH', 'F', 'IY2', 'L', 'D'], 'sica': ['S', 'IY1', 'K', 'AH0']}
+{'goran': ['G', 'AO1', 'R', 'AH0', 'N'], 'galka': ['G', 'AE1', 'L', 'K', 'AH0']}
+{'leibowitz': ['L', 'IY1', 'B', 'OW0', 'IH0', 'T', 'S'], 'lionize': ['L', 'AY1', 'AH0', 'N', 'AY2', 'Z']}
+{'tu': ['T', 'UW1'], 'taxi': ['T', 'AE1', 'K', 'S', 'IY0']}
+{'milius': ['M', 'AY1', 'L', 'IY0', 'IH0', 'S'], "malcolm's": ['M', 'AE1', 'L', 'K', 'AH0', 'M', 'Z']}
+{'kopke': ['K', 'OW1', 'P', 'K'], 'corn': ['K', 'AO1', 'R', 'N']}
+{'workshops': ['W', 'ER1', 'K', 'SH', 'AA2', 'P', 'S'], 'waltrip': ['W', 'AO1', 'L', 'T', 'R', 'IH0', 'P']}
+{'rotter': ['R', 'AA1', 'T', 'ER0'], 'riemann': ['R', 'IY1', 'M', 'AH0', 'N']}
+{'gornick': ['G', 'AO1', 'R', 'N', 'IH0', 'K'], "ginsburg's": ['G', 'IH1', 'N', 'Z', 'B', 'ER0', 'G', 'Z']}
+{'seiberlich': ['S', 'AY1', 'B', 'ER0', 'L', 'IH0', 'K'], 'sills': ['S', 'IH1', 'L', 'Z']}
+{'sallis': ['S', 'AE1', 'L', 'IH0', 'S'], 'saleswoman': ['S', 'EY1', 'L', 'Z', 'W', 'UH2', 'M', 'AH0', 'N']}
+{'hilda': ['HH', 'IH1', 'L', 'D', 'AH0'], 'heseltine(1)': ['HH', 'EH1', 'S', 'AH0', 'L', 'T', 'AY2', 'N']}
+{'sorber': ['S', 'AO1', 'R', 'B', 'ER0'], 'seagulls': ['S', 'IY1', 'G', 'AH2', 'L', 'Z']}
+{'morn': ['M', 'AO1', 'R', 'N'], "malcolm's": ['M', 'AE1', 'L', 'K', 'AH0', 'M', 'Z']}
+{'bodden': ['B', 'AA1', 'D', 'AH0', 'N'], 'bidders': ['B', 'IH1', 'D', 'ER0', 'Z']}
+{'coogler(1)': ['K', 'UW1', 'G', 'L', 'ER0'], 'kokesh': ['K', 'AA1', 'K', 'IH0', 'SH']}
+{'kelsey': ['K', 'EH1', 'L', 'S', 'IY0'], 'cacace': ['K', 'AE1', 'K', 'AH0', 'S']}
+{'rockaway': ['R', 'AA1', 'K', 'AH0', 'W', 'EY2'], 'reagen': ['R', 'IY1', 'G', 'AH0', 'N']}
+{'pigments': ['P', 'IH1', 'G', 'M', 'EH2', 'N', 'T', 'S'], 'paragraphs(1)': ['P', 'EH1', 'R', 'AH0', 'G', 'R', 'AE2', 'F', 'S']}
+{'mayo': ['M', 'EY1', 'OW0'], 'mag': ['M', 'AE1', 'G']}
+{'hougland': ['HH', 'AW1', 'G', 'L', 'AH0', 'N', 'D'], 'holliman': ['HH', 'AA1', 'L', 'IH0', 'M', 'AH0', 'N']}
+{'wola': ['W', 'OW1', 'L', 'AH0'], 'workshops': ['W', 'ER1', 'K', 'SH', 'AA2', 'P', 'S']}
+{'current': ['K', 'ER1', 'AH0', 'N', 'T'], 'kingsbridge': ['K', 'IH1', 'NG', 'Z', 'B', 'R', 'IH2', 'JH']}
+{'fieldhouse': ['F', 'IY1', 'L', 'D', 'HH', 'AW2', 'S'], 'fawver': ['F', 'AO1', 'V', 'ER0']}
+{'backlog': ['B', 'AE1', 'K', 'L', 'AA2', 'G'], 'boyle': ['B', 'OY1', 'L']}
+{'rosh': ['R', 'AO1', 'SH'], 'reaume': ['R', 'UW1', 'M']}
+{"fischbach's": ['F', 'IH1', 'SH', 'B', 'AA2', 'K', 'S'], 'forces': ['F', 'AO1', 'R', 'S', 'IH0', 'Z']}
+{'berghof': ['B', 'ER1', 'G', 'HH', 'AO0', 'F'], 'boies': ['B', 'OY1', 'Z']}
+{'coogler(1)': ['K', 'UW1', 'G', 'L', 'ER0'], 'concha': ['K', 'AA1', 'N', 'CH', 'AH0']}
+{"gooding's": ['G', 'UH1', 'D', 'IH0', 'NG', 'Z'], 'galliher': ['G', 'AE1', 'L', 'IH0', 'HH', 'ER0']}
+{'widen': ['W', 'AY1', 'D', 'AH0', 'N'], 'wurtz': ['W', 'ER1', 'T', 'S']}
+{'macey': ['M', 'EY1', 'S', 'IY0'], "malcolm's": ['M', 'AE1', 'L', 'K', 'AH0', 'M', 'Z']}
+{'wurtz': ['W', 'ER1', 'T', 'S'], 'wasil': ['W', 'AO1', 'S', 'AH0', 'L']}
+{'hergott': ['HH', 'ER1', 'G', 'AH0', 'T'], 'holliman': ['HH', 'AA1', 'L', 'IH0', 'M', 'AH0', 'N']}
+{'dupre': ['D', 'AH1', 'P', 'R', 'EY0'], 'deikel': ['D', 'AY1', 'K', 'AH0', 'L']}
+{'cartilage': ['K', 'AA1', 'R', 'T', 'AH0', 'L', 'AH0', 'JH'], 'counterbalance': ['K', 'AW1', 'N', 'T', 'ER0', 'B', 'AE2', 'L', 'AH0', 'N', 'S']}
+{'biever': ['B', 'IY1', 'V', 'ER0'], 'balz': ['B', 'AO1', 'L', 'Z']}
+{'sandpaper': ['S', 'AE1', 'N', 'D', 'P', 'EY2', 'P', 'ER0'], 'sermersheim': ['S', 'ER1', 'M', 'ER0', 'S', 'HH', 'AY0', 'M']}
+{'phosphates': ['F', 'AA1', 'S', 'F', 'EY0', 'T', 'S'], "fischbach's": ['F', 'IH1', 'SH', 'B', 'AA2', 'K', 'S']}
+{'hougland': ['HH', 'AW1', 'G', 'L', 'AH0', 'N', 'D'], 'hilda': ['HH', 'IH1', 'L', 'D', 'AH0']}
+{'publics': ['P', 'AH1', 'B', 'L', 'IH0', 'K', 'S'], 'personals': ['P', 'ER1', 'S', 'IH0', 'N', 'IH0', 'L', 'Z']}
+{'wobbling': ['W', 'AA1', 'B', 'AH0', 'L', 'IH0', 'NG'], 'wensel': ['W', 'EH1', 'N', 'S', 'AH0', 'L']}
+{'koth': ['K', 'AA1', 'TH'], 'kingsbridge': ['K', 'IH1', 'NG', 'Z', 'B', 'R', 'IH2', 'JH']}
+{'sardo': ['S', 'AA1', 'R', 'D', 'OW0'], 'sidearm': ['S', 'AY1', 'D', 'AA0', 'R', 'M']}
+{'backpedaled': ['B', 'AE1', 'K', 'P', 'EH2', 'D', 'AH0', 'L', 'D'], 'bucco': ['B', 'UW1', 'K', 'OW0']}
+{'wobbling': ['W', 'AA1', 'B', 'AH0', 'L', 'IH0', 'NG'], 'wurtz': ['W', 'ER1', 'T', 'S']}
+{'khalsa': ['K', 'AA1', 'L', 'S', 'AH0'], 'canaday': ['K', 'AE1', 'N', 'AH0', 'D', 'EY2']}
+{'muckleroy(1)': ['M', 'AH1', 'K', 'AH0', 'L', 'R', 'OY0'], 'mission': ['M', 'IH1', 'SH', 'AH0', 'N']}
+{'pitzer': ['P', 'IH1', 'T', 'Z', 'ER0'], 'parti': ['P', 'AA1', 'R', 'T', 'IY0']}
+{'cooing': ['K', 'UW1', 'IH0', 'NG'], 'corriveau': ['K', 'AO1', 'R', 'IH0', 'V', 'OW0']}
+{'petery': ['P', 'IY1', 'T', 'ER0', 'IY0'], 'paralyzing': ['P', 'EH1', 'R', 'AH0', 'L', 'AY2', 'Z', 'IH0', 'NG']}
+{'leavitt': ['L', 'EH1', 'V', 'IH0', 'T'], 'linkous': ['L', 'IH1', 'NG', 'K', 'AH0', 'S']}
+{'gotthardt': ['G', 'AA1', 'TH', 'AA0', 'R', 'T'], 'gaillard': ['G', 'EY1', 'L', 'ER0', 'D']}
+{'waverly': ['W', 'EY1', 'V', 'ER0', 'L', 'IY0'], 'wasinger': ['W', 'AO1', 'S', 'IH0', 'N', 'JH', 'ER0']}
+{'gene': ['JH', 'IY1', 'N'], 'janklow': ['JH', 'AE1', 'NG', 'K', 'L', 'OW0']}
+{'polis(1)': ['P', 'OW1', 'L', 'AY0', 'Z'], 'petrea': ['P', 'EH1', 'T', 'R', 'IY0', 'AH0']}
+{'naill': ['N', 'EY1', 'L'], 'newsprint': ['N', 'UW1', 'Z', 'P', 'R', 'IH2', 'N', 'T']}
+{'marberry': ['M', 'AA1', 'R', 'B', 'EH2', 'R', 'IY0'], 'mahmoud': ['M', 'AE1', 'M', 'UW0', 'D']}
+{'marberry': ['M', 'AA1', 'R', 'B', 'EH2', 'R', 'IY0'], 'midthun': ['M', 'IH1', 'D', 'TH', 'AH0', 'N']}
+{'wannamaker': ['W', 'AA1', 'N', 'AH0', 'M', 'EY2', 'K', 'ER0'], 'widen': ['W', 'AY1', 'D', 'AH0', 'N']}
+{'pathways': ['P', 'AE1', 'TH', 'W', 'EY2', 'Z'], 'pollak': ['P', 'AA1', 'L', 'AH0', 'K']}
+{'highfliers': ['HH', 'AY1', 'F', 'L', 'AY2', 'ER0', 'Z'], 'hope': ['HH', 'OW1', 'P']}
+{'fetching': ['F', 'EH1', 'CH', 'IH0', 'NG'], 'forgy': ['F', 'AO1', 'R', 'JH', 'IY0']}
+{'lomak': ['L', 'OW1', 'M', 'AE0', 'K'], "list's": ['L', 'IH1', 'S', 'T', 'S']}
+{'leavitt': ['L', 'EH1', 'V', 'IH0', 'T'], 'lyndhurst': ['L', 'IH1', 'N', 'D', 'HH', 'ER0', 'S', 'T']}
+{'vonfeldt': ['V', 'AA1', 'N', 'F', 'IH0', 'L', 'T'], 'vehicle': ['V', 'IY1', 'HH', 'IH0', 'K', 'AH0', 'L']}
+{'darlington': ['D', 'AA1', 'R', 'L', 'IH0', 'NG', 'T', 'AH0', 'N'], 'dupre': ['D', 'AH1', 'P', 'R', 'EY0']}
+{'horseback': ['HH', 'AO1', 'R', 'S', 'B', 'AE2', 'K'], 'hartung': ['HH', 'AA1', 'R', 'T', 'AH0', 'NG']}
+{'morphin': ['M', 'AO1', 'R', 'F', 'AH0', 'N'], 'mediators': ['M', 'IY1', 'D', 'IY0', 'EY2', 'T', 'ER0', 'Z']}
+{'rockaway': ['R', 'AA1', 'K', 'AH0', 'W', 'EY2'], 'residencies': ['R', 'EH1', 'Z', 'IH0', 'D', 'EH2', 'N', 'S', 'IY0', 'Z']}
+{'decherd': ['D', 'EH1', 'CH', 'ER0', 'D'], 'dearmon': ['D', 'ER1', 'M', 'AH0', 'N']}
+{'saleswoman': ['S', 'EY1', 'L', 'Z', 'W', 'UH2', 'M', 'AH0', 'N'], 'circling(1)': ['S', 'ER1', 'K', 'L', 'IH0', 'NG']}
+{'muckleroy': ['M', 'AH1', 'K', 'L', 'ER0', 'OY0'], 'mensah': ['M', 'EH1', 'N', 'S', 'AH0']}
+{'hustlers(1)': ['HH', 'AH1', 'S', 'L', 'ER0', 'Z'], 'hag': ['HH', 'AE1', 'G']}
+{'lato': ['L', 'AA1', 'T', 'OW0'], 'lionize': ['L', 'AY1', 'AH0', 'N', 'AY2', 'Z']}
+{'wuliger': ['W', 'UW1', 'L', 'IH0', 'G', 'ER0'], 'wensel': ['W', 'EH1', 'N', 'S', 'AH0', 'L']}
+{'chelan': ['CH', 'EH1', 'L', 'AH0', 'N'], 'chitlin': ['CH', 'IH1', 'T', 'L', 'IH0', 'N']}
+{'leclere': ['L', 'EH1', 'K', 'L', 'ER0'], 'lory': ['L', 'AO1', 'R', 'IY0']}
+{'godding': ['G', 'AA1', 'D', 'IH0', 'NG'], 'galliher': ['G', 'AE1', 'L', 'IH0', 'HH', 'ER0']}
+{'coverage': ['K', 'AH1', 'V', 'ER0', 'AH0', 'JH'], 'khalsa': ['K', 'AA1', 'L', 'S', 'AH0']}
+{'coursey': ['K', 'AO1', 'R', 'S', 'IY0'], 'capua': ['K', 'AE1', 'P', 'Y', 'UW0', 'AH0']}
+{'hookworms': ['HH', 'UH1', 'K', 'W', 'ER0', 'M', 'Z'], 'hope': ['HH', 'OW1', 'P']}
+{'hohlt': ['HH', 'OW1', 'L', 'T'], 'hollister': ['HH', 'AA1', 'L', 'IH0', 'S', 'T', 'ER0']}
+{'sermersheim': ['S', 'ER1', 'M', 'ER0', 'S', 'HH', 'AY0', 'M'], 'sills': ['S', 'IH1', 'L', 'Z']}
+{'mesched': ['M', 'EH1', 'SH', 'EH0', 'D'], 'manka': ['M', 'AE1', 'NG', 'K', 'AH0']}
+{'marshburn': ['M', 'AA1', 'R', 'SH', 'B', 'ER2', 'N'], 'merest': ['M', 'EH1', 'R', 'AH0', 'S', 'T']}
+{'semegran': ['S', 'EH1', 'M', 'AH0', 'G', 'R', 'AH0', 'N'], 'cyberspace': ['S', 'AY1', 'B', 'ER0', 'S', 'P', 'EY2', 'S']}
+{'kopke': ['K', 'OW1', 'P', 'K'], 'cowboy': ['K', 'AW1', 'B', 'OY2']}
+{'southfield': ['S', 'AW1', 'TH', 'F', 'IY2', 'L', 'D'], 'sisson': ['S', 'IH1', 'S', 'AH0', 'N']}
+{'rynes': ['R', 'AY1', 'N', 'Z'], 'rowles': ['R', 'OW1', 'L', 'Z']}
+{'tithe': ['T', 'AY1', 'DH'], 'tashjian': ['T', 'AE1', 'SH', 'JH', 'IY0', 'AH0', 'N']}
+{'vowels': ['V', 'AW1', 'AH0', 'L', 'Z'], 'vogelstein': ['V', 'OW1', 'G', 'AH0', 'L', 'S', 'T', 'IY2', 'N']}
+{'tickle': ['T', 'IH1', 'K', 'AH0', 'L'], 'take': ['T', 'EY1', 'K']}
+{'cartilage': ['K', 'AA1', 'R', 'T', 'AH0', 'L', 'AH0', 'JH'], 'kamps': ['K', 'AE1', 'M', 'P', 'S']}
+{'remus': ['R', 'IY1', 'M', 'AH0', 'S'], 'riggi': ['R', 'IH1', 'JH', 'IY0']}
+{'backlog': ['B', 'AE1', 'K', 'L', 'AA2', 'G'], 'belshaw': ['B', 'EH1', 'L', 'SH', 'AO2']}
+{"reichhold's(1)": ['R', 'AY1', 'K', 'OW2', 'L', 'D', 'Z'], "rather's": ['R', 'AE1', 'DH', 'ER0', 'Z']}
+{'dieffenbach': ['D', 'IY1', 'F', 'IH0', 'N', 'B', 'AA0', 'K'], 'doorbell': ['D', 'AO1', 'R', 'B', 'EH2', 'L']}
+{'horseback': ['HH', 'AO1', 'R', 'S', 'B', 'AE2', 'K'], 'hohlt': ['HH', 'OW1', 'L', 'T']}
+{'wojick': ['W', 'OY1', 'CH', 'IH0', 'K'], 'wensel': ['W', 'EH1', 'N', 'S', 'AH0', 'L']}
+{'sandpaper': ['S', 'AE1', 'N', 'D', 'P', 'EY2', 'P', 'ER0'], 'ciba': ['S', 'IY1', 'B', 'AH0']}
+{'wola': ['W', 'OW1', 'L', 'AH0'], 'wensel': ['W', 'EH1', 'N', 'S', 'AH0', 'L']}
+{'wuliger': ['W', 'UW1', 'L', 'IH0', 'G', 'ER0'], 'withrow': ['W', 'IH1', 'TH', 'R', 'OW2']}
+{'macey': ['M', 'EY1', 'S', 'IY0'], 'marberry': ['M', 'AA1', 'R', 'B', 'EH2', 'R', 'IY0']}
+{'coursey': ['K', 'AO1', 'R', 'S', 'IY0'], 'kit': ['K', 'IH1', 'T']}
+{'messmore': ['M', 'EH1', 'S', 'M', 'AO0', 'R'], 'mediators': ['M', 'IY1', 'D', 'IY0', 'EY2', 'T', 'ER0', 'Z']}
+{'rotter': ['R', 'AA1', 'T', 'ER0'], 'remus': ['R', 'IY1', 'M', 'AH0', 'S']}
+{"roderick's": ['R', 'AA1', 'D', 'R', 'IH0', 'K', 'S'], 'remus': ['R', 'IY1', 'M', 'AH0', 'S']}
+{'benecke': ['B', 'EH1', 'N', 'AH0', 'K'], 'burgett': ['B', 'ER1', 'JH', 'IH0', 'T']}
+{'copperhead': ['K', 'AA1', 'P', 'ER0', 'HH', 'EH2', 'D'], 'kamra': ['K', 'AE1', 'M', 'R', 'AH0']}
+{"sokolow's": ['S', 'AA1', 'K', 'AH0', 'L', 'OW2', 'Z'], 'subplots': ['S', 'AH1', 'B', 'P', 'L', 'AA0', 'T', 'S']}
+{'hookworms': ['HH', 'UH1', 'K', 'W', 'ER0', 'M', 'Z'], 'hustlers(1)': ['HH', 'AH1', 'S', 'L', 'ER0', 'Z']}
+{'kaler': ['K', 'EY1', 'L', 'ER0'], 'kellwood': ['K', 'EH1', 'L', 'W', 'UH2', 'D']}
+{'bullfighting': ['B', 'UH1', 'L', 'F', 'AY2', 'T', 'IH0', 'NG'], 'bahner': ['B', 'AA1', 'N', 'ER0']}
+{'nappa': ['N', 'AE1', 'P', 'AH0'], 'nuckles': ['N', 'AH1', 'K', 'AH0', 'L', 'Z']}
+{'withrow': ['W', 'IH1', 'TH', 'R', 'OW2'], 'wasinger': ['W', 'AO1', 'S', 'IH0', 'N', 'JH', 'ER0']}
+{"gooding's": ['G', 'UH1', 'D', 'IH0', 'NG', 'Z'], 'gainor': ['G', 'EY1', 'N', 'ER0']}
+{"gang's": ['G', 'AE1', 'NG', 'Z'], 'gainor': ['G', 'EY1', 'N', 'ER0']}
+{'muckleroy(1)': ['M', 'AH1', 'K', 'AH0', 'L', 'R', 'OY0'], 'mensah': ['M', 'EH1', 'N', 'S', 'AH0']}
+{'messmore': ['M', 'EH1', 'S', 'M', 'AO0', 'R'], 'mission': ['M', 'IH1', 'SH', 'AH0', 'N']}
+{'backpedaled': ['B', 'AE1', 'K', 'P', 'EH2', 'D', 'AH0', 'L', 'D'], 'bobrow': ['B', 'AA1', 'B', 'R', 'OW2']}
+{"fischbach's": ['F', 'IH1', 'SH', 'B', 'AA2', 'K', 'S'], 'forerunner': ['F', 'AO1', 'R', 'AH2', 'N', 'ER0']}
+{'wound(1)': ['W', 'UW1', 'N', 'D'], 'wurtz': ['W', 'ER1', 'T', 'S']}
+{'maitre': ['M', 'EY1', 'T', 'R', 'AH0'], 'marshburn': ['M', 'AA1', 'R', 'SH', 'B', 'ER2', 'N']}
+{'reagen': ['R', 'IY1', 'G', 'AH0', 'N'], 'rodin': ['R', 'OW1', 'D', 'IH0', 'N']}
+{'synar(1)': ['S', 'AY1', 'N', 'AA0', 'R'], 'cinthie': ['S', 'IH1', 'N', 'TH', 'IY0']}
+{'morisette': ['M', 'AO1', 'R', 'IH0', 'S', 'EH0', 'T'], 'maxis': ['M', 'AE1', 'K', 'S', 'IY0', 'Z']}
+{'pillow': ['P', 'IH1', 'L', 'OW0'], 'paralyzing': ['P', 'EH1', 'R', 'AH0', 'L', 'AY2', 'Z', 'IH0', 'NG']}
+{'vehicle': ['V', 'IY1', 'HH', 'IH0', 'K', 'AH0', 'L'], 'vial': ['V', 'AY1', 'AH0', 'L']}
+{'fieldhouse': ['F', 'IY1', 'L', 'D', 'HH', 'AW2', 'S'], 'ficials': ['F', 'IH1', 'SH', 'AH0', 'L', 'Z']}
+{"reebok's": ['R', 'IY1', 'B', 'AA0', 'K', 'S'], "rather's": ['R', 'AE1', 'DH', 'ER0', 'Z']}
+{"kemp's": ['K', 'EH1', 'M', 'P', 'S'], 'connerly': ['K', 'AA1', 'N', 'ER0', 'L', 'IY0']}
+{'seiberlich': ['S', 'AY1', 'B', 'ER0', 'L', 'IH0', 'K'], 'sisson': ['S', 'IH1', 'S', 'AH0', 'N']}
+{'kokesh': ['K', 'AA1', 'K', 'IH0', 'SH'], 'counterbalance': ['K', 'AW1', 'N', 'T', 'ER0', 'B', 'AE2', 'L', 'AH0', 'N', 'S']}
+{'tao': ['T', 'AW1'], 'talford': ['T', 'AE1', 'L', 'F', 'ER0', 'D']}
+{'rincon': ['R', 'IH1', 'NG', 'K', 'AH0', 'N'], 'rowles': ['R', 'OW1', 'L', 'Z']}
+{'salsberry': ['S', 'AE1', 'L', 'S', 'B', 'AH0', 'R', 'IY0'], "sokolow's": ['S', 'AA1', 'K', 'AH0', 'L', 'OW2', 'Z']}
+{'polis(1)': ['P', 'OW1', 'L', 'AY0', 'Z'], 'paragraphs(1)': ['P', 'EH1', 'R', 'AH0', 'G', 'R', 'AE2', 'F', 'S']}
+{'hustlers(1)': ['HH', 'AH1', 'S', 'L', 'ER0', 'Z'], 'hemmings': ['HH', 'EH1', 'M', 'IH0', 'NG', 'Z']}
+{'ross(1)': ['R', 'AO1', 'S'], 'rynes': ['R', 'AY1', 'N', 'Z']}
+{'tookes': ['T', 'UH1', 'K', 'S'], 'take': ['T', 'EY1', 'K']}
+{'buggy': ['B', 'AH1', 'G', 'IY0'], 'balz': ['B', 'AO1', 'L', 'Z']}
+{'circling(1)': ['S', 'ER1', 'K', 'L', 'IH0', 'NG'], 'sisson': ['S', 'IH1', 'S', 'AH0', 'N']}
+{'leibowitz': ['L', 'IY1', 'B', 'OW0', 'IH0', 'T', 'S'], 'lumex': ['L', 'UW1', 'M', 'AH0', 'K', 'S']}
+{'mousse': ['M', 'UW1', 'S'], 'mensah': ['M', 'EH1', 'N', 'S', 'AH0']}
+{'sardo': ['S', 'AA1', 'R', 'D', 'OW0'], 'cinthie': ['S', 'IH1', 'N', 'TH', 'IY0']}
+{'datacards': ['D', 'EY1', 'T', 'AH0', 'K', 'AA2', 'R', 'D', 'Z'], 'dordies': ['D', 'AO1', 'R', 'D', 'IY0', 'Z']}
+{'cosmair': ['K', 'AO1', 'Z', 'M', 'EH2', 'R'], 'kandel': ['K', 'AE1', 'N', 'D', 'AH0', 'L']}
+{'tookes': ['T', 'UH1', 'K', 'S'], 'tempted': ['T', 'EH1', 'M', 'P', 'T', 'IH0', 'D']}
+{'coverage': ['K', 'AH1', 'V', 'ER0', 'AH0', 'JH'], 'cambron': ['K', 'AE1', 'M', 'B', 'R', 'AH0', 'N']}
+{'pilgrim(1)': ['P', 'IH1', 'L', 'G', 'R', 'IH0', 'M'], 'pietism': ['P', 'IY1', 'T', 'IH0', 'Z', 'AH0', 'M']}
+{'genscher': ['G', 'EH1', 'N', 'SH', 'ER0'], 'golfs': ['G', 'AA1', 'L', 'F', 'S']}
+{'hougland': ['HH', 'AW1', 'G', 'L', 'AH0', 'N', 'D'], "hathaway's": ['HH', 'AE1', 'TH', 'AH0', 'W', 'EY2', 'Z']}
+{'sallis': ['S', 'AE1', 'L', 'IH0', 'S'], 'cyberspace': ['S', 'AY1', 'B', 'ER0', 'S', 'P', 'EY2', 'S']}
+{'discounting(1)': ['D', 'IH1', 'S', 'K', 'AW2', 'N', 'IH0', 'NG'], 'dycus': ['D', 'AY1', 'K', 'AH0', 'S']}
+{'niobite': ['N', 'AY1', 'OW0', 'B', 'AY2', 'T'], 'knick': ['N', 'IH1', 'K']}
+{'hookworms': ['HH', 'UH1', 'K', 'W', 'ER0', 'M', 'Z'], 'haacke': ['HH', 'AA1', 'K']}
+{'kelsey': ['K', 'EH1', 'L', 'S', 'IY0'], 'colony': ['K', 'AA1', 'L', 'AH0', 'N', 'IY0']}
+{'dicks': ['D', 'IH1', 'K', 'S'], 'dearmon': ['D', 'ER1', 'M', 'AH0', 'N']}
+{'derbyshire': ['D', 'ER1', 'B', 'IY0', 'SH', 'ER2'], 'dukes': ['D', 'UW1', 'K', 'S']}
+{'maitre': ['M', 'EY1', 'T', 'R', 'AH0'], 'monsod': ['M', 'AA1', 'N', 'S', 'AA0', 'D']}
+{'maish': ['M', 'AA1', 'IH0', 'SH'], 'mitigate': ['M', 'IH1', 'T', 'AH0', 'G', 'EY2', 'T']}
+{'joes': ['JH', 'OW1', 'Z'], 'janklow': ['JH', 'AE1', 'NG', 'K', 'L', 'OW0']}
+{'faria': ['F', 'AA1', 'R', 'IY0', 'AH0'], 'ficials': ['F', 'IH1', 'SH', 'AH0', 'L', 'Z']}
+{'semegran': ['S', 'EH1', 'M', 'AH0', 'G', 'R', 'AH0', 'N'], 'subplots': ['S', 'AH1', 'B', 'P', 'L', 'AA0', 'T', 'S']}
+{'wound(1)': ['W', 'UW1', 'N', 'D'], "whitman's": ['W', 'IH1', 'T', 'M', 'AH0', 'N', 'Z']}
+{'markson': ['M', 'AA1', 'R', 'K', 'S', 'AH0', 'N'], 'maxis': ['M', 'AE1', 'K', 'S', 'IY0', 'Z']}
+{'counterman': ['K', 'AW1', 'N', 'T', 'ER0', 'M', 'AE2', 'N'], 'capua': ['K', 'AE1', 'P', 'Y', 'UW0', 'AH0']}
+{'considine': ['K', 'AA1', 'N', 'S', 'IH0', 'D', 'AY2', 'N'], 'countersue': ['K', 'AW1', 'N', 'T', 'ER0', 'S', 'UW2']}
+{'maish': ['M', 'AA1', 'IH0', 'SH'], 'mag': ['M', 'AE1', 'G']}
+{'puming': ['P', 'UW1', 'M', 'IH0', 'NG'], 'pathways': ['P', 'AE1', 'TH', 'W', 'EY2', 'Z']}
+{'wingard': ['W', 'IH1', 'NG', 'G', 'ER0', 'D'], 'wellek': ['W', 'EH1', 'L', 'EH0', 'K']}
+{'horse': ['HH', 'AO1', 'R', 'S'], 'hoelle': ['HH', 'OW1', 'L']}
+{'peifer': ['P', 'AY1', 'F', 'ER0'], 'pietism': ['P', 'IY1', 'T', 'IH0', 'Z', 'AH0', 'M']}
+{'genscher': ['G', 'EH1', 'N', 'SH', 'ER0'], 'galka': ['G', 'AE1', 'L', 'K', 'AH0']}
+{'buggy': ['B', 'AH1', 'G', 'IY0'], "bottom's": ['B', 'AA1', 'T', 'AH0', 'M', 'Z']}
+{'cartilage': ['K', 'AA1', 'R', 'T', 'AH0', 'L', 'AH0', 'JH'], 'candid(1)': ['K', 'AE1', 'N', 'D', 'IH0', 'D']}
+{'cosmair': ['K', 'AO1', 'Z', 'M', 'EH2', 'R'], 'katt': ['K', 'AE1', 'T']}
+{'kirkhart': ['K', 'ER1', 'K', 'HH', 'AA0', 'R', 'T'], 'kit': ['K', 'IH1', 'T']}
+{'devil': ['D', 'EH1', 'V', 'AH0', 'L'], 'dame': ['D', 'EY1', 'M']}
+{'mensah': ['M', 'EH1', 'N', 'S', 'AH0'], 'mangham': ['M', 'AE1', 'NG', 'G', 'AH0', 'M']}
+{'coogler(1)': ['K', 'UW1', 'G', 'L', 'ER0'], 'counterbalance': ['K', 'AW1', 'N', 'T', 'ER0', 'B', 'AE2', 'L', 'AH0', 'N', 'S']}
+{'learns': ['L', 'ER1', 'N', 'Z'], 'lefties': ['L', 'EH1', 'F', 'T', 'IY0', 'Z']}
+{'learns': ['L', 'ER1', 'N', 'Z'], 'lomak': ['L', 'OW1', 'M', 'AE0', 'K']}
+{'phosphates': ['F', 'AA1', 'S', 'F', 'EY0', 'T', 'S'], 'forgy': ['F', 'AO1', 'R', 'JH', 'IY0']}
+{'monetarism': ['M', 'AA1', 'N', 'AH0', 'T', 'ER0', 'IH2', 'Z', 'AH0', 'M'], 'merest': ['M', 'EH1', 'R', 'AH0', 'S', 'T']}
+{'tu': ['T', 'UW1'], 'tacitly': ['T', 'AE1', 'S', 'IH0', 'T', 'L', 'IY0']}
+{'darlington': ['D', 'AA1', 'R', 'L', 'IH0', 'NG', 'T', 'AH0', 'N'], 'datacards': ['D', 'EY1', 'T', 'AH0', 'K', 'AA2', 'R', 'D', 'Z']}
+{'sirmon': ['S', 'ER1', 'M', 'AH0', 'N'], 'sunpoint': ['S', 'AH1', 'N', 'P', 'OY2', 'N', 'T']}
+{'khalsa': ['K', 'AA1', 'L', 'S', 'AH0'], 'cacace': ['K', 'AE1', 'K', 'AH0', 'S']}
+{'huxley': ['HH', 'AH1', 'K', 'S', 'L', 'IY0'], 'hardtke': ['HH', 'AA1', 'R', 'D', 'K', 'IY0']}
+{'bawls': ['B', 'AO1', 'L', 'Z'], 'bucco': ['B', 'UW1', 'K', 'OW0']}
+{'disk': ['D', 'IH1', 'S', 'K'], 'diers': ['D', 'IY1', 'ER0', 'Z']}
+{'macey': ['M', 'EY1', 'S', 'IY0'], 'morn': ['M', 'AO1', 'R', 'N']}
+{'monetarism': ['M', 'AA1', 'N', 'AH0', 'T', 'ER0', 'IH2', 'Z', 'AH0', 'M'], 'mangham': ['M', 'AE1', 'NG', 'G', 'AH0', 'M']}
+{'kellwood': ['K', 'EH1', 'L', 'W', 'UH2', 'D'], 'candid(1)': ['K', 'AE1', 'N', 'D', 'IH0', 'D']}
+{'vowels': ['V', 'AW1', 'AH0', 'L', 'Z'], "vinci's": ['V', 'IH1', 'N', 'S', 'IY0', 'Z']}
+{'marshaled': ['M', 'AA1', 'R', 'SH', 'AH0', 'L', 'D'], 'massport': ['M', 'AE1', 'S', 'P', 'AO2', 'R', 'T']}
+{'connerly': ['K', 'AA1', 'N', 'ER0', 'L', 'IY0'], 'cacace': ['K', 'AE1', 'K', 'AH0', 'S']}
+{'tickle': ['T', 'IH1', 'K', 'AH0', 'L'], 'talford': ['T', 'AE1', 'L', 'F', 'ER0', 'D']}
+{'kaler': ['K', 'EY1', 'L', 'ER0'], 'koral': ['K', 'AO1', 'R', 'AH0', 'L']}
+{'biever': ['B', 'IY1', 'V', 'ER0'], 'biker': ['B', 'AY1', 'K', 'ER0']}
+{'macey': ['M', 'EY1', 'S', 'IY0'], 'mediators': ['M', 'IY1', 'D', 'IY0', 'EY2', 'T', 'ER0', 'Z']}
+{'sandlin': ['S', 'AE1', 'N', 'D', 'L', 'IH0', 'N'], 'saleswoman': ['S', 'EY1', 'L', 'Z', 'W', 'UH2', 'M', 'AH0', 'N']}
+{'coverage': ['K', 'AH1', 'V', 'ER0', 'AH0', 'JH'], 'comrade': ['K', 'AA1', 'M', 'R', 'AE2', 'D']}
+{"kemp's": ['K', 'EH1', 'M', 'P', 'S'], 'cowboy': ['K', 'AW1', 'B', 'OY2']}
+{'rubbermaid': ['R', 'AH1', 'B', 'ER0', 'M', 'EY2', 'D'], 'regal': ['R', 'IY1', 'G', 'AH0', 'L']}
+{'milius': ['M', 'AY1', 'L', 'IY0', 'IH0', 'S'], 'megafoods': ['M', 'EH1', 'G', 'AH0', 'F', 'UW2', 'D', 'Z']}
+{'waverly': ['W', 'EY1', 'V', 'ER0', 'L', 'IY0'], 'wurtz': ['W', 'ER1', 'T', 'S']}
+{"y's": ['W', 'AY1', 'Z'], 'whedon': ['W', 'EH1', 'D', 'AH0', 'N']}
+{'merest': ['M', 'EH1', 'R', 'AH0', 'S', 'T'], 'midthun': ['M', 'IH1', 'D', 'TH', 'AH0', 'N']}
+{'mayo': ['M', 'EY1', 'OW0'], 'mission': ['M', 'IH1', 'SH', 'AH0', 'N']}
+{'salsberry': ['S', 'AE1', 'L', 'S', 'B', 'AH0', 'R', 'IY0'], 'seiji': ['S', 'EY1', 'JH', 'IY0']}
+{'guillotine': ['G', 'IH1', 'L', 'AH0', 'T', 'IY2', 'N'], 'gaillard': ['G', 'EY1', 'L', 'ER0', 'D']}
+{'current': ['K', 'ER1', 'AH0', 'N', 'T'], 'kosek': ['K', 'OW1', 'S', 'EH0', 'K']}
+{'counterman': ['K', 'AW1', 'N', 'T', 'ER0', 'M', 'AE2', 'N'], 'canaday': ['K', 'AE1', 'N', 'AH0', 'D', 'EY2']}
+{'markson': ['M', 'AA1', 'R', 'K', 'S', 'AH0', 'N'], 'megafoods': ['M', 'EH1', 'G', 'AH0', 'F', 'UW2', 'D', 'Z']}
+{'leavitt': ['L', 'EH1', 'V', 'IH0', 'T'], "luke's": ['L', 'UW1', 'K', 'S']}
+{'tibby': ['T', 'IH1', 'B', 'IY0'], 'tike': ['T', 'AY1', 'K']}
+{'salsberry': ['S', 'AE1', 'L', 'S', 'B', 'AH0', 'R', 'IY0'], 'seagulls': ['S', 'IY1', 'G', 'AH2', 'L', 'Z']}
+{'rockaway': ['R', 'AA1', 'K', 'AH0', 'W', 'EY2'], 'rincon': ['R', 'IH1', 'NG', 'K', 'AH0', 'N']}
+{'linus': ['L', 'AY1', 'N', 'AH0', 'S'], 'lantern': ['L', 'AE1', 'N', 'T', 'ER0', 'N']}
+{'petery': ['P', 'IY1', 'T', 'ER0', 'IY0'], 'parador': ['P', 'EH1', 'R', 'AH0', 'D', 'AO2', 'R']}
+{'mayo': ['M', 'EY1', 'OW0'], 'markson': ['M', 'AA1', 'R', 'K', 'S', 'AH0', 'N']}
+{'sorber': ['S', 'AO1', 'R', 'B', 'ER0'], 'sallis': ['S', 'AE1', 'L', 'IH0', 'S']}
+{'comrade': ['K', 'AA1', 'M', 'R', 'AE2', 'D'], 'candid(1)': ['K', 'AE1', 'N', 'D', 'IH0', 'D']}
+{'peifer': ['P', 'AY1', 'F', 'ER0'], 'pedicures(1)': ['P', 'EH1', 'D', 'IH0', 'K', 'Y', 'AO0', 'R', 'Z']}
+{'hookworms': ['HH', 'UH1', 'K', 'W', 'ER0', 'M', 'Z'], 'holliman': ['HH', 'AA1', 'L', 'IH0', 'M', 'AH0', 'N']}
+{'hougland': ['HH', 'AW1', 'G', 'L', 'AH0', 'N', 'D'], 'hope': ['HH', 'OW1', 'P']}
+{'leon': ['L', 'IY1', 'AA0', 'N'], 'lory': ['L', 'AO1', 'R', 'IY0']}
+{'considine': ['K', 'AA1', 'N', 'S', 'IH0', 'D', 'AY2', 'N'], 'kit': ['K', 'IH1', 'T']}
+{'homemade': ['HH', 'OW1', 'M', 'M', 'EY1', 'D'], 'holliman': ['HH', 'AA1', 'L', 'IH0', 'M', 'AH0', 'N']}
+{'huxley': ['HH', 'AH1', 'K', 'S', 'L', 'IY0'], 'heseltine(1)': ['HH', 'EH1', 'S', 'AH0', 'L', 'T', 'AY2', 'N']}
+{'muckleroy': ['M', 'AH1', 'K', 'L', 'ER0', 'OY0'], 'mag': ['M', 'AE1', 'G']}
+{'wola': ['W', 'OW1', 'L', 'AH0'], 'wurtz': ['W', 'ER1', 'T', 'S']}
+{'lumex': ['L', 'UW1', 'M', 'AH0', 'K', 'S'], 'linkous': ['L', 'IH1', 'NG', 'K', 'AH0', 'S']}
+{'saleswoman': ['S', 'EY1', 'L', 'Z', 'W', 'UH2', 'M', 'AH0', 'N'], 'subplots': ['S', 'AH1', 'B', 'P', 'L', 'AA0', 'T', 'S']}
+{'wobbling': ['W', 'AA1', 'B', 'AH0', 'L', 'IH0', 'NG'], 'waterloo': ['W', 'AO1', 'T', 'ER0', 'L', 'UW2']}
+{'current': ['K', 'ER1', 'AH0', 'N', 'T'], 'counterbalance': ['K', 'AW1', 'N', 'T', 'ER0', 'B', 'AE2', 'L', 'AH0', 'N', 'S']}
+{"kemp's": ['K', 'EH1', 'M', 'P', 'S'], 'kingsley': ['K', 'IH1', 'NG', 'Z', 'L', 'IY0']}
+{'fuzz': ['F', 'AH1', 'Z'], 'findling(1)': ['F', 'IH1', 'N', 'D', 'L', 'IH0', 'NG']}
+{'xiang': ['SH', 'IY1', 'AA0', 'NG'], 'shortridge': ['SH', 'AO1', 'R', 'T', 'R', 'IH0', 'JH']}
+{"datsun's(1)": ['D', 'AA1', 'T', 'S', 'AH0', 'N', 'Z'], 'doorbell': ['D', 'AO1', 'R', 'B', 'EH2', 'L']}
+{'nappa': ['N', 'AE1', 'P', 'AH0'], 'nee': ['N', 'IY1']}
+{'leavitt': ['L', 'EH1', 'V', 'IH0', 'T'], 'lambright': ['L', 'AE1', 'M', 'B', 'R', 'AY2', 'T']}
+{'wound(1)': ['W', 'UW1', 'N', 'D'], 'whedon': ['W', 'EH1', 'D', 'AH0', 'N']}
+{'yerkes': ['Y', 'ER1', 'K', 'IY0', 'Z'], 'younker': ['Y', 'AH1', 'NG', 'K', 'ER0']}
+{'hustlers(1)': ['HH', 'AH1', 'S', 'L', 'ER0', 'Z'], 'hartung': ['HH', 'AA1', 'R', 'T', 'AH0', 'NG']}
+{'hisses': ['HH', 'IH1', 'S', 'IH0', 'Z'], 'hollister': ['HH', 'AA1', 'L', 'IH0', 'S', 'T', 'ER0']}
+{'reine': ['R', 'EY1', 'N'], 'ramadan': ['R', 'AE1', 'M', 'AH0', 'D', 'AH0', 'N']}
+{'kelsey': ['K', 'EH1', 'L', 'S', 'IY0'], 'corath': ['K', 'AO1', 'R', 'AE1', 'TH']}
+{'milius': ['M', 'AY1', 'L', 'IY0', 'IH0', 'S'], 'mag': ['M', 'AE1', 'G']}
+{'backlog': ['B', 'AE1', 'K', 'L', 'AA2', 'G'], 'biker': ['B', 'AY1', 'K', 'ER0']}
+{'pilgrim(1)': ['P', 'IH1', 'L', 'G', 'R', 'IH0', 'M'], 'pannill': ['P', 'AE1', 'N', 'IH0', 'L']}
+{'tinkerers': ['T', 'IH1', 'NG', 'K', 'ER0', 'ER0', 'Z'], 'tegtmeier': ['T', 'EH1', 'T', 'M', 'AY0', 'ER0']}
+{'semegran': ['S', 'EH1', 'M', 'AH0', 'G', 'R', 'AH0', 'N'], 'seiberlich': ['S', 'AY1', 'B', 'ER0', 'L', 'IH0', 'K']}
+{'sollish': ['S', 'AA1', 'L', 'IH0', 'SH'], 'simoes': ['S', 'AY1', 'M', 'OW0', 'Z']}
+{'fuzz': ['F', 'AH1', 'Z'], 'fang': ['F', 'AE1', 'NG']}
+{'megafoods': ['M', 'EH1', 'G', 'AH0', 'F', 'UW2', 'D', 'Z'], 'maxis': ['M', 'AE1', 'K', 'S', 'IY0', 'Z']}
+{'lato': ['L', 'AA1', 'T', 'OW0'], 'leuck': ['L', 'UW1', 'K']}
+{'whitmoyer': ['W', 'IH1', 'T', 'M', 'OY2', 'ER0'], 'walthour': ['W', 'AO1', 'L', 'T', 'AW0', 'R']}
+{'pagenkopf': ['P', 'AE1', 'G', 'AH0', 'N', 'K', 'AO0', 'P', 'F'], "pot's": ['P', 'AA1', 'T', 'S']}
+{'muckleroy(1)': ['M', 'AH1', 'K', 'AH0', 'L', 'R', 'OY0'], 'mediators': ['M', 'IY1', 'D', 'IY0', 'EY2', 'T', 'ER0', 'Z']}
+{'regal': ['R', 'IY1', 'G', 'AH0', 'L'], 'ravaging': ['R', 'AE1', 'V', 'IH0', 'JH', 'IH0', 'NG']}
+{'colony': ['K', 'AA1', 'L', 'AH0', 'N', 'IY0'], 'counterman': ['K', 'AW1', 'N', 'T', 'ER0', 'M', 'AE2', 'N']}
+{'tike': ['T', 'AY1', 'K'], 'toensing': ['T', 'OW1', 'N', 'S', 'IH0', 'NG']}
+{"reichhold's(1)": ['R', 'AY1', 'K', 'OW2', 'L', 'D', 'Z'], 'reaume': ['R', 'UW1', 'M']}
+{'riemann': ['R', 'IY1', 'M', 'AH0', 'N'], 'riggi': ['R', 'IH1', 'JH', 'IY0']}
+{'biever': ['B', 'IY1', 'V', 'ER0'], 'boge': ['B', 'OW1', 'JH']}
+{'whitmoyer': ['W', 'IH1', 'T', 'M', 'OY2', 'ER0'], 'waltham': ['W', 'AO1', 'L', 'TH', 'AH0', 'M']}
+{'corn': ['K', 'AO1', 'R', 'N'], 'canaday': ['K', 'AE1', 'N', 'AH0', 'D', 'EY2']}
+{'monsod': ['M', 'AA1', 'N', 'S', 'AA0', 'D'], 'messmore': ['M', 'EH1', 'S', 'M', 'AO0', 'R']}
+{'marberry': ['M', 'AA1', 'R', 'B', 'EH2', 'R', 'IY0'], 'megafoods': ['M', 'EH1', 'G', 'AH0', 'F', 'UW2', 'D', 'Z']}
+{'backpedaled': ['B', 'AE1', 'K', 'P', 'EH2', 'D', 'AH0', 'L', 'D'], 'bullhead': ['B', 'UH1', 'L', 'HH', 'EH2', 'D']}
+{'devil': ['D', 'EH1', 'V', 'AH0', 'L'], 'dieffenbach': ['D', 'IY1', 'F', 'IH0', 'N', 'B', 'AA0', 'K']}
+{'courteous': ['K', 'ER1', 'T', 'IY0', 'AH0', 'S'], 'counterbalance': ['K', 'AW1', 'N', 'T', 'ER0', 'B', 'AE2', 'L', 'AH0', 'N', 'S']}
+{'concha': ['K', 'AA1', 'N', 'CH', 'AH0'], 'katt': ['K', 'AE1', 'T']}
+{'hydrox': ['HH', 'AY1', 'D', 'R', 'AO2', 'K', 'S'], 'hisses': ['HH', 'IH1', 'S', 'IH0', 'Z']}
+{'bobrow': ['B', 'AA1', 'B', 'R', 'OW2'], "business'": ['B', 'IH1', 'Z', 'N', 'IH0', 'S']}
+{'shinto': ['SH', 'IH1', 'N', 'T', 'OW2'], 'scheve': ['SH', 'IY1', 'V']}
+{'concha': ['K', 'AA1', 'N', 'CH', 'AH0'], 'candid(1)': ['K', 'AE1', 'N', 'D', 'IH0', 'D']}
+{'morisette': ['M', 'AO1', 'R', 'IH0', 'S', 'EH0', 'T'], 'midthun': ['M', 'IH1', 'D', 'TH', 'AH0', 'N']}
+{'cyberspace': ['S', 'AY1', 'B', 'ER0', 'S', 'P', 'EY2', 'S'], 'sills': ['S', 'IH1', 'L', 'Z']}
+{'lutzke': ['L', 'AH1', 'T', 'S', 'K', 'IY0'], 'loman': ['L', 'OW1', 'M', 'AH0', 'N']}
+{'kirks': ['K', 'ER1', 'K', 'S'], 'concha': ['K', 'AA1', 'N', 'CH', 'AH0']}
+{'koth': ['K', 'AA1', 'TH'], 'cambron': ['K', 'AE1', 'M', 'B', 'R', 'AH0', 'N']}
+{'gere': ['G', 'IY1', 'R'], 'genscher': ['G', 'EH1', 'N', 'SH', 'ER0']}
+{'counterman': ['K', 'AW1', 'N', 'T', 'ER0', 'M', 'AE2', 'N'], 'kamra': ['K', 'AE1', 'M', 'R', 'AH0']}
+{"sokolow's": ['S', 'AA1', 'K', 'AH0', 'L', 'OW2', 'Z'], "solwin's": ['S', 'OW1', 'L', 'W', 'IH2', 'N', 'Z']}
+{'courteous': ['K', 'ER1', 'T', 'IY0', 'AH0', 'S'], 'khalsa': ['K', 'AA1', 'L', 'S', 'AH0']}
+{'pilgrim(1)': ['P', 'IH1', 'L', 'G', 'R', 'IH0', 'M'], 'petery': ['P', 'IY1', 'T', 'ER0', 'IY0']}
+{'biever': ['B', 'IY1', 'V', 'ER0'], 'burgett': ['B', 'ER1', 'JH', 'IH0', 'T']}
+{'cosmair': ['K', 'AO1', 'Z', 'M', 'EH2', 'R'], 'kannenberg': ['K', 'AE1', 'N', 'AH0', 'N', 'B', 'ER0', 'G']}
+{'hundredweight': ['HH', 'AH1', 'N', 'D', 'R', 'AH0', 'D', 'W', 'EY2', 'T'], 'haacke': ['HH', 'AA1', 'K']}
+{'markson': ['M', 'AA1', 'R', 'K', 'S', 'AH0', 'N'], 'marous': ['M', 'EH1', 'R', 'AH0', 'S']}
+{'coverage': ['K', 'AH1', 'V', 'ER0', 'AH0', 'JH'], 'cacace': ['K', 'AE1', 'K', 'AH0', 'S']}
+{'semegran': ['S', 'EH1', 'M', 'AH0', 'G', 'R', 'AH0', 'N'], 'southfield': ['S', 'AW1', 'TH', 'F', 'IY2', 'L', 'D']}
+{'fuzz': ['F', 'AH1', 'Z'], 'factories': ['F', 'AE1', 'K', 'T', 'ER0', 'IY0', 'Z']}
+{'corn': ['K', 'AO1', 'R', 'N'], 'kandel': ['K', 'AE1', 'N', 'D', 'AH0', 'L']}
+{'corriveau': ['K', 'AO1', 'R', 'IH0', 'V', 'OW0'], 'kingsbridge': ['K', 'IH1', 'NG', 'Z', 'B', 'R', 'IH2', 'JH']}
+{'howell': ['HH', 'AW1', 'AH0', 'L'], 'hundredweight': ['HH', 'AH1', 'N', 'D', 'R', 'AH0', 'D', 'W', 'EY2', 'T']}
+{"sokolow's": ['S', 'AA1', 'K', 'AH0', 'L', 'OW2', 'Z'], 'sica': ['S', 'IY1', 'K', 'AH0']}
+{'kaler': ['K', 'EY1', 'L', 'ER0'], 'kit': ['K', 'IH1', 'T']}
+{'mory': ['M', 'AO1', 'R', 'IY0'], 'midthun': ['M', 'IH1', 'D', 'TH', 'AH0', 'N']}
+{'pitzer': ['P', 'IH1', 'T', 'Z', 'ER0'], 'paralyzing': ['P', 'EH1', 'R', 'AH0', 'L', 'AY2', 'Z', 'IH0', 'NG']}
+{'bodden': ['B', 'AA1', 'D', 'AH0', 'N'], 'biddinger': ['B', 'IH1', 'D', 'IH0', 'NG', 'ER0']}
+{'sandpaper': ['S', 'AE1', 'N', 'D', 'P', 'EY2', 'P', 'ER0'], 'seiberlich': ['S', 'AY1', 'B', 'ER0', 'L', 'IH0', 'K']}
+{'milius': ['M', 'AY1', 'L', 'IY0', 'IH0', 'S'], 'muckleroy': ['M', 'AH1', 'K', 'L', 'ER0', 'OY0']}
+{'messmore': ['M', 'EH1', 'S', 'M', 'AO0', 'R'], 'maxis': ['M', 'AE1', 'K', 'S', 'IY0', 'Z']}
+{'kopke': ['K', 'OW1', 'P', 'K'], 'countersue': ['K', 'AW1', 'N', 'T', 'ER0', 'S', 'UW2']}
+{'dillingham': ['D', 'IH1', 'L', 'IH0', 'NG', 'HH', 'AE2', 'M'], 'duct': ['D', 'AH1', 'K', 'T']}
+{'tibby': ['T', 'IH1', 'B', 'IY0'], 'tacitly': ['T', 'AE1', 'S', 'IH0', 'T', 'L', 'IY0']}
+{'tickle': ['T', 'IH1', 'K', 'AH0', 'L'], 'toal': ['T', 'OW1', 'L']}
+{'publics': ['P', 'AH1', 'B', 'L', 'IH0', 'K', 'S'], 'pannill': ['P', 'AE1', 'N', 'IH0', 'L']}
+{'pittsley': ['P', 'IH1', 'T', 'S', 'L', 'IY0'], 'pathways': ['P', 'AE1', 'TH', 'W', 'EY2', 'Z']}
+{'necci': ['N', 'EH1', 'CH', 'IY0'], 'nahum': ['N', 'AE1', 'HH', 'AH0', 'M']}
+{'rolison': ['R', 'AA1', 'L', 'IH0', 'S', 'AH0', 'N'], 'redness': ['R', 'EH1', 'D', 'N', 'AH0', 'S']}
+{'dicks': ['D', 'IH1', 'K', 'S'], 'decherd': ['D', 'EH1', 'CH', 'ER0', 'D']}
+{'megafoods': ['M', 'EH1', 'G', 'AH0', 'F', 'UW2', 'D', 'Z'], "malcolm's": ['M', 'AE1', 'L', 'K', 'AH0', 'M', 'Z']}
+{'hookworms': ['HH', 'UH1', 'K', 'W', 'ER0', 'M', 'Z'], 'heseltine(1)': ['HH', 'EH1', 'S', 'AH0', 'L', 'T', 'AY2', 'N']}
+{'wiedner': ['W', 'IY1', 'D', 'N', 'ER0'], 'wellek': ['W', 'EH1', 'L', 'EH0', 'K']}
+{'koral': ['K', 'AO1', 'R', 'AH0', 'L'], 'cambron': ['K', 'AE1', 'M', 'B', 'R', 'AH0', 'N']}
+{'belshaw': ['B', 'EH1', 'L', 'SH', 'AO2'], 'bol': ['B', 'AA1', 'L']}
+{'decherd': ['D', 'EH1', 'CH', 'ER0', 'D'], 'derbyshire': ['D', 'ER1', 'B', 'IY0', 'SH', 'ER2']}
+{'guillotine': ['G', 'IH1', 'L', 'AH0', 'T', 'IY2', 'N'], 'gushed': ['G', 'AH1', 'SH', 'T']}
+{'marous': ['M', 'EH1', 'R', 'AH0', 'S'], 'mag': ['M', 'AE1', 'G']}
+{'copperhead': ['K', 'AA1', 'P', 'ER0', 'HH', 'EH2', 'D'], 'cowboy': ['K', 'AW1', 'B', 'OY2']}
+{'buggy': ['B', 'AH1', 'G', 'IY0'], 'bodden': ['B', 'AA1', 'D', 'AH0', 'N']}
+{'rynes': ['R', 'AY1', 'N', 'Z'], 'rittenhouse': ['R', 'IH1', 'T', 'AH0', 'N', 'HH', 'AW2', 'S']}
+{'bullhead': ['B', 'UH1', 'L', 'HH', 'EH2', 'D'], 'boonton': ['B', 'UW1', 'N', 'T', 'AH0', 'N']}
+{'cowboy': ['K', 'AW1', 'B', 'OY2'], 'capua': ['K', 'AE1', 'P', 'Y', 'UW0', 'AH0']}
+{'menges': ['M', 'EH1', 'N', 'JH', 'IH0', 'Z'], 'micallef': ['M', 'IH1', 'K', 'AH0', 'L', 'EH0', 'F']}
+{'fettered': ['F', 'EH1', 'T', 'ER0', 'D'], 'forerunner': ['F', 'AO1', 'R', 'AH2', 'N', 'ER0']}
+{'menges': ['M', 'EH1', 'N', 'JH', 'IH0', 'Z'], 'mediators': ['M', 'IY1', 'D', 'IY0', 'EY2', 'T', 'ER0', 'Z']}
+{"bantam's": ['B', 'AE1', 'N', 'T', 'AH0', 'M', 'Z'], 'bol': ['B', 'AA1', 'L']}
+{'mesched': ['M', 'EH1', 'SH', 'EH0', 'D'], 'micallef': ['M', 'IH1', 'K', 'AH0', 'L', 'EH0', 'F']}
+{'boyea': ['B', 'OY1', 'IY0', 'AH0'], 'biker': ['B', 'AY1', 'K', 'ER0']}
+{'coursey': ['K', 'AO1', 'R', 'S', 'IY0'], 'kingsley': ['K', 'IH1', 'NG', 'Z', 'L', 'IY0']}
+{'wola': ['W', 'OW1', 'L', 'AH0'], "y's": ['W', 'AY1', 'Z']}
+{'chelan': ['CH', 'EH1', 'L', 'AH0', 'N'], 'childe': ['CH', 'IH1', 'L', 'D']}
+{'sollish': ['S', 'AA1', 'L', 'IH0', 'SH'], 'sikes': ['S', 'AY1', 'K', 'S']}
+{'derbyshire': ['D', 'ER1', 'B', 'IY0', 'SH', 'ER2'], "dalton's": ['D', 'AO1', 'L', 'T', 'AH0', 'N', 'Z']}
+{'faria': ['F', 'AA1', 'R', 'IY0', 'AH0'], 'fang': ['F', 'AE1', 'NG']}
+{'wingard': ['W', 'IH1', 'NG', 'G', 'ER0', 'D'], 'waterloo': ['W', 'AO1', 'T', 'ER0', 'L', 'UW2']}
+{'boies': ['B', 'OY1', 'Z'], 'bucco': ['B', 'UW1', 'K', 'OW0']}
+{'foisy': ['F', 'OY1', 'Z', 'IY0'], "faught's": ['F', 'AO1', 'T', 'S']}
+{'backlog': ['B', 'AE1', 'K', 'L', 'AA2', 'G'], 'bornholdt': ['B', 'AO1', 'R', 'N', 'HH', 'OW0', 'L', 'T']}
+{'lionize': ['L', 'AY1', 'AH0', 'N', 'AY2', 'Z'], 'lalla': ['L', 'AE1', 'L', 'AH0']}
+{'waverly': ['W', 'EY1', 'V', 'ER0', 'L', 'IY0'], "y's": ['W', 'AY1', 'Z']}
+{'wiedner': ['W', 'IY1', 'D', 'N', 'ER0'], 'wasinger': ['W', 'AO1', 'S', 'IH0', 'N', 'JH', 'ER0']}
+{'dupre': ['D', 'AH1', 'P', 'R', 'EY0'], 'dycus': ['D', 'AY1', 'K', 'AH0', 'S']}
+{"bantam's": ['B', 'AE1', 'N', 'T', 'AH0', 'M', 'Z'], 'boyle': ['B', 'OY1', 'L']}
+{'boyle': ['B', 'OY1', 'L'], 'bucco': ['B', 'UW1', 'K', 'OW0']}
+{'synar(1)': ['S', 'AY1', 'N', 'AA0', 'R'], 'sylvia': ['S', 'IH1', 'L', 'V', 'IY0', 'AH0']}
+{'belcourt': ['B', 'EH1', 'L', 'K', 'AO2', 'R', 'T'], 'boyle': ['B', 'OY1', 'L']}
+{'leavitt': ['L', 'EH1', 'V', 'IH0', 'T'], 'lory': ['L', 'AO1', 'R', 'IY0']}
+{'connerly': ['K', 'AA1', 'N', 'ER0', 'L', 'IY0'], 'cowboy': ['K', 'AW1', 'B', 'OY2']}
+{'learns': ['L', 'ER1', 'N', 'Z'], 'lalla': ['L', 'AE1', 'L', 'AH0']}
+{'sudler(1)': ['S', 'UW1', 'D', 'L', 'ER0'], 'sisson': ['S', 'IH1', 'S', 'AH0', 'N']}
+{'morphin': ['M', 'AO1', 'R', 'F', 'AH0', 'N'], 'maxis': ['M', 'AE1', 'K', 'S', 'IY0', 'Z']}
+{'hoelle': ['HH', 'OW1', 'L'], 'hartung': ['HH', 'AA1', 'R', 'T', 'AH0', 'NG']}
+{'devil': ['D', 'EH1', 'V', 'AH0', 'L'], 'denbo': ['D', 'IY1', 'N', 'B', 'OW0']}
+{'mesched': ['M', 'EH1', 'SH', 'EH0', 'D'], 'mangham': ['M', 'AE1', 'NG', 'G', 'AH0', 'M']}
+{'burgett': ['B', 'ER1', 'JH', 'IH0', 'T'], 'bol': ['B', 'AA1', 'L']}
+{'workouts': ['W', 'ER1', 'K', 'AW2', 'T', 'S'], 'walthour': ['W', 'AO1', 'L', 'T', 'AW0', 'R']}
+{'coverage': ['K', 'AH1', 'V', 'ER0', 'AH0', 'JH'], 'kit': ['K', 'IH1', 'T']}
+{'bullfighting': ['B', 'UH1', 'L', 'F', 'AY2', 'T', 'IH0', 'NG'], 'bornholdt': ['B', 'AO1', 'R', 'N', 'HH', 'OW0', 'L', 'T']}
+{'marshburn': ['M', 'AA1', 'R', 'SH', 'B', 'ER2', 'N'], 'mahmoud': ['M', 'AE1', 'M', 'UW0', 'D']}
+{'sollish': ['S', 'AA1', 'L', 'IH0', 'SH'], 'ciba': ['S', 'IY1', 'B', 'AH0']}
+{'muckleroy': ['M', 'AH1', 'K', 'L', 'ER0', 'OY0'], 'morn': ['M', 'AO1', 'R', 'N']}
+{'backpedaled': ['B', 'AE1', 'K', 'P', 'EH2', 'D', 'AH0', 'L', 'D'], 'balz': ['B', 'AO1', 'L', 'Z']}
+{'backpedaled': ['B', 'AE1', 'K', 'P', 'EH2', 'D', 'AH0', 'L', 'D'], "border's": ['B', 'AO1', 'R', 'D', 'ER0', 'Z']}
+{'shinto': ['SH', 'IH1', 'N', 'T', 'OW2'], 'sharpened': ['SH', 'AA1', 'R', 'P', 'AH0', 'N', 'D']}
+{'courteous': ['K', 'ER1', 'T', 'IY0', 'AH0', 'S'], 'cambron': ['K', 'AE1', 'M', 'B', 'R', 'AH0', 'N']}
+{'hoelle': ['HH', 'OW1', 'L'], 'hag': ['HH', 'AE1', 'G']}
+{'hougland': ['HH', 'AW1', 'G', 'L', 'AH0', 'N', 'D'], 'horse': ['HH', 'AO1', 'R', 'S']}
+{'rosh': ['R', 'AO1', 'SH'], 'ravaging': ['R', 'AE1', 'V', 'IH0', 'JH', 'IH0', 'NG']}
+{'salsberry': ['S', 'AE1', 'L', 'S', 'B', 'AH0', 'R', 'IY0'], 'sunpoint': ['S', 'AH1', 'N', 'P', 'OY2', 'N', 'T']}
+{'monsod': ['M', 'AA1', 'N', 'S', 'AA0', 'D'], 'mangham': ['M', 'AE1', 'NG', 'G', 'AH0', 'M']}
+{'markson': ['M', 'AA1', 'R', 'K', 'S', 'AH0', 'N'], 'midthun': ['M', 'IH1', 'D', 'TH', 'AH0', 'N']}
+{'dicks': ['D', 'IH1', 'K', 'S'], 'devil': ['D', 'EH1', 'V', 'AH0', 'L']}
+{'morphin': ['M', 'AO1', 'R', 'F', 'AH0', 'N'], 'manka': ['M', 'AE1', 'NG', 'K', 'AH0']}
+{'mousse': ['M', 'UW1', 'S'], 'manka': ['M', 'AE1', 'NG', 'K', 'AH0']}
+{'kopke': ['K', 'OW1', 'P', 'K'], 'corriveau': ['K', 'AO1', 'R', 'IH0', 'V', 'OW0']}
+{'hope': ['HH', 'OW1', 'P'], 'hollister': ['HH', 'AA1', 'L', 'IH0', 'S', 'T', 'ER0']}
+{'maitre': ['M', 'EY1', 'T', 'R', 'AH0'], 'mory': ['M', 'AO1', 'R', 'IY0']}
+{'hundredweight': ['HH', 'AH1', 'N', 'D', 'R', 'AH0', 'D', 'W', 'EY2', 'T'], "hathaway's": ['HH', 'AE1', 'TH', 'AH0', 'W', 'EY2', 'Z']}
+{'lovemaking': ['L', 'AH1', 'V', 'M', 'EY0', 'K', 'IH0', 'NG'], 'lomak': ['L', 'OW1', 'M', 'AE0', 'K']}
+{'leibowitz': ['L', 'IY1', 'B', 'OW0', 'IH0', 'T', 'S'], 'leuck': ['L', 'UW1', 'K']}
+{'buggy': ['B', 'AH1', 'G', 'IY0'], 'bucco': ['B', 'UW1', 'K', 'OW0']}
+{'womanizing': ['W', 'UH1', 'M', 'AH0', 'N', 'AY2', 'Z', 'IH0', 'NG'], 'wellek': ['W', 'EH1', 'L', 'EH0', 'K']}
+{'maitre': ['M', 'EY1', 'T', 'R', 'AH0'], 'manka': ['M', 'AE1', 'NG', 'K', 'AH0']}
+{'ciba': ['S', 'IY1', 'B', 'AH0'], 'subplots': ['S', 'AH1', 'B', 'P', 'L', 'AA0', 'T', 'S']}
+{'backpedaled': ['B', 'AE1', 'K', 'P', 'EH2', 'D', 'AH0', 'L', 'D'], "bottom's": ['B', 'AA1', 'T', 'AH0', 'M', 'Z']}
+{'disk': ['D', 'IH1', 'S', 'K'], 'doorbell': ['D', 'AO1', 'R', 'B', 'EH2', 'L']}
+{'coogler(1)': ['K', 'UW1', 'G', 'L', 'ER0'], 'kirkhart': ['K', 'ER1', 'K', 'HH', 'AA0', 'R', 'T']}
+{'salay': ['S', 'AE1', 'L', 'EY0'], 'seagulls': ['S', 'IY1', 'G', 'AH2', 'L', 'Z']}
+{'leclere': ['L', 'EH1', 'K', 'L', 'ER0'], 'lindemann': ['L', 'IH1', 'N', 'D', 'AH0', 'M', 'AH0', 'N']}
+{'hergott': ['HH', 'ER1', 'G', 'AH0', 'T'], 'hemmerle': ['HH', 'EH1', 'M', 'ER0', 'L', 'IY0']}
+{'shadowens': ['SH', 'AE1', 'D', 'OW0', 'AH0', 'N', 'Z'], 'xiang': ['SH', 'IY1', 'AA0', 'NG']}
+{'milius': ['M', 'AY1', 'L', 'IY0', 'IH0', 'S'], 'manka': ['M', 'AE1', 'NG', 'K', 'AH0']}
+{'marshburn': ['M', 'AA1', 'R', 'SH', 'B', 'ER2', 'N'], 'maxis': ['M', 'AE1', 'K', 'S', 'IY0', 'Z']}
+{'macey': ['M', 'EY1', 'S', 'IY0'], 'mensah': ['M', 'EH1', 'N', 'S', 'AH0']}
+{'benecke': ['B', 'EH1', 'N', 'AH0', 'K'], 'bora': ['B', 'AO1', 'R', 'AH0']}
+{'cartilage': ['K', 'AA1', 'R', 'T', 'AH0', 'L', 'AH0', 'JH'], 'countersue': ['K', 'AW1', 'N', 'T', 'ER0', 'S', 'UW2']}
+{'kirstein': ['K', 'ER1', 'S', 'T', 'AY0', 'N'], 'comrade': ['K', 'AA1', 'M', 'R', 'AE2', 'D']}
+{'knick': ['N', 'IH1', 'K'], 'naturalism': ['N', 'AE1', 'CH', 'ER0', 'AH0', 'L', 'IH2', 'Z', 'AH0', 'M']}
+{'wola': ['W', 'OW1', 'L', 'AH0'], 'workouts': ['W', 'ER1', 'K', 'AW2', 'T', 'S']}
+{'mousse': ['M', 'UW1', 'S'], 'markson': ['M', 'AA1', 'R', 'K', 'S', 'AH0', 'N']}
+{'sikes': ['S', 'AY1', 'K', 'S'], 'sylvia': ['S', 'IH1', 'L', 'V', 'IY0', 'AH0']}
+{'mezzo': ['M', 'EH1', 'Z', 'OW0'], 'mediators': ['M', 'IY1', 'D', 'IY0', 'EY2', 'T', 'ER0', 'Z']}
+{'lionize': ['L', 'AY1', 'AH0', 'N', 'AY2', 'Z'], 'lumex': ['L', 'UW1', 'M', 'AH0', 'K', 'S']}
+{'scheiderer': ['SH', 'AY1', 'D', 'ER0', 'ER0'], 'shout': ['SH', 'AW1', 'T']}
+{'newsprint': ['N', 'UW1', 'Z', 'P', 'R', 'IH2', 'N', 'T'], 'nee': ['N', 'IY1']}
+{'hufstedler': ['HH', 'AH1', 'F', 'S', 'T', 'IH0', 'D', 'AH0', 'L', 'ER0'], 'hollister': ['HH', 'AA1', 'L', 'IH0', 'S', 'T', 'ER0']}
+{'widen': ['W', 'AY1', 'D', 'AH0', 'N'], 'werle': ['W', 'ER1', 'L']}
+{'tinkerers': ['T', 'IH1', 'NG', 'K', 'ER0', 'ER0', 'Z'], 'teich': ['T', 'AY1', 'K']}
+{'backpedaled': ['B', 'AE1', 'K', 'P', 'EH2', 'D', 'AH0', 'L', 'D'], 'basinger': ['B', 'EY1', 'S', 'IH0', 'NG', 'ER0']}
+{'mousse': ['M', 'UW1', 'S'], 'marshburn': ['M', 'AA1', 'R', 'SH', 'B', 'ER2', 'N']}
+{'fuzz': ['F', 'AH1', 'Z'], 'forces': ['F', 'AO1', 'R', 'S', 'IH0', 'Z']}
+{"reichhold's(1)": ['R', 'AY1', 'K', 'OW2', 'L', 'D', 'Z'], 'residencies': ['R', 'EH1', 'Z', 'IH0', 'D', 'EH2', 'N', 'S', 'IY0', 'Z']}
+{'pigments': ['P', 'IH1', 'G', 'M', 'EH2', 'N', 'T', 'S'], 'pep': ['P', 'EH1', 'P']}
+{"kemp's": ['K', 'EH1', 'M', 'P', 'S'], 'cacace': ['K', 'AE1', 'K', 'AH0', 'S']}
+{'macey': ['M', 'EY1', 'S', 'IY0'], 'midthun': ['M', 'IH1', 'D', 'TH', 'AH0', 'N']}
+{'mitigate': ['M', 'IH1', 'T', 'AH0', 'G', 'EY2', 'T'], 'mediators': ['M', 'IY1', 'D', 'IY0', 'EY2', 'T', 'ER0', 'Z']}
+{'highfliers': ['HH', 'AY1', 'F', 'L', 'AY2', 'ER0', 'Z'], 'hommes': ['HH', 'AA1', 'M', 'Z']}
+{'hydrox': ['HH', 'AY1', 'D', 'R', 'AO2', 'K', 'S'], 'himmelstein(1)': ['HH', 'IH1', 'M', 'AH0', 'L', 'S', 'T', 'IY0', 'N']}
+{'bullfighting': ['B', 'UH1', 'L', 'F', 'AY2', 'T', 'IH0', 'NG'], 'boyle': ['B', 'OY1', 'L']}
+{'datapoint': ['D', 'EY1', 'T', 'AH0', 'P', 'OY1', 'N', 'T'], 'doorbell': ['D', 'AO1', 'R', 'B', 'EH2', 'L']}
+{'wiedner': ['W', 'IY1', 'D', 'N', 'ER0'], 'withrow': ['W', 'IH1', 'TH', 'R', 'OW2']}
+{'torsten': ['T', 'AO1', 'R', 'S', 'T', 'AH0', 'N'], 'toal': ['T', 'OW1', 'L']}
+{'rosh': ['R', 'AO1', 'SH'], 'riffs': ['R', 'IH1', 'F', 'S']}
+{'gornick': ['G', 'AO1', 'R', 'N', 'IH0', 'K'], 'guillotine': ['G', 'IH1', 'L', 'AH0', 'T', 'IY2', 'N']}
+{'discounting(1)': ['D', 'IH1', 'S', 'K', 'AW2', 'N', 'IH0', 'NG'], 'datacards': ['D', 'EY1', 'T', 'AH0', 'K', 'AA2', 'R', 'D', 'Z']}
+{'hither': ['HH', 'IH1', 'DH', 'ER0'], 'hemmerle': ['HH', 'EH1', 'M', 'ER0', 'L', 'IY0']}
+{'rosh': ['R', 'AO1', 'SH'], 'residencies': ['R', 'EH1', 'Z', 'IH0', 'D', 'EH2', 'N', 'S', 'IY0', 'Z']}
+{'loman': ['L', 'OW1', 'M', 'AH0', 'N'], "list's": ['L', 'IH1', 'S', 'T', 'S']}
+{'sudler(1)': ['S', 'UW1', 'D', 'L', 'ER0'], 'sills': ['S', 'IH1', 'L', 'Z']}
+{'sandpaper': ['S', 'AE1', 'N', 'D', 'P', 'EY2', 'P', 'ER0'], 'sikes': ['S', 'AY1', 'K', 'S']}
+{'torsten': ['T', 'AO1', 'R', 'S', 'T', 'AH0', 'N'], 'tike': ['T', 'AY1', 'K']}
+{'colony': ['K', 'AA1', 'L', 'AH0', 'N', 'IY0'], 'katt': ['K', 'AE1', 'T']}
+{'ross(1)': ['R', 'AO1', 'S'], 'rowles': ['R', 'OW1', 'L', 'Z']}
+{'monetarism': ['M', 'AA1', 'N', 'AH0', 'T', 'ER0', 'IH2', 'Z', 'AH0', 'M'], 'mag': ['M', 'AE1', 'G']}
+{'dupre': ['D', 'AH1', 'P', 'R', 'EY0'], 'dukes': ['D', 'UW1', 'K', 'S']}
+{'kirkhart': ['K', 'ER1', 'K', 'HH', 'AA0', 'R', 'T'], 'koral': ['K', 'AO1', 'R', 'AH0', 'L']}
+{'semegran': ['S', 'EH1', 'M', 'AH0', 'G', 'R', 'AH0', 'N'], 'sisson': ['S', 'IH1', 'S', 'AH0', 'N']}
+{'late-night': ['L', 'EY1', 'T', 'N', 'AY2', 'T'], 'lowenstein': ['L', 'OW1', 'AH0', 'N', 'S', 'T', 'AY2', 'N']}
+{'hundredweight': ['HH', 'AH1', 'N', 'D', 'R', 'AH0', 'D', 'W', 'EY2', 'T'], 'hag': ['HH', 'AE1', 'G']}
+{'leader': ['L', 'IY1', 'D', 'ER0'], 'lineages': ['L', 'IH1', 'N', 'IY0', 'IH0', 'JH', 'IH0', 'Z']}
+{'muckleroy': ['M', 'AH1', 'K', 'L', 'ER0', 'OY0'], 'mitigate': ['M', 'IH1', 'T', 'AH0', 'G', 'EY2', 'T']}
+{'wojick': ['W', 'OY1', 'CH', 'IH0', 'K'], 'welfare': ['W', 'EH1', 'L', 'F', 'EH2', 'R']}
+{'semegran': ['S', 'EH1', 'M', 'AH0', 'G', 'R', 'AH0', 'N'], 'sins': ['S', 'IH1', 'N', 'Z']}
+{'rego': ['R', 'EH1', 'G', 'OW0'], 'rowles': ['R', 'OW1', 'L', 'Z']}
+{'backlog': ['B', 'AE1', 'K', 'L', 'AA2', 'G'], 'bullhead': ['B', 'UH1', 'L', 'HH', 'EH2', 'D']}
+{'rolison': ['R', 'AA1', 'L', 'IH0', 'S', 'AH0', 'N'], 'rego': ['R', 'EH1', 'G', 'OW0']}
+{'marshaled': ['M', 'AA1', 'R', 'SH', 'AH0', 'L', 'D'], 'mesched': ['M', 'EH1', 'SH', 'EH0', 'D']}
+{'bahner': ['B', 'AA1', 'N', 'ER0'], 'bora': ['B', 'AO1', 'R', 'AH0']}
+{'womanizing': ['W', 'UH1', 'M', 'AH0', 'N', 'AY2', 'Z', 'IH0', 'NG'], 'workouts': ['W', 'ER1', 'K', 'AW2', 'T', 'S']}
+{"y's": ['W', 'AY1', 'Z'], 'wasil': ['W', 'AO1', 'S', 'AH0', 'L']}
+{'womanizing': ['W', 'UH1', 'M', 'AH0', 'N', 'AY2', 'Z', 'IH0', 'NG'], 'welfare': ['W', 'EH1', 'L', 'F', 'EH2', 'R']}
+{'bullfighting': ['B', 'UH1', 'L', 'F', 'AY2', 'T', 'IH0', 'NG'], 'balz': ['B', 'AO1', 'L', 'Z']}
+{'wobbling': ['W', 'AA1', 'B', 'AH0', 'L', 'IH0', 'NG'], 'workforce': ['W', 'ER1', 'K', 'F', 'AO2', 'R', 'S']}
+{'kelsey': ['K', 'EH1', 'L', 'S', 'IY0'], 'counterman': ['K', 'AW1', 'N', 'T', 'ER0', 'M', 'AE2', 'N']}
+{'leader': ['L', 'IY1', 'D', 'ER0'], 'lorimer': ['L', 'AO1', 'R', 'IH0', 'M', 'ER0']}
+{'cartilage': ['K', 'AA1', 'R', 'T', 'AH0', 'L', 'AH0', 'JH'], 'kannenberg': ['K', 'AE1', 'N', 'AH0', 'N', 'B', 'ER0', 'G']}
+{'cooing': ['K', 'UW1', 'IH0', 'NG'], 'current': ['K', 'ER1', 'AH0', 'N', 'T']}
+{'puming': ['P', 'UW1', 'M', 'IH0', 'NG'], 'paralyzing': ['P', 'EH1', 'R', 'AH0', 'L', 'AY2', 'Z', 'IH0', 'NG']}
+{'concha': ['K', 'AA1', 'N', 'CH', 'AH0'], 'canaday': ['K', 'AE1', 'N', 'AH0', 'D', 'EY2']}
+{'discounting(1)': ['D', 'IH1', 'S', 'K', 'AW2', 'N', 'IH0', 'NG'], 'datapoint': ['D', 'EY1', 'T', 'AH0', 'P', 'OY1', 'N', 'T']}
+{'salsberry': ['S', 'AE1', 'L', 'S', 'B', 'AH0', 'R', 'IY0'], 'sidearm': ['S', 'AY1', 'D', 'AA0', 'R', 'M']}
+{"y's": ['W', 'AY1', 'Z'], 'walthour': ['W', 'AO1', 'L', 'T', 'AW0', 'R']}
+{'sandlin': ['S', 'AE1', 'N', 'D', 'L', 'IH0', 'N'], 'sirmon': ['S', 'ER1', 'M', 'AH0', 'N']}
+{'womanizing': ['W', 'UH1', 'M', 'AH0', 'N', 'AY2', 'Z', 'IH0', 'NG'], 'wensel': ['W', 'EH1', 'N', 'S', 'AH0', 'L']}
+{'fettered': ['F', 'EH1', 'T', 'ER0', 'D'], 'ficials': ['F', 'IH1', 'SH', 'AH0', 'L', 'Z']}
+{'kirkhart': ['K', 'ER1', 'K', 'HH', 'AA0', 'R', 'T'], 'coverage': ['K', 'AH1', 'V', 'ER0', 'AH0', 'JH']}
+{'kaler': ['K', 'EY1', 'L', 'ER0'], 'corriveau': ['K', 'AO1', 'R', 'IH0', 'V', 'OW0']}
+{'whitmoyer': ['W', 'IH1', 'T', 'M', 'OY2', 'ER0'], 'waltrip': ['W', 'AO1', 'L', 'T', 'R', 'IH0', 'P']}
+{'genscher': ['G', 'EH1', 'N', 'SH', 'ER0'], 'godley': ['G', 'AA1', 'D', 'L', 'IY0']}
+{'burgett': ['B', 'ER1', 'JH', 'IH0', 'T'], "business'": ['B', 'IH1', 'Z', 'N', 'IH0', 'S']}
+{'backlog': ['B', 'AE1', 'K', 'L', 'AA2', 'G'], 'boge': ['B', 'OW1', 'JH']}
+{'kirstein': ['K', 'ER1', 'S', 'T', 'AY0', 'N'], 'kosek': ['K', 'OW1', 'S', 'EH0', 'K']}
+{'nahum': ['N', 'AE1', 'HH', 'AH0', 'M'], 'nuckles': ['N', 'AH1', 'K', 'AH0', 'L', 'Z']}
+{'saleswoman': ['S', 'EY1', 'L', 'Z', 'W', 'UH2', 'M', 'AH0', 'N'], 'sills': ['S', 'IH1', 'L', 'Z']}
+{'pilgrim(1)': ['P', 'IH1', 'L', 'G', 'R', 'IH0', 'M'], 'pep': ['P', 'EH1', 'P']}
+{'waverly': ['W', 'EY1', 'V', 'ER0', 'L', 'IY0'], 'waterloo': ['W', 'AO1', 'T', 'ER0', 'L', 'UW2']}
+{'benecke': ['B', 'EH1', 'N', 'AH0', 'K'], 'bullhead': ['B', 'UH1', 'L', 'HH', 'EH2', 'D']}
+{"ginsburg's": ['G', 'IH1', 'N', 'Z', 'B', 'ER0', 'G', 'Z'], 'gainor': ['G', 'EY1', 'N', 'ER0']}
+{'factories': ['F', 'AE1', 'K', 'T', 'ER0', 'IY0', 'Z'], 'forgy': ['F', 'AO1', 'R', 'JH', 'IY0']}
+{'southfield': ['S', 'AW1', 'TH', 'F', 'IY2', 'L', 'D'], 'circling(1)': ['S', 'ER1', 'K', 'L', 'IH0', 'NG']}
+{'biever': ['B', 'IY1', 'V', 'ER0'], 'bodden': ['B', 'AA1', 'D', 'AH0', 'N']}
+{'belshaw': ['B', 'EH1', 'L', 'SH', 'AO2'], 'balz': ['B', 'AO1', 'L', 'Z']}
+{'dearmon': ['D', 'ER1', 'M', 'AH0', 'N'], 'dukes': ['D', 'UW1', 'K', 'S']}
+{'howell': ['HH', 'AW1', 'AH0', 'L'], 'hufstedler': ['HH', 'AH1', 'F', 'S', 'T', 'IH0', 'D', 'AH0', 'L', 'ER0']}
+{'hilda': ['HH', 'IH1', 'L', 'D', 'AH0'], 'hoshaw': ['HH', 'AA1', 'SH', 'AO0']}
+{'pietism': ['P', 'IY1', 'T', 'IH0', 'Z', 'AH0', 'M'], 'paragraphs(1)': ['P', 'EH1', 'R', 'AH0', 'G', 'R', 'AE2', 'F', 'S']}
+{'hither': ['HH', 'IH1', 'DH', 'ER0'], 'hommes': ['HH', 'AA1', 'M', 'Z']}
+{'heydt': ['HH', 'EY1', 'D', 'T'], 'haacke': ['HH', 'AA1', 'K']}
+{'sorber': ['S', 'AO1', 'R', 'B', 'ER0'], "solwin's": ['S', 'OW1', 'L', 'W', 'IH2', 'N', 'Z']}
+{'horseback': ['HH', 'AO1', 'R', 'S', 'B', 'AE2', 'K'], 'hilda': ['HH', 'IH1', 'L', 'D', 'AH0']}
+{'kokesh': ['K', 'AA1', 'K', 'IH0', 'SH'], 'kittrell': ['K', 'IH1', 'T', 'R', 'AH0', 'L']}
+{'denbo': ['D', 'IY1', 'N', 'B', 'OW0'], 'dordies': ['D', 'AO1', 'R', 'D', 'IY0', 'Z']}
+{'tookes': ['T', 'UH1', 'K', 'S'], 'taxi': ['T', 'AE1', 'K', 'S', 'IY0']}
+{'linus': ['L', 'AY1', 'N', 'AH0', 'S'], 'lineages': ['L', 'IH1', 'N', 'IY0', 'IH0', 'JH', 'IH0', 'Z']}
+{'dordies': ['D', 'AO1', 'R', 'D', 'IY0', 'Z'], 'dukes': ['D', 'UW1', 'K', 'S']}
+{'sallis': ['S', 'AE1', 'L', 'IH0', 'S'], 'sypolt': ['S', 'IH1', 'P', 'OW0', 'L', 'T']}
+{'jolts': ['JH', 'OW1', 'L', 'T', 'S'], 'janklow': ['JH', 'AE1', 'NG', 'K', 'L', 'OW0']}
+{'sandlin': ['S', 'AE1', 'N', 'D', 'L', 'IH0', 'N'], 'subplots': ['S', 'AH1', 'B', 'P', 'L', 'AA0', 'T', 'S']}
+{'maitre': ['M', 'EY1', 'T', 'R', 'AH0'], 'markson': ['M', 'AA1', 'R', 'K', 'S', 'AH0', 'N']}
+{'whippany': ['W', 'IH1', 'P', 'AH0', 'N', 'IY0'], 'westberg': ['W', 'EH1', 'S', 'T', 'B', 'ER0', 'G']}
+{'hougland': ['HH', 'AW1', 'G', 'L', 'AH0', 'N', 'D'], 'hag': ['HH', 'AE1', 'G']}
+{'kaler': ['K', 'EY1', 'L', 'ER0'], 'kannenberg': ['K', 'AE1', 'N', 'AH0', 'N', 'B', 'ER0', 'G']}
+{'hundredweight': ['HH', 'AH1', 'N', 'D', 'R', 'AH0', 'D', 'W', 'EY2', 'T'], 'hilda': ['HH', 'IH1', 'L', 'D', 'AH0']}
+{'derbyshire': ['D', 'ER1', 'B', 'IY0', 'SH', 'ER2'], 'deikel': ['D', 'AY1', 'K', 'AH0', 'L']}
+{'hougland': ['HH', 'AW1', 'G', 'L', 'AH0', 'N', 'D'], 'hardtke': ['HH', 'AA1', 'R', 'D', 'K', 'IY0']}
+{'fuzz': ['F', 'AH1', 'Z'], 'fawver': ['F', 'AO1', 'V', 'ER0']}
+{'coogler(1)': ['K', 'UW1', 'G', 'L', 'ER0'], 'khalsa': ['K', 'AA1', 'L', 'S', 'AH0']}
+{'sandlin': ['S', 'AE1', 'N', 'D', 'L', 'IH0', 'N'], 'sins': ['S', 'IH1', 'N', 'Z']}
+{'synar(1)': ['S', 'AY1', 'N', 'AA0', 'R'], 'sins': ['S', 'IH1', 'N', 'Z']}
+{'publics': ['P', 'AH1', 'B', 'L', 'IH0', 'K', 'S'], 'parrett': ['P', 'AE1', 'R', 'IH0', 'T']}
+{'leclere': ['L', 'EH1', 'K', 'L', 'ER0'], 'lowenstein': ['L', 'OW1', 'AH0', 'N', 'S', 'T', 'AY2', 'N']}
+{'tickle': ['T', 'IH1', 'K', 'AH0', 'L'], 'tegtmeier': ['T', 'EH1', 'T', 'M', 'AY0', 'ER0']}
+{"kemp's": ['K', 'EH1', 'M', 'P', 'S'], 'kittrell': ['K', 'IH1', 'T', 'R', 'AH0', 'L']}
+{'sidearm': ['S', 'AY1', 'D', 'AA0', 'R', 'M'], 'subplots': ['S', 'AH1', 'B', 'P', 'L', 'AA0', 'T', 'S']}
+{'coverage': ['K', 'AH1', 'V', 'ER0', 'AH0', 'JH'], 'countersue': ['K', 'AW1', 'N', 'T', 'ER0', 'S', 'UW2']}
+{'darlington': ['D', 'AA1', 'R', 'L', 'IH0', 'NG', 'T', 'AH0', 'N'], "dalton's": ['D', 'AO1', 'L', 'T', 'AH0', 'N', 'Z']}
+{'kirks': ['K', 'ER1', 'K', 'S'], 'coursey': ['K', 'AO1', 'R', 'S', 'IY0']}
+{'tuskegee': ['T', 'AH1', 'S', 'K', 'AH0', 'G', 'IY2'], 'tibby': ['T', 'IH1', 'B', 'IY0']}
+{'reagen': ['R', 'IY1', 'G', 'AH0', 'N'], 'reaume': ['R', 'UW1', 'M']}
+{'seiji': ['S', 'EY1', 'JH', 'IY0'], 'seiberlich': ['S', 'AY1', 'B', 'ER0', 'L', 'IH0', 'K']}
+{'mousse': ['M', 'UW1', 'S'], 'mesched': ['M', 'EH1', 'SH', 'EH0', 'D']}
+{'nooks': ['N', 'UH1', 'K', 'S'], 'nutshells': ['N', 'AH1', 'T', 'SH', 'EH2', 'L', 'Z']}
+{'bodden': ['B', 'AA1', 'D', 'AH0', 'N'], 'bornholdt': ['B', 'AO1', 'R', 'N', 'HH', 'OW0', 'L', 'T']}
+{'gere': ['G', 'IY1', 'R'], 'goble': ['G', 'OW1', 'B', 'AH0', 'L']}
+{'mezzo': ['M', 'EH1', 'Z', 'OW0'], 'mansour': ['M', 'AE1', 'N', 'S', 'ER0']}
+{'muckleroy(1)': ['M', 'AH1', 'K', 'AH0', 'L', 'R', 'OY0'], 'manka': ['M', 'AE1', 'NG', 'K', 'AH0']}
+{'considine': ['K', 'AA1', 'N', 'S', 'IH0', 'D', 'AY2', 'N'], 'cacace': ['K', 'AE1', 'K', 'AH0', 'S']}
+{"bantam's": ['B', 'AE1', 'N', 'T', 'AH0', 'M', 'Z'], "border's": ['B', 'AO1', 'R', 'D', 'ER0', 'Z']}
+{'rolison': ['R', 'AA1', 'L', 'IH0', 'S', 'AH0', 'N'], 'riemann': ['R', 'IY1', 'M', 'AH0', 'N']}
+{'backpedaled': ['B', 'AE1', 'K', 'P', 'EH2', 'D', 'AH0', 'L', 'D'], 'boltzmanns': ['B', 'OW1', 'L', 'T', 'S', 'M', 'AH0', 'N', 'Z']}
+{'coverage': ['K', 'AH1', 'V', 'ER0', 'AH0', 'JH'], 'candid(1)': ['K', 'AE1', 'N', 'D', 'IH0', 'D']}
+{'fantasizing': ['F', 'AE1', 'N', 'T', 'AH0', 'S', 'AY2', 'Z', 'IH0', 'NG'], 'falsone': ['F', 'AO1', 'L', 'S', 'AH0', 'N']}
+{'torsten': ['T', 'AO1', 'R', 'S', 'T', 'AH0', 'N'], 'take': ['T', 'EY1', 'K']}
+{'kellwood': ['K', 'EH1', 'L', 'W', 'UH2', 'D'], 'kittrell': ['K', 'IH1', 'T', 'R', 'AH0', 'L']}
+{'remus': ['R', 'IY1', 'M', 'AH0', 'S'], 'rodin': ['R', 'OW1', 'D', 'IH0', 'N']}
+{"kemp's": ['K', 'EH1', 'M', 'P', 'S'], 'candid(1)': ['K', 'AE1', 'N', 'D', 'IH0', 'D']}
+{'coursey': ['K', 'AO1', 'R', 'S', 'IY0'], 'cacace': ['K', 'AE1', 'K', 'AH0', 'S']}
+{'disk': ['D', 'IH1', 'S', 'K'], 'duk': ['D', 'AH1', 'K']}
+{'lefties': ['L', 'EH1', 'F', 'T', 'IY0', 'Z'], 'lambright': ['L', 'AE1', 'M', 'B', 'R', 'AY2', 'T']}
+{'mayo': ['M', 'EY1', 'OW0'], 'morphin': ['M', 'AO1', 'R', 'F', 'AH0', 'N']}
+{'fuzz': ['F', 'AH1', 'Z'], 'fischl': ['F', 'IH1', 'S', 'K', 'AH0', 'L']}
+{'seiji': ['S', 'EY1', 'JH', 'IY0'], 'cyberspace': ['S', 'AY1', 'B', 'ER0', 'S', 'P', 'EY2', 'S']}
+{'wojick': ['W', 'OY1', 'CH', 'IH0', 'K'], 'wellek': ['W', 'EH1', 'L', 'EH0', 'K']}
+{'cooing': ['K', 'UW1', 'IH0', 'NG'], 'khalsa': ['K', 'AA1', 'L', 'S', 'AH0']}
+{'tickle': ['T', 'IH1', 'K', 'AH0', 'L'], 'timetable': ['T', 'AY1', 'M', 'T', 'EY2', 'B', 'AH0', 'L']}
+{'bora': ['B', 'AO1', 'R', 'AH0'], 'bubeck': ['B', 'UW1', 'B', 'EH0', 'K']}
+{'monetarism': ['M', 'AA1', 'N', 'AH0', 'T', 'ER0', 'IH2', 'Z', 'AH0', 'M'], 'mission': ['M', 'IH1', 'SH', 'AH0', 'N']}
+{"luke's": ['L', 'UW1', 'K', 'S'], 'liberal': ['L', 'IH1', 'B', 'ER2', 'AH0', 'L']}
+{'kelsey': ['K', 'EH1', 'L', 'S', 'IY0'], 'koth': ['K', 'AA1', 'TH']}
+{'widen': ['W', 'AY1', 'D', 'AH0', 'N'], 'waterloo': ['W', 'AO1', 'T', 'ER0', 'L', 'UW2']}
+{'heseltine(1)': ['HH', 'EH1', 'S', 'AH0', 'L', 'T', 'AY2', 'N'], 'handkerchief': ['HH', 'AE1', 'NG', 'K', 'ER0', 'CH', 'IH0', 'F']}
+{'macey': ['M', 'EY1', 'S', 'IY0'], 'merest': ['M', 'EH1', 'R', 'AH0', 'S', 'T']}
+{"ginsburg's": ['G', 'IH1', 'N', 'Z', 'B', 'ER0', 'G', 'Z'], 'gaillard': ['G', 'EY1', 'L', 'ER0', 'D']}
+{'teich': ['T', 'AY1', 'K'], 'turville': ['T', 'ER1', 'V', 'IH2', 'L']}
+{'dame': ['D', 'EY1', 'M'], 'diodes': ['D', 'AY1', 'OW2', 'D', 'Z']}
+{'shadowens': ['SH', 'AE1', 'D', 'OW0', 'AH0', 'N', 'Z'], 'shenker': ['SH', 'EH1', 'NG', 'K', 'ER0']}
+{'southfield': ['S', 'AW1', 'TH', 'F', 'IY2', 'L', 'D'], 'sollish': ['S', 'AA1', 'L', 'IH0', 'SH']}
+{'decherd': ['D', 'EH1', 'CH', 'ER0', 'D'], 'diers': ['D', 'IY1', 'ER0', 'Z']}
+{'shankles': ['SH', 'AE1', 'NG', 'K', 'AH0', 'L', 'Z'], 'xiang': ['SH', 'IY1', 'AA0', 'NG']}
+{'writings': ['R', 'AY1', 'T', 'IH0', 'NG', 'Z'], 'reaume': ['R', 'UW1', 'M']}
+{'bol': ['B', 'AA1', 'L'], 'bubeck': ['B', 'UW1', 'B', 'EH0', 'K']}
+{'comrade': ['K', 'AA1', 'M', 'R', 'AE2', 'D'], 'kittrell': ['K', 'IH1', 'T', 'R', 'AH0', 'L']}
+{'teich': ['T', 'AY1', 'K'], 'toal': ['T', 'OW1', 'L']}
+{'shankles': ['SH', 'AE1', 'NG', 'K', 'AH0', 'L', 'Z'], 'sharpen': ['SH', 'AA1', 'R', 'P', 'AH0', 'N']}
+{'koth': ['K', 'AA1', 'TH'], 'kilbourn': ['K', 'IH1', 'L', 'B', 'ER0', 'N']}
+{'current': ['K', 'ER1', 'AH0', 'N', 'T'], 'cambron': ['K', 'AE1', 'M', 'B', 'R', 'AH0', 'N']}
+{'hookworms': ['HH', 'UH1', 'K', 'W', 'ER0', 'M', 'Z'], "hathaway's": ['HH', 'AE1', 'TH', 'AH0', 'W', 'EY2', 'Z']}
+{'kirstein': ['K', 'ER1', 'S', 'T', 'AY0', 'N'], 'kilbourn': ['K', 'IH1', 'L', 'B', 'ER0', 'N']}
+{'cooing': ['K', 'UW1', 'IH0', 'NG'], 'cartilage': ['K', 'AA1', 'R', 'T', 'AH0', 'L', 'AH0', 'JH']}
+{'remus': ['R', 'IY1', 'M', 'AH0', 'S'], 'riffs': ['R', 'IH1', 'F', 'S']}
+{'bedner': ['B', 'EH1', 'D', 'N', 'ER0'], 'bullhead': ['B', 'UH1', 'L', 'HH', 'EH2', 'D']}
+{'kelsey': ['K', 'EH1', 'L', 'S', 'IY0'], 'kamra': ['K', 'AE1', 'M', 'R', 'AH0']}
+{'linus': ['L', 'AY1', 'N', 'AH0', 'S'], 'lyndhurst': ['L', 'IH1', 'N', 'D', 'HH', 'ER0', 'S', 'T']}
+{'busch': ['B', 'UH1', 'SH'], 'boyle': ['B', 'OY1', 'L']}
+{'biker': ['B', 'AY1', 'K', 'ER0'], "business'": ['B', 'IH1', 'Z', 'N', 'IH0', 'S']}
+{'khalsa': ['K', 'AA1', 'L', 'S', 'AH0'], 'kit': ['K', 'IH1', 'T']}
+{'nee': ['N', 'IY1'], "nobody'd": ['N', 'OW1', 'B', 'AA2', 'D', 'IY2', 'D']}
+{'gornick': ['G', 'AO1', 'R', 'N', 'IH0', 'K'], 'godley': ['G', 'AA1', 'D', 'L', 'IY0']}
+{'lambright': ['L', 'AE1', 'M', 'B', 'R', 'AY2', 'T'], 'linkous': ['L', 'IH1', 'NG', 'K', 'AH0', 'S']}
+{'learns': ['L', 'ER1', 'N', 'Z'], 'lionize': ['L', 'AY1', 'AH0', 'N', 'AY2', 'Z']}
+{'moreman': ['M', 'AO1', 'R', 'M', 'AH0', 'N'], 'mahmoud': ['M', 'AE1', 'M', 'UW0', 'D']}
+{'hydrox': ['HH', 'AY1', 'D', 'R', 'AO2', 'K', 'S'], 'hag': ['HH', 'AE1', 'G']}
+{'lomak': ['L', 'OW1', 'M', 'AE0', 'K'], 'linkous': ['L', 'IH1', 'NG', 'K', 'AH0', 'S']}
+{'courteous': ['K', 'ER1', 'T', 'IY0', 'AH0', 'S'], 'considine': ['K', 'AA1', 'N', 'S', 'IH0', 'D', 'AY2', 'N']}
+{'bauza': ['B', 'AW1', 'Z', 'AH0'], "border's": ['B', 'AO1', 'R', 'D', 'ER0', 'Z']}
+{'marshburn': ['M', 'AA1', 'R', 'SH', 'B', 'ER2', 'N'], "merrill's": ['M', 'EH1', 'R', 'AH0', 'L', 'Z']}
+{'leuck': ['L', 'UW1', 'K'], 'lyndhurst': ['L', 'IH1', 'N', 'D', 'HH', 'ER0', 'S', 'T']}
+{'pitzer': ['P', 'IH1', 'T', 'Z', 'ER0'], 'paralleled': ['P', 'EH1', 'R', 'AH0', 'L', 'EH2', 'L', 'D']}
+{'discounting(1)': ['D', 'IH1', 'S', 'K', 'AW2', 'N', 'IH0', 'NG'], 'deikel': ['D', 'AY1', 'K', 'AH0', 'L']}
+{'fantasizing': ['F', 'AE1', 'N', 'T', 'AH0', 'S', 'AY2', 'Z', 'IH0', 'NG'], 'foor': ['F', 'UH1', 'R']}
+{"datsun's(1)": ['D', 'AA1', 'T', 'S', 'AH0', 'N', 'Z'], 'deikel': ['D', 'AY1', 'K', 'AH0', 'L']}
+{'whitmoyer': ['W', 'IH1', 'T', 'M', 'OY2', 'ER0'], 'wasinger': ['W', 'AO1', 'S', 'IH0', 'N', 'JH', 'ER0']}
+{'golfs': ['G', 'AA1', 'L', 'F', 'S'], "gang's": ['G', 'AE1', 'NG', 'Z']}
+{'cowboy': ['K', 'AW1', 'B', 'OY2'], 'cambron': ['K', 'AE1', 'M', 'B', 'R', 'AH0', 'N']}
+{'pilgrim(1)': ['P', 'IH1', 'L', 'G', 'R', 'IH0', 'M'], 'penance': ['P', 'EH1', 'N', 'AH0', 'N', 'S']}
+{'ross(1)': ['R', 'AO1', 'S'], 'redness': ['R', 'EH1', 'D', 'N', 'AH0', 'S']}
+{'belcourt': ['B', 'EH1', 'L', 'K', 'AO2', 'R', 'T'], 'boyea': ['B', 'OY1', 'IY0', 'AH0']}
+{'decherd': ['D', 'EH1', 'CH', 'ER0', 'D'], 'datacards': ['D', 'EY1', 'T', 'AH0', 'K', 'AA2', 'R', 'D', 'Z']}
+{'genscher': ['G', 'EH1', 'N', 'SH', 'ER0'], "ginsburg's": ['G', 'IH1', 'N', 'Z', 'B', 'ER0', 'G', 'Z']}
+{'current': ['K', 'ER1', 'AH0', 'N', 'T'], 'kamps': ['K', 'AE1', 'M', 'P', 'S']}
+{'waverly': ['W', 'EY1', 'V', 'ER0', 'L', 'IY0'], 'wasil': ['W', 'AO1', 'S', 'AH0', 'L']}
+{'saleswoman': ['S', 'EY1', 'L', 'Z', 'W', 'UH2', 'M', 'AH0', 'N'], 'sisson': ['S', 'IH1', 'S', 'AH0', 'N']}
+{'marous': ['M', 'EH1', 'R', 'AH0', 'S'], 'manka': ['M', 'AE1', 'NG', 'K', 'AH0']}
+{'lantern': ['L', 'AE1', 'N', 'T', 'ER0', 'N'], "list's": ['L', 'IH1', 'S', 'T', 'S']}
+{'sorber': ['S', 'AO1', 'R', 'B', 'ER0'], 'sandpaper': ['S', 'AE1', 'N', 'D', 'P', 'EY2', 'P', 'ER0']}
+{'polis(1)': ['P', 'OW1', 'L', 'AY0', 'Z'], 'puming': ['P', 'UW1', 'M', 'IH0', 'NG']}
+{'bullfighting': ['B', 'UH1', 'L', 'F', 'AY2', 'T', 'IH0', 'NG'], 'basinger': ['B', 'EY1', 'S', 'IH0', 'NG', 'ER0']}
+{'firebrands': ['F', 'AY1', 'ER0', 'B', 'R', 'AE2', 'N', 'D', 'Z'], 'factories': ['F', 'AE1', 'K', 'T', 'ER0', 'IY0', 'Z']}
+{'bedner': ['B', 'EH1', 'D', 'N', 'ER0'], 'boyea': ['B', 'OY1', 'IY0', 'AH0']}
+{'belcourt': ['B', 'EH1', 'L', 'K', 'AO2', 'R', 'T'], 'boonton': ['B', 'UW1', 'N', 'T', 'AH0', 'N']}
+{'wuliger': ['W', 'UW1', 'L', 'IH0', 'G', 'ER0'], 'wellek': ['W', 'EH1', 'L', 'EH0', 'K']}
+{'kellwood': ['K', 'EH1', 'L', 'W', 'UH2', 'D'], 'cacace': ['K', 'AE1', 'K', 'AH0', 'S']}
+{'rolison': ['R', 'AA1', 'L', 'IH0', 'S', 'AH0', 'N'], "rather's": ['R', 'AE1', 'DH', 'ER0', 'Z']}
+{'vowels': ['V', 'AW1', 'AH0', 'L', 'Z'], 'vencill': ['V', 'EH1', 'N', 'S', 'IH0', 'L']}
+{'corriveau': ['K', 'AO1', 'R', 'IH0', 'V', 'OW0'], 'canaday': ['K', 'AE1', 'N', 'AH0', 'D', 'EY2']}
+{'whippany': ['W', 'IH1', 'P', 'AH0', 'N', 'IY0'], 'waltham': ['W', 'AO1', 'L', 'TH', 'AH0', 'M']}
+{'rolison': ['R', 'AA1', 'L', 'IH0', 'S', 'AH0', 'N'], 'writings': ['R', 'AY1', 'T', 'IH0', 'NG', 'Z']}
+{"bantam's": ['B', 'AE1', 'N', 'T', 'AH0', 'M', 'Z'], 'biddinger': ['B', 'IH1', 'D', 'IH0', 'NG', 'ER0']}
+{'wiedner': ['W', 'IY1', 'D', 'N', 'ER0'], 'wearever': ['W', 'EH1', 'R', 'EH2', 'V', 'ER0']}
+{'pillow': ['P', 'IH1', 'L', 'OW0'], 'parador': ['P', 'EH1', 'R', 'AH0', 'D', 'AO2', 'R']}
+{'pillow': ['P', 'IH1', 'L', 'OW0'], 'pathways': ['P', 'AE1', 'TH', 'W', 'EY2', 'Z']}
+{'horse': ['HH', 'AO1', 'R', 'S'], 'harvel': ['HH', 'AA1', 'R', 'V', 'AH0', 'L']}
+{'learns': ['L', 'ER1', 'N', 'Z'], 'lory': ['L', 'AO1', 'R', 'IY0']}
+{'gornick': ['G', 'AO1', 'R', 'N', 'IH0', 'K'], 'gotthardt': ['G', 'AA1', 'TH', 'AA0', 'R', 'T']}
+{'koth': ['K', 'AA1', 'TH'], 'cacace': ['K', 'AE1', 'K', 'AH0', 'S']}
+{'belcourt': ['B', 'EH1', 'L', 'K', 'AO2', 'R', 'T'], 'bubeck': ['B', 'UW1', 'B', 'EH0', 'K']}
+{'hustlers(1)': ['HH', 'AH1', 'S', 'L', 'ER0', 'Z'], 'hilda': ['HH', 'IH1', 'L', 'D', 'AH0']}
+{'hougland': ['HH', 'AW1', 'G', 'L', 'AH0', 'N', 'D'], 'hartung': ['HH', 'AA1', 'R', 'T', 'AH0', 'NG']}
+{'puming': ['P', 'UW1', 'M', 'IH0', 'NG'], 'petrea': ['P', 'EH1', 'T', 'R', 'IY0', 'AH0']}
+{'kosek': ['K', 'OW1', 'S', 'EH0', 'K'], 'kingsley': ['K', 'IH1', 'NG', 'Z', 'L', 'IY0']}
+{'hergott': ['HH', 'ER1', 'G', 'AH0', 'T'], 'hommes': ['HH', 'AA1', 'M', 'Z']}
+{'wiedner': ['W', 'IY1', 'D', 'N', 'ER0'], 'wurtz': ['W', 'ER1', 'T', 'S']}
+{'tibby': ['T', 'IH1', 'B', 'IY0'], 'taxi': ['T', 'AE1', 'K', 'S', 'IY0']}
+{'wuliger': ['W', 'UW1', 'L', 'IH0', 'G', 'ER0'], 'workshops': ['W', 'ER1', 'K', 'SH', 'AA2', 'P', 'S']}
+{'residencies': ['R', 'EH1', 'Z', 'IH0', 'D', 'EH2', 'N', 'S', 'IY0', 'Z'], 'rincon': ['R', 'IH1', 'NG', 'K', 'AH0', 'N']}
+{'personals': ['P', 'ER1', 'S', 'IH0', 'N', 'IH0', 'L', 'Z'], 'petrea': ['P', 'EH1', 'T', 'R', 'IY0', 'AH0']}
+{'peifer': ['P', 'AY1', 'F', 'ER0'], 'parti': ['P', 'AA1', 'R', 'T', 'IY0']}
+{'bahner': ['B', 'AA1', 'N', 'ER0'], 'boonton': ['B', 'UW1', 'N', 'T', 'AH0', 'N']}
+{'rotter': ['R', 'AA1', 'T', 'ER0'], 'rittenhouse': ['R', 'IH1', 'T', 'AH0', 'N', 'HH', 'AW2', 'S']}
+{'boge': ['B', 'OW1', 'JH'], 'bucco': ['B', 'UW1', 'K', 'OW0']}
+{'writings': ['R', 'AY1', 'T', 'IH0', 'NG', 'Z'], 'rego': ['R', 'EH1', 'G', 'OW0']}
+{'maish': ['M', 'AA1', 'IH0', 'SH'], 'marantette': ['M', 'EH1', 'R', 'AH0', 'N', 'T', 'EH2', 'T']}
+{'douty': ['D', 'AW1', 'T', 'IY0'], 'dearmon': ['D', 'ER1', 'M', 'AH0', 'N']}
+{'belshaw': ['B', 'EH1', 'L', 'SH', 'AO2'], 'boyle': ['B', 'OY1', 'L']}
+{'pietism': ['P', 'IY1', 'T', 'IH0', 'Z', 'AH0', 'M'], "pot's": ['P', 'AA1', 'T', 'S']}
+{'personals': ['P', 'ER1', 'S', 'IH0', 'N', 'IH0', 'L', 'Z'], 'paralyzing': ['P', 'EH1', 'R', 'AH0', 'L', 'AY2', 'Z', 'IH0', 'NG']}
+{"bantam's": ['B', 'AE1', 'N', 'T', 'AH0', 'M', 'Z'], 'bahner': ['B', 'AA1', 'N', 'ER0']}
+{'heydt': ['HH', 'EY1', 'D', 'T'], 'hoelle': ['HH', 'OW1', 'L']}
+{"roderick's": ['R', 'AA1', 'D', 'R', 'IH0', 'K', 'S'], 'reagen': ['R', 'IY1', 'G', 'AH0', 'N']}
+{'bullhead': ['B', 'UH1', 'L', 'HH', 'EH2', 'D'], 'barkocy': ['B', 'AA1', 'R', 'K', 'AH0', 'S', 'IY0']}
+{'douty': ['D', 'AW1', 'T', 'IY0'], 'dupre': ['D', 'AH1', 'P', 'R', 'EY0']}
+{'barkocy': ['B', 'AA1', 'R', 'K', 'AH0', 'S', 'IY0'], 'bawls': ['B', 'AO1', 'L', 'Z']}
+{'scheiderer': ['SH', 'AY1', 'D', 'ER0', 'ER0'], 'shinto': ['SH', 'IH1', 'N', 'T', 'OW2']}
+{'hustlers(1)': ['HH', 'AH1', 'S', 'L', 'ER0', 'Z'], 'heseltine(1)': ['HH', 'EH1', 'S', 'AH0', 'L', 'T', 'AY2', 'N']}
+{"fischbach's": ['F', 'IH1', 'SH', 'B', 'AA2', 'K', 'S'], 'faw': ['F', 'AO1']}
+{"roderick's": ['R', 'AA1', 'D', 'R', 'IH0', 'K', 'S'], 'redlining': ['R', 'EH1', 'D', 'L', 'AY2', 'N', 'IH0', 'NG']}
+{"fischbach's": ['F', 'IH1', 'SH', 'B', 'AA2', 'K', 'S'], 'falsone': ['F', 'AO1', 'L', 'S', 'AH0', 'N']}
+{'macey': ['M', 'EY1', 'S', 'IY0'], 'moreman': ['M', 'AO1', 'R', 'M', 'AH0', 'N']}
+{'sidearm': ['S', 'AY1', 'D', 'AA0', 'R', 'M'], 'sunpoint': ['S', 'AH1', 'N', 'P', 'OY2', 'N', 'T']}
+{'sirmon': ['S', 'ER1', 'M', 'AH0', 'N'], 'sypolt': ['S', 'IH1', 'P', 'OW0', 'L', 'T']}
+{'salay': ['S', 'AE1', 'L', 'EY0'], 'sermersheim': ['S', 'ER1', 'M', 'ER0', 'S', 'HH', 'AY0', 'M']}
+{'rubbermaid': ['R', 'AH1', 'B', 'ER0', 'M', 'EY2', 'D'], 'reagen': ['R', 'IY1', 'G', 'AH0', 'N']}
+{'maitre': ['M', 'EY1', 'T', 'R', 'AH0'], 'morisette': ['M', 'AO1', 'R', 'IH0', 'S', 'EH0', 'T']}
+{"merrill's": ['M', 'EH1', 'R', 'AH0', 'L', 'Z'], 'mag': ['M', 'AE1', 'G']}
+{'buggy': ['B', 'AH1', 'G', 'IY0'], 'baylis': ['B', 'EY1', 'L', 'IH0', 'S']}
+{'kellwood': ['K', 'EH1', 'L', 'W', 'UH2', 'D'], 'cowboy': ['K', 'AW1', 'B', 'OY2']}
+{'sorber': ['S', 'AO1', 'R', 'B', 'ER0'], 'sisson': ['S', 'IH1', 'S', 'AH0', 'N']}
+{'leavitt': ['L', 'EH1', 'V', 'IH0', 'T'], 'lindemann': ['L', 'IH1', 'N', 'D', 'AH0', 'M', 'AH0', 'N']}
+{'nooks': ['N', 'UH1', 'K', 'S'], "nobody'd": ['N', 'OW1', 'B', 'AA2', 'D', 'IY2', 'D']}
+{'leon': ['L', 'IY1', 'AA0', 'N'], 'lomak': ['L', 'OW1', 'M', 'AE0', 'K']}
+{"bantam's": ['B', 'AE1', 'N', 'T', 'AH0', 'M', 'Z'], 'bora': ['B', 'AO1', 'R', 'AH0']}
+{'macey': ['M', 'EY1', 'S', 'IY0'], 'maish': ['M', 'AA1', 'IH0', 'SH']}
+{'shout': ['SH', 'AW1', 'T'], 'shurley': ['SH', 'ER1', 'L', 'IY0']}
+{'belcourt': ['B', 'EH1', 'L', 'K', 'AO2', 'R', 'T'], 'boltzmanns': ['B', 'OW1', 'L', 'T', 'S', 'M', 'AH0', 'N', 'Z']}
+{'kirstein': ['K', 'ER1', 'S', 'T', 'AY0', 'N'], 'koth': ['K', 'AA1', 'TH']}
+{'timetable': ['T', 'AY1', 'M', 'T', 'EY2', 'B', 'AH0', 'L'], 'taxied': ['T', 'AE1', 'K', 'S', 'IY0', 'D']}
+{'linus': ['L', 'AY1', 'N', 'AH0', 'S'], 'lomak': ['L', 'OW1', 'M', 'AE0', 'K']}
+{'gere': ['G', 'IY1', 'R'], "gooding's": ['G', 'UH1', 'D', 'IH0', 'NG', 'Z']}
+{'bornholdt': ['B', 'AO1', 'R', 'N', 'HH', 'OW0', 'L', 'T'], 'boonton': ['B', 'UW1', 'N', 'T', 'AH0', 'N']}
+{'lutzke': ['L', 'AH1', 'T', 'S', 'K', 'IY0'], 'lambright': ['L', 'AE1', 'M', 'B', 'R', 'AY2', 'T']}
+{'counterman': ['K', 'AW1', 'N', 'T', 'ER0', 'M', 'AE2', 'N'], 'katt': ['K', 'AE1', 'T']}
+{'mousse': ['M', 'UW1', 'S'], 'mitigate': ['M', 'IH1', 'T', 'AH0', 'G', 'EY2', 'T']}
+{'godley': ['G', 'AA1', 'D', 'L', 'IY0'], 'gatt': ['G', 'AE1', 'T']}
+{'fuzz': ['F', 'AH1', 'Z'], "fischbach's": ['F', 'IH1', 'SH', 'B', 'AA2', 'K', 'S']}
+{'wannamaker': ['W', 'AA1', 'N', 'AH0', 'M', 'EY2', 'K', 'ER0'], 'workforce': ['W', 'ER1', 'K', 'F', 'AO2', 'R', 'S']}
+{'vacaville': ['V', 'AE1', 'K', 'AH0', 'V', 'IH2', 'L'], 'vogelstein': ['V', 'OW1', 'G', 'AH0', 'L', 'S', 'T', 'IY2', 'N']}
+{'buggy': ['B', 'AH1', 'G', 'IY0'], 'bobrow': ['B', 'AA1', 'B', 'R', 'OW2']}
+{"y's": ['W', 'AY1', 'Z'], 'wearever': ['W', 'EH1', 'R', 'EH2', 'V', 'ER0']}
+{'shenker': ['SH', 'EH1', 'NG', 'K', 'ER0'], 'shuts': ['SH', 'AH1', 'T', 'S']}
+{'markson': ['M', 'AA1', 'R', 'K', 'S', 'AH0', 'N'], 'mitigate': ['M', 'IH1', 'T', 'AH0', 'G', 'EY2', 'T']}
+{'muckleroy': ['M', 'AH1', 'K', 'L', 'ER0', 'OY0'], 'messmore': ['M', 'EH1', 'S', 'M', 'AO0', 'R']}
+{'coverage': ['K', 'AH1', 'V', 'ER0', 'AH0', 'JH'], 'considine': ['K', 'AA1', 'N', 'S', 'IH0', 'D', 'AY2', 'N']}
+{'cartilage': ['K', 'AA1', 'R', 'T', 'AH0', 'L', 'AH0', 'JH'], 'cacace': ['K', 'AE1', 'K', 'AH0', 'S']}
+{'marshaled': ['M', 'AA1', 'R', 'SH', 'AH0', 'L', 'D'], 'micallef': ['M', 'IH1', 'K', 'AH0', 'L', 'EH0', 'F']}
+{'backpedaled': ['B', 'AE1', 'K', 'P', 'EH2', 'D', 'AH0', 'L', 'D'], 'bidders': ['B', 'IH1', 'D', 'ER0', 'Z']}
+{'backlog': ['B', 'AE1', 'K', 'L', 'AA2', 'G'], 'bubeck': ['B', 'UW1', 'B', 'EH0', 'K']}
+{'biever': ['B', 'IY1', 'V', 'ER0'], 'bawls': ['B', 'AO1', 'L', 'Z']}
+{'wannamaker': ['W', 'AA1', 'N', 'AH0', 'M', 'EY2', 'K', 'ER0'], 'werle': ['W', 'ER1', 'L']}
+{'dillingham': ['D', 'IH1', 'L', 'IH0', 'NG', 'HH', 'AE2', 'M'], 'derbyshire': ['D', 'ER1', 'B', 'IY0', 'SH', 'ER2']}
+{'writings': ['R', 'AY1', 'T', 'IH0', 'NG', 'Z'], 'ravaging': ['R', 'AE1', 'V', 'IH0', 'JH', 'IH0', 'NG']}
+{'debor': ['D', 'EH1', 'B', 'AO0', 'R'], 'diers': ['D', 'IY1', 'ER0', 'Z']}
+{'courteous': ['K', 'ER1', 'T', 'IY0', 'AH0', 'S'], 'coursey': ['K', 'AO1', 'R', 'S', 'IY0']}
+{'ross(1)': ['R', 'AO1', 'S'], 'ramadan': ['R', 'AE1', 'M', 'AH0', 'D', 'AH0', 'N']}
+{'cooing': ['K', 'UW1', 'IH0', 'NG'], 'kandel': ['K', 'AE1', 'N', 'D', 'AH0', 'L']}
+{'gere': ['G', 'IY1', 'R'], "gang's": ['G', 'AE1', 'NG', 'Z']}
+{'morphin': ['M', 'AO1', 'R', 'F', 'AH0', 'N'], 'mission': ['M', 'IH1', 'SH', 'AH0', 'N']}
+{'leclere': ['L', 'EH1', 'K', 'L', 'ER0'], 'lambright': ['L', 'AE1', 'M', 'B', 'R', 'AY2', 'T']}
+{'godding': ['G', 'AA1', 'D', 'IH0', 'NG'], 'gushed': ['G', 'AH1', 'SH', 'T']}
+{'corriveau': ['K', 'AO1', 'R', 'IH0', 'V', 'OW0'], 'cacace': ['K', 'AE1', 'K', 'AH0', 'S']}
+{'copperhead': ['K', 'AA1', 'P', 'ER0', 'HH', 'EH2', 'D'], 'kannenberg': ['K', 'AE1', 'N', 'AH0', 'N', 'B', 'ER0', 'G']}
+{"bantam's": ['B', 'AE1', 'N', 'T', 'AH0', 'M', 'Z'], 'bidders': ['B', 'IH1', 'D', 'ER0', 'Z']}
+{'lato': ['L', 'AA1', 'T', 'OW0'], 'leibowitz': ['L', 'IY1', 'B', 'OW0', 'IH0', 'T', 'S']}
+{'huxley': ['HH', 'AH1', 'K', 'S', 'L', 'IY0'], 'hope': ['HH', 'OW1', 'P']}
+{'vrba': ['V', 'ER1', 'B', 'AA1'], "vinci's": ['V', 'IH1', 'N', 'S', 'IY0', 'Z']}
+{'considine': ['K', 'AA1', 'N', 'S', 'IH0', 'D', 'AY2', 'N'], 'kamps': ['K', 'AE1', 'M', 'P', 'S']}
+{'boltzmanns': ['B', 'OW1', 'L', 'T', 'S', 'M', 'AH0', 'N', 'Z'], 'balz': ['B', 'AO1', 'L', 'Z']}
+{'coogler(1)': ['K', 'UW1', 'G', 'L', 'ER0'], 'current': ['K', 'ER1', 'AH0', 'N', 'T']}
+{'hope': ['HH', 'OW1', 'P'], 'hommes': ['HH', 'AA1', 'M', 'Z']}
+{'hundredweight': ['HH', 'AH1', 'N', 'D', 'R', 'AH0', 'D', 'W', 'EY2', 'T'], 'harvel': ['HH', 'AA1', 'R', 'V', 'AH0', 'L']}
+{'hougland': ['HH', 'AW1', 'G', 'L', 'AH0', 'N', 'D'], 'haacke': ['HH', 'AA1', 'K']}
+{'macey': ['M', 'EY1', 'S', 'IY0'], 'mezzo': ['M', 'EH1', 'Z', 'OW0']}
+{'rubbermaid': ['R', 'AH1', 'B', 'ER0', 'M', 'EY2', 'D'], "reebok's": ['R', 'IY1', 'B', 'AA0', 'K', 'S']}
+{'wobbling': ['W', 'AA1', 'B', 'AH0', 'L', 'IH0', 'NG'], 'waltrip': ['W', 'AO1', 'L', 'T', 'R', 'IH0', 'P']}
+{'werle': ['W', 'ER1', 'L'], 'waltrip': ['W', 'AO1', 'L', 'T', 'R', 'IH0', 'P']}
+{'toal': ['T', 'OW1', 'L'], 'turville': ['T', 'ER1', 'V', 'IH2', 'L']}
+{'kaler': ['K', 'EY1', 'L', 'ER0'], 'cartilage': ['K', 'AA1', 'R', 'T', 'AH0', 'L', 'AH0', 'JH']}
+{'sardo': ['S', 'AA1', 'R', 'D', 'OW0'], 'sica': ['S', 'IY1', 'K', 'AH0']}
+{'backpedaled': ['B', 'AE1', 'K', 'P', 'EH2', 'D', 'AH0', 'L', 'D'], 'boies': ['B', 'OY1', 'Z']}
+{'monsod': ['M', 'AA1', 'N', 'S', 'AA0', 'D'], 'merest': ['M', 'EH1', 'R', 'AH0', 'S', 'T']}
+{'sirmon': ['S', 'ER1', 'M', 'AH0', 'N'], 'sylvia': ['S', 'IH1', 'L', 'V', 'IY0', 'AH0']}
+{'kaler': ['K', 'EY1', 'L', 'ER0'], 'copperhead': ['K', 'AA1', 'P', 'ER0', 'HH', 'EH2', 'D']}
+{'coverage': ['K', 'AH1', 'V', 'ER0', 'AH0', 'JH'], 'kilbourn': ['K', 'IH1', 'L', 'B', 'ER0', 'N']}
+{'lefties': ['L', 'EH1', 'F', 'T', 'IY0', 'Z'], 'lineages': ['L', 'IH1', 'N', 'IY0', 'IH0', 'JH', 'IH0', 'Z']}
+{'coogler(1)': ['K', 'UW1', 'G', 'L', 'ER0'], 'comrade': ['K', 'AA1', 'M', 'R', 'AE2', 'D']}
+{'tookes': ['T', 'UH1', 'K', 'S'], 'teich': ['T', 'AY1', 'K']}
+{'coverage': ['K', 'AH1', 'V', 'ER0', 'AH0', 'JH'], 'koral': ['K', 'AO1', 'R', 'AH0', 'L']}
+{'merest': ['M', 'EH1', 'R', 'AH0', 'S', 'T'], 'mediators': ['M', 'IY1', 'D', 'IY0', 'EY2', 'T', 'ER0', 'Z']}
+{'reine': ['R', 'EY1', 'N'], 'rittenhouse': ['R', 'IH1', 'T', 'AH0', 'N', 'HH', 'AW2', 'S']}
+{'backpedaled': ['B', 'AE1', 'K', 'P', 'EH2', 'D', 'AH0', 'L', 'D'], 'bullfighting': ['B', 'UH1', 'L', 'F', 'AY2', 'T', 'IH0', 'NG']}
+{'hope': ['HH', 'OW1', 'P'], "hathaway's": ['HH', 'AE1', 'TH', 'AH0', 'W', 'EY2', 'Z']}
+{'discounting(1)': ['D', 'IH1', 'S', 'K', 'AW2', 'N', 'IH0', 'NG'], 'derbyshire': ['D', 'ER1', 'B', 'IY0', 'SH', 'ER2']}
+{'maish': ['M', 'AA1', 'IH0', 'SH'], 'merest': ['M', 'EH1', 'R', 'AH0', 'S', 'T']}
+{'kosek': ['K', 'OW1', 'S', 'EH0', 'K'], 'counterman': ['K', 'AW1', 'N', 'T', 'ER0', 'M', 'AE2', 'N']}
+{'firebrands': ['F', 'AY1', 'ER0', 'B', 'R', 'AE2', 'N', 'D', 'Z'], 'physicals': ['F', 'IH1', 'Z', 'IH0', 'K', 'AH0', 'L', 'Z']}
+{'wojick': ['W', 'OY1', 'CH', 'IH0', 'K'], 'westberg': ['W', 'EH1', 'S', 'T', 'B', 'ER0', 'G']}
+{'findling(1)': ['F', 'IH1', 'N', 'D', 'L', 'IH0', 'NG'], "faught's": ['F', 'AO1', 'T', 'S']}
+{'sallis': ['S', 'AE1', 'L', 'IH0', 'S'], 'synar(1)': ['S', 'AY1', 'N', 'AA0', 'R']}
+{'moreman': ['M', 'AO1', 'R', 'M', 'AH0', 'N'], 'micallef': ['M', 'IH1', 'K', 'AH0', 'L', 'EH0', 'F']}
+{'sardo': ['S', 'AA1', 'R', 'D', 'OW0'], 'sikes': ['S', 'AY1', 'K', 'S']}
+{'goran': ['G', 'AO1', 'R', 'AH0', 'N'], 'gushed': ['G', 'AH1', 'SH', 'T']}
+{'kosek': ['K', 'OW1', 'S', 'EH0', 'K'], 'cowboy': ['K', 'AW1', 'B', 'OY2']}
+{'wobbling': ['W', 'AA1', 'B', 'AH0', 'L', 'IH0', 'NG'], 'whippany': ['W', 'IH1', 'P', 'AH0', 'N', 'IY0']}
+{'coursey': ['K', 'AO1', 'R', 'S', 'IY0'], 'kingsbridge': ['K', 'IH1', 'NG', 'Z', 'B', 'R', 'IH2', 'JH']}
+{'godding': ['G', 'AA1', 'D', 'IH0', 'NG'], 'gainor': ['G', 'EY1', 'N', 'ER0']}
+{'wannamaker': ['W', 'AA1', 'N', 'AH0', 'M', 'EY2', 'K', 'ER0'], 'whippany': ['W', 'IH1', 'P', 'AH0', 'N', 'IY0']}
+{'ross(1)': ['R', 'AO1', 'S'], 'riggi': ['R', 'IH1', 'JH', 'IY0']}
+{'leader': ['L', 'IY1', 'D', 'ER0'], 'leuck': ['L', 'UW1', 'K']}
+{'berghof': ['B', 'ER1', 'G', 'HH', 'AO0', 'F'], 'balz': ['B', 'AO1', 'L', 'Z']}
+{'macey': ['M', 'EY1', 'S', 'IY0'], 'maxis': ['M', 'AE1', 'K', 'S', 'IY0', 'Z']}
+{'hufstedler': ['HH', 'AH1', 'F', 'S', 'T', 'IH0', 'D', 'AH0', 'L', 'ER0'], 'holliman': ['HH', 'AA1', 'L', 'IH0', 'M', 'AH0', 'N']}
+{'shenker': ['SH', 'EH1', 'NG', 'K', 'ER0'], 'sharpen': ['SH', 'AA1', 'R', 'P', 'AH0', 'N']}
+{'markson': ['M', 'AA1', 'R', 'K', 'S', 'AH0', 'N'], 'mansour': ['M', 'AE1', 'N', 'S', 'ER0']}
+{'bullfighting': ['B', 'UH1', 'L', 'F', 'AY2', 'T', 'IH0', 'NG'], 'burgett': ['B', 'ER1', 'JH', 'IH0', 'T']}
+{'pitzer': ['P', 'IH1', 'T', 'Z', 'ER0'], 'parador': ['P', 'EH1', 'R', 'AH0', 'D', 'AO2', 'R']}
+{'basinger': ['B', 'EY1', 'S', 'IH0', 'NG', 'ER0'], 'bodden': ['B', 'AA1', 'D', 'AH0', 'N']}
+{'hustlers(1)': ['HH', 'AH1', 'S', 'L', 'ER0', 'Z'], 'hoelle': ['HH', 'OW1', 'L']}
+{'sandpaper': ['S', 'AE1', 'N', 'D', 'P', 'EY2', 'P', 'ER0'], 'simoes': ['S', 'AY1', 'M', 'OW0', 'Z']}
+{'kaler': ['K', 'EY1', 'L', 'ER0'], 'kamps': ['K', 'AE1', 'M', 'P', 'S']}
+{'torsten': ['T', 'AO1', 'R', 'S', 'T', 'AH0', 'N'], 'taxied': ['T', 'AE1', 'K', 'S', 'IY0', 'D']}
+{'rubbermaid': ['R', 'AH1', 'B', 'ER0', 'M', 'EY2', 'D'], 'ravaging': ['R', 'AE1', 'V', 'IH0', 'JH', 'IH0', 'NG']}
+{'douty': ['D', 'AW1', 'T', 'IY0'], 'duk': ['D', 'AH1', 'K']}
+{'macey': ['M', 'EY1', 'S', 'IY0'], 'morphin': ['M', 'AO1', 'R', 'F', 'AH0', 'N']}
+{'considine': ['K', 'AA1', 'N', 'S', 'IH0', 'D', 'AY2', 'N'], 'kingsley': ['K', 'IH1', 'NG', 'Z', 'L', 'IY0']}
+{'maish': ['M', 'AA1', 'IH0', 'SH'], 'mahmoud': ['M', 'AE1', 'M', 'UW0', 'D']}
+{'leon': ['L', 'IY1', 'AA0', 'N'], 'loman': ['L', 'OW1', 'M', 'AH0', 'N']}
+{"women's": ['W', 'IH1', 'M', 'AH0', 'N', 'Z'], 'walthour': ['W', 'AO1', 'L', 'T', 'AW0', 'R']}
+{'residencies': ['R', 'EH1', 'Z', 'IH0', 'D', 'EH2', 'N', 'S', 'IY0', 'Z'], 'riffs': ['R', 'IH1', 'F', 'S']}
+{'fuzz': ['F', 'AH1', 'Z'], 'forgy': ['F', 'AO1', 'R', 'JH', 'IY0']}
+{'comrade': ['K', 'AA1', 'M', 'R', 'AE2', 'D'], 'capua': ['K', 'AE1', 'P', 'Y', 'UW0', 'AH0']}
+{'connerly': ['K', 'AA1', 'N', 'ER0', 'L', 'IY0'], 'katt': ['K', 'AE1', 'T']}
+{'hisses': ['HH', 'IH1', 'S', 'IH0', 'Z'], 'hardtke': ['HH', 'AA1', 'R', 'D', 'K', 'IY0']}
+{'hougland': ['HH', 'AW1', 'G', 'L', 'AH0', 'N', 'D'], 'hundredweight': ['HH', 'AH1', 'N', 'D', 'R', 'AH0', 'D', 'W', 'EY2', 'T']}
+{'moler': ['M', 'OW1', 'L', 'ER0'], 'massport': ['M', 'AE1', 'S', 'P', 'AO2', 'R', 'T']}
+{'writings': ['R', 'AY1', 'T', 'IH0', 'NG', 'Z'], 'row': ['R', 'OW1']}
+{'denbo': ['D', 'IY1', 'N', 'B', 'OW0'], 'dycus': ['D', 'AY1', 'K', 'AH0', 'S']}
+{'rockaway': ['R', 'AA1', 'K', 'AH0', 'W', 'EY2'], "rather's": ['R', 'AE1', 'DH', 'ER0', 'Z']}
+{'burgett': ['B', 'ER1', 'JH', 'IH0', 'T'], 'biker': ['B', 'AY1', 'K', 'ER0']}
+{'leon': ['L', 'IY1', 'AA0', 'N'], 'leuck': ['L', 'UW1', 'K']}
+{'devil': ['D', 'EH1', 'V', 'AH0', 'L'], 'diodes': ['D', 'AY1', 'OW2', 'D', 'Z']}
+{'giang(1)': ['JH', 'AA1', 'NG'], 'jangled': ['JH', 'AE1', 'NG', 'G', 'AH0', 'L', 'D']}
+{'kaler': ['K', 'EY1', 'L', 'ER0'], 'koth': ['K', 'AA1', 'TH']}
+{'godding': ['G', 'AA1', 'D', 'IH0', 'NG'], 'girding': ['G', 'ER1', 'D', 'IH0', 'NG']}
+{"sokolow's": ['S', 'AA1', 'K', 'AH0', 'L', 'OW2', 'Z'], 'sins': ['S', 'IH1', 'N', 'Z']}
+{'ciba': ['S', 'IY1', 'B', 'AH0'], 'sunpoint': ['S', 'AH1', 'N', 'P', 'OY2', 'N', 'T']}
+{'bedner': ['B', 'EH1', 'D', 'N', 'ER0'], "bottom's": ['B', 'AA1', 'T', 'AH0', 'M', 'Z']}
+{'monsod': ['M', 'AA1', 'N', 'S', 'AA0', 'D'], 'mediators': ['M', 'IY1', 'D', 'IY0', 'EY2', 'T', 'ER0', 'Z']}
+{'horseback': ['HH', 'AO1', 'R', 'S', 'B', 'AE2', 'K'], 'homemade': ['HH', 'OW1', 'M', 'M', 'EY1', 'D']}
+{'hilda': ['HH', 'IH1', 'L', 'D', 'AH0'], 'hemmerle': ['HH', 'EH1', 'M', 'ER0', 'L', 'IY0']}
+{'courteous': ['K', 'ER1', 'T', 'IY0', 'AH0', 'S'], 'cartilage': ['K', 'AA1', 'R', 'T', 'AH0', 'L', 'AH0', 'JH']}
+{'rotter': ['R', 'AA1', 'T', 'ER0'], 'row': ['R', 'OW1']}
+{'fetching': ['F', 'EH1', 'CH', 'IH0', 'NG'], 'fawver': ['F', 'AO1', 'V', 'ER0']}
+{'hoelle': ['HH', 'OW1', 'L'], "hathaway's": ['HH', 'AE1', 'TH', 'AH0', 'W', 'EY2', 'Z']}
+{'fuzz': ['F', 'AH1', 'Z'], 'physicals': ['F', 'IH1', 'Z', 'IH0', 'K', 'AH0', 'L', 'Z']}
+{'hoelle': ['HH', 'OW1', 'L'], 'happenings': ['HH', 'AE1', 'P', 'AH0', 'N', 'IH0', 'NG', 'Z']}
+{'hilda': ['HH', 'IH1', 'L', 'D', 'AH0'], 'handkerchief': ['HH', 'AE1', 'NG', 'K', 'ER0', 'CH', 'IH0', 'F']}
+{'dieffenbach': ['D', 'IY1', 'F', 'IH0', 'N', 'B', 'AA0', 'K'], 'duk': ['D', 'AH1', 'K']}
+{'golfs': ['G', 'AA1', 'L', 'F', 'S'], 'gertrud': ['G', 'ER1', 'T', 'R', 'UW0', 'D']}
+{'koral': ['K', 'AO1', 'R', 'AH0', 'L'], 'candid(1)': ['K', 'AE1', 'N', 'D', 'IH0', 'D']}
+{'wola': ['W', 'OW1', 'L', 'AH0'], "whitman's": ['W', 'IH1', 'T', 'M', 'AH0', 'N', 'Z']}
+{'wound(1)': ['W', 'UW1', 'N', 'D'], 'womanizing': ['W', 'UH1', 'M', 'AH0', 'N', 'AY2', 'Z', 'IH0', 'NG']}
+{'datapoint': ['D', 'EY1', 'T', 'AH0', 'P', 'OY1', 'N', 'T'], 'duct': ['D', 'AH1', 'K', 'T']}
+{'marshburn': ['M', 'AA1', 'R', 'SH', 'B', 'ER2', 'N'], 'mensah': ['M', 'EH1', 'N', 'S', 'AH0']}
+{'tempted': ['T', 'EH1', 'M', 'P', 'T', 'IH0', 'D'], 'turville': ['T', 'ER1', 'V', 'IH2', 'L']}
+{'leavitt': ['L', 'EH1', 'V', 'IH0', 'T'], 'lomak': ['L', 'OW1', 'M', 'AE0', 'K']}
+{'kirks': ['K', 'ER1', 'K', 'S'], 'kilbourn': ['K', 'IH1', 'L', 'B', 'ER0', 'N']}
+{'perched': ['P', 'ER1', 'CH', 'T'], 'pollak': ['P', 'AA1', 'L', 'AH0', 'K']}
+{'waverly': ['W', 'EY1', 'V', 'ER0', 'L', 'IY0'], 'werle': ['W', 'ER1', 'L']}
+{'sharpen': ['SH', 'AA1', 'R', 'P', 'AH0', 'N'], 'shortridge': ['SH', 'AO1', 'R', 'T', 'R', 'IH0', 'JH']}
+{'marantette': ['M', 'EH1', 'R', 'AH0', 'N', 'T', 'EH2', 'T'], 'mitigate': ['M', 'IH1', 'T', 'AH0', 'G', 'EY2', 'T']}
+{'sudler(1)': ['S', 'UW1', 'D', 'L', 'ER0'], 'saleswoman': ['S', 'EY1', 'L', 'Z', 'W', 'UH2', 'M', 'AH0', 'N']}
+{'sandpaper': ['S', 'AE1', 'N', 'D', 'P', 'EY2', 'P', 'ER0'], 'sidearm': ['S', 'AY1', 'D', 'AA0', 'R', 'M']}
+{'monsod': ['M', 'AA1', 'N', 'S', 'AA0', 'D'], 'moler': ['M', 'OW1', 'L', 'ER0']}
+{'tinkerers': ['T', 'IH1', 'NG', 'K', 'ER0', 'ER0', 'Z'], 'timetable': ['T', 'AY1', 'M', 'T', 'EY2', 'B', 'AH0', 'L']}
+{'hohlt': ['HH', 'OW1', 'L', 'T'], 'harvel': ['HH', 'AA1', 'R', 'V', 'AH0', 'L']}
+{'late-night': ['L', 'EY1', 'T', 'N', 'AY2', 'T'], 'loman': ['L', 'OW1', 'M', 'AH0', 'N']}
+{'saleswoman': ['S', 'EY1', 'L', 'Z', 'W', 'UH2', 'M', 'AH0', 'N'], 'sermersheim': ['S', 'ER1', 'M', 'ER0', 'S', 'HH', 'AY0', 'M']}
+{'boltzmanns': ['B', 'OW1', 'L', 'T', 'S', 'M', 'AH0', 'N', 'Z'], 'bauza': ['B', 'AW1', 'Z', 'AH0']}
+{'horseback': ['HH', 'AO1', 'R', 'S', 'B', 'AE2', 'K'], 'hemmerle': ['HH', 'EH1', 'M', 'ER0', 'L', 'IY0']}
+{'leclere': ['L', 'EH1', 'K', 'L', 'ER0'], 'linkous': ['L', 'IH1', 'NG', 'K', 'AH0', 'S']}
+{'fettered': ['F', 'EH1', 'T', 'ER0', 'D'], 'fantasizing': ['F', 'AE1', 'N', 'T', 'AH0', 'S', 'AY2', 'Z', 'IH0', 'NG']}
+{"datsun's(1)": ['D', 'AA1', 'T', 'S', 'AH0', 'N', 'Z'], 'dupre': ['D', 'AH1', 'P', 'R', 'EY0']}
+{'rubbermaid': ['R', 'AH1', 'B', 'ER0', 'M', 'EY2', 'D'], 'riffs': ['R', 'IH1', 'F', 'S']}
+{'bedner': ['B', 'EH1', 'D', 'N', 'ER0'], "business'": ['B', 'IH1', 'Z', 'N', 'IH0', 'S']}
+{'muckleroy': ['M', 'AH1', 'K', 'L', 'ER0', 'OY0'], 'menges': ['M', 'EH1', 'N', 'JH', 'IH0', 'Z']}
+{'mezzo': ['M', 'EH1', 'Z', 'OW0'], 'mangham': ['M', 'AE1', 'NG', 'G', 'AH0', 'M']}
+{'ruehl': ['R', 'UH1', 'L'], 'redlining': ['R', 'EH1', 'D', 'L', 'AY2', 'N', 'IH0', 'NG']}
+{'burgett': ['B', 'ER1', 'JH', 'IH0', 'T'], 'balz': ['B', 'AO1', 'L', 'Z']}
+{'nahum': ['N', 'AE1', 'HH', 'AH0', 'M'], "nobody'd": ['N', 'OW1', 'B', 'AA2', 'D', 'IY2', 'D']}
+{'belcourt': ['B', 'EH1', 'L', 'K', 'AO2', 'R', 'T'], 'bullhead': ['B', 'UH1', 'L', 'HH', 'EH2', 'D']}
+{'milius': ['M', 'AY1', 'L', 'IY0', 'IH0', 'S'], 'markson': ['M', 'AA1', 'R', 'K', 'S', 'AH0', 'N']}
+{'kirks': ['K', 'ER1', 'K', 'S'], 'corath': ['K', 'AO1', 'R', 'AE1', 'TH']}
+{'faria': ['F', 'AA1', 'R', 'IY0', 'AH0'], 'fetching': ['F', 'EH1', 'CH', 'IH0', 'NG']}
+{'tao': ['T', 'AW1'], 'taxied': ['T', 'AE1', 'K', 'S', 'IY0', 'D']}
+{'comrade': ['K', 'AA1', 'M', 'R', 'AE2', 'D'], 'counterman': ['K', 'AW1', 'N', 'T', 'ER0', 'M', 'AE2', 'N']}
+{'hydrox': ['HH', 'AY1', 'D', 'R', 'AO2', 'K', 'S'], 'hegna': ['HH', 'EH1', 'G', 'N', 'AH0']}
+{'sallis': ['S', 'AE1', 'L', 'IH0', 'S'], "sokolow's": ['S', 'AA1', 'K', 'AH0', 'L', 'OW2', 'Z']}
+{'milius': ['M', 'AY1', 'L', 'IY0', 'IH0', 'S'], 'marous': ['M', 'EH1', 'R', 'AH0', 'S']}
+{'leibowitz': ['L', 'IY1', 'B', 'OW0', 'IH0', 'T', 'S'], 'lefties': ['L', 'EH1', 'F', 'T', 'IY0', 'Z']}
+{'boge': ['B', 'OW1', 'JH'], 'bahner': ['B', 'AA1', 'N', 'ER0']}
+{'lefties': ['L', 'EH1', 'F', 'T', 'IY0', 'Z'], "luke's": ['L', 'UW1', 'K', 'S']}
+{'late-night': ['L', 'EY1', 'T', 'N', 'AY2', 'T'], 'lorimer': ['L', 'AO1', 'R', 'IH0', 'M', 'ER0']}
+{'sidearm': ['S', 'AY1', 'D', 'AA0', 'R', 'M'], "solwin's": ['S', 'OW1', 'L', 'W', 'IH2', 'N', 'Z']}
+{'coverage': ['K', 'AH1', 'V', 'ER0', 'AH0', 'JH'], 'kingsbridge': ['K', 'IH1', 'NG', 'Z', 'B', 'R', 'IH2', 'JH']}
+{"sokolow's": ['S', 'AA1', 'K', 'AH0', 'L', 'OW2', 'Z'], 'sunpoint': ['S', 'AH1', 'N', 'P', 'OY2', 'N', 'T']}
+{'bodden': ['B', 'AA1', 'D', 'AH0', 'N'], 'bubeck': ['B', 'UW1', 'B', 'EH0', 'K']}
+{'coursey': ['K', 'AO1', 'R', 'S', 'IY0'], 'kannenberg': ['K', 'AE1', 'N', 'AH0', 'N', 'B', 'ER0', 'G']}
+{'cooing': ['K', 'UW1', 'IH0', 'NG'], 'kittrell': ['K', 'IH1', 'T', 'R', 'AH0', 'L']}
+{"kemp's": ['K', 'EH1', 'M', 'P', 'S'], 'copperhead': ['K', 'AA1', 'P', 'ER0', 'HH', 'EH2', 'D']}
+{"reebok's": ['R', 'IY1', 'B', 'AA0', 'K', 'S'], 'riffs': ['R', 'IH1', 'F', 'S']}
+{'reine': ['R', 'EY1', 'N'], "rather's": ['R', 'AE1', 'DH', 'ER0', 'Z']}
+{'biever': ['B', 'IY1', 'V', 'ER0'], 'boyea': ['B', 'OY1', 'IY0', 'AH0']}
+{'bullhead': ['B', 'UH1', 'L', 'HH', 'EH2', 'D'], 'bobrow': ['B', 'AA1', 'B', 'R', 'OW2']}
+{"kemp's": ['K', 'EH1', 'M', 'P', 'S'], 'khalsa': ['K', 'AA1', 'L', 'S', 'AH0']}
+{'horseback': ['HH', 'AO1', 'R', 'S', 'B', 'AE2', 'K'], "hathaway's": ['HH', 'AE1', 'TH', 'AH0', 'W', 'EY2', 'Z']}
+{'devil': ['D', 'EH1', 'V', 'AH0', 'L'], 'dearmon': ['D', 'ER1', 'M', 'AH0', 'N']}
+{'shadowens': ['SH', 'AE1', 'D', 'OW0', 'AH0', 'N', 'Z'], 'chic': ['SH', 'IY1', 'K']}
+{'cartilage': ['K', 'AA1', 'R', 'T', 'AH0', 'L', 'AH0', 'JH'], 'cowboy': ['K', 'AW1', 'B', 'OY2']}
+{'whitmoyer': ['W', 'IH1', 'T', 'M', 'OY2', 'ER0'], 'whedon': ['W', 'EH1', 'D', 'AH0', 'N']}
+{'muckleroy(1)': ['M', 'AH1', 'K', 'AH0', 'L', 'R', 'OY0'], 'maxis': ['M', 'AE1', 'K', 'S', 'IY0', 'Z']}
+{'buggy': ['B', 'AH1', 'G', 'IY0'], 'biddinger': ['B', 'IH1', 'D', 'IH0', 'NG', 'ER0']}
+{'heydt': ['HH', 'EY1', 'D', 'T'], 'hommes': ['HH', 'AA1', 'M', 'Z']}
+{'wound(1)': ['W', 'UW1', 'N', 'D'], 'walthour': ['W', 'AO1', 'L', 'T', 'AW0', 'R']}
+{'rockaway': ['R', 'AA1', 'K', 'AH0', 'W', 'EY2'], 'rubbermaid': ['R', 'AH1', 'B', 'ER0', 'M', 'EY2', 'D']}
+{'wuliger': ['W', 'UW1', 'L', 'IH0', 'G', 'ER0'], 'wasinger': ['W', 'AO1', 'S', 'IH0', 'N', 'JH', 'ER0']}
+{'vehicle': ['V', 'IY1', 'HH', 'IH0', 'K', 'AH0', 'L'], 'violates': ['V', 'AY1', 'AH0', 'L', 'EY0', 'T', 'S']}
+{'lumex': ['L', 'UW1', 'M', 'AH0', 'K', 'S'], 'lalla': ['L', 'AE1', 'L', 'AH0']}
+{'kellwood': ['K', 'EH1', 'L', 'W', 'UH2', 'D'], 'katt': ['K', 'AE1', 'T']}
+{'hookworms': ['HH', 'UH1', 'K', 'W', 'ER0', 'M', 'Z'], 'hegna': ['HH', 'EH1', 'G', 'N', 'AH0']}
+{'withrow': ['W', 'IH1', 'TH', 'R', 'OW2'], 'whedon': ['W', 'EH1', 'D', 'AH0', 'N']}
+{'kirkhart': ['K', 'ER1', 'K', 'HH', 'AA0', 'R', 'T'], 'katt': ['K', 'AE1', 'T']}
+{'dieffenbach': ['D', 'IY1', 'F', 'IH0', 'N', 'B', 'AA0', 'K'], 'dycus': ['D', 'AY1', 'K', 'AH0', 'S']}
+{'kelsey': ['K', 'EH1', 'L', 'S', 'IY0'], 'cowboy': ['K', 'AW1', 'B', 'OY2']}
+{'godding': ['G', 'AA1', 'D', 'IH0', 'NG'], 'gertrud': ['G', 'ER1', 'T', 'R', 'UW0', 'D']}
+{'marous': ['M', 'EH1', 'R', 'AH0', 'S'], "malcolm's": ['M', 'AE1', 'L', 'K', 'AH0', 'M', 'Z']}
+{'firebrands': ['F', 'AY1', 'ER0', 'B', 'R', 'AE2', 'N', 'D', 'Z'], 'fetching': ['F', 'EH1', 'CH', 'IH0', 'NG']}
+{'megafoods': ['M', 'EH1', 'G', 'AH0', 'F', 'UW2', 'D', 'Z'], 'micallef': ['M', 'IH1', 'K', 'AH0', 'L', 'EH0', 'F']}
+{'sikes': ['S', 'AY1', 'K', 'S'], 'sypolt': ['S', 'IH1', 'P', 'OW0', 'L', 'T']}
+{'corath': ['K', 'AO1', 'R', 'AE1', 'TH'], 'kamps': ['K', 'AE1', 'M', 'P', 'S']}
+{"sokolow's": ['S', 'AA1', 'K', 'AH0', 'L', 'OW2', 'Z'], 'seagulls': ['S', 'IY1', 'G', 'AH2', 'L', 'Z']}
+{'learns': ['L', 'ER1', 'N', 'Z'], 'lutzke': ['L', 'AH1', 'T', 'S', 'K', 'IY0']}
+{'goran': ['G', 'AO1', 'R', 'AH0', 'N'], 'gainor': ['G', 'EY1', 'N', 'ER0']}
+{'salsberry': ['S', 'AE1', 'L', 'S', 'B', 'AH0', 'R', 'IY0'], 'subplots': ['S', 'AH1', 'B', 'P', 'L', 'AA0', 'T', 'S']}
+{'sica': ['S', 'IY1', 'K', 'AH0'], 'sins': ['S', 'IH1', 'N', 'Z']}
+{'bodden': ['B', 'AA1', 'D', 'AH0', 'N'], 'bora': ['B', 'AO1', 'R', 'AH0']}
+{'kellwood': ['K', 'EH1', 'L', 'W', 'UH2', 'D'], 'kamra': ['K', 'AE1', 'M', 'R', 'AH0']}
+{'kokesh': ['K', 'AA1', 'K', 'IH0', 'SH'], 'kit': ['K', 'IH1', 'T']}
+{'naill': ['N', 'EY1', 'L'], 'nooks': ['N', 'UH1', 'K', 'S']}
+{'homemade': ['HH', 'OW1', 'M', 'M', 'EY1', 'D'], 'hollister': ['HH', 'AA1', 'L', 'IH0', 'S', 'T', 'ER0']}
+{'pilgrim(1)': ['P', 'IH1', 'L', 'G', 'R', 'IH0', 'M'], 'paralyzing': ['P', 'EH1', 'R', 'AH0', 'L', 'AY2', 'Z', 'IH0', 'NG']}
+{'hundredweight': ['HH', 'AH1', 'N', 'D', 'R', 'AH0', 'D', 'W', 'EY2', 'T'], 'hommes': ['HH', 'AA1', 'M', 'Z']}
+{'copperhead': ['K', 'AA1', 'P', 'ER0', 'HH', 'EH2', 'D'], 'kingsley': ['K', 'IH1', 'NG', 'Z', 'L', 'IY0']}
+{"kemp's": ['K', 'EH1', 'M', 'P', 'S'], 'corath': ['K', 'AO1', 'R', 'AE1', 'TH']}
+{'dame': ['D', 'EY1', 'M'], 'dordies': ['D', 'AO1', 'R', 'D', 'IY0', 'Z']}
+{'leon': ['L', 'IY1', 'AA0', 'N'], 'lorimer': ['L', 'AO1', 'R', 'IH0', 'M', 'ER0']}
+{'donilon': ['D', 'AA1', 'N', 'AH0', 'L', 'AA0', 'N'], 'denbo': ['D', 'IY1', 'N', 'B', 'OW0']}
+{"kemp's": ['K', 'EH1', 'M', 'P', 'S'], 'kamps': ['K', 'AE1', 'M', 'P', 'S']}
+{'burruss': ['B', 'UH1', 'R', 'AH0', 'S'], 'bauza': ['B', 'AW1', 'Z', 'AH0']}
+{'saleswoman': ['S', 'EY1', 'L', 'Z', 'W', 'UH2', 'M', 'AH0', 'N'], 'sikes': ['S', 'AY1', 'K', 'S']}
+{'koral': ['K', 'AO1', 'R', 'AH0', 'L'], 'kandel': ['K', 'AE1', 'N', 'D', 'AH0', 'L']}
+{'backpedaled': ['B', 'AE1', 'K', 'P', 'EH2', 'D', 'AH0', 'L', 'D'], 'bodden': ['B', 'AA1', 'D', 'AH0', 'N']}
+{'tu': ['T', 'UW1'], 'tithe': ['T', 'AY1', 'DH']}
+{'boltzmanns': ['B', 'OW1', 'L', 'T', 'S', 'M', 'AH0', 'N', 'Z'], 'boyea': ['B', 'OY1', 'IY0', 'AH0']}
+{'polis(1)': ['P', 'OW1', 'L', 'AY0', 'Z'], 'penance': ['P', 'EH1', 'N', 'AH0', 'N', 'S']}
+{'muckleroy(1)': ['M', 'AH1', 'K', 'AH0', 'L', 'R', 'OY0'], 'messmore': ['M', 'EH1', 'S', 'M', 'AO0', 'R']}
+{'kaler': ['K', 'EY1', 'L', 'ER0'], 'kilbourn': ['K', 'IH1', 'L', 'B', 'ER0', 'N']}
+{'devil': ['D', 'EH1', 'V', 'AH0', 'L'], 'diers': ['D', 'IY1', 'ER0', 'Z']}
+{'discounting(1)': ['D', 'IH1', 'S', 'K', 'AW2', 'N', 'IH0', 'NG'], 'dearmon': ['D', 'ER1', 'M', 'AH0', 'N']}
+{'rosh': ['R', 'AO1', 'SH'], 'rowles': ['R', 'OW1', 'L', 'Z']}
+{'bedner': ['B', 'EH1', 'D', 'N', 'ER0'], 'barkocy': ['B', 'AA1', 'R', 'K', 'AH0', 'S', 'IY0']}
+{'reaume': ['R', 'UW1', 'M'], "rather's": ['R', 'AE1', 'DH', 'ER0', 'Z']}
+{"sokolow's": ['S', 'AA1', 'K', 'AH0', 'L', 'OW2', 'Z'], 'synar(1)': ['S', 'AY1', 'N', 'AA0', 'R']}
+{'kirks': ['K', 'ER1', 'K', 'S'], 'canaday': ['K', 'AE1', 'N', 'AH0', 'D', 'EY2']}
+{'kirks': ['K', 'ER1', 'K', 'S'], 'koth': ['K', 'AA1', 'TH']}
