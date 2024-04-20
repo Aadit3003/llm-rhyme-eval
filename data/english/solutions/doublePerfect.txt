@@ -1,0 +1,562 @@
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'equivocation': ['IH0', 'K', 'W', 'IH0', 'V', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'approbation': ['AE2', 'P', 'R', 'AH0', 'B', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'communization': ['K', 'AA2', 'M', 'Y', 'AH0', 'N', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'reaffirmation': ['R', 'IY2', 'AE0', 'F', 'ER0', 'M', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'demodulation': ['D', 'IY2', 'M', 'AA2', 'JH', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'elevation': ['EH2', 'L', 'AH0', 'V', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'situation': ['S', 'IH2', 'CH', 'UW0', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'education': ['EH2', 'JH', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'specialization': ['S', 'P', 'EH2', 'SH', 'AH0', 'L', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'fluoridation(1)': ['F', 'L', 'AO2', 'R', 'AH0', 'D', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'ideation': ['AY2', 'D', 'IY0', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'communication': ['K', 'AH0', 'M', 'Y', 'UW2', 'N', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'permutation': ['P', 'ER2', 'M', 'Y', 'UW0', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'confabulation': ['K', 'AH0', 'N', 'F', 'AE2', 'B', 'Y', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'habitation': ['HH', 'AE2', 'B', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'creation': ['K', 'R', 'IY0', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'modernization': ['M', 'AA2', 'D', 'ER0', 'N', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'delineation': ['D', 'IH0', 'L', 'IH2', 'N', 'IY0', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'hesitation': ['HH', 'EH2', 'Z', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'politicization': ['P', 'AH0', 'L', 'IH2', 'T', 'AH0', 'S', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'inauguration': ['IH2', 'N', 'AO2', 'G', 'Y', 'AH0', 'R', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'affectation': ['AE2', 'F', 'EH0', 'K', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'collocation': ['K', 'AA0', 'L', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'stratification': ['S', 'T', 'R', 'AE2', 'T', 'AH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'anticipation': ['AE0', 'N', 'T', 'IH2', 'S', 'AH0', 'P', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'presentation': ['P', 'R', 'EH2', 'Z', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'origination': ['ER0', 'IH2', 'JH', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'decriminalization': ['D', 'IY0', 'K', 'R', 'IH2', 'M', 'AH0', 'N', 'AH0', 'L', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'privatisation': ['P', 'R', 'AY1', 'V', 'AH0', 'T', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'denuclearization': ['D', 'IY0', 'N', 'UW2', 'K', 'L', 'IY0', 'ER2', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'alteration': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'information': ['IH2', 'N', 'F', 'AO2', 'R', 'M', 'EY1', 'SH', 'AH0', 'N']}
+{'positions': ['P', 'AH0', 'Z', 'IH1', 'SH', 'AH0', 'N', 'Z'], 'additions': ['AH0', 'D', 'IH1', 'SH', 'AH0', 'N', 'Z']}
+{'positions': ['P', 'AH0', 'Z', 'IH1', 'SH', 'AH0', 'N', 'Z'], 'inhibitions': ['IH2', 'N', 'HH', 'AH0', 'B', 'IH1', 'SH', 'AH0', 'N', 'Z']}
+{'positions': ['P', 'AH0', 'Z', 'IH1', 'SH', 'AH0', 'N', 'Z'], 'coalitions': ['K', 'OW2', 'AH0', 'L', 'IH1', 'SH', 'AH0', 'N', 'Z']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'litigation': ['L', 'IH2', 'T', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'desolation': ['D', 'EH2', 'S', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'laceration': ['L', 'AE2', 'S', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'veneration': ['V', 'EH2', 'N', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'syndication': ['S', 'IH2', 'N', 'D', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'emanation': ['EH2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'corroboration': ['K', 'ER0', 'AO2', 'B', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'reconfirmation': ['R', 'IY2', 'K', 'AA2', 'N', 'F', 'ER0', 'M', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'extermination': ['IH0', 'K', 'S', 'T', 'ER2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'allegation': ['AE2', 'L', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'punctuation': ['P', 'AH2', 'NG', 'K', 'CH', 'UW0', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'illustration': ['IH2', 'L', 'AH0', 'S', 'T', 'R', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'implantation': ['IH2', 'M', 'P', 'L', 'AE0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'pollination': ['P', 'AA2', 'L', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'reunification': ['R', 'IY0', 'UW2', 'N', 'AH0', 'F', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'disorientation': ['D', 'IH0', 'S', 'AO2', 'R', 'IY0', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'russification(1)': ['R', 'UW2', 'S', 'AH0', 'F', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'delineation': ['D', 'IH0', 'L', 'IH2', 'N', 'IY0', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'ornamentation': ['AO2', 'R', 'N', 'AH0', 'M', 'EH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], "d'aviation": ['D', 'EY2', 'V', 'IY0', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'infatuation': ['IH2', 'N', 'F', 'AE2', 'CH', 'UW0', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'nation': ['N', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'regulation': ['R', 'EH2', 'G', 'Y', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'qualification': ['K', 'W', 'AA2', 'L', 'AH0', 'F', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'mummification': ['M', 'AH2', 'M', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'deprivation': ['D', 'EH2', 'P', 'R', 'AH0', 'V', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'reconfiguration': ['R', 'IY0', 'K', 'AH0', 'N', 'F', 'IH2', 'G', 'Y', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'documentation': ['D', 'AA2', 'K', 'Y', 'AH0', 'M', 'EH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'subordination': ['S', 'AH0', 'B', 'AO2', 'R', 'D', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'constellation': ['K', 'AA2', 'N', 'S', 'T', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'correlation': ['K', 'AO2', 'R', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'saudiization': ['S', 'AW2', 'IY0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'intensification': ['IH2', 'N', 'T', 'EH2', 'N', 'S', 'IH0', 'F', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{"situation's": ['S', 'IH2', 'CH', 'UW0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'delegations': ['D', 'EH2', 'L', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"situation's": ['S', 'IH2', 'CH', 'UW0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'innovations': ['IH2', 'N', 'AH0', 'V', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"situation's": ['S', 'IH2', 'CH', 'UW0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'congregations': ['K', 'AA2', 'NG', 'G', 'R', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"situation's": ['S', 'IH2', 'CH', 'UW0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'translations(1)': ['T', 'R', 'AE0', 'N', 'S', 'L', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"situation's": ['S', 'IH2', 'CH', 'UW0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'integrations': ['IH2', 'N', 'T', 'AH0', 'G', 'R', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"situation's": ['S', 'IH2', 'CH', 'UW0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'perforations': ['P', 'ER2', 'F', 'ER0', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"situation's": ['S', 'IH2', 'CH', 'UW0', 'EY1', 'SH', 'AH0', 'N', 'Z'], "education's": ['EH2', 'JH', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"situation's": ['S', 'IH2', 'CH', 'UW0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'combinations': ['K', 'AA2', 'M', 'B', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"situation's": ['S', 'IH2', 'CH', 'UW0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'aberrations': ['AE2', 'B', 'ER0', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"situation's": ['S', 'IH2', 'CH', 'UW0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'magnifications': ['M', 'AE2', 'G', 'N', 'AH0', 'F', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"situation's": ['S', 'IH2', 'CH', 'UW0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'justifications': ['JH', 'AH2', 'S', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"situation's": ['S', 'IH2', 'CH', 'UW0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'anticipations(1)': ['AE0', 'N', 'T', 'IH0', 'S', 'AH0', 'P', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"situation's": ['S', 'IH2', 'CH', 'UW0', 'EY1', 'SH', 'AH0', 'N', 'Z'], "telecommunications'": ['T', 'EH2', 'L', 'AH0', 'K', 'AH0', 'M', 'Y', 'UW2', 'N', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"situation's": ['S', 'IH2', 'CH', 'UW0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'amplifications': ['AE2', 'M', 'P', 'L', 'AH0', 'F', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"situation's": ['S', 'IH2', 'CH', 'UW0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'resignations': ['R', 'EH2', 'Z', 'IH0', 'G', 'N', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{'insinuation': ['IH2', 'N', 'S', 'IH2', 'N', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'generalization(1)': ['JH', 'EH2', 'N', 'R', 'AH0', 'L', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'insinuation': ['IH2', 'N', 'S', 'IH2', 'N', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'modulation': ['M', 'AO2', 'JH', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'insinuation': ['IH2', 'N', 'S', 'IH2', 'N', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'procrastination': ['P', 'R', 'AH0', 'K', 'R', 'AE2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'insinuation': ['IH2', 'N', 'S', 'IH2', 'N', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'americanization': ['AH0', 'M', 'EH2', 'R', 'IH0', 'K', 'AH0', 'N', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'insinuation': ['IH2', 'N', 'S', 'IH2', 'N', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'rationalization(1)': ['R', 'AE2', 'SH', 'N', 'AH0', 'L', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'insinuation': ['IH2', 'N', 'S', 'IH2', 'N', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'miseration': ['M', 'IH0', 'Z', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'insinuation': ['IH2', 'N', 'S', 'IH2', 'N', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'refutation': ['R', 'EH2', 'F', 'Y', 'UW0', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'insinuation': ['IH2', 'N', 'S', 'IH2', 'N', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'authentication': ['AO0', 'TH', 'EH2', 'N', 'T', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'insinuation': ['IH2', 'N', 'S', 'IH2', 'N', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'disorientation': ['D', 'IH0', 'S', 'AO2', 'R', 'IY0', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'insinuation': ['IH2', 'N', 'S', 'IH2', 'N', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'recitation': ['R', 'EH2', 'S', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'insinuation': ['IH2', 'N', 'S', 'IH2', 'N', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'sedation': ['S', 'AH0', 'D', 'EY1', 'SH', 'AH0', 'N']}
+{'insinuation': ['IH2', 'N', 'S', 'IH2', 'N', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'indication': ['IH2', 'N', 'D', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'insinuation': ['IH2', 'N', 'S', 'IH2', 'N', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'specification': ['S', 'P', 'EH2', 'S', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'insinuation': ['IH2', 'N', 'S', 'IH2', 'N', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'cogeneration': ['K', 'OW1', 'JH', 'EH1', 'N', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'insinuation': ['IH2', 'N', 'S', 'IH2', 'N', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'emigration': ['EH2', 'M', 'AH0', 'G', 'R', 'EY1', 'SH', 'AH0', 'N']}
+{'insinuation': ['IH2', 'N', 'S', 'IH2', 'N', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'fumigation': ['F', 'Y', 'UW2', 'M', 'IH0', 'G', 'EY1', 'SH', 'AH0', 'N']}
+{'insinuation': ['IH2', 'N', 'S', 'IH2', 'N', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'non-proliferation': ['N', 'AA0', 'N', 'P', 'R', 'AO0', 'L', 'IH2', 'F', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'insinuation': ['IH2', 'N', 'S', 'IH2', 'N', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'carnation': ['K', 'AA0', 'R', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'insinuation': ['IH2', 'N', 'S', 'IH2', 'N', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'insemination': ['IH2', 'N', 'S', 'EH2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'insinuation': ['IH2', 'N', 'S', 'IH2', 'N', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'nationalization(1)': ['N', 'AE2', 'SH', 'N', 'AH0', 'L', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'insinuation': ['IH2', 'N', 'S', 'IH2', 'N', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'education': ['EH2', 'JH', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'insinuation': ['IH2', 'N', 'S', 'IH2', 'N', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'fascination': ['F', 'AE2', 'S', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'insinuation': ['IH2', 'N', 'S', 'IH2', 'N', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'finlandization': ['F', 'IH2', 'N', 'L', 'AE0', 'N', 'D', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'insinuation': ['IH2', 'N', 'S', 'IH2', 'N', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'coloration': ['K', 'AH2', 'L', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'insinuation': ['IH2', 'N', 'S', 'IH2', 'N', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'reiteration': ['R', 'IY0', 'IH2', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'explication': ['EH2', 'K', 'S', 'P', 'L', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'nitration': ['N', 'AY0', 'T', 'R', 'EY1', 'SH', 'AH0', 'N']}
+{'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'speculation': ['S', 'P', 'EH2', 'K', 'Y', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'estimation': ['EH2', 'S', 'T', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N']}
+{'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'documentation(1)': ['D', 'AA2', 'K', 'Y', 'UW0', 'M', 'EH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'remuneration': ['R', 'IH0', 'M', 'Y', 'UW2', 'N', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'polarization': ['P', 'OW2', 'L', 'ER0', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'location': ['L', 'OW0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'rededication': ['R', 'IY0', 'D', 'EH2', 'D', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'gravitation': ['G', 'R', 'AE2', 'V', 'IH0', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'rotation': ['R', 'OW0', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'dictation': ['D', 'IH0', 'K', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'ratification': ['R', 'AE2', 'T', 'AH0', 'F', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'extrication': ['EH2', 'K', 'S', 'T', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'reinterpretation': ['R', 'IY0', 'IH0', 'N', 'T', 'ER2', 'P', 'R', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'sequestration': ['S', 'EH2', 'K', 'W', 'AH0', 'S', 'T', 'R', 'EY1', 'SH', 'AH0', 'N']}
+{'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'mechanization': ['M', 'EH2', 'K', 'AH0', 'N', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'maturation': ['M', 'AE2', 'CH', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'elation': ['IH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'anticipation': ['AE0', 'N', 'T', 'IH2', 'S', 'AH0', 'P', 'EY1', 'SH', 'AH0', 'N']}
+{'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'vegetation': ['V', 'EH2', 'JH', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'proration': ['P', 'R', 'OW2', 'R', 'EY1', 'SH', 'AH0', 'N']}
+{'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'revitalization': ['R', 'IY2', 'V', 'AY2', 'T', 'AH0', 'L', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'ovulation': ['OW2', 'V', 'Y', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'exploration(1)': ['EH2', 'K', 'S', 'P', 'L', 'AO0', 'R', 'EY1', 'SH', 'AH0', 'N']}
+{'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'ministration': ['M', 'IH2', 'N', 'AH0', 'S', 'T', 'R', 'EY1', 'SH', 'AH0', 'N']}
+{'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'compensation': ['K', 'AA2', 'M', 'P', 'AH0', 'N', 'S', 'EY1', 'SH', 'AH0', 'N']}
+{'conniption': ['K', 'AH0', 'N', 'IH1', 'P', 'SH', 'AH0', 'N'], 'conscription': ['K', 'AH0', 'N', 'S', 'K', 'R', 'IH1', 'P', 'SH', 'AH0', 'N']}
+{'submersion': ['S', 'AH0', 'B', 'M', 'ER1', 'ZH', 'AH0', 'N'], 'dispersion': ['D', 'IH0', 'S', 'P', 'ER1', 'ZH', 'AH0', 'N']}
+{'attrition': ['AH0', 'T', 'R', 'IH1', 'SH', 'AH0', 'N'], 'opposition': ['AA2', 'P', 'AH0', 'Z', 'IH1', 'SH', 'AH0', 'N']}
+{'attrition': ['AH0', 'T', 'R', 'IH1', 'SH', 'AH0', 'N'], 'recission': ['R', 'AH0', 'S', 'IH1', 'SH', 'AH0', 'N']}
+{'attrition': ['AH0', 'T', 'R', 'IH1', 'SH', 'AH0', 'N'], 'extradition': ['EH2', 'K', 'S', 'T', 'R', 'AH0', 'D', 'IH1', 'SH', 'AH0', 'N']}
+{'attrition': ['AH0', 'T', 'R', 'IH1', 'SH', 'AH0', 'N'], 'tradition': ['T', 'R', 'AH0', 'D', 'IH1', 'SH', 'AH0', 'N']}
+{'attrition': ['AH0', 'T', 'R', 'IH1', 'SH', 'AH0', 'N'], 'edition': ['AH0', 'D', 'IH1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'renationalization': ['R', 'IY0', 'N', 'AE2', 'SH', 'AH0', 'N', 'AH0', 'L', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'internationalization': ['IH2', 'N', 'T', 'ER0', 'N', 'AE2', 'SH', 'AH0', 'N', 'AA0', 'L', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'documentation': ['D', 'AA2', 'K', 'Y', 'AH0', 'M', 'EH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'insulation': ['IH2', 'N', 'S', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'cancellation': ['K', 'AE2', 'N', 'S', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'syndication': ['S', 'IH2', 'N', 'D', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'liberalization': ['L', 'IH2', 'B', 'ER2', 'AH0', 'L', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'revitalization': ['R', 'IY2', 'V', 'AY2', 'T', 'AH0', 'L', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'vindication': ['V', 'IH0', 'N', 'D', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'desegregation': ['D', 'IH0', 'S', 'EH2', 'G', 'R', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'rehabilitation': ['R', 'IY2', 'HH', 'AH0', 'B', 'IH2', 'L', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'decoration': ['D', 'EH2', 'K', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'recommendation': ['R', 'EH2', 'K', 'AH0', 'M', 'AH0', 'N', 'D', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'cannibalization': ['K', 'AE2', 'N', 'AH0', 'B', 'AH0', 'L', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'transformation': ['T', 'R', 'AE2', 'N', 'S', 'F', 'ER0', 'M', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'demobilization(1)': ['D', 'IY0', 'M', 'OW2', 'B', 'AH0', 'L', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'affectation': ['AE2', 'F', 'EH0', 'K', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'abnegation': ['AE2', 'B', 'N', 'EH0', 'G', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'legislation': ['L', 'EH2', 'JH', 'AH0', 'S', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'allegation': ['AE2', 'L', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'dislocation': ['D', 'IH0', 'S', 'L', 'OW1', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'dispensation': ['D', 'IH2', 'S', 'P', 'AH0', 'N', 'S', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'limitation': ['L', 'IH2', 'M', 'IH0', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'articulation': ['AA2', 'R', 'T', 'IH0', 'K', 'Y', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'situation': ['S', 'IH2', 'CH', 'UW0', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'extrapolation': ['EH0', 'K', 'S', 'T', 'R', 'AE2', 'P', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'self-replication': ['S', 'EH2', 'L', 'F', 'R', 'EH2', 'P', 'L', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'nationalization': ['N', 'AE2', 'SH', 'AH0', 'N', 'AH0', 'L', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'expiration': ['EH2', 'K', 'S', 'P', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'disorganization': ['D', 'IH0', 'S', 'AO2', 'R', 'G', 'AH0', 'N', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'prognostication': ['P', 'R', 'AA0', 'G', 'N', 'AA2', 'S', 'T', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'generalization': ['JH', 'EH2', 'N', 'ER0', 'AH0', 'L', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'stabilization': ['S', 'T', 'EY2', 'B', 'AH0', 'L', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'decapitation': ['D', 'IH0', 'K', 'AE2', 'P', 'IH0', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'defenestration': ['D', 'IY0', 'F', 'EH2', 'N', 'EH0', 'S', 'T', 'R', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'civilization': ['S', 'IH2', 'V', 'AH0', 'L', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'respiration': ['R', 'EH2', 'S', 'P', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'escalation': ['EH2', 'S', 'K', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'stipulation': ['S', 'T', 'IH2', 'P', 'Y', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'qualification': ['K', 'W', 'AA2', 'L', 'AH0', 'F', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'manifestation': ['M', 'AE2', 'N', 'AH0', 'F', 'EH0', 'S', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'sedimentation': ['S', 'EH2', 'D', 'AH0', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'maturation': ['M', 'AE2', 'CH', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'colorization': ['K', 'AH2', 'L', 'ER0', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'toleration': ['T', 'AA2', 'L', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'predestination': ['P', 'R', 'IY2', 'D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'advocation': ['AE2', 'D', 'V', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'self-perpetuation': ['S', 'EH2', 'L', 'F', 'P', 'ER0', 'P', 'EH2', 'CH', 'UW0', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'vocation': ['V', 'OW0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'self-organisation': ['S', 'EH2', 'L', 'F', 'AO2', 'R', 'G', 'AH0', 'N', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'marginalization': ['M', 'AA2', 'R', 'JH', 'AH0', 'N', 'AH0', 'L', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'corroboration': ['K', 'ER0', 'AO2', 'B', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'differentiation(1)': ['D', 'IH2', 'F', 'ER0', 'EH2', 'N', 'CH', 'IY0', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'culmination': ['K', 'AH2', 'L', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'variation': ['V', 'EH2', 'R', 'IY0', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'reclamation': ['R', 'EH2', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'cohabitation': ['K', 'OW0', 'HH', 'AE2', 'B', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'reverberation': ['R', 'IY0', 'V', 'ER2', 'B', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'reinterpretation': ['R', 'IY0', 'IH0', 'N', 'T', 'ER2', 'P', 'R', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'alphabetization': ['AE2', 'L', 'F', 'AH0', 'B', 'EH2', 'T', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'deprivation': ['D', 'EH2', 'P', 'R', 'AH0', 'V', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'deregulation': ['D', 'IY0', 'R', 'EH2', 'G', 'Y', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'extrication': ['EH2', 'K', 'S', 'T', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'recapitalization': ['R', 'IY2', 'K', 'AE2', 'P', 'IH0', 'T', 'AH0', 'L', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'vindication': ['V', 'IH0', 'N', 'D', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'hybridization': ['HH', 'AY2', 'B', 'R', 'AH0', 'D', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'affrication': ['AE2', 'F', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'meditation': ['M', 'EH2', 'D', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'conjugation': ['K', 'AA2', 'N', 'JH', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N'], 'pressurization': ['P', 'R', 'EH2', 'SH', 'ER0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'acquisitions': ['AE2', 'K', 'W', 'AH0', 'Z', 'IH1', 'SH', 'AH0', 'N', 'Z'], 'petitions': ['P', 'AH0', 'T', 'IH1', 'SH', 'AH0', 'N', 'Z']}
+{'acquisitions': ['AE2', 'K', 'W', 'AH0', 'Z', 'IH1', 'SH', 'AH0', 'N', 'Z'], 'munitions': ['M', 'Y', 'UW0', 'N', 'IH1', 'SH', 'AH0', 'N', 'Z']}
+{'acquisitions': ['AE2', 'K', 'W', 'AH0', 'Z', 'IH1', 'SH', 'AH0', 'N', 'Z'], 'admissions': ['AE0', 'D', 'M', 'IH1', 'SH', 'AH0', 'N', 'Z']}
+{'acquisitions': ['AE2', 'K', 'W', 'AH0', 'Z', 'IH1', 'SH', 'AH0', 'N', 'Z'], 'superstitions': ['S', 'UW2', 'P', 'ER0', 'S', 'T', 'IH1', 'SH', 'AH0', 'N', 'Z']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'impersonation': ['IH2', 'M', 'P', 'ER0', 'S', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'maximization': ['M', 'AE2', 'K', 'S', 'IH0', 'M', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'navigation': ['N', 'AE1', 'V', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'imagination': ['IH2', 'M', 'AE2', 'JH', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'overpopulation': ['OW2', 'V', 'ER0', 'P', 'AA2', 'P', 'Y', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'transplantation': ['T', 'R', 'AE2', 'N', 'Z', 'P', 'L', 'AE0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'affiliation': ['AH0', 'F', 'IH2', 'L', 'IY0', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'consideration': ['K', 'AH0', 'N', 'S', 'IH2', 'D', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'degradation': ['D', 'EH2', 'G', 'R', 'AH0', 'D', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'sedation': ['S', 'AH0', 'D', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'evacuation(1)': ['IY0', 'V', 'AE1', 'K', 'Y', 'AH0', 'W', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'cessation': ['S', 'EH2', 'S', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'toleration': ['T', 'AA2', 'L', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'mutation': ['M', 'Y', 'UW0', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'delegation': ['D', 'EH2', 'L', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'self-organization': ['S', 'EH2', 'L', 'F', 'AO2', 'R', 'G', 'AH0', 'N', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'reconsideration': ['R', 'IY0', 'K', 'AH0', 'N', 'S', 'IH2', 'D', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'collocation': ['K', 'AA0', 'L', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'destination': ['D', 'EH2', 'S', 'T', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'sedimentation': ['S', 'EH2', 'D', 'AH0', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'differentiation(1)': ['D', 'IH2', 'F', 'ER0', 'EH2', 'N', 'CH', 'IY0', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'inoculation': ['IH2', 'N', 'AA2', 'K', 'Y', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'unionization': ['Y', 'UW2', 'N', 'Y', 'AH0', 'N', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'remuneration': ['R', 'IH0', 'M', 'Y', 'UW2', 'N', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'recuperation': ['R', 'IH0', 'K', 'UW2', 'P', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'gastrulation': ['G', 'AE2', 'S', 'T', 'R', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'hibernation': ['HH', 'AY2', 'B', 'ER0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'communication': ['K', 'AH0', 'M', 'Y', 'UW2', 'N', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'valuation': ['V', 'AE0', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N'], 'declaration': ['D', 'EH2', 'K', 'L', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'associations': ['AH0', 'S', 'OW2', 'S', 'IY0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'generations': ['JH', 'EH2', 'N', 'ER0', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{'associations': ['AH0', 'S', 'OW2', 'S', 'IY0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'limitations': ['L', 'IH2', 'M', 'IH0', 'T', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{'associations': ['AH0', 'S', 'OW2', 'S', 'IY0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'graduations(1)': ['G', 'R', 'AE2', 'JH', 'AH0', 'W', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{'associations': ['AH0', 'S', 'OW2', 'S', 'IY0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'relocations': ['R', 'IY2', 'L', 'OW1', 'K', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{'associations': ['AH0', 'S', 'OW2', 'S', 'IY0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'educations(1)': ['EH2', 'JH', 'Y', 'UW0', 'K', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{'associations': ['AH0', 'S', 'OW2', 'S', 'IY0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'rotations': ['R', 'OW0', 'T', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{'associations': ['AH0', 'S', 'OW2', 'S', 'IY0', 'EY1', 'SH', 'AH0', 'N', 'Z'], "denomination's": ['D', 'IH0', 'N', 'AO2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{'associations': ['AH0', 'S', 'OW2', 'S', 'IY0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'preoccupations': ['P', 'R', 'IY0', 'AA2', 'K', 'Y', 'AH0', 'P', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{'associations': ['AH0', 'S', 'OW2', 'S', 'IY0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'inspirations': ['IH2', 'N', 'S', 'P', 'ER0', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{'associations': ['AH0', 'S', 'OW2', 'S', 'IY0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'eliminations': ['IH0', 'L', 'IH2', 'M', 'IH0', 'N', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{'associations': ['AH0', 'S', 'OW2', 'S', 'IY0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'animations': ['AE2', 'N', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{'associations': ['AH0', 'S', 'OW2', 'S', 'IY0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'frustrations': ['F', 'R', 'AH0', 'S', 'T', 'R', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{'associations': ['AH0', 'S', 'OW2', 'S', 'IY0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'emancipations': ['IH0', 'M', 'AE2', 'N', 'S', 'AH0', 'P', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N'], 'substantiation': ['S', 'AH0', 'B', 'S', 'T', 'AE2', 'N', 'CH', 'IY0', 'EY1', 'SH', 'AH0', 'N']}
+{'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N'], 'simplification': ['S', 'IH2', 'M', 'P', 'L', 'AH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N'], 'pontification': ['P', 'AA0', 'N', 'T', 'IH2', 'F', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N'], 'taxation': ['T', 'AE0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N']}
+{'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N'], 'renegotiation': ['R', 'IY2', 'N', 'IH0', 'G', 'OW2', 'SH', 'IY0', 'EY1', 'SH', 'AH0', 'N']}
+{'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N'], 'exhumation': ['EH0', 'K', 'S', 'HH', 'Y', 'UW2', 'M', 'EY1', 'SH', 'AH0', 'N']}
+{'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N'], 'indication': ['IH2', 'N', 'D', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N'], 'panelization': ['P', 'AE1', 'N', 'AH0', 'L', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N'], 'realization': ['R', 'IY1', 'L', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N'], 'combination': ['K', 'AA2', 'M', 'B', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N'], 'accusation': ['AE2', 'K', 'Y', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N'], 'westernization': ['W', 'EH2', 'S', 'T', 'ER0', 'N', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N'], 'ulceration': ['AH2', 'L', 'S', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N'], 'singularization': ['S', 'IH2', 'NG', 'G', 'Y', 'AH0', 'L', 'ER0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N'], 'granulation': ['G', 'R', 'AE2', 'N', 'Y', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N'], 'reincarnation': ['R', 'IY2', 'IH0', 'N', 'K', 'AA0', 'R', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N'], 'indignation': ['IH2', 'N', 'D', 'IH0', 'G', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N'], 'fluoridation': ['F', 'L', 'UH2', 'R', 'AH0', 'D', 'EY1', 'SH', 'AH0', 'N']}
+{'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N'], 'vocation': ['V', 'OW0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N'], 'dehydration': ['D', 'IY2', 'HH', 'AY0', 'D', 'R', 'EY1', 'SH', 'AH0', 'N']}
+{'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N'], 'cultivation': ['K', 'AH2', 'L', 'T', 'IH0', 'V', 'EY1', 'SH', 'AH0', 'N']}
+{'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N'], 'ideation': ['AY2', 'D', 'IY0', 'EY1', 'SH', 'AH0', 'N']}
+{'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N'], 'indexation': ['IH1', 'N', 'D', 'EH2', 'K', 'S', 'EY1', 'SH', 'AH0', 'N']}
+{'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N'], 'activation': ['AE2', 'K', 'T', 'AH0', 'V', 'EY1', 'SH', 'AH0', 'N']}
+{'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N'], 'anticipation(1)': ['AE0', 'N', 'T', 'IH0', 'S', 'AH0', 'P', 'EY1', 'SH', 'AH0', 'N']}
+{'pigmentation': ['P', 'IH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N'], 'fortification': ['F', 'AO2', 'R', 'T', 'AH0', 'F', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'rationalizations': ['R', 'AE2', 'SH', 'AH0', 'N', 'AH0', 'L', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'simulations': ['S', 'IH2', 'M', 'Y', 'UW0', 'L', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{'rationalizations': ['R', 'AE2', 'SH', 'AH0', 'N', 'AH0', 'L', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'estimations': ['EH2', 'S', 'T', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{'rationalizations': ['R', 'AE2', 'SH', 'AH0', 'N', 'AH0', 'L', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'implications': ['IH2', 'M', 'P', 'L', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{'rationalizations': ['R', 'AE2', 'SH', 'AH0', 'N', 'AH0', 'L', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'operations': ['AA2', 'P', 'ER0', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{'rationalizations': ['R', 'AE2', 'SH', 'AH0', 'N', 'AH0', 'L', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'generations': ['JH', 'EH2', 'N', 'ER0', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{'rationalizations': ['R', 'AE2', 'SH', 'AH0', 'N', 'AH0', 'L', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'exhortations': ['EH2', 'G', 'Z', 'AO2', 'R', 'T', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{'rationalizations': ['R', 'AE2', 'SH', 'AH0', 'N', 'AH0', 'L', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'desecrations(1)': ['D', 'EH0', 'Z', 'AH0', 'K', 'R', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{'rationalizations': ['R', 'AE2', 'SH', 'AH0', 'N', 'AH0', 'L', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'tribulations': ['T', 'R', 'IH2', 'B', 'Y', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{'rationalizations': ['R', 'AE2', 'SH', 'AH0', 'N', 'AH0', 'L', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'combinations': ['K', 'AA2', 'M', 'B', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{'rationalizations': ['R', 'AE2', 'SH', 'AH0', 'N', 'AH0', 'L', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'cooperations(1)': ['K', 'W', 'AA2', 'P', 'ER0', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{'rationalizations': ['R', 'AE2', 'SH', 'AH0', 'N', 'AH0', 'L', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'medications': ['M', 'EH2', 'D', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"denomination's": ['D', 'IH0', 'N', 'AO2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'collaborations': ['K', 'AA2', 'L', 'AH0', 'B', 'ER0', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"denomination's": ['D', 'IH0', 'N', 'AO2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'oscillations': ['AA2', 'S', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"denomination's": ['D', 'IH0', 'N', 'AO2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N', 'Z'], "administrations'": ['AE0', 'D', 'M', 'IH2', 'N', 'IH0', 'S', 'T', 'R', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"denomination's": ['D', 'IH0', 'N', 'AO2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N', 'Z'], "federation's": ['F', 'EH2', 'D', 'ER0', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"denomination's": ['D', 'IH0', 'N', 'AO2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'revaluations': ['R', 'IY0', 'IH0', 'V', 'AE2', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"denomination's": ['D', 'IH0', 'N', 'AO2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'cooperations': ['K', 'OW0', 'AA2', 'P', 'ER0', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"denomination's": ['D', 'IH0', 'N', 'AO2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'syndications': ['S', 'IH2', 'N', 'D', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"denomination's": ['D', 'IH0', 'N', 'AO2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'limitations': ['L', 'IH2', 'M', 'IH0', 'T', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"denomination's": ['D', 'IH0', 'N', 'AO2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'deviations': ['D', 'IY0', 'V', 'IY0', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"denomination's": ['D', 'IH0', 'N', 'AO2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'alterations': ['AO2', 'L', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"denomination's": ['D', 'IH0', 'N', 'AO2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'celebrations': ['S', 'EH2', 'L', 'AH0', 'B', 'R', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"denomination's": ['D', 'IH0', 'N', 'AO2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'conversations': ['K', 'AA2', 'N', 'V', 'ER0', 'S', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"denomination's": ['D', 'IH0', 'N', 'AO2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'associations': ['AH0', 'S', 'OW2', 'S', 'IY0', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"denomination's": ['D', 'IH0', 'N', 'AO2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'specifications': ['S', 'P', 'EH2', 'S', 'AH0', 'F', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"denomination's": ['D', 'IH0', 'N', 'AO2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'emigrations': ['EH2', 'M', 'AH0', 'G', 'R', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"denomination's": ['D', 'IH0', 'N', 'AO2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'sterilizations(1)': ['S', 'T', 'EH2', 'R', 'AH0', 'L', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"denomination's": ['D', 'IH0', 'N', 'AO2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'subluxations': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"denomination's": ['D', 'IH0', 'N', 'AO2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'vibrations': ['V', 'AY0', 'B', 'R', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{'reputation': ['R', 'EH2', 'P', 'Y', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N'], 'desalination': ['D', 'IY0', 'S', 'EY2', 'L', 'IH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'reputation': ['R', 'EH2', 'P', 'Y', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N'], 'unionization': ['Y', 'UW2', 'N', 'Y', 'AH0', 'N', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'reputation': ['R', 'EH2', 'P', 'Y', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N'], 'deinstitutionalization': ['D', 'IY2', 'IH2', 'N', 'S', 'T', 'IH0', 'T', 'UW2', 'SH', 'AH0', 'N', 'AH0', 'L', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'reputation': ['R', 'EH2', 'P', 'Y', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N'], 'litigation': ['L', 'IH2', 'T', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N']}
+{'reputation': ['R', 'EH2', 'P', 'Y', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N'], 'codification': ['K', 'AA2', 'D', 'AH0', 'F', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'reputation': ['R', 'EH2', 'P', 'Y', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N'], 'hydration': ['HH', 'AY0', 'D', 'R', 'EY1', 'SH', 'AH0', 'N']}
+{'reputation': ['R', 'EH2', 'P', 'Y', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N'], 'excavation': ['EH2', 'K', 'S', 'K', 'AH0', 'V', 'EY1', 'SH', 'AH0', 'N']}
+{'reputation': ['R', 'EH2', 'P', 'Y', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N'], 'evacuation': ['IH0', 'V', 'AE2', 'K', 'Y', 'AH0', 'W', 'EY1', 'SH', 'AH0', 'N']}
+{'reputation': ['R', 'EH2', 'P', 'Y', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N'], 'personification': ['P', 'ER0', 'S', 'AA2', 'N', 'AH0', 'F', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'reputation': ['R', 'EH2', 'P', 'Y', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N'], 'anticipation': ['AE0', 'N', 'T', 'IH2', 'S', 'AH0', 'P', 'EY1', 'SH', 'AH0', 'N']}
+{'reputation': ['R', 'EH2', 'P', 'Y', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N'], 'reinvigoration': ['R', 'IY2', 'IH0', 'N', 'V', 'IH2', 'G', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'reputation': ['R', 'EH2', 'P', 'Y', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N'], 'telecommunication': ['T', 'EH2', 'L', 'AH0', 'K', 'AH0', 'M', 'Y', 'UW2', 'N', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'reputation': ['R', 'EH2', 'P', 'Y', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N'], 'toleration': ['T', 'AA2', 'L', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'reputation': ['R', 'EH2', 'P', 'Y', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N'], 'coronation': ['K', 'AO2', 'R', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'reputation': ['R', 'EH2', 'P', 'Y', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N'], 'conflation': ['K', 'AH0', 'N', 'F', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'reputation': ['R', 'EH2', 'P', 'Y', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N'], 'accusation': ['AE2', 'K', 'Y', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'reputation': ['R', 'EH2', 'P', 'Y', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N'], 'expatriation': ['EH0', 'K', 'S', 'P', 'EY2', 'T', 'R', 'IY0', 'EY1', 'SH', 'AH0', 'N']}
+{'reputation': ['R', 'EH2', 'P', 'Y', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N'], 'salvation': ['S', 'AE0', 'L', 'V', 'EY1', 'SH', 'AH0', 'N']}
+{'reputation': ['R', 'EH2', 'P', 'Y', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N'], 'cultivation': ['K', 'AH2', 'L', 'T', 'IH0', 'V', 'EY1', 'SH', 'AH0', 'N']}
+{'reputation': ['R', 'EH2', 'P', 'Y', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N'], 'reparation': ['R', 'EH2', 'P', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'depreciation': ['D', 'IH0', 'P', 'R', 'IY2', 'SH', 'IY0', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'realization': ['R', 'IY1', 'L', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'gentrification': ['JH', 'EH2', 'N', 'T', 'R', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'subsidization': ['S', 'AH2', 'B', 'S', 'IH0', 'D', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'falsification': ['F', 'AE2', 'L', 'S', 'AH0', 'F', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'inhalation': ['IH2', 'N', 'HH', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'correlation': ['K', 'AO2', 'R', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'rationalization': ['R', 'AE2', 'SH', 'AH0', 'N', 'AH0', 'L', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'denationalization': ['D', 'IY2', 'N', 'AE2', 'SH', 'AH0', 'N', 'AH0', 'L', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'denunciation': ['D', 'IH0', 'N', 'AH2', 'N', 'S', 'IY0', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'tribulation': ['T', 'R', 'IH2', 'B', 'Y', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'decriminalization': ['D', 'IY0', 'K', 'R', 'IH2', 'M', 'AH0', 'N', 'AH0', 'L', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'retardation': ['R', 'IY0', 'T', 'AA0', 'R', 'D', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'telecommunication': ['T', 'EH2', 'L', 'AH0', 'K', 'AH0', 'M', 'Y', 'UW2', 'N', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'excommunication': ['EH2', 'K', 'S', 'K', 'AH0', 'M', 'Y', 'UW2', 'N', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'plantation': ['P', 'L', 'AE2', 'N', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'destabilization': ['D', 'IY0', 'S', 'T', 'EY2', 'B', 'AH0', 'L', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'reallocation': ['R', 'IY0', 'AE2', 'L', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'preparation': ['P', 'R', 'EH2', 'P', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'deregulation': ['D', 'IY0', 'R', 'EH2', 'G', 'Y', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'incapacitation': ['IH2', 'N', 'K', 'AH0', 'P', 'AE2', 'S', 'IH0', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'documentation': ['D', 'AA2', 'K', 'Y', 'AH0', 'M', 'EH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'appellation': ['AE2', 'P', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'glaciation': ['G', 'L', 'EY2', 'SH', 'IY0', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'revelation': ['R', 'EH2', 'V', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'simulation': ['S', 'IH2', 'M', 'Y', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'irrigation': ['IH2', 'R', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'hybridization': ['HH', 'AY2', 'B', 'R', 'AH0', 'D', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'exclamation': ['EH2', 'K', 'S', 'K', 'L', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'regeneration': ['R', 'IY0', 'JH', 'EH1', 'N', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'vaporization': ['V', 'EY0', 'P', 'ER0', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'formation': ['F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'exploration': ['EH2', 'K', 'S', 'P', 'L', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'nationalization(1)': ['N', 'AE2', 'SH', 'N', 'AH0', 'L', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'causation': ['K', 'AO2', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'infiltration': ['IH2', 'N', 'F', 'IH0', 'L', 'T', 'R', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'automation': ['AO0', 'T', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'authorization': ['AO2', 'TH', 'ER0', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'condemnation': ['K', 'AA2', 'N', 'D', 'AH0', 'M', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'urbanization(1)': ['ER2', 'B', 'AH0', 'N', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'triangulation': ['T', 'R', 'AY0', 'AE2', 'NG', 'G', 'Y', 'UW0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'evaporation(1)': ['IY0', 'V', 'AE2', 'P', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'transplantation': ['T', 'R', 'AE2', 'N', 'Z', 'P', 'L', 'AE0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'discoloration': ['D', 'IH0', 'S', 'K', 'AH2', 'L', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'nitration': ['N', 'AY0', 'T', 'R', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'extermination': ['IH0', 'K', 'S', 'T', 'ER2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'proration': ['P', 'R', 'OW2', 'R', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'dissemination': ['D', 'IH0', 'S', 'EH2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'amortization': ['AE2', 'M', 'ER0', 'T', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'enumeration': ['IH0', 'N', 'UW2', 'M', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'elation': ['IH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'balkanization': ['B', 'AO2', 'L', 'K', 'AH0', 'N', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'sedimentation': ['S', 'EH2', 'D', 'AH0', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'depopulation': ['D', 'IH0', 'P', 'AA2', 'P', 'Y', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'ionization': ['AY2', 'AH0', 'N', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'consternation': ['K', 'AA2', 'N', 'S', 'T', 'ER0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'mutilation': ['M', 'Y', 'UW2', 'T', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'resignation': ['R', 'EH2', 'Z', 'AH0', 'G', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'adaptation': ['AE2', 'D', 'AH0', 'P', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'subordination': ['S', 'AH0', 'B', 'AO2', 'R', 'D', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'misidentification': ['M', 'IH2', 'S', 'AY0', 'D', 'EH2', 'N', 'T', 'IH0', 'F', 'IH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'appreciation': ['AH0', 'P', 'R', 'IY2', 'SH', 'IY0', 'EY1', 'SH', 'AH0', 'N']}
+{'prevarication': ['P', 'R', 'AH0', 'V', 'EH2', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'continuation': ['K', 'AH0', 'N', 'T', 'IH2', 'N', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N']}
+{'prevarication': ['P', 'R', 'AH0', 'V', 'EH2', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'cultivation': ['K', 'AH2', 'L', 'T', 'IH0', 'V', 'EY1', 'SH', 'AH0', 'N']}
+{'prevarication': ['P', 'R', 'AH0', 'V', 'EH2', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'agitation': ['AE2', 'JH', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'prevarication': ['P', 'R', 'AH0', 'V', 'EH2', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'equitation': ['EH2', 'K', 'W', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'prevarication': ['P', 'R', 'AH0', 'V', 'EH2', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'intimidation': ['IH2', 'N', 'T', 'IH2', 'M', 'IH0', 'D', 'EY1', 'SH', 'AH0', 'N']}
+{'prevarication': ['P', 'R', 'AH0', 'V', 'EH2', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'speculation': ['S', 'P', 'EH2', 'K', 'Y', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'prevarication': ['P', 'R', 'AH0', 'V', 'EH2', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'visualization': ['V', 'IH2', 'ZH', 'W', 'AH0', 'L', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'prevarication': ['P', 'R', 'AH0', 'V', 'EH2', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'transplantation': ['T', 'R', 'AE2', 'N', 'Z', 'P', 'L', 'AE0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'prevarication': ['P', 'R', 'AH0', 'V', 'EH2', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'cancellation': ['K', 'AE2', 'N', 'S', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'prevarication': ['P', 'R', 'AH0', 'V', 'EH2', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'reevaluation': ['R', 'IY0', 'IH0', 'V', 'AE2', 'L', 'Y', 'UW0', 'EY1', 'SH', 'AH0', 'N']}
+{'prevarication': ['P', 'R', 'AH0', 'V', 'EH2', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'renunciation': ['R', 'IH0', 'N', 'AH2', 'N', 'S', 'IY0', 'EY1', 'SH', 'AH0', 'N']}
+{'prevarication': ['P', 'R', 'AH0', 'V', 'EH2', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'perturbation': ['P', 'ER2', 'T', 'ER0', 'B', 'EY1', 'SH', 'AH0', 'N']}
+{'prevarication': ['P', 'R', 'AH0', 'V', 'EH2', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'permutation': ['P', 'ER2', 'M', 'Y', 'UW0', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'prevarication': ['P', 'R', 'AH0', 'V', 'EH2', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'assimilation': ['AH0', 'S', 'IH2', 'M', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'prevarication': ['P', 'R', 'AH0', 'V', 'EH2', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'institutionalization': ['IH2', 'N', 'S', 'T', 'IH0', 'T', 'UW2', 'SH', 'AH0', 'N', 'AH0', 'L', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'prevarication': ['P', 'R', 'AH0', 'V', 'EH2', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'non-discrimination': ['N', 'AA0', 'N', 'D', 'IH2', 'S', 'K', 'R', 'IH0', 'M', 'IH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'prevarication': ['P', 'R', 'AH0', 'V', 'EH2', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'declaration': ['D', 'EH2', 'K', 'L', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'prevarication': ['P', 'R', 'AH0', 'V', 'EH2', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'irritation': ['IH2', 'R', 'IH0', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'prevarication': ['P', 'R', 'AH0', 'V', 'EH2', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'participation': ['P', 'AA0', 'R', 'T', 'IH2', 'S', 'AH0', 'P', 'EY1', 'SH', 'AH0', 'N']}
+{'prevarication': ['P', 'R', 'AH0', 'V', 'EH2', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'dispensation': ['D', 'IH2', 'S', 'P', 'AH0', 'N', 'S', 'EY1', 'SH', 'AH0', 'N']}
+{'prevarication': ['P', 'R', 'AH0', 'V', 'EH2', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'vulgarization': ['V', 'AH2', 'L', 'G', 'ER0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'prevarication': ['P', 'R', 'AH0', 'V', 'EH2', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'strangulation': ['S', 'T', 'R', 'AE2', 'NG', 'G', 'Y', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'prevarication': ['P', 'R', 'AH0', 'V', 'EH2', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'instigation': ['IH2', 'N', 'S', 'T', 'IH0', 'G', 'EY1', 'SH', 'AH0', 'N']}
+{'prevarication': ['P', 'R', 'AH0', 'V', 'EH2', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'relaxation': ['R', 'IY2', 'L', 'AE0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N']}
+{'prevarication': ['P', 'R', 'AH0', 'V', 'EH2', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N'], 'formation': ['F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N']}
+{'remission': ['R', 'IY0', 'M', 'IH1', 'SH', 'AH0', 'N'], 'edition(1)': ['IH0', 'D', 'IH1', 'SH', 'AH0', 'N']}
+{'remission': ['R', 'IY0', 'M', 'IH1', 'SH', 'AH0', 'N'], 'ignition': ['IH2', 'G', 'N', 'IH1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'extrication': ['EH2', 'K', 'S', 'T', 'R', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'generation': ['JH', 'EH2', 'N', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'vacillation': ['V', 'AE2', 'S', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'disintegration': ['D', 'IH0', 'S', 'IH2', 'N', 'T', 'AH0', 'G', 'R', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'legalization': ['L', 'IY2', 'G', 'AH0', 'L', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'stagflation': ['S', 'T', 'AE0', 'G', 'F', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'vegetation': ['V', 'EH2', 'JH', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'reiteration': ['R', 'IY0', 'IH2', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'mobilization': ['M', 'OW2', 'B', 'AH0', 'L', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'christianization': ['K', 'R', 'IH2', 'S', 'CH', 'AH0', 'N', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'insubordination': ['IH2', 'N', 'S', 'AH0', 'B', 'AO2', 'R', 'D', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'authorization': ['AO2', 'TH', 'ER0', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'oration': ['AO0', 'R', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'modification': ['M', 'AA2', 'D', 'AH0', 'F', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'transportation': ['T', 'R', 'AE2', 'N', 'S', 'P', 'ER0', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'recreation': ['R', 'EH2', 'K', 'R', 'IY0', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'denunciation': ['D', 'IH0', 'N', 'AH2', 'N', 'S', 'IY0', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'instantiation': ['IH2', 'N', 'S', 'T', 'AE2', 'N', 'SH', 'IY0', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'reexamination': ['R', 'IY0', 'IH0', 'G', 'Z', 'AE2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'deprivation': ['D', 'EH2', 'P', 'R', 'AH0', 'V', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'reallocation': ['R', 'IY0', 'AE2', 'L', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'illumination': ['IH2', 'L', 'UW2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'computerization': ['K', 'AH0', 'M', 'P', 'Y', 'UW2', 'T', 'ER0', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'dictation': ['D', 'IH0', 'K', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'disinflation': ['D', 'IH2', 'S', 'IH0', 'N', 'F', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'administration': ['AE0', 'D', 'M', 'IH2', 'N', 'IH0', 'S', 'T', 'R', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'allocation': ['AE2', 'L', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'overregulation': ['OW2', 'V', 'ER0', 'R', 'EH2', 'G', 'Y', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'depopulation': ['D', 'IH0', 'P', 'AA2', 'P', 'Y', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'coloration': ['K', 'AH2', 'L', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'perpetuation': ['P', 'ER0', 'P', 'EH2', 'CH', 'AH0', 'W', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'canonization': ['K', 'AE2', 'N', 'AH0', 'N', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'ministration': ['M', 'IH2', 'N', 'AH0', 'S', 'T', 'R', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'obfuscation': ['AA2', 'B', 'F', 'AH0', 'S', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'fertilization': ['F', 'ER2', 'T', 'AH0', 'L', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'cooperation': ['K', 'OW0', 'AA2', 'P', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'subluxation': ['S', 'AH0', 'B', 'L', 'AH0', 'K', 'S', 'EY1', 'SH', 'AH0', 'N'], 'fluctuation': ['F', 'L', 'AH2', 'K', 'CH', 'UW0', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'refrigeration': ['R', 'IH0', 'F', 'R', 'IH2', 'JH', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'insemination': ['IH2', 'N', 'S', 'EH2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'derivation': ['D', 'EH2', 'R', 'AH0', 'V', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'declaration': ['D', 'EH2', 'K', 'L', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'segmentation': ['S', 'EH2', 'G', 'M', 'AH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'perturbation': ['P', 'ER2', 'T', 'ER0', 'B', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'appreciation': ['AH0', 'P', 'R', 'IY2', 'SH', 'IY0', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'degradation': ['D', 'EH2', 'G', 'R', 'AH0', 'D', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'demoralization': ['D', 'IH0', 'M', 'AO2', 'R', 'AH0', 'L', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'rotation': ['R', 'OW0', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'ovation': ['OW0', 'V', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'integration(1)': ['IH2', 'N', 'AH0', 'G', 'R', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'reconfiguration': ['R', 'IY0', 'K', 'AH0', 'N', 'F', 'IH2', 'G', 'Y', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'stalinization': ['S', 'T', 'AE2', 'L', 'IH0', 'N', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'instantiation': ['IH2', 'N', 'S', 'T', 'AE2', 'N', 'SH', 'IY0', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'appropriation': ['AH0', 'P', 'R', 'OW2', 'P', 'R', 'IY0', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'bifurcation': ['B', 'IH2', 'F', 'ER0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'annotation': ['AE2', 'N', 'AH0', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'miscommunication': ['M', 'IH0', 'S', 'K', 'AH0', 'M', 'Y', 'UW2', 'N', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'embarkation': ['EH2', 'M', 'B', 'AA0', 'R', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'inactivation': ['IH2', 'N', 'AE2', 'K', 'T', 'IH0', 'V', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'explication': ['EH2', 'K', 'S', 'P', 'L', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'manifestation': ['M', 'AE2', 'N', 'AH0', 'F', 'EH0', 'S', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'imagination': ['IH2', 'M', 'AE2', 'JH', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'masturbation': ['M', 'AE2', 'S', 'T', 'ER0', 'B', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'incarnation': ['IH2', 'N', 'K', 'AA1', 'R', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'distillation': ['D', 'IH2', 'S', 'T', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N'], 'renovation': ['R', 'EH2', 'N', 'AH0', 'V', 'EY1', 'SH', 'AH0', 'N']}
+{'constellation': ['K', 'AA2', 'N', 'S', 'T', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N'], 'advocation': ['AE2', 'D', 'V', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'constellation': ['K', 'AA2', 'N', 'S', 'T', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N'], 'reconfirmation': ['R', 'IY2', 'K', 'AA2', 'N', 'F', 'ER0', 'M', 'EY1', 'SH', 'AH0', 'N']}
+{'constellation': ['K', 'AA2', 'N', 'S', 'T', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N'], 'irrigation': ['IH2', 'R', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N']}
+{'constellation': ['K', 'AA2', 'N', 'S', 'T', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N'], 'bifurcation': ['B', 'IH2', 'F', 'ER0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'constellation': ['K', 'AA2', 'N', 'S', 'T', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N'], 'irradiation': ['IH2', 'R', 'EY2', 'D', 'IY0', 'EY1', 'SH', 'AH0', 'N']}
+{'constellation': ['K', 'AA2', 'N', 'S', 'T', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N'], 'exploration(1)': ['EH2', 'K', 'S', 'P', 'L', 'AO0', 'R', 'EY1', 'SH', 'AH0', 'N']}
+{'constellation': ['K', 'AA2', 'N', 'S', 'T', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N'], 'substantiation(1)': ['S', 'AH0', 'B', 'S', 'T', 'AE2', 'N', 'SH', 'IY0', 'EY1', 'SH', 'AH0', 'N']}
+{'constellation': ['K', 'AA2', 'N', 'S', 'T', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N'], 'conservation': ['K', 'AA2', 'N', 'S', 'ER0', 'V', 'EY1', 'SH', 'AH0', 'N']}
+{'constellation': ['K', 'AA2', 'N', 'S', 'T', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N'], 'avocation': ['AE2', 'V', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'constellation': ['K', 'AA2', 'N', 'S', 'T', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N'], 'restoration': ['R', 'EH2', 'S', 'T', 'ER0', 'EY1', 'SH', 'AH0', 'N']}
+{'constellation': ['K', 'AA2', 'N', 'S', 'T', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N'], 'mobilization(1)': ['M', 'OW2', 'B', 'AH0', 'L', 'IH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'constellation': ['K', 'AA2', 'N', 'S', 'T', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N'], 'subordination': ['S', 'AH0', 'B', 'AO2', 'R', 'D', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'constellation': ['K', 'AA2', 'N', 'S', 'T', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N'], 'neutralization': ['N', 'UW2', 'T', 'R', 'AH0', 'L', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'constellation': ['K', 'AA2', 'N', 'S', 'T', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N'], 'termination': ['T', 'ER0', 'M', 'IH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'constellation': ['K', 'AA2', 'N', 'S', 'T', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N'], 'documentation': ['D', 'AA2', 'K', 'Y', 'AH0', 'M', 'EH0', 'N', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'constellation': ['K', 'AA2', 'N', 'S', 'T', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N'], 'invalidation': ['IH2', 'N', 'V', 'AE2', 'L', 'AH0', 'D', 'EY1', 'SH', 'AH0', 'N']}
+{'cryptoclearance': ['K', 'R', 'IH2', 'P', 'T', 'OW0', 'L', 'IH1', 'R', 'AH0', 'N', 'S'], 'coherence': ['K', 'OW0', 'HH', 'IH1', 'R', 'AH0', 'N', 'S']}
+{'cryptoclearance': ['K', 'R', 'IH2', 'P', 'T', 'OW0', 'L', 'IH1', 'R', 'AH0', 'N', 'S'], 'reappearance': ['R', 'IY2', 'AH0', 'P', 'IH1', 'R', 'AH0', 'N', 'S']}
+{'bioscience': ['B', 'AY2', 'OW0', 'S', 'AY1', 'AH0', 'N', 'S'], 'reliance(1)': ['R', 'IY0', 'L', 'AY1', 'AH0', 'N', 'S']}
+{'chancey': ['CH', 'AE1', 'N', 'S', 'IY0'], 'dancey': ['D', 'AE1', 'N', 'S', 'IY0']}
+{'chancey': ['CH', 'AE1', 'N', 'S', 'IY0'], 'fiancee': ['F', 'IY0', 'AE1', 'N', 'S', 'IY0']}
+{'deterrence': ['D', 'IH0', 'T', 'ER1', 'AH0', 'N', 'S'], 'coinsurance': ['K', 'OW2', 'IH0', 'N', 'SH', 'ER1', 'AH0', 'N', 'S']}
+{'forebearance': ['F', 'AO2', 'R', 'B', 'EH1', 'R', 'AH0', 'N', 'S'], 'clarence': ['K', 'L', 'EH1', 'R', 'AH0', 'N', 'S']}
+{'forebearance': ['F', 'AO2', 'R', 'B', 'EH1', 'R', 'AH0', 'N', 'S'], 'terrance': ['T', 'EH1', 'R', 'AH0', 'N', 'S']}
+{'interference(1)': ['IH2', 'N', 'ER0', 'F', 'IH1', 'R', 'AH0', 'N', 'S'], 'perseverance': ['P', 'ER2', 'S', 'AH0', 'V', 'IH1', 'R', 'AH0', 'N', 'S']}
+{'interference(1)': ['IH2', 'N', 'ER0', 'F', 'IH1', 'R', 'AH0', 'N', 'S'], 'cryptoclearance': ['K', 'R', 'IH2', 'P', 'T', 'OW0', 'L', 'IH1', 'R', 'AH0', 'N', 'S']}
+{'interference(1)': ['IH2', 'N', 'ER0', 'F', 'IH1', 'R', 'AH0', 'N', 'S'], 'incoherence': ['IH2', 'N', 'K', 'OW0', 'HH', 'IH1', 'R', 'AH0', 'N', 'S']}
+{'interference(1)': ['IH2', 'N', 'ER0', 'F', 'IH1', 'R', 'AH0', 'N', 'S'], 'coherence': ['K', 'OW0', 'HH', 'IH1', 'R', 'AH0', 'N', 'S']}
+{'prancer': ['P', 'R', 'AE1', 'N', 'S', 'ER0'], 'advancer': ['AH0', 'D', 'V', 'AE1', 'N', 'S', 'ER0']}
+{'prancer': ['P', 'R', 'AE1', 'N', 'S', 'ER0'], 'anticancer(1)': ['AE2', 'N', 'T', 'IY2', 'K', 'AE1', 'N', 'S', 'ER0']}
+{'coalescence': ['K', 'OW2', 'AH0', 'L', 'EH1', 'S', 'AH0', 'N', 'S'], 'acquiescence': ['AE2', 'K', 'W', 'IY0', 'EH1', 'S', 'AH0', 'N', 'S']}
+{'financer(1)': ['F', 'IH0', 'N', 'AE1', 'N', 'S', 'ER0'], 'advancer': ['AH0', 'D', 'V', 'AE1', 'N', 'S', 'ER0']}
+{'finances': ['F', 'IH0', 'N', 'AE1', 'N', 'S', 'IH0', 'Z'], 'stances': ['S', 'T', 'AE1', 'N', 'S', 'IH0', 'Z']}
+{'finances': ['F', 'IH0', 'N', 'AE1', 'N', 'S', 'IH0', 'Z'], 'romances': ['R', 'OW0', 'M', 'AE1', 'N', 'S', 'IH0', 'Z']}
+{'appearance': ['AH0', 'P', 'IH1', 'R', 'AH0', 'N', 'S'], 'incoherence': ['IH2', 'N', 'K', 'OW0', 'HH', 'IH1', 'R', 'AH0', 'N', 'S']}
+{'reappearance': ['R', 'IY2', 'AH0', 'P', 'IH1', 'R', 'AH0', 'N', 'S'], 'ference': ['F', 'IH1', 'R', 'AH0', 'N', 'S']}
+{'reappearance': ['R', 'IY2', 'AH0', 'P', 'IH1', 'R', 'AH0', 'N', 'S'], 'non-interference': ['N', 'AA2', 'N', 'IH2', 'N', 'T', 'ER0', 'F', 'IH1', 'R', 'AH0', 'N', 'S']}
+{'dances(1)': ['D', 'AE1', 'N', 'S', 'IH0', 'Z'], "lance's": ['L', 'AE1', 'N', 'S', 'IH0', 'Z']}
+{'mastrangelo': ['M', 'AA0', 'S', 'T', 'R', 'AA0', 'NG', 'G', 'EH1', 'L', 'OW0'], 'marcello': ['M', 'AA2', 'R', 'S', 'EH1', 'L', 'OW0']}
+{'vaccaro': ['V', 'AH0', 'K', 'AA1', 'R', 'OW0'], 'cafaro': ['K', 'AA0', 'F', 'AA1', 'R', 'OW0']}
+{'petruccelli': ['P', 'EH2', 'T', 'R', 'UW0', 'CH', 'EH1', 'L', 'IY0'], 'racanelli': ['R', 'AA0', 'K', 'AA0', 'N', 'EH1', 'L', 'IY0']}
+{'stolley': ['S', 'T', 'AA1', 'L', 'IY0'], 'hollie': ['HH', 'AA1', 'L', 'IY0']}
+{'quintanilla': ['K', 'W', 'IH2', 'N', 'T', 'AH0', 'N', 'IH1', 'L', 'AH0'], 'ludmilla': ['L', 'AH0', 'D', 'M', 'IH1', 'L', 'AH0']}
+{'marcellino': ['M', 'AA0', 'R', 'CH', 'EH0', 'L', 'IY1', 'N', 'OW0'], 'caterino': ['K', 'AA0', 'T', 'ER0', 'IY1', 'N', 'OW0']}
+{'assimilation': ['AH0', 'S', 'IH2', 'M', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N'], 'resignation': ['R', 'EH2', 'Z', 'AH0', 'G', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'assimilation': ['AH0', 'S', 'IH2', 'M', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N'], 'indignation': ['IH2', 'N', 'D', 'IH0', 'G', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'assimilation': ['AH0', 'S', 'IH2', 'M', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N'], 'disembarkation': ['D', 'IH0', 'S', 'EH2', 'M', 'B', 'AA0', 'R', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'assimilation': ['AH0', 'S', 'IH2', 'M', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N'], 'deformation': ['D', 'IY2', 'F', 'AO0', 'R', 'M', 'EY1', 'SH', 'AH0', 'N']}
+{'dwyer': ['D', 'W', 'AY1', 'ER0'], 'buyer': ['B', 'AY1', 'ER0']}
+{'senatore': ['S', 'EH0', 'N', 'AA0', 'T', 'AO1', 'R', 'IY0'], 'lory': ['L', 'AO1', 'R', 'IY0']}
+{'perley': ['P', 'ER1', 'L', 'IY0'], 'worley': ['W', 'ER1', 'L', 'IY0']}
+{'proliferation': ['P', 'R', 'OW2', 'L', 'IH0', 'F', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'sanctification': ['S', 'AE2', 'NG', 'K', 'T', 'AH0', 'F', 'AH0', 'K', 'EY1', 'SH', 'AH0', 'N']}
+{'proliferation': ['P', 'R', 'OW2', 'L', 'IH0', 'F', 'ER0', 'EY1', 'SH', 'AH0', 'N'], 'vaccination': ['V', 'AE0', 'K', 'S', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'approximation': ['AH0', 'P', 'R', 'AA2', 'K', 'S', 'AH0', 'M', 'EY1', 'SH', 'AH0', 'N'], 'motivation': ['M', 'OW2', 'T', 'AH0', 'V', 'EY1', 'SH', 'AH0', 'N']}
+{'petrich': ['P', 'EH1', 'T', 'R', 'IH0', 'K'], 'gravimetric': ['G', 'R', 'AE2', 'V', 'AH0', 'M', 'EH1', 'T', 'R', 'IH0', 'K']}
+{"corp's(1)": ['K', 'AO1', 'R', 'P', 'ER0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'violations': ['V', 'AY0', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"corp's(1)": ['K', 'AO1', 'R', 'P', 'ER0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'integrations': ['IH2', 'N', 'T', 'AH0', 'G', 'R', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{"corp's(1)": ['K', 'AO1', 'R', 'P', 'ER0', 'EY1', 'SH', 'AH0', 'N', 'Z'], 'interrogations': ['IH2', 'N', 'T', 'EH2', 'R', 'AH0', 'G', 'EY1', 'SH', 'AH0', 'N', 'Z']}
+{'leighty': ['L', 'EY1', 'T', 'IY0'], 'beatty(1)': ['B', 'EY1', 'T', 'IY0']}
+{'fruity': ['F', 'R', 'UW1', 'T', 'IY0'], 'fluty': ['F', 'L', 'UW1', 'T', 'IY0']}
+{'cotty': ['K', 'AA1', 'T', 'IY0'], 'crotty': ['K', 'R', 'AA1', 'T', 'IY0']}
+{'busty': ['B', 'AH1', 'S', 'T', 'IY0'], 'justy': ['JH', 'AH1', 'S', 'T', 'IY0']}
+{'snooty': ['S', 'N', 'UW1', 'T', 'IY0'], 'duty': ['D', 'UW1', 'T', 'IY0']}
+{'snooty': ['S', 'N', 'UW1', 'T', 'IY0'], 'fruity': ['F', 'R', 'UW1', 'T', 'IY0']}
+{'admissions': ['AE0', 'D', 'M', 'IH1', 'SH', 'AH0', 'N', 'Z'], 'ammunitions': ['AE2', 'M', 'Y', 'AH0', 'N', 'IH1', 'SH', 'AH0', 'N', 'Z']}
+{'titillation': ['T', 'IH2', 'T', 'IH0', 'L', 'EY1', 'SH', 'AH0', 'N'], 'conciliation': ['K', 'AH0', 'N', 'S', 'IH2', 'L', 'IY0', 'EY1', 'SH', 'AH0', 'N']}
+{'titillation': ['T', 'IH2', 'T', 'IH0', 'L', 'EY1', 'SH', 'AH0', 'N'], 'transillumination': ['T', 'R', 'AE2', 'N', 'Z', 'AH0', 'L', 'UW2', 'M', 'AH0', 'N', 'EY1', 'SH', 'AH0', 'N']}
+{'titillation': ['T', 'IH2', 'T', 'IH0', 'L', 'EY1', 'SH', 'AH0', 'N'], 'colorization': ['K', 'AH2', 'L', 'ER0', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'titillation': ['T', 'IH2', 'T', 'IH0', 'L', 'EY1', 'SH', 'AH0', 'N'], 'liberation': ['L', 'IH2', 'B', 'ER2', 'EY1', 'SH', 'AH0', 'N']}
+{'deforestation': ['D', 'IH0', 'F', 'AO2', 'R', 'IH0', 'S', 'T', 'EY1', 'SH', 'AH0', 'N'], 'utilization': ['Y', 'UW2', 'T', 'AH0', 'L', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}
+{'steinberg': ['S', 'T', 'AY1', 'N', 'B', 'ER0', 'G'], 'feinberg': ['F', 'AY1', 'N', 'B', 'ER0', 'G']}
+{'causation': ['K', 'AO2', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'conservation': ['K', 'AA2', 'N', 'S', 'ER0', 'V', 'EY1', 'SH', 'AH0', 'N']}
+{'causation': ['K', 'AO2', 'Z', 'EY1', 'SH', 'AH0', 'N'], 'indentation': ['IH2', 'N', 'D', 'EH2', 'N', 'T', 'EY1', 'SH', 'AH0', 'N']}
+{'eugenie': ['Y', 'UW2', 'JH', 'IY1', 'N', 'IY0'], 'nannini': ['N', 'AA0', 'N', 'IY1', 'N', 'IY0']}
+{'eugenie': ['Y', 'UW2', 'JH', 'IY1', 'N', 'IY0'], 'savini': ['S', 'AA0', 'V', 'IY1', 'N', 'IY0']}
+{'destination(1)': ['D', 'EH2', 'S', 'T', 'IH0', 'N', 'EY1', 'SH', 'AH0', 'N'], 'appalachian(1)': ['AE2', 'P', 'AH0', 'L', 'EY1', 'SH', 'AH0', 'N']}
+{'repudiation': ['R', 'IH0', 'P', 'Y', 'UW2', 'D', 'IY0', 'EY1', 'SH', 'AH0', 'N'], 'decriminalization': ['D', 'IY0', 'K', 'R', 'IH2', 'M', 'AH0', 'N', 'AH0', 'L', 'AH0', 'Z', 'EY1', 'SH', 'AH0', 'N']}

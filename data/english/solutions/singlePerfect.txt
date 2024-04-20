@@ -1,0 +1,267 @@
+{'underfinance': ['AH2', 'N', 'D', 'ER0', 'F', 'IH0', 'N', 'AE1', 'N', 'S'], 'france': ['F', 'R', 'AE1', 'N', 'S']}
+{'underfinance': ['AH2', 'N', 'D', 'ER0', 'F', 'IH0', 'N', 'AE1', 'N', 'S'], 'lafrance': ['L', 'AA0', 'F', 'R', 'AE1', 'N', 'S']}
+{'underfinance': ['AH2', 'N', 'D', 'ER0', 'F', 'IH0', 'N', 'AE1', 'N', 'S'], 'vance': ['V', 'AE1', 'N', 'S']}
+{'underfinance': ['AH2', 'N', 'D', 'ER0', 'F', 'IH0', 'N', 'AE1', 'N', 'S'], 'lance': ['L', 'AE1', 'N', 'S']}
+{'underfinance': ['AH2', 'N', 'D', 'ER0', 'F', 'IH0', 'N', 'AE1', 'N', 'S'], 'trance': ['T', 'R', 'AE1', 'N', 'S']}
+{'underfinance': ['AH2', 'N', 'D', 'ER0', 'F', 'IH0', 'N', 'AE1', 'N', 'S'], 'pomerance': ['P', 'AA1', 'M', 'ER0', 'AE1', 'N', 'S']}
+{'underfinance': ['AH2', 'N', 'D', 'ER0', 'F', 'IH0', 'N', 'AE1', 'N', 'S'], 'enhance': ['EH0', 'N', 'HH', 'AE1', 'N', 'S']}
+{'underfinance': ['AH2', 'N', 'D', 'ER0', 'F', 'IH0', 'N', 'AE1', 'N', 'S'], 'romance': ['R', 'OW0', 'M', 'AE1', 'N', 'S']}
+{'underfinance': ['AH2', 'N', 'D', 'ER0', 'F', 'IH0', 'N', 'AE1', 'N', 'S'], 'perchance': ['P', 'ER0', 'CH', 'AE1', 'N', 'S']}
+{'underfinance': ['AH2', 'N', 'D', 'ER0', 'F', 'IH0', 'N', 'AE1', 'N', 'S'], 'crance': ['K', 'R', 'AE1', 'N', 'S']}
+{'nonchalance': ['N', 'AA1', 'N', 'SH', 'AH0', 'L', 'AA1', 'N', 'S'], 'lesperance': ['L', 'EH0', 'S', 'P', 'ER0', 'AA1', 'N', 'S']}
+{'advance': ['AH0', 'D', 'V', 'AE1', 'N', 'S'], 'pomerance': ['P', 'AA1', 'M', 'ER0', 'AE1', 'N', 'S']}
+{'advance': ['AH0', 'D', 'V', 'AE1', 'N', 'S'], 'crance': ['K', 'R', 'AE1', 'N', 'S']}
+{'advance': ['AH0', 'D', 'V', 'AE1', 'N', 'S'], 'hance': ['HH', 'AE1', 'N', 'S']}
+{'advance': ['AH0', 'D', 'V', 'AE1', 'N', 'S'], 'underfinance': ['AH2', 'N', 'D', 'ER0', 'F', 'IH0', 'N', 'AE1', 'N', 'S']}
+{'advance': ['AH0', 'D', 'V', 'AE1', 'N', 'S'], 'rance': ['R', 'AE1', 'N', 'S']}
+{'advance': ['AH0', 'D', 'V', 'AE1', 'N', 'S'], 'finance': ['F', 'AH0', 'N', 'AE1', 'N', 'S']}
+{'advance': ['AH0', 'D', 'V', 'AE1', 'N', 'S'], 'refinance': ['R', 'IY2', 'F', 'AH0', 'N', 'AE1', 'N', 'S']}
+{'advance': ['AH0', 'D', 'V', 'AE1', 'N', 'S'], 'enhance': ['EH0', 'N', 'HH', 'AE1', 'N', 'S']}
+{'self-defence': ['S', 'EH2', 'L', 'F', 'D', 'IH0', 'F', 'EH1', 'N', 'S'], 'commence': ['K', 'AH0', 'M', 'EH1', 'N', 'S']}
+{'self-defence': ['S', 'EH2', 'L', 'F', 'D', 'IH0', 'F', 'EH1', 'N', 'S'], 'spence': ['S', 'P', 'EH1', 'N', 'S']}
+{'self-defence': ['S', 'EH2', 'L', 'F', 'D', 'IH0', 'F', 'EH1', 'N', 'S'], 'pence': ['P', 'EH1', 'N', 'S']}
+{'alamance': ['AE2', 'L', 'AH0', 'M', 'AE1', 'N', 'S'], 'crance': ['K', 'R', 'AE1', 'N', 'S']}
+{'alamance': ['AE2', 'L', 'AH0', 'M', 'AE1', 'N', 'S'], 'lafrance': ['L', 'AA0', 'F', 'R', 'AE1', 'N', 'S']}
+{'alamance': ['AE2', 'L', 'AH0', 'M', 'AE1', 'N', 'S'], 'prance': ['P', 'R', 'AE1', 'N', 'S']}
+{'alamance': ['AE2', 'L', 'AH0', 'M', 'AE1', 'N', 'S'], 'enhance': ['EH0', 'N', 'HH', 'AE1', 'N', 'S']}
+{'alamance': ['AE2', 'L', 'AH0', 'M', 'AE1', 'N', 'S'], 'lance': ['L', 'AE1', 'N', 'S']}
+{'alamance': ['AE2', 'L', 'AH0', 'M', 'AE1', 'N', 'S'], 'glance': ['G', 'L', 'AE1', 'N', 'S']}
+{'alamance': ['AE2', 'L', 'AH0', 'M', 'AE1', 'N', 'S'], 'dance': ['D', 'AE1', 'N', 'S']}
+{'alamance': ['AE2', 'L', 'AH0', 'M', 'AE1', 'N', 'S'], 'perchance': ['P', 'ER0', 'CH', 'AE1', 'N', 'S']}
+{'alamance': ['AE2', 'L', 'AH0', 'M', 'AE1', 'N', 'S'], 'refinance': ['R', 'IY2', 'F', 'AH0', 'N', 'AE1', 'N', 'S']}
+{'alamance': ['AE2', 'L', 'AH0', 'M', 'AE1', 'N', 'S'], 'vance': ['V', 'AE1', 'N', 'S']}
+{'alamance': ['AE2', 'L', 'AH0', 'M', 'AE1', 'N', 'S'], 'finance(1)': ['F', 'IH0', 'N', 'AE1', 'N', 'S']}
+{'alamance': ['AE2', 'L', 'AH0', 'M', 'AE1', 'N', 'S'], 'underfinance': ['AH2', 'N', 'D', 'ER0', 'F', 'IH0', 'N', 'AE1', 'N', 'S']}
+{'lance': ['L', 'AE1', 'N', 'S'], 'crance': ['K', 'R', 'AE1', 'N', 'S']}
+{'lance': ['L', 'AE1', 'N', 'S'], 'underfinance': ['AH2', 'N', 'D', 'ER0', 'F', 'IH0', 'N', 'AE1', 'N', 'S']}
+{'lance': ['L', 'AE1', 'N', 'S'], 'nance': ['N', 'AE1', 'N', 'S']}
+{'lance': ['L', 'AE1', 'N', 'S'], 'perchance': ['P', 'ER0', 'CH', 'AE1', 'N', 'S']}
+{'lance': ['L', 'AE1', 'N', 'S'], 'enhance': ['EH0', 'N', 'HH', 'AE1', 'N', 'S']}
+{'lance': ['L', 'AE1', 'N', 'S'], 'mance': ['M', 'AE1', 'N', 'S']}
+{'lance': ['L', 'AE1', 'N', 'S'], 'trance': ['T', 'R', 'AE1', 'N', 'S']}
+{'lance': ['L', 'AE1', 'N', 'S'], 'lafrance': ['L', 'AA0', 'F', 'R', 'AE1', 'N', 'S']}
+{'lance': ['L', 'AE1', 'N', 'S'], 'advance': ['AH0', 'D', 'V', 'AE1', 'N', 'S']}
+{'lafrance': ['L', 'AA0', 'F', 'R', 'AE1', 'N', 'S'], 'finance': ['F', 'AH0', 'N', 'AE1', 'N', 'S']}
+{'lafrance': ['L', 'AA0', 'F', 'R', 'AE1', 'N', 'S'], 'glance': ['G', 'L', 'AE1', 'N', 'S']}
+{'lafrance': ['L', 'AA0', 'F', 'R', 'AE1', 'N', 'S'], 'advance': ['AH0', 'D', 'V', 'AE1', 'N', 'S']}
+{'lafrance': ['L', 'AA0', 'F', 'R', 'AE1', 'N', 'S'], 'romance': ['R', 'OW0', 'M', 'AE1', 'N', 'S']}
+{'lafrance': ['L', 'AA0', 'F', 'R', 'AE1', 'N', 'S'], 'enhance': ['EH0', 'N', 'HH', 'AE1', 'N', 'S']}
+{'chanced': ['CH', 'AE1', 'N', 'S', 'T'], 'refinanced': ['R', 'IY2', 'F', 'AH0', 'N', 'AE1', 'N', 'S', 'T']}
+{'chanced': ['CH', 'AE1', 'N', 'S', 'T'], 'underfinanced': ['AH2', 'N', 'D', 'ER0', 'F', 'IH0', 'N', 'AE1', 'N', 'S', 'T']}
+{'chanced': ['CH', 'AE1', 'N', 'S', 'T'], 'danced': ['D', 'AE1', 'N', 'S', 'T']}
+{'perchance': ['P', 'ER0', 'CH', 'AE1', 'N', 'S'], 'enhance': ['EH0', 'N', 'HH', 'AE1', 'N', 'S']}
+{'perchance': ['P', 'ER0', 'CH', 'AE1', 'N', 'S'], 'vance': ['V', 'AE1', 'N', 'S']}
+{'perchance': ['P', 'ER0', 'CH', 'AE1', 'N', 'S'], 'pomerance': ['P', 'AA1', 'M', 'ER0', 'AE1', 'N', 'S']}
+{'perchance': ['P', 'ER0', 'CH', 'AE1', 'N', 'S'], 'romance': ['R', 'OW0', 'M', 'AE1', 'N', 'S']}
+{'perchance': ['P', 'ER0', 'CH', 'AE1', 'N', 'S'], 'advance': ['AH0', 'D', 'V', 'AE1', 'N', 'S']}
+{'perchance': ['P', 'ER0', 'CH', 'AE1', 'N', 'S'], 'crance': ['K', 'R', 'AE1', 'N', 'S']}
+{'perchance': ['P', 'ER0', 'CH', 'AE1', 'N', 'S'], 'lance': ['L', 'AE1', 'N', 'S']}
+{'perchance': ['P', 'ER0', 'CH', 'AE1', 'N', 'S'], 'finance(1)': ['F', 'IH0', 'N', 'AE1', 'N', 'S']}
+{'perchance': ['P', 'ER0', 'CH', 'AE1', 'N', 'S'], 'underfinance': ['AH2', 'N', 'D', 'ER0', 'F', 'IH0', 'N', 'AE1', 'N', 'S']}
+{'perchance': ['P', 'ER0', 'CH', 'AE1', 'N', 'S'], 'finance': ['F', 'AH0', 'N', 'AE1', 'N', 'S']}
+{'perchance': ['P', 'ER0', 'CH', 'AE1', 'N', 'S'], 'trance': ['T', 'R', 'AE1', 'N', 'S']}
+{'perchance': ['P', 'ER0', 'CH', 'AE1', 'N', 'S'], 'dance': ['D', 'AE1', 'N', 'S']}
+{'perchance': ['P', 'ER0', 'CH', 'AE1', 'N', 'S'], 'rance': ['R', 'AE1', 'N', 'S']}
+{'perchance': ['P', 'ER0', 'CH', 'AE1', 'N', 'S'], 'mance': ['M', 'AE1', 'N', 'S']}
+{'perchance': ['P', 'ER0', 'CH', 'AE1', 'N', 'S'], 'mccance': ['M', 'AH0', 'K', 'AE1', 'N', 'S']}
+{'perchance': ['P', 'ER0', 'CH', 'AE1', 'N', 'S'], 'refinance': ['R', 'IY2', 'F', 'AH0', 'N', 'AE1', 'N', 'S']}
+{'mance': ['M', 'AE1', 'N', 'S'], 'enhance': ['EH0', 'N', 'HH', 'AE1', 'N', 'S']}
+{'mance': ['M', 'AE1', 'N', 'S'], 'glance': ['G', 'L', 'AE1', 'N', 'S']}
+{'mance': ['M', 'AE1', 'N', 'S'], 'refinance': ['R', 'IY2', 'F', 'AH0', 'N', 'AE1', 'N', 'S']}
+{'mance': ['M', 'AE1', 'N', 'S'], 'france': ['F', 'R', 'AE1', 'N', 'S']}
+{'mance': ['M', 'AE1', 'N', 'S'], 'vance': ['V', 'AE1', 'N', 'S']}
+{'mance': ['M', 'AE1', 'N', 'S'], 'stance': ['S', 'T', 'AE1', 'N', 'S']}
+{'mance': ['M', 'AE1', 'N', 'S'], 'finance': ['F', 'AH0', 'N', 'AE1', 'N', 'S']}
+{'mance': ['M', 'AE1', 'N', 'S'], 'crance': ['K', 'R', 'AE1', 'N', 'S']}
+{'mance': ['M', 'AE1', 'N', 'S'], 'finance(1)': ['F', 'IH0', 'N', 'AE1', 'N', 'S']}
+{'mance': ['M', 'AE1', 'N', 'S'], 'trance': ['T', 'R', 'AE1', 'N', 'S']}
+{'mance': ['M', 'AE1', 'N', 'S'], 'advance': ['AH0', 'D', 'V', 'AE1', 'N', 'S']}
+{'mance': ['M', 'AE1', 'N', 'S'], 'lafrance': ['L', 'AA0', 'F', 'R', 'AE1', 'N', 'S']}
+{'mance': ['M', 'AE1', 'N', 'S'], 'pomerance': ['P', 'AA1', 'M', 'ER0', 'AE1', 'N', 'S']}
+{'mance': ['M', 'AE1', 'N', 'S'], 'prance': ['P', 'R', 'AE1', 'N', 'S']}
+{'prance': ['P', 'R', 'AE1', 'N', 'S'], 'vance': ['V', 'AE1', 'N', 'S']}
+{'prance': ['P', 'R', 'AE1', 'N', 'S'], 'advance': ['AH0', 'D', 'V', 'AE1', 'N', 'S']}
+{'prance': ['P', 'R', 'AE1', 'N', 'S'], 'romance': ['R', 'OW0', 'M', 'AE1', 'N', 'S']}
+{'prance': ['P', 'R', 'AE1', 'N', 'S'], 'finance': ['F', 'AH0', 'N', 'AE1', 'N', 'S']}
+{'prance': ['P', 'R', 'AE1', 'N', 'S'], 'askance': ['AH0', 'S', 'K', 'AE1', 'N', 'S']}
+{'prance': ['P', 'R', 'AE1', 'N', 'S'], 'underfinance': ['AH2', 'N', 'D', 'ER0', 'F', 'IH0', 'N', 'AE1', 'N', 'S']}
+{'prance': ['P', 'R', 'AE1', 'N', 'S'], 'perchance': ['P', 'ER0', 'CH', 'AE1', 'N', 'S']}
+{'prance': ['P', 'R', 'AE1', 'N', 'S'], 'stance': ['S', 'T', 'AE1', 'N', 'S']}
+{'prance': ['P', 'R', 'AE1', 'N', 'S'], 'dance': ['D', 'AE1', 'N', 'S']}
+{'prance': ['P', 'R', 'AE1', 'N', 'S'], 'alamance': ['AE2', 'L', 'AH0', 'M', 'AE1', 'N', 'S']}
+{'prance': ['P', 'R', 'AE1', 'N', 'S'], 'nance': ['N', 'AE1', 'N', 'S']}
+{'prance': ['P', 'R', 'AE1', 'N', 'S'], 'glance': ['G', 'L', 'AE1', 'N', 'S']}
+{'mccance': ['M', 'AH0', 'K', 'AE1', 'N', 'S'], 'rance': ['R', 'AE1', 'N', 'S']}
+{'mccance': ['M', 'AH0', 'K', 'AE1', 'N', 'S'], 'lafrance': ['L', 'AA0', 'F', 'R', 'AE1', 'N', 'S']}
+{'mccance': ['M', 'AH0', 'K', 'AE1', 'N', 'S'], 'perchance': ['P', 'ER0', 'CH', 'AE1', 'N', 'S']}
+{'mccance': ['M', 'AH0', 'K', 'AE1', 'N', 'S'], 'pomerance': ['P', 'AA1', 'M', 'ER0', 'AE1', 'N', 'S']}
+{'mccance': ['M', 'AH0', 'K', 'AE1', 'N', 'S'], 'mance': ['M', 'AE1', 'N', 'S']}
+{'mccance': ['M', 'AH0', 'K', 'AE1', 'N', 'S'], 'stance': ['S', 'T', 'AE1', 'N', 'S']}
+{'mccance': ['M', 'AH0', 'K', 'AE1', 'N', 'S'], 'romance': ['R', 'OW0', 'M', 'AE1', 'N', 'S']}
+{'mccance': ['M', 'AH0', 'K', 'AE1', 'N', 'S'], 'finance(1)': ['F', 'IH0', 'N', 'AE1', 'N', 'S']}
+{'mccance': ['M', 'AH0', 'K', 'AE1', 'N', 'S'], 'refinance': ['R', 'IY2', 'F', 'AH0', 'N', 'AE1', 'N', 'S']}
+{'mccance': ['M', 'AH0', 'K', 'AE1', 'N', 'S'], 'lance': ['L', 'AE1', 'N', 'S']}
+{'mccance': ['M', 'AH0', 'K', 'AE1', 'N', 'S'], 'underfinance': ['AH2', 'N', 'D', 'ER0', 'F', 'IH0', 'N', 'AE1', 'N', 'S']}
+{'mccance': ['M', 'AH0', 'K', 'AE1', 'N', 'S'], 'trance': ['T', 'R', 'AE1', 'N', 'S']}
+{'mccance': ['M', 'AH0', 'K', 'AE1', 'N', 'S'], 'nance': ['N', 'AE1', 'N', 'S']}
+{'glanced': ['G', 'L', 'AE1', 'N', 'S', 'T'], 'chanced': ['CH', 'AE1', 'N', 'S', 'T']}
+{'glanced': ['G', 'L', 'AE1', 'N', 'S', 'T'], 'underfinanced': ['AH2', 'N', 'D', 'ER0', 'F', 'IH0', 'N', 'AE1', 'N', 'S', 'T']}
+{'glanced': ['G', 'L', 'AE1', 'N', 'S', 'T'], 'entranced': ['IH0', 'N', 'T', 'R', 'AE1', 'N', 'S', 'T']}
+{'glanced': ['G', 'L', 'AE1', 'N', 'S', 'T'], 'enhanced': ['EH0', 'N', 'HH', 'AE1', 'N', 'S', 'T']}
+{'fence': ['F', 'EH1', 'N', 'S'], 'commence': ['K', 'AH0', 'M', 'EH1', 'N', 'S']}
+{'fence': ['F', 'EH1', 'N', 'S'], 'whence': ['W', 'EH1', 'N', 'S']}
+{'fence': ['F', 'EH1', 'N', 'S'], 'hence': ['HH', 'EH1', 'N', 'S']}
+{'fence': ['F', 'EH1', 'N', 'S'], 'bence': ['B', 'EH1', 'N', 'S']}
+{'fence': ['F', 'EH1', 'N', 'S'], 'thence': ['DH', 'EH1', 'N', 'S']}
+{'fence': ['F', 'EH1', 'N', 'S'], 'whence(1)': ['HH', 'W', 'EH1', 'N', 'S']}
+{'askance': ['AH0', 'S', 'K', 'AE1', 'N', 'S'], 'finance': ['F', 'AH0', 'N', 'AE1', 'N', 'S']}
+{'askance': ['AH0', 'S', 'K', 'AE1', 'N', 'S'], 'enhance': ['EH0', 'N', 'HH', 'AE1', 'N', 'S']}
+{'askance': ['AH0', 'S', 'K', 'AE1', 'N', 'S'], 'underfinance': ['AH2', 'N', 'D', 'ER0', 'F', 'IH0', 'N', 'AE1', 'N', 'S']}
+{'askance': ['AH0', 'S', 'K', 'AE1', 'N', 'S'], 'mance': ['M', 'AE1', 'N', 'S']}
+{'askance': ['AH0', 'S', 'K', 'AE1', 'N', 'S'], 'pomerance': ['P', 'AA1', 'M', 'ER0', 'AE1', 'N', 'S']}
+{'stance': ['S', 'T', 'AE1', 'N', 'S'], 'finance': ['F', 'AH0', 'N', 'AE1', 'N', 'S']}
+{'stance': ['S', 'T', 'AE1', 'N', 'S'], 'underfinance': ['AH2', 'N', 'D', 'ER0', 'F', 'IH0', 'N', 'AE1', 'N', 'S']}
+{'stance': ['S', 'T', 'AE1', 'N', 'S'], 'finance(1)': ['F', 'IH0', 'N', 'AE1', 'N', 'S']}
+{'stance': ['S', 'T', 'AE1', 'N', 'S'], 'vance': ['V', 'AE1', 'N', 'S']}
+{'stance': ['S', 'T', 'AE1', 'N', 'S'], 'pomerance': ['P', 'AA1', 'M', 'ER0', 'AE1', 'N', 'S']}
+{'stance': ['S', 'T', 'AE1', 'N', 'S'], 'trance': ['T', 'R', 'AE1', 'N', 'S']}
+{'stance': ['S', 'T', 'AE1', 'N', 'S'], 'france': ['F', 'R', 'AE1', 'N', 'S']}
+{'stance': ['S', 'T', 'AE1', 'N', 'S'], 'nance': ['N', 'AE1', 'N', 'S']}
+{'stance': ['S', 'T', 'AE1', 'N', 'S'], 'enhance': ['EH0', 'N', 'HH', 'AE1', 'N', 'S']}
+{'hance': ['HH', 'AE1', 'N', 'S'], 'finance(1)': ['F', 'IH0', 'N', 'AE1', 'N', 'S']}
+{'hance': ['HH', 'AE1', 'N', 'S'], 'romance': ['R', 'OW0', 'M', 'AE1', 'N', 'S']}
+{'hance': ['HH', 'AE1', 'N', 'S'], 'dance': ['D', 'AE1', 'N', 'S']}
+{'hance': ['HH', 'AE1', 'N', 'S'], 'refinance': ['R', 'IY2', 'F', 'AH0', 'N', 'AE1', 'N', 'S']}
+{'hance': ['HH', 'AE1', 'N', 'S'], 'prance': ['P', 'R', 'AE1', 'N', 'S']}
+{'hance': ['HH', 'AE1', 'N', 'S'], 'perchance': ['P', 'ER0', 'CH', 'AE1', 'N', 'S']}
+{'hance': ['HH', 'AE1', 'N', 'S'], 'advance': ['AH0', 'D', 'V', 'AE1', 'N', 'S']}
+{'hance': ['HH', 'AE1', 'N', 'S'], 'france': ['F', 'R', 'AE1', 'N', 'S']}
+{'hance': ['HH', 'AE1', 'N', 'S'], 'mccance': ['M', 'AH0', 'K', 'AE1', 'N', 'S']}
+{'hance': ['HH', 'AE1', 'N', 'S'], 'lance': ['L', 'AE1', 'N', 'S']}
+{'hance': ['HH', 'AE1', 'N', 'S'], 'crance': ['K', 'R', 'AE1', 'N', 'S']}
+{'hance': ['HH', 'AE1', 'N', 'S'], 'underfinance': ['AH2', 'N', 'D', 'ER0', 'F', 'IH0', 'N', 'AE1', 'N', 'S']}
+{'hance': ['HH', 'AE1', 'N', 'S'], 'glance': ['G', 'L', 'AE1', 'N', 'S']}
+{'hance': ['HH', 'AE1', 'N', 'S'], 'vance': ['V', 'AE1', 'N', 'S']}
+{'entranced': ['IH0', 'N', 'T', 'R', 'AE1', 'N', 'S', 'T'], 'advanced': ['AH0', 'D', 'V', 'AE1', 'N', 'S', 'T']}
+{'entranced': ['IH0', 'N', 'T', 'R', 'AE1', 'N', 'S', 'T'], 'enhanced': ['EH0', 'N', 'HH', 'AE1', 'N', 'S', 'T']}
+{'entranced': ['IH0', 'N', 'T', 'R', 'AE1', 'N', 'S', 'T'], 'glanced': ['G', 'L', 'AE1', 'N', 'S', 'T']}
+{'entranced': ['IH0', 'N', 'T', 'R', 'AE1', 'N', 'S', 'T'], 'danced': ['D', 'AE1', 'N', 'S', 'T']}
+{'entranced': ['IH0', 'N', 'T', 'R', 'AE1', 'N', 'S', 'T'], 'underfinanced': ['AH2', 'N', 'D', 'ER0', 'F', 'IH0', 'N', 'AE1', 'N', 'S', 'T']}
+{'renaissance': ['R', 'EH2', 'N', 'AH0', 'S', 'AA1', 'N', 'S'], 'lesperance': ['L', 'EH0', 'S', 'P', 'ER0', 'AA1', 'N', 'S']}
+{'advanced': ['AH0', 'D', 'V', 'AE1', 'N', 'S', 'T'], 'danced': ['D', 'AE1', 'N', 'S', 'T']}
+{'advanced': ['AH0', 'D', 'V', 'AE1', 'N', 'S', 'T'], 'chanced': ['CH', 'AE1', 'N', 'S', 'T']}
+{'advanced': ['AH0', 'D', 'V', 'AE1', 'N', 'S', 'T'], 'refinanced': ['R', 'IY2', 'F', 'AH0', 'N', 'AE1', 'N', 'S', 'T']}
+{'advanced': ['AH0', 'D', 'V', 'AE1', 'N', 'S', 'T'], 'entranced': ['IH0', 'N', 'T', 'R', 'AE1', 'N', 'S', 'T']}
+{'finance': ['F', 'AH0', 'N', 'AE1', 'N', 'S'], 'romance': ['R', 'OW0', 'M', 'AE1', 'N', 'S']}
+{'finance': ['F', 'AH0', 'N', 'AE1', 'N', 'S'], 'crance': ['K', 'R', 'AE1', 'N', 'S']}
+{'finance': ['F', 'AH0', 'N', 'AE1', 'N', 'S'], 'askance': ['AH0', 'S', 'K', 'AE1', 'N', 'S']}
+{'finance': ['F', 'AH0', 'N', 'AE1', 'N', 'S'], 'dance': ['D', 'AE1', 'N', 'S']}
+{'finance': ['F', 'AH0', 'N', 'AE1', 'N', 'S'], 'rance': ['R', 'AE1', 'N', 'S']}
+{'finance': ['F', 'AH0', 'N', 'AE1', 'N', 'S'], 'prance': ['P', 'R', 'AE1', 'N', 'S']}
+{'finance': ['F', 'AH0', 'N', 'AE1', 'N', 'S'], 'lafrance': ['L', 'AA0', 'F', 'R', 'AE1', 'N', 'S']}
+{'finance': ['F', 'AH0', 'N', 'AE1', 'N', 'S'], 'hance': ['HH', 'AE1', 'N', 'S']}
+{'finance': ['F', 'AH0', 'N', 'AE1', 'N', 'S'], 'enhance': ['EH0', 'N', 'HH', 'AE1', 'N', 'S']}
+{'finance': ['F', 'AH0', 'N', 'AE1', 'N', 'S'], 'france': ['F', 'R', 'AE1', 'N', 'S']}
+{'finance': ['F', 'AH0', 'N', 'AE1', 'N', 'S'], 'chance': ['CH', 'AE1', 'N', 'S']}
+{'bence': ['B', 'EH1', 'N', 'S'], 'whence': ['W', 'EH1', 'N', 'S']}
+{'bence': ['B', 'EH1', 'N', 'S'], 'thence': ['DH', 'EH1', 'N', 'S']}
+{'bence': ['B', 'EH1', 'N', 'S'], 'commence': ['K', 'AH0', 'M', 'EH1', 'N', 'S']}
+{'bence': ['B', 'EH1', 'N', 'S'], 'hence': ['HH', 'EH1', 'N', 'S']}
+{'bence': ['B', 'EH1', 'N', 'S'], 'self-defence': ['S', 'EH2', 'L', 'F', 'D', 'IH0', 'F', 'EH1', 'N', 'S']}
+{'monterrey': ['M', 'AA2', 'N', 'T', 'AH0', 'R', 'EY1'], 'jay': ['JH', 'EY1']}
+{"hammas'": ['HH', 'AH0', 'M', 'AA1', 'S'], 'kaas': ['K', 'AA1', 'S']}
+{'gerais': ['JH', 'ER0', 'EY1'], 'clay': ['K', 'L', 'EY1']}
+{'gerais': ['JH', 'ER0', 'EY1'], 'cea': ['S', 'IY2', 'IY2', 'EY1']}
+{'gerais': ['JH', 'ER0', 'EY1'], 'slay': ['S', 'L', 'EY1']}
+{'morays': ['M', 'ER0', 'EY1', 'Z'], "rea's": ['R', 'EY1', 'Z']}
+{'morays': ['M', 'ER0', 'EY1', 'Z'], "gray's": ['G', 'R', 'EY1', 'Z']}
+{'charmaine': ['SH', 'AA0', 'R', 'M', 'EY1', 'N'], 'bahrain(1)': ['B', 'AY0', 'R', 'EY1', 'N']}
+{'aday': ['AH0', 'D', 'EY1'], 'kay': ['K', 'EY1']}
+{'aday': ['AH0', 'D', 'EY1'], 'smay': ['S', 'M', 'EY1']}
+{'boulay': ['B', 'UW0', 'L', 'EY1'], 'trey': ['T', 'R', 'EY1']}
+{'co': ['K', 'OW1'], 'tallyho': ['T', 'AE2', 'L', 'IY0', 'HH', 'OW1']}
+{'co': ['K', 'OW1'], 'nouveau': ['N', 'UW2', 'V', 'OW1']}
+{'ayon': ['EY0', 'AO1', 'N'], 'amon': ['AA0', 'M', 'AO1', 'N']}
+{'yay': ['Y', 'EY1'], 'cray': ['K', 'R', 'EY1']}
+{'sydell': ['S', 'AY2', 'D', 'EH1', 'L'], 'gell': ['JH', 'EH1', 'L']}
+{'conceal': ['K', 'AH0', 'N', 'S', 'IY1', 'L'], 'brazeal': ['B', 'R', 'AH0', 'Z', 'IY1', 'L']}
+{'eileen': ['AY0', 'L', 'IY1', 'N'], 'beane': ['B', 'IY1', 'N']}
+{'lettau': ['L', 'IH0', 'T', 'OW1'], 'budreau': ['B', 'AH0', 'D', 'R', 'OW1']}
+{'lettau': ['L', 'IH0', 'T', 'OW1'], 'arnault': ['AA2', 'R', 'N', 'OW1']}
+{'paste': ['P', 'EY1', 'S', 'T'], 'taste': ['T', 'EY1', 'S', 'T']}
+{'oneal': ['OW0', 'N', 'IY1', 'L'], 'teele': ['T', 'IY1', 'L']}
+{'maltais': ['M', 'AH0', 'L', 'T', 'EY1'], 'faraway': ['F', 'AA1', 'R', 'AH0', 'W', 'EY1']}
+{"sports'": ['S', 'P', 'AO1', 'R', 'T', 'S'], "court's": ['K', 'AO1', 'R', 'T', 'S']}
+{'allcorn': ['AH0', 'L', 'K', 'AO1', 'R', 'N'], 'forewarn': ['F', 'AO0', 'R', 'W', 'AO1', 'R', 'N']}
+{'steeled': ['S', 'T', 'IY1', 'L', 'D'], 'repealed': ['R', 'IH0', 'P', 'IY1', 'L', 'D']}
+{'dispose': ['D', 'IH0', 'S', 'P', 'OW1', 'Z'], "bro's": ['B', 'R', 'OW1', 'Z']}
+{'ricard': ['R', 'IH0', 'K', 'AA1', 'R', 'D'], 'broussard': ['B', 'R', 'UW0', 'S', 'AA1', 'R', 'D']}
+{'ricard': ['R', 'IH0', 'K', 'AA1', 'R', 'D'], 'berard': ['B', 'ER0', 'AA1', 'R', 'D']}
+{'berrard(1)': ['B', 'ER0', 'AA1', 'R', 'D'], 'maillard': ['M', 'EH0', 'L', 'AA1', 'R', 'D']}
+{'delong': ['D', 'AH0', 'L', 'AO1', 'NG'], 'xudong': ['Z', 'UW1', 'D', 'AO1', 'NG']}
+{'redeploy': ['R', 'IY2', 'D', 'IH0', 'P', 'L', 'OY1'], 'mccoy': ['M', 'AH0', 'K', 'OY1']}
+{'reattached': ['R', 'IY1', 'AH0', 'T', 'AE1', 'CH', 'T'], 'unmatched': ['AH0', 'N', 'M', 'AE1', 'CH', 'T']}
+{'mistook': ['M', 'IH0', 'S', 'T', 'UH1', 'K'], 'shook': ['SH', 'UH1', 'K']}
+{'choyce': ['CH', 'OY1', 'S'], 'dubois': ['D', 'UW0', 'B', 'OY1', 'S']}
+{'premiered': ['P', 'R', 'EH0', 'M', 'IH1', 'R', 'D'], 'volunteered': ['V', 'AA2', 'L', 'AH0', 'N', 'T', 'IH1', 'R', 'D']}
+{'hord': ['HH', 'AO1', 'R', 'D'], 'norred': ['N', 'AO1', 'R', 'D']}
+{'clowns': ['K', 'L', 'AW1', 'N', 'Z'], "pound's(1)": ['P', 'AW1', 'N', 'Z']}
+{'sinn': ['S', 'IH1', 'N'], 'elkin': ['IH0', 'L', 'K', 'IH1', 'N']}
+{'gains': ['G', 'EY1', 'N', 'Z'], 'haynes': ['HH', 'EY1', 'N', 'Z']}
+{'standby': ['S', 'T', 'AE1', 'N', 'D', 'B', 'AY1'], 'imai': ['IH2', 'M', 'AY1']}
+{'mir': ['M', 'IH1', 'R'], 'pamphleteer': ['P', 'AE2', 'M', 'F', 'L', 'AH0', 'T', 'IH1', 'R']}
+{"soonyi's": ['S', 'UW2', 'N', 'Y', 'IY1', 'Z'], 'bes': ['B', 'IY1', 'Z']}
+{'misquote': ['M', 'IH0', 'S', 'K', 'W', 'OW1', 'T'], 'terre_haute': ['T', 'EH1', 'R', 'AH0', 'HH', 'OW1', 'T']}
+{'fess': ['F', 'EH1', 'S'], 'dress': ['D', 'R', 'EH1', 'S']}
+{'antiknock': ['AE2', 'N', 'T', 'IY0', 'N', 'AA1', 'K'], 'dziak': ['D', 'Z', 'IY2', 'AA1', 'K']}
+{"tsai's": ['T', 'S', 'AY1', 'Z'], 'cries': ['K', 'R', 'AY1', 'Z']}
+{'gregoire': ['G', 'R', 'IH0', 'G', 'W', 'AA1', 'R'], 'sklar': ['S', 'K', 'L', 'AA1', 'R']}
+{'sarratt': ['S', 'ER2', 'AE1', 'T'], 'tvsat': ['T', 'AH0', 'V', 'S', 'AE1', 'T']}
+{'sarratt': ['S', 'ER2', 'AE1', 'T'], 'scat': ['S', 'K', 'AE1', 'T']}
+{'tulane': ['T', 'UW0', 'L', 'EY1', 'N'], 'cocaine': ['K', 'OW0', 'K', 'EY1', 'N']}
+{'tulane': ['T', 'UW0', 'L', 'EY1', 'N'], 'wain': ['W', 'EY1', 'N']}
+{'kazakhstan': ['K', 'AA2', 'Z', 'AA0', 'K', 'S', 'T', 'AA1', 'N'], 'moseley-braun': ['M', 'OW1', 'Z', 'L', 'IY0', 'B', 'R', 'AA1', 'N']}
+{'divest': ['D', 'AY0', 'V', 'EH1', 'S', 'T'], "c'est": ['S', 'EH1', 'S', 'T']}
+{')un-parentheses': ['AH1', 'N', 'P', 'ER0', 'EH1', 'N', 'TH', 'AH0', 'S', 'IY1', 'Z'], 'andries': ['AH0', 'N', 'D', 'R', 'IY1', 'Z']}
+{'suffragette': ['S', 'AH2', 'F', 'R', 'AH0', 'JH', 'EH1', 'T'], 'cartrette': ['K', 'AA2', 'R', 'T', 'R', 'EH1', 'T']}
+{'pty': ['P', 'IY2', 'T', 'IY2', 'W', 'AY1'], 'sty': ['S', 'T', 'AY1']}
+{'constrains': ['K', 'AH0', 'N', 'S', 'T', 'R', 'EY1', 'N', 'Z'], 'mains': ['M', 'EY1', 'N', 'Z']}
+{'mcnee': ['M', 'AH0', 'K', 'N', 'IY1'], 'mccree': ['M', 'AH0', 'K', 'R', 'IY1']}
+{'cane': ['K', 'EY1', 'N'], 'attain': ['AH0', 'T', 'EY1', 'N']}
+{'pent': ['P', 'EH1', 'N', 'T'], 'augment': ['AO0', 'G', 'M', 'EH1', 'N', 'T']}
+{'maclaine': ['M', 'AH0', 'K', 'L', 'EY1', 'N'], 'remain(1)': ['R', 'IY0', 'M', 'EY1', 'N']}
+{'tae(1)': ['T', 'AY1'], 'semidry': ['S', 'EH2', 'M', 'IY0', 'D', 'R', 'AY1']}
+{'cocaine': ['K', 'OW0', 'K', 'EY1', 'N'], 'lorraine': ['L', 'ER0', 'EY1', 'N']}
+{'hormel': ['HH', 'AO0', 'R', 'M', 'EH1', 'L'], 'vaupel': ['V', 'AW0', 'P', 'EH1', 'L']}
+{'hormel': ['HH', 'AO0', 'R', 'M', 'EH1', 'L'], 'chapelle': ['SH', 'AH0', 'P', 'EH1', 'L']}
+{'midyette': ['M', 'IH2', 'D', 'Y', 'EH1', 'T'], 'fette': ['F', 'EH1', 'T']}
+{'eighteen': ['EY0', 'T', 'IY1', 'N'], 'sheen': ['SH', 'IY1', 'N']}
+{'eighteen': ['EY0', 'T', 'IY1', 'N'], 'unforeseen': ['AH2', 'N', 'F', 'AO0', 'R', 'S', 'IY1', 'N']}
+{'rwandese(1)': ['R', 'UW0', 'AA2', 'D', 'IY1', 'Z'], 'suvs': ['EH2', 'S', 'Y', 'UW2', 'V', 'IY1', 'Z']}
+{'senne': ['S', 'EH1', 'N'], 'beauchesne': ['B', 'OW0', 'SH', 'EH1', 'N']}
+{'conferees': ['K', 'AA2', 'N', 'F', 'ER0', 'IY1', 'Z'], 'fleas': ['F', 'L', 'IY1', 'Z']}
+{"irene's": ['AY2', 'R', 'IY1', 'N', 'Z'], 'ravines': ['R', 'AH0', 'V', 'IY1', 'N', 'Z']}
+{'diaz-calderon': ['D', 'IY1', 'AE2', 'Z', 'K', 'AE2', 'L', 'D', 'ER0', 'OW1', 'N'], 'corporacion': ['K', 'AO2', 'R', 'P', 'ER0', 'AA2', 'S', 'IY0', 'OW1', 'N']}
+{'benami': ['B', 'EH2', 'N', 'AH0', 'M', 'IY1'], 'detainee': ['D', 'IY2', 'T', 'EY0', 'N', 'IY1']}
+{'benami': ['B', 'EH2', 'N', 'AH0', 'M', 'IY1'], 'capri(1)': ['K', 'AH0', 'P', 'R', 'IY1']}
+{'soos': ['S', 'UW1', 'Z'], 'schmooze': ['SH', 'M', 'UW1', 'Z']}
+{"ship's": ['SH', 'IH1', 'P', 'S'], 'equips': ['IH0', 'K', 'W', 'IH1', 'P', 'S']}
+{'dubois(1)': ['D', 'UW0', 'B', 'W', 'AA1'], 'pasha': ['P', 'AH0', 'SH', 'AA1']}
+{'scorsese': ['S', 'K', 'AO2', 'R', 'S', 'IY1', 'Z'], 'abductees': ['AE0', 'B', 'D', 'AH2', 'K', 'T', 'IY1', 'Z']}
+{'romain': ['R', 'OW0', 'M', 'EY1', 'N'], 'aquitaine': ['AE2', 'K', 'W', 'IH0', 'T', 'EY1', 'N']}
+{'expertise': ['EH2', 'K', 'S', 'P', 'ER0', 'T', 'IY1', 'Z'], 'briese': ['B', 'R', 'IY1', 'Z']}
+{'expertise': ['EH2', 'K', 'S', 'P', 'ER0', 'T', 'IY1', 'Z'], 'vips': ['V', 'IY2', 'AY2', 'P', 'IY1', 'Z']}
+{'break': ['B', 'R', 'EY1', 'K'], 'bake': ['B', 'EY1', 'K']}
+{'gutsy': ['G', 'AH1', 'T', 'S', 'IY1'], 'tangqui': ['T', 'AE1', 'NG', 'K', 'W', 'IY1']}
+{'rayonier': ['R', 'EY2', 'OW0', 'N', 'IH1', 'R'], 'frear': ['F', 'R', 'IH1', 'R']}
+{'dea': ['D', 'IY1'], 'petree': ['P', 'EH1', 'T', 'R', 'IY1']}
+{'barbee': ['B', 'AA1', 'R', 'B', 'IY1'], 'deportee': ['D', 'IY2', 'P', 'AO0', 'R', 'T', 'IY1']}
+{'barbee': ['B', 'AA1', 'R', 'B', 'IY1'], 'he': ['HH', 'IY1']}
+{'zamfir': ['Z', 'AE0', 'M', 'F', 'IH1', 'R'], 'schweer': ['SH', 'W', 'IH1', 'R']}
+{'silhouette': ['S', 'IH2', 'L', 'AH0', 'W', 'EH1', 'T'], 'barnett': ['B', 'AA0', 'R', 'N', 'EH1', 'T']}
+{'silhouette': ['S', 'IH2', 'L', 'AH0', 'W', 'EH1', 'T'], 'rivette': ['R', 'IH0', 'V', 'EH1', 'T']}
+{'i_r_a': ['AY1', 'AA1', 'R', 'EY1'], 'redisplay': ['R', 'IY0', 'D', 'IH0', 'S', 'P', 'L', 'EY1']}
+{'fatheree': ['F', 'AE0', 'TH', 'ER0', 'IY1'], 'sze': ['SH', 'IY1']}
+{'obarr': ['OW0', 'B', 'AA1', 'R'], 'nazar': ['N', 'AA0', 'Z', 'AA1', 'R']}
+{'caouette': ['K', 'AE2', 'W', 'EH1', 'T'], 'regret(1)': ['R', 'IH0', 'G', 'R', 'EH1', 'T']}
+{'caouette': ['K', 'AE2', 'W', 'EH1', 'T'], 'jet': ['JH', 'EH1', 'T']}

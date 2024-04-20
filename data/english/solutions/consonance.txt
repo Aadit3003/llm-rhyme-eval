@@ -1,0 +1,1001 @@
+{'aix(1)': ['EY1', 'K', 'S'], 'cursor': ['K', 'ER1', 'S', 'ER0']}
+{'aix(1)': ['EY1', 'K', 'S'], 'caruso': ['K', 'ER0', 'UW1', 'S', 'OW0']}
+{'kious': ['K', 'AY1', 'AH0', 'S'], 'cursor': ['K', 'ER1', 'S', 'ER0']}
+{'kious': ['K', 'AY1', 'AH0', 'S'], 'caruso': ['K', 'ER0', 'UW1', 'S', 'OW0']}
+{'kious': ['K', 'AY1', 'AH0', 'S'], 'aix(1)': ['EY1', 'K', 'S']}
+{'keesee': ['K', 'IY0', 'S', 'IY1'], 'cursor': ['K', 'ER1', 'S', 'ER0']}
+{'keesee': ['K', 'IY0', 'S', 'IY1'], 'caruso': ['K', 'ER0', 'UW1', 'S', 'OW0']}
+{'keesee': ['K', 'IY0', 'S', 'IY1'], 'aix(1)': ['EY1', 'K', 'S']}
+{'keesee': ['K', 'IY0', 'S', 'IY1'], 'kious': ['K', 'AY1', 'AH0', 'S']}
+{'krahl': ['K', 'R', 'AA1', 'L'], 'coralie': ['K', 'AO1', 'R', 'AH0', 'L', 'IY0']}
+{'carello': ['K', 'EH2', 'R', 'EH1', 'L', 'OW0'], 'coralie': ['K', 'AO1', 'R', 'AH0', 'L', 'IY0']}
+{'carello': ['K', 'EH2', 'R', 'EH1', 'L', 'OW0'], 'krahl': ['K', 'R', 'AA1', 'L']}
+{'corel': ['K', 'AO2', 'R', 'EH1', 'L'], 'coralie': ['K', 'AO1', 'R', 'AH0', 'L', 'IY0']}
+{'corel': ['K', 'AO2', 'R', 'EH1', 'L'], 'krahl': ['K', 'R', 'AA1', 'L']}
+{'croyle': ['K', 'R', 'OY1', 'L'], 'coralie': ['K', 'AO1', 'R', 'AH0', 'L', 'IY0']}
+{'croyle': ['K', 'R', 'OY1', 'L'], 'krahl': ['K', 'R', 'AA1', 'L']}
+{'croyle': ['K', 'R', 'OY1', 'L'], 'carello': ['K', 'EH2', 'R', 'EH1', 'L', 'OW0']}
+{'croyle': ['K', 'R', 'OY1', 'L'], 'corel': ['K', 'AO2', 'R', 'EH1', 'L']}
+{'army': ['AA1', 'R', 'M', 'IY0'], 'auriemma': ['AO0', 'R', 'IY1', 'M', 'AH0']}
+{'ramo': ['R', 'EY1', 'M', 'OW0'], 'auriemma': ['AO0', 'R', 'IY1', 'M', 'AH0']}
+{'ramo': ['R', 'EY1', 'M', 'OW0'], 'army': ['AA1', 'R', 'M', 'IY0']}
+{'rheaume': ['R', 'UW1', 'M'], 'auriemma': ['AO0', 'R', 'IY1', 'M', 'AH0']}
+{'rheaume': ['R', 'UW1', 'M'], 'army': ['AA1', 'R', 'M', 'IY0']}
+{'rheaume': ['R', 'UW1', 'M'], 'ramo': ['R', 'EY1', 'M', 'OW0']}
+{'roehm': ['R', 'OW1', 'M'], 'auriemma': ['AO0', 'R', 'IY1', 'M', 'AH0']}
+{'roehm': ['R', 'OW1', 'M'], 'army': ['AA1', 'R', 'M', 'IY0']}
+{'roehm': ['R', 'OW1', 'M'], 'ramo': ['R', 'EY1', 'M', 'OW0']}
+{'roehm': ['R', 'OW1', 'M'], 'rheaume': ['R', 'UW1', 'M']}
+{'regnier': ['R', 'EH1', 'G', 'N', 'IY0', 'ER0'], 'regan': ['R', 'IY1', 'G', 'AH0', 'N']}
+{'regnier': ['R', 'EH1', 'G', 'N', 'IY0', 'ER0'], 'riggen': ['R', 'IH1', 'G', 'AH0', 'N']}
+{'regnier': ['R', 'EH1', 'G', 'N', 'IY0', 'ER0'], 'oregon(1)': ['AO1', 'R', 'AH0', 'G', 'AA2', 'N']}
+{'ayesha': ['AY1', 'S', 'AA0'], 'ios': ['IY1', 'OW0', 'S']}
+{'ayesha': ['AY1', 'S', 'AA0'], 'sea': ['S', 'IY1']}
+{'seyer': ['S', 'EY1', 'ER0'], 'ios': ['IY1', 'OW0', 'S']}
+{'seyer': ['S', 'EY1', 'ER0'], 'sea': ['S', 'IY1']}
+{'seyer': ['S', 'EY1', 'ER0'], 'ayesha': ['AY1', 'S', 'AA0']}
+{'ussery': ['AH1', 'S', 'ER0', 'IY0'], 'ios': ['IY1', 'OW0', 'S']}
+{'ussery': ['AH1', 'S', 'ER0', 'IY0'], 'sea': ['S', 'IY1']}
+{'ussery': ['AH1', 'S', 'ER0', 'IY0'], 'ayesha': ['AY1', 'S', 'AA0']}
+{'stermer': ['S', 'T', 'ER1', 'M', 'ER0'], 'eastham': ['IY1', 'S', 'T', 'AH0', 'M']}
+{'ostermeyer': ['AA1', 'S', 'T', 'ER2', 'M', 'AY2', 'ER0'], 'eastham': ['IY1', 'S', 'T', 'AH0', 'M']}
+{'stammer': ['S', 'T', 'AE1', 'M', 'ER0'], 'eastham': ['IY1', 'S', 'T', 'AH0', 'M']}
+{'sturm': ['S', 'T', 'ER1', 'M'], 'eastham': ['IY1', 'S', 'T', 'AH0', 'M']}
+{'sturm': ['S', 'T', 'ER1', 'M'], 'ostermeyer': ['AA1', 'S', 'T', 'ER2', 'M', 'AY2', 'ER0']}
+{'sturm': ['S', 'T', 'ER1', 'M'], 'stammer': ['S', 'T', 'AE1', 'M', 'ER0']}
+{'sobil': ['S', 'OW1', 'B', 'AH0', 'L'], 'cybill': ['S', 'AY1', 'B', 'IH2', 'L']}
+{'sibille': ['S', 'IH1', 'B', 'IH0', 'L'], 'cybill': ['S', 'AY1', 'B', 'IH2', 'L']}
+{'sibille': ['S', 'IH1', 'B', 'IH0', 'L'], 'sobil': ['S', 'OW1', 'B', 'AH0', 'L']}
+{'elio': ['EH1', 'L', 'IY0', 'OW0'], "ol'": ['OW1', 'L']}
+{'leyh': ['L', 'EY1'], "ol'": ['OW1', 'L']}
+{'leyh': ['L', 'EY1'], 'elio': ['EH1', 'L', 'IY0', 'OW0']}
+{'early': ['ER1', 'L', 'IY0'], "ol'": ['OW1', 'L']}
+{'early': ['ER1', 'L', 'IY0'], 'leyh': ['L', 'EY1']}
+{'leah': ['L', 'IY1', 'AH0'], "ol'": ['OW1', 'L']}
+{'leah': ['L', 'IY1', 'AH0'], 'elio': ['EH1', 'L', 'IY0', 'OW0']}
+{'leah': ['L', 'IY1', 'AH0'], 'leyh': ['L', 'EY1']}
+{'leah': ['L', 'IY1', 'AH0'], 'early': ['ER1', 'L', 'IY0']}
+{'wanat': ['W', 'EY1', 'N', 'AH0', 'T'], 'winnett': ['W', 'IH1', 'N', 'IH0', 'T']}
+{'windt': ['W', 'IH1', 'N', 'T'], 'wanat': ['W', 'EY1', 'N', 'AH0', 'T']}
+{'wente': ['W', 'EH1', 'N', 'T'], 'winnett': ['W', 'IH1', 'N', 'IH0', 'T']}
+{'wente': ['W', 'EH1', 'N', 'T'], 'wanat': ['W', 'EY1', 'N', 'AH0', 'T']}
+{'wente': ['W', 'EH1', 'N', 'T'], 'windt': ['W', 'IH1', 'N', 'T']}
+{'wanta': ['W', 'AA1', 'N', 'T', 'AH0'], 'winnett': ['W', 'IH1', 'N', 'IH0', 'T']}
+{'wanta': ['W', 'AA1', 'N', 'T', 'AH0'], 'windt': ['W', 'IH1', 'N', 'T']}
+{'wanta': ['W', 'AA1', 'N', 'T', 'AH0'], 'wente': ['W', 'EH1', 'N', 'T']}
+{'shiffer': ['SH', 'IH1', 'F', 'ER0'], 'shoff': ['SH', 'AO1', 'F']}
+{'schiff': ['SH', 'IH1', 'F'], 'shoff': ['SH', 'AO1', 'F']}
+{'schauf': ['SH', 'AW1', 'F'], 'shoff': ['SH', 'AO1', 'F']}
+{'schauf': ['SH', 'AW1', 'F'], 'shiffer': ['SH', 'IH1', 'F', 'ER0']}
+{'schauf': ['SH', 'AW1', 'F'], 'schiff': ['SH', 'IH1', 'F']}
+{'shaff': ['SH', 'AE1', 'F'], 'shoff': ['SH', 'AO1', 'F']}
+{'shaff': ['SH', 'AE1', 'F'], 'shiffer': ['SH', 'IH1', 'F', 'ER0']}
+{'shaff': ['SH', 'AE1', 'F'], 'schiff': ['SH', 'IH1', 'F']}
+{'shaff': ['SH', 'AE1', 'F'], 'schauf': ['SH', 'AW1', 'F']}
+{'zag': ['Z', 'AE1', 'G'], 'zieg': ['Z', 'IY1', 'G']}
+{"how're": ['HH', 'AW1', 'ER0'], 'hurry': ['HH', 'ER1', 'IY0']}
+{"how're": ['HH', 'AW1', 'ER0'], 'owyhee': ['OW1', 'IH0', 'HH', 'IY0']}
+{'haigh': ['HH', 'EY1'], 'hurry': ['HH', 'ER1', 'IY0']}
+{'haigh': ['HH', 'EY1'], 'owyhee': ['OW1', 'IH0', 'HH', 'IY0']}
+{'haigh': ['HH', 'EY1'], "how're": ['HH', 'AW1', 'ER0']}
+{'hooey': ['HH', 'UW1', 'IY0'], "how're": ['HH', 'AW1', 'ER0']}
+{'hooey': ['HH', 'UW1', 'IY0'], 'haigh': ['HH', 'EY1']}
+{'haussler(1)': ['HH', 'AW1', 'S', 'L', 'ER0'], 'hosley': ['HH', 'AA1', 'S', 'L', 'IY0']}
+{'haussler': ['HH', 'AW1', 'S', 'AH0', 'L', 'ER0'], 'hosley': ['HH', 'AA1', 'S', 'L', 'IY0']}
+{'maisie': ['M', 'EY1', 'Z', 'IY0'], 'mooers': ['M', 'UW1', 'ER0', 'Z']}
+{'mize': ['M', 'AY1', 'Z'], 'mooers': ['M', 'UW1', 'ER0', 'Z']}
+{'mize': ['M', 'AY1', 'Z'], 'maisie': ['M', 'EY1', 'Z', 'IY0']}
+{'mazzo': ['M', 'AE1', 'Z', 'OW0'], 'mooers': ['M', 'UW1', 'ER0', 'Z']}
+{'mazzo': ['M', 'AE1', 'Z', 'OW0'], 'maisie': ['M', 'EY1', 'Z', 'IY0']}
+{'mazzo': ['M', 'AE1', 'Z', 'OW0'], 'mize': ['M', 'AY1', 'Z']}
+{"marie's": ['M', 'ER0', 'IY1', 'Z'], 'maisie': ['M', 'EY1', 'Z', 'IY0']}
+{"marie's": ['M', 'ER0', 'IY1', 'Z'], 'mize': ['M', 'AY1', 'Z']}
+{"marie's": ['M', 'ER0', 'IY1', 'Z'], 'mazzo': ['M', 'AE1', 'Z', 'OW0']}
+{"liam's": ['L', 'IY1', 'AH0', 'M', 'Z'], "lamm's": ['L', 'AE1', 'M', 'Z']}
+{'lemzo': ['L', 'EH1', 'M', 'Z', 'OW0'], "lamm's": ['L', 'AE1', 'M', 'Z']}
+{'lemzo': ['L', 'EH1', 'M', 'Z', 'OW0'], "liam's": ['L', 'IY1', 'AH0', 'M', 'Z']}
+{"lambs'": ['L', 'AE1', 'M', 'Z'], "liam's": ['L', 'IY1', 'AH0', 'M', 'Z']}
+{"lambs'": ['L', 'AE1', 'M', 'Z'], 'lemzo': ['L', 'EH1', 'M', 'Z', 'OW0']}
+{'alms': ['AA1', 'L', 'M', 'Z'], "lamm's": ['L', 'AE1', 'M', 'Z']}
+{'alms': ['AA1', 'L', 'M', 'Z'], "liam's": ['L', 'IY1', 'AH0', 'M', 'Z']}
+{'alms': ['AA1', 'L', 'M', 'Z'], 'lemzo': ['L', 'EH1', 'M', 'Z', 'OW0']}
+{'alms': ['AA1', 'L', 'M', 'Z'], "lambs'": ['L', 'AE1', 'M', 'Z']}
+{'berndt': ['B', 'ER1', 'N', 'T'], 'bunt': ['B', 'AH1', 'N', 'T']}
+{'burnt': ['B', 'ER1', 'N', 'T'], 'bunt': ['B', 'AH1', 'N', 'T']}
+{'bernat': ['B', 'ER1', 'N', 'AH0', 'T'], 'bunt': ['B', 'AH1', 'N', 'T']}
+{'bennette': ['B', 'IH0', 'N', 'EH1', 'T'], 'bunt': ['B', 'AH1', 'N', 'T']}
+{'bennette': ['B', 'IH0', 'N', 'EH1', 'T'], 'berndt': ['B', 'ER1', 'N', 'T']}
+{'bennette': ['B', 'IH0', 'N', 'EH1', 'T'], 'burnt': ['B', 'ER1', 'N', 'T']}
+{'bennette': ['B', 'IH0', 'N', 'EH1', 'T'], 'bernat': ['B', 'ER1', 'N', 'AH0', 'T']}
+{'mackley': ['M', 'AE1', 'K', 'L', 'IY0'], 'michel(2)': ['M', 'AY1', 'K', 'AH0', 'L']}
+{'mackley': ['M', 'AE1', 'K', 'L', 'IY0'], 'mikell': ['M', 'IH1', 'K', 'AH0', 'L']}
+{'mackley': ['M', 'AE1', 'K', 'L', 'IY0'], 'mccollough(1)': ['M', 'AH0', 'K', 'AA1', 'L', 'AW0']}
+{'mackley': ['M', 'AE1', 'K', 'L', 'IY0'], 'mcculloh': ['M', 'AH0', 'K', 'AH1', 'L', 'AH0']}
+{'laff': ['L', 'AE1', 'F'], 'leff': ['L', 'EH1', 'F']}
+{'elfie': ['EH1', 'L', 'F', 'IY0'], 'laff': ['L', 'AE1', 'F']}
+{'lief': ['L', 'IY1', 'F'], 'leff': ['L', 'EH1', 'F']}
+{'lief': ['L', 'IY1', 'F'], 'laff': ['L', 'AE1', 'F']}
+{'lief': ['L', 'IY1', 'F'], 'elfie': ['EH1', 'L', 'F', 'IY0']}
+{'laugh': ['L', 'AE1', 'F'], 'leff': ['L', 'EH1', 'F']}
+{'laugh': ['L', 'AE1', 'F'], 'elfie': ['EH1', 'L', 'F', 'IY0']}
+{'laugh': ['L', 'AE1', 'F'], 'lief': ['L', 'IY1', 'F']}
+{'nole': ['N', 'OW1', 'L'], 'nell': ['N', 'EH1', 'L']}
+{'nole': ['N', 'OW1', 'L'], 'kneller': ['N', 'EH1', 'L', 'ER0']}
+{'nel': ['N', 'EH1', 'L'], 'nole': ['N', 'OW1', 'L']}
+{'knell': ['N', 'EH1', 'L'], 'nole': ['N', 'OW1', 'L']}
+{'phrases': ['F', 'R', 'EY1', 'Z', 'AH0', 'Z'], 'friezes': ['F', 'R', 'IY1', 'Z', 'IH0', 'Z']}
+{'freezers': ['F', 'R', 'IY1', 'Z', 'ER0', 'Z'], 'phrases': ['F', 'R', 'EY1', 'Z', 'AH0', 'Z']}
+{'shealey': ['SH', 'IY1', 'L', 'IY0'], 'shula': ['SH', 'UW1', 'L', 'AH0']}
+{'shaul': ['SH', 'AO1', 'L'], 'shula': ['SH', 'UW1', 'L', 'AH0']}
+{'shaul': ['SH', 'AO1', 'L'], 'shealey': ['SH', 'IY1', 'L', 'IY0']}
+{'schall': ['SH', 'AO1', 'L'], 'shula': ['SH', 'UW1', 'L', 'AH0']}
+{'schall': ['SH', 'AO1', 'L'], 'shealey': ['SH', 'IY1', 'L', 'IY0']}
+{'scheel': ['SH', 'IY1', 'L'], 'shula': ['SH', 'UW1', 'L', 'AH0']}
+{'scheel': ['SH', 'IY1', 'L'], 'shaul': ['SH', 'AO1', 'L']}
+{'scheel': ['SH', 'IY1', 'L'], 'schall': ['SH', 'AO1', 'L']}
+{'powless': ['P', 'AW1', 'L', 'IH0', 'S'], 'perales': ['P', 'ER0', 'AA1', 'L', 'EH0', 'S']}
+{'powless': ['P', 'AW1', 'L', 'IH0', 'S'], 'policy': ['P', 'AA1', 'L', 'AH0', 'S', 'IY0']}
+{'plasse': ['P', 'L', 'AE1', 'S'], 'perales': ['P', 'ER0', 'AA1', 'L', 'EH0', 'S']}
+{'plasse': ['P', 'L', 'AE1', 'S'], 'policy': ['P', 'AA1', 'L', 'AH0', 'S', 'IY0']}
+{'plasse': ['P', 'L', 'AE1', 'S'], 'powless': ['P', 'AW1', 'L', 'IH0', 'S']}
+{'plas': ['P', 'L', 'AE1', 'S'], 'perales': ['P', 'ER0', 'AA1', 'L', 'EH0', 'S']}
+{'plas': ['P', 'L', 'AE1', 'S'], 'policy': ['P', 'AA1', 'L', 'AH0', 'S', 'IY0']}
+{'plas': ['P', 'L', 'AE1', 'S'], 'powless': ['P', 'AW1', 'L', 'IH0', 'S']}
+{'schunk': ['SH', 'AH1', 'NG', 'K'], 'shonk': ['SH', 'AA1', 'NG', 'K']}
+{'forerunner': ['F', 'AO1', 'R', 'AH2', 'N', 'ER0'], 'freeney': ['F', 'R', 'IY1', 'N', 'IY0']}
+{'foreign(1)': ['F', 'AA1', 'R', 'AH0', 'N'], 'freeney': ['F', 'R', 'IY1', 'N', 'IY0']}
+{'foreign(1)': ['F', 'AA1', 'R', 'AH0', 'N'], 'forerunner': ['F', 'AO1', 'R', 'AH2', 'N', 'ER0']}
+{'freen': ['F', 'R', 'IY1', 'N'], 'forerunner': ['F', 'AO1', 'R', 'AH2', 'N', 'ER0']}
+{'freen': ['F', 'R', 'IY1', 'N'], 'foreign(1)': ['F', 'AA1', 'R', 'AH0', 'N']}
+{'frain': ['F', 'R', 'EY1', 'N'], 'freeney': ['F', 'R', 'IY1', 'N', 'IY0']}
+{'frain': ['F', 'R', 'EY1', 'N'], 'forerunner': ['F', 'AO1', 'R', 'AH2', 'N', 'ER0']}
+{'frain': ['F', 'R', 'EY1', 'N'], 'foreign(1)': ['F', 'AA1', 'R', 'AH0', 'N']}
+{'frain': ['F', 'R', 'EY1', 'N'], 'freen': ['F', 'R', 'IY1', 'N']}
+{"yassir's": ['Y', 'AE1', 'S', 'IH0', 'R', 'Z'], "usair's": ['Y', 'UW2', 'EH2', 'S', 'EH1', 'R', 'Z']}
+{'rollin': ['R', 'OW1', 'L', 'IH0', 'N'], 'irelan': ['IH2', 'R', 'EY0', 'L', 'AA1', 'N']}
+{'rollin': ['R', 'OW1', 'L', 'IH0', 'N'], 'arline': ['AA1', 'R', 'L', 'AY2', 'N']}
+{'orlan': ['AO1', 'R', 'L', 'AH0', 'N'], 'irelan': ['IH2', 'R', 'EY0', 'L', 'AA1', 'N']}
+{'orlan': ['AO1', 'R', 'L', 'AH0', 'N'], 'arline': ['AA1', 'R', 'L', 'AY2', 'N']}
+{'orlan': ['AO1', 'R', 'L', 'AH0', 'N'], 'rollin': ['R', 'OW1', 'L', 'IH0', 'N']}
+{'poulson': ['P', 'AW1', 'L', 'S', 'AH0', 'N'], 'polcyn': ['P', 'OW1', 'L', 'S', 'IH0', 'N']}
+{'wat': ['W', 'AO1', 'T'], 'weight': ['W', 'EY1', 'T']}
+{'whit': ['W', 'IH1', 'T'], 'weight': ['W', 'EY1', 'T']}
+{'whit': ['W', 'IH1', 'T'], 'wat': ['W', 'AO1', 'T']}
+{'waterer': ['W', 'AO1', 'T', 'ER0', 'ER0'], 'weight': ['W', 'EY1', 'T']}
+{'waterer': ['W', 'AO1', 'T', 'ER0', 'ER0'], 'whit': ['W', 'IH1', 'T']}
+{'wert': ['W', 'ER1', 'T'], 'weight': ['W', 'EY1', 'T']}
+{'wert': ['W', 'ER1', 'T'], 'wat': ['W', 'AO1', 'T']}
+{'wert': ['W', 'ER1', 'T'], 'whit': ['W', 'IH1', 'T']}
+{'wert': ['W', 'ER1', 'T'], 'waterer': ['W', 'AO1', 'T', 'ER0', 'ER0']}
+{'groene': ['G', 'R', 'AA1', 'IY0', 'N'], 'goerner': ['G', 'AO1', 'R', 'N', 'ER0']}
+{'gearan': ['G', 'IH1', 'R', 'AH0', 'N'], 'goerner': ['G', 'AO1', 'R', 'N', 'ER0']}
+{'gearan': ['G', 'IH1', 'R', 'AH0', 'N'], 'groene': ['G', 'R', 'AA1', 'IY0', 'N']}
+{'greaney': ['G', 'R', 'IY1', 'N', 'IY0'], 'goerner': ['G', 'AO1', 'R', 'N', 'ER0']}
+{'greaney': ['G', 'R', 'IY1', 'N', 'IY0'], 'gearan': ['G', 'IH1', 'R', 'AH0', 'N']}
+{'grahn': ['G', 'R', 'AE1', 'N'], 'goerner': ['G', 'AO1', 'R', 'N', 'ER0']}
+{'grahn': ['G', 'R', 'AE1', 'N'], 'groene': ['G', 'R', 'AA1', 'IY0', 'N']}
+{'grahn': ['G', 'R', 'AE1', 'N'], 'gearan': ['G', 'IH1', 'R', 'AH0', 'N']}
+{'grahn': ['G', 'R', 'AE1', 'N'], 'greaney': ['G', 'R', 'IY1', 'N', 'IY0']}
+{'dahlem': ['D', 'AA1', 'L', 'IH0', 'M'], 'delma': ['D', 'EH1', 'L', 'M', 'AH0']}
+{'dahlem': ['D', 'AA1', 'L', 'IH0', 'M'], 'delima': ['D', 'EH0', 'L', 'IY1', 'M', 'AH0']}
+{"borda's": ['B', 'AO1', 'R', 'D', 'AH0', 'Z'], 'brides': ['B', 'R', 'AY1', 'D', 'Z']}
+{"brady's": ['B', 'R', 'EY1', 'D', 'IY0', 'Z'], 'brides': ['B', 'R', 'AY1', 'D', 'Z']}
+{"brady's": ['B', 'R', 'EY1', 'D', 'IY0', 'Z'], "borda's": ['B', 'AO1', 'R', 'D', 'AH0', 'Z']}
+{"boorda's": ['B', 'UH1', 'R', 'D', 'AH0', 'Z'], 'brides': ['B', 'R', 'AY1', 'D', 'Z']}
+{"boorda's": ['B', 'UH1', 'R', 'D', 'AH0', 'Z'], "brady's": ['B', 'R', 'EY1', 'D', 'IY0', 'Z']}
+{'pichette': ['P', 'AH0', 'SH', 'EH1', 'T'], 'pushed': ['P', 'UH1', 'SH', 'T']}
+{'onward': ['AO1', 'N', 'W', 'ER0', 'D'], 'unworried': ['AH0', 'N', 'W', 'ER1', 'IY0', 'D']}
+{'inward': ['IH1', 'N', 'W', 'ER0', 'D'], 'unworried': ['AH0', 'N', 'W', 'ER1', 'IY0', 'D']}
+{'deutsch': ['D', 'OY1', 'CH'], 'duch': ['D', 'AH1', 'CH']}
+{'deitsch': ['D', 'AY1', 'CH'], 'duch': ['D', 'AH1', 'CH']}
+{'deitsch': ['D', 'AY1', 'CH'], 'deutsch': ['D', 'OY1', 'CH']}
+{'dacha': ['D', 'AA1', 'CH', 'AH0'], 'duch': ['D', 'AH1', 'CH']}
+{'dacha': ['D', 'AA1', 'CH', 'AH0'], 'deutsch': ['D', 'OY1', 'CH']}
+{'dacha': ['D', 'AA1', 'CH', 'AH0'], 'deitsch': ['D', 'AY1', 'CH']}
+{'bocchino': ['B', 'OW2', 'K', 'IY1', 'N', 'OW0'], 'bacorn': ['B', 'AE1', 'K', 'ER0', 'N']}
+{'bikini': ['B', 'IH0', 'K', 'IY1', 'N', 'IY0'], 'bacorn': ['B', 'AE1', 'K', 'ER0', 'N']}
+{'koplin': ['K', 'AA1', 'P', 'L', 'IH0', 'N'], 'coppolino': ['K', 'OW0', 'P', 'OW0', 'L', 'IY1', 'N', 'OW0']}
+{'caplin': ['K', 'AE1', 'P', 'L', 'IH0', 'N'], 'coppolino': ['K', 'OW0', 'P', 'OW0', 'L', 'IY1', 'N', 'OW0']}
+{'slipper': ['S', 'L', 'IH1', 'P', 'ER0'], 'islip': ['AY1', 'S', 'L', 'IH0', 'P']}
+{'zea': ['Z', 'IY1', 'AH0'], 'ahs': ['AA1', 'Z']}
+{'ease': ['IY1', 'Z'], 'ahs': ['AA1', 'Z']}
+{'xu': ['Z', 'UW1'], 'ahs': ['AA1', 'Z']}
+{'xu': ['Z', 'UW1'], 'zea': ['Z', 'IY1', 'AH0']}
+{'xu': ['Z', 'UW1'], 'ease': ['IY1', 'Z']}
+{'e.s': ['IY1', 'Z'], 'ahs': ['AA1', 'Z']}
+{'e.s': ['IY1', 'Z'], 'xu': ['Z', 'UW1']}
+{'rule': ['R', 'UW1', 'L'], 'rely(1)': ['R', 'IY0', 'L', 'AY1']}
+{'roil': ['R', 'OY1', 'L'], 'rely(1)': ['R', 'IY0', 'L', 'AY1']}
+{'roil': ['R', 'OY1', 'L'], 'rule': ['R', 'UW1', 'L']}
+{'rely': ['R', 'IH0', 'L', 'AY1'], 'rule': ['R', 'UW1', 'L']}
+{'rely': ['R', 'IH0', 'L', 'AY1'], 'roil': ['R', 'OY1', 'L']}
+{'orelia': ['AO0', 'R', 'EH1', 'L', 'IY0', 'AH0'], 'rule': ['R', 'UW1', 'L']}
+{'orelia': ['AO0', 'R', 'EH1', 'L', 'IY0', 'AH0'], 'roil': ['R', 'OY1', 'L']}
+{'orelia': ['AO0', 'R', 'EH1', 'L', 'IY0', 'AH0'], 'rely': ['R', 'IH0', 'L', 'AY1']}
+{'pekar': ['P', 'EH1', 'K', 'ER0'], 'poky': ['P', 'OW1', 'K', 'IY0']}
+{'opic': ['AA1', 'P', 'IH0', 'K'], 'poky': ['P', 'OW1', 'K', 'IY0']}
+{'opic': ['AA1', 'P', 'IH0', 'K'], 'pekar': ['P', 'EH1', 'K', 'ER0']}
+{'poch': ['P', 'AA1', 'K'], 'poky': ['P', 'OW1', 'K', 'IY0']}
+{'poch': ['P', 'AA1', 'K'], 'pekar': ['P', 'EH1', 'K', 'ER0']}
+{'payco': ['P', 'EY1', 'K', 'OW0'], 'poky': ['P', 'OW1', 'K', 'IY0']}
+{'payco': ['P', 'EY1', 'K', 'OW0'], 'pekar': ['P', 'EH1', 'K', 'ER0']}
+{'payco': ['P', 'EY1', 'K', 'OW0'], 'opic': ['AA1', 'P', 'IH0', 'K']}
+{'payco': ['P', 'EY1', 'K', 'OW0'], 'poch': ['P', 'AA1', 'K']}
+{'marylou': ['M', 'AE1', 'R', 'IY0', 'L', 'UW0'], 'mirella': ['M', 'IH0', 'R', 'EH1', 'L', 'AH0']}
+{'marylou': ['M', 'AE1', 'R', 'IY0', 'L', 'UW0'], 'meryl': ['M', 'EH1', 'R', 'AH0', 'L']}
+{'kunde': ['K', 'AH1', 'N', 'D'], 'conde': ['K', 'AA1', 'N', 'D']}
+{'careened': ['K', 'ER0', 'IY1', 'N', 'D'], 'conde': ['K', 'AA1', 'N', 'D']}
+{'careened': ['K', 'ER0', 'IY1', 'N', 'D'], 'kunde': ['K', 'AH1', 'N', 'D']}
+{'canida': ['K', 'AA0', 'N', 'IY1', 'D', 'AH0'], 'conde': ['K', 'AA1', 'N', 'D']}
+{'canida': ['K', 'AA0', 'N', 'IY1', 'D', 'AH0'], 'kunde': ['K', 'AH1', 'N', 'D']}
+{'cundy': ['K', 'AH1', 'N', 'D', 'IY0'], 'conde': ['K', 'AA1', 'N', 'D']}
+{'cundy': ['K', 'AH1', 'N', 'D', 'IY0'], 'careened': ['K', 'ER0', 'IY1', 'N', 'D']}
+{'cundy': ['K', 'AH1', 'N', 'D', 'IY0'], 'canida': ['K', 'AA0', 'N', 'IY1', 'D', 'AH0']}
+{'projector': ['P', 'R', 'AA0', 'JH', 'EH1', 'K', 'T', 'ER0'], 'project': ['P', 'R', 'AA1', 'JH', 'EH0', 'K', 'T']}
+{'hormone': ['HH', 'AO1', 'R', 'M', 'OW2', 'N'], 'harman': ['HH', 'AA1', 'R', 'M', 'AH0', 'N']}
+{'hormone': ['HH', 'AO1', 'R', 'M', 'OW2', 'N'], 'harmonie': ['HH', 'AA1', 'R', 'M', 'AH0', 'N', 'IY0']}
+{'hormone': ['HH', 'AO1', 'R', 'M', 'OW2', 'N'], 'harmonia': ['HH', 'AA0', 'R', 'M', 'OW1', 'N', 'IY0', 'AH0']}
+{'rockies': ['R', 'AA1', 'K', 'IY0', 'Z'], 'rukeyser': ['R', 'UW2', 'K', 'EY1', 'Z', 'ER0']}
+{"iraqi's(2)": ['AY2', 'R', 'AE1', 'K', 'IY0', 'Z'], 'rukeyser': ['R', 'UW2', 'K', 'EY1', 'Z', 'ER0']}
+{"ricky's": ['R', 'IH1', 'K', 'IY2', 'Z'], 'rukeyser': ['R', 'UW2', 'K', 'EY1', 'Z', 'ER0']}
+{"ricky's": ['R', 'IH1', 'K', 'IY2', 'Z'], 'rockies': ['R', 'AA1', 'K', 'IY0', 'Z']}
+{"ricky's": ['R', 'IH1', 'K', 'IY2', 'Z'], "iraqi's(2)": ['AY2', 'R', 'AE1', 'K', 'IY0', 'Z']}
+{"iraqi's(1)": ['IY2', 'R', 'AE1', 'K', 'IY0', 'Z'], 'rukeyser': ['R', 'UW2', 'K', 'EY1', 'Z', 'ER0']}
+{'balli': ['B', 'AE1', 'L', 'IY0'], 'ebel': ['EH1', 'B', 'AH0', 'L']}
+{'bailor': ['B', 'EY1', 'L', 'ER0'], 'ebel': ['EH1', 'B', 'AH0', 'L']}
+{'bailor': ['B', 'EY1', 'L', 'ER0'], 'balli': ['B', 'AE1', 'L', 'IY0']}
+{'bayul': ['B', 'EY1', 'AH0', 'L'], 'balli': ['B', 'AE1', 'L', 'IY0']}
+{'bilyeu': ['B', 'IH1', 'L', 'IY0', 'UW0'], 'ebel': ['EH1', 'B', 'AH0', 'L']}
+{'bilyeu': ['B', 'IH1', 'L', 'IY0', 'UW0'], 'bailor': ['B', 'EY1', 'L', 'ER0']}
+{'bilyeu': ['B', 'IH1', 'L', 'IY0', 'UW0'], 'bayul': ['B', 'EY1', 'AH0', 'L']}
+{'glassy': ['G', 'L', 'AE1', 'S', 'IY0'], 'gloss': ['G', 'L', 'AO1', 'S']}
+{'renta': ['R', 'EH1', 'N', 'T', 'AH0'], "aren't(1)": ['AA1', 'R', 'N', 'T']}
+{'arnette': ['AA0', 'R', 'N', 'EH1', 'T'], 'renata': ['R', 'AH0', 'N', 'AA1', 'T', 'AH0']}
+{'arnette': ['AA0', 'R', 'N', 'EH1', 'T'], "aren't(1)": ['AA1', 'R', 'N', 'T']}
+{'tierce': ['T', 'IY1', 'R', 'S'], 'traci': ['T', 'R', 'EY1', 'S', 'IY0']}
+{'tierce': ['T', 'IY1', 'R', 'S'], 'tracy': ['T', 'R', 'EY1', 'S', 'IY0']}
+{'trice': ['T', 'R', 'AY1', 'S'], 'torrisi': ['T', 'AO0', 'R', 'IY1', 'S', 'IY0']}
+{'trice': ['T', 'R', 'AY1', 'S'], 'traci': ['T', 'R', 'EY1', 'S', 'IY0']}
+{'trice': ['T', 'R', 'AY1', 'S'], 'tracy': ['T', 'R', 'EY1', 'S', 'IY0']}
+{'trice': ['T', 'R', 'AY1', 'S'], 'tierce': ['T', 'IY1', 'R', 'S']}
+{'suffice': ['S', 'AH0', 'F', 'AY1', 'S'], 'serfass': ['S', 'ER1', 'F', 'AE2', 'S']}
+{'suffice': ['S', 'AH0', 'F', 'AY1', 'S'], "surf's": ['S', 'ER1', 'F', 'S']}
+{'accu': ['AE1', 'K', 'Y', 'UW0'], 'kew': ['K', 'Y', 'UW1']}
+{'kyu': ['K', 'Y', 'UW1'], 'accu': ['AE1', 'K', 'Y', 'UW0']}
+{'mantey': ['M', 'AE1', 'N', 'T', 'IY0'], 'amount': ['AH0', 'M', 'AW1', 'N', 'T']}
+{'aument': ['AW1', 'M', 'AH0', 'N', 'T'], 'mantey': ['M', 'AE1', 'N', 'T', 'IY0']}
+{'manatt': ['M', 'AE1', 'N', 'AE0', 'T'], 'amount': ['AH0', 'M', 'AW1', 'N', 'T']}
+{'manatt': ['M', 'AE1', 'N', 'AE0', 'T'], 'aument': ['AW1', 'M', 'AH0', 'N', 'T']}
+{'manette': ['M', 'AH0', 'N', 'EH1', 'T'], 'mantey': ['M', 'AE1', 'N', 'T', 'IY0']}
+{'manette': ['M', 'AH0', 'N', 'EH1', 'T'], 'manatt': ['M', 'AE1', 'N', 'AE0', 'T']}
+{'rideau': ['R', 'IH0', 'D', 'OW1'], 'rudder': ['R', 'AH1', 'D', 'ER0']}
+{'roddie': ['R', 'AA1', 'D', 'IY0'], 'rudder': ['R', 'AH1', 'D', 'ER0']}
+{'roddie': ['R', 'AA1', 'D', 'IY0'], 'rideau': ['R', 'IH0', 'D', 'OW1']}
+{'reedy': ['R', 'IY1', 'D', 'IY0'], 'rudder': ['R', 'AH1', 'D', 'ER0']}
+{'reedy': ['R', 'IY1', 'D', 'IY0'], 'rideau': ['R', 'IH0', 'D', 'OW1']}
+{'rhody': ['R', 'OW1', 'D', 'IY0'], 'rudder': ['R', 'AH1', 'D', 'ER0']}
+{'wouk(1)': ['W', 'OW1', 'K'], 'whicker': ['W', 'IH1', 'K', 'ER0']}
+{'weak': ['W', 'IY1', 'K'], 'whicker': ['W', 'IH1', 'K', 'ER0']}
+{'weak': ['W', 'IY1', 'K'], 'wouk(1)': ['W', 'OW1', 'K']}
+{'whack': ['W', 'AE1', 'K'], 'whicker': ['W', 'IH1', 'K', 'ER0']}
+{'whack': ['W', 'AE1', 'K'], 'wouk(1)': ['W', 'OW1', 'K']}
+{'whack': ['W', 'AE1', 'K'], 'weak': ['W', 'IY1', 'K']}
+{'work': ['W', 'ER1', 'K'], 'whicker': ['W', 'IH1', 'K', 'ER0']}
+{'work': ['W', 'ER1', 'K'], 'wouk(1)': ['W', 'OW1', 'K']}
+{'work': ['W', 'ER1', 'K'], 'weak': ['W', 'IY1', 'K']}
+{'work': ['W', 'ER1', 'K'], 'whack': ['W', 'AE1', 'K']}
+{'shamel': ['SH', 'AE1', 'M', 'AH0', 'L'], 'schmahl': ['SH', 'M', 'AA1', 'L']}
+{'cage': ['K', 'EY1', 'JH'], 'koetje': ['K', 'OW1', 'JH', 'AH0']}
+{'kagey': ['K', 'EY1', 'JH', 'IY0'], 'koetje': ['K', 'OW1', 'JH', 'AH0']}
+{'or(1)': ['ER0'], 'o.': ['OW1']}
+{'uh': ['AH1'], 'o.': ['OW1']}
+{'uh': ['AH1'], 'or(1)': ['ER0']}
+{'oye': ['OY1'], 'o.': ['OW1']}
+{'oye': ['OY1'], 'or(1)': ['ER0']}
+{'oye': ['OY1'], 'uh': ['AH1']}
+{'ayer': ['AY1', 'ER0'], 'o.': ['OW1']}
+{'ayer': ['AY1', 'ER0'], 'uh': ['AH1']}
+{'ayer': ['AY1', 'ER0'], 'oye': ['OY1']}
+{'cassidy': ['K', 'AE1', 'S', 'IH0', 'D', 'IY0'], 'casady': ['K', 'AH0', 'S', 'AA1', 'D', 'IY2']}
+{'klipp': ['K', 'L', 'IH1', 'P'], 'klapp': ['K', 'L', 'AE1', 'P']}
+{"niko's": ['N', 'IY1', 'K', 'OW0', 'Z'], 'nikes(1)': ['N', 'AY1', 'K', 'IY0', 'Z']}
+{'ville': ['V', 'IH1', 'L'], 'voeller': ['V', 'OW1', 'L', 'ER0']}
+{'vowel': ['V', 'AW1', 'AH0', 'L'], 'voeller': ['V', 'OW1', 'L', 'ER0']}
+{'vowel': ['V', 'AW1', 'AH0', 'L'], 'ville': ['V', 'IH1', 'L']}
+{'valli': ['V', 'AE1', 'L', 'IY0'], 'voeller': ['V', 'OW1', 'L', 'ER0']}
+{'valli': ['V', 'AE1', 'L', 'IY0'], 'ville': ['V', 'IH1', 'L']}
+{'valli': ['V', 'AE1', 'L', 'IY0'], 'vowel': ['V', 'AW1', 'AH0', 'L']}
+{'viole': ['V', 'AY2', 'OW1', 'L'], 'ville': ['V', 'IH1', 'L']}
+{'viole': ['V', 'AY2', 'OW1', 'L'], 'vowel': ['V', 'AW1', 'AH0', 'L']}
+{'viole': ['V', 'AY2', 'OW1', 'L'], 'valli': ['V', 'AE1', 'L', 'IY0']}
+{'critic': ['K', 'R', 'IH1', 'T', 'IH0', 'K'], 'kratky': ['K', 'R', 'AE1', 'T', 'K', 'IY0']}
+{"form's": ['F', 'AO1', 'R', 'M', 'Z'], 'farmers': ['F', 'AA1', 'R', 'M', 'ER0', 'Z']}
+{"farmers'": ['F', 'AA1', 'R', 'M', 'ER0', 'Z'], "form's": ['F', 'AO1', 'R', 'M', 'Z']}
+{'farms': ['F', 'AA1', 'R', 'M', 'Z'], "form's": ['F', 'AO1', 'R', 'M', 'Z']}
+{'forms': ['F', 'AO1', 'R', 'M', 'Z'], 'farmers': ['F', 'AA1', 'R', 'M', 'ER0', 'Z']}
+{'forms': ['F', 'AO1', 'R', 'M', 'Z'], "farmers'": ['F', 'AA1', 'R', 'M', 'ER0', 'Z']}
+{'forms': ['F', 'AO1', 'R', 'M', 'Z'], 'farms': ['F', 'AA1', 'R', 'M', 'Z']}
+{'woehr': ['W', 'AO1', 'R'], 'wyre': ['W', 'AY1', 'R']}
+{"we're": ['W', 'IY1', 'R'], 'wyre': ['W', 'AY1', 'R']}
+{"we're": ['W', 'IY1', 'R'], 'woehr': ['W', 'AO1', 'R']}
+{'ware': ['W', 'EH1', 'R'], 'wyre': ['W', 'AY1', 'R']}
+{'ware': ['W', 'EH1', 'R'], 'woehr': ['W', 'AO1', 'R']}
+{'ware': ['W', 'EH1', 'R'], "we're": ['W', 'IY1', 'R']}
+{'where': ['W', 'EH1', 'R'], 'wyre': ['W', 'AY1', 'R']}
+{'where': ['W', 'EH1', 'R'], 'woehr': ['W', 'AO1', 'R']}
+{'where': ['W', 'EH1', 'R'], "we're": ['W', 'IY1', 'R']}
+{'clean': ['K', 'L', 'IY1', 'N'], 'echlin': ['EH1', 'K', 'L', 'IH0', 'N']}
+{'coleen': ['K', 'AO0', 'L', 'IY1', 'N'], 'echlin': ['EH1', 'K', 'L', 'IH0', 'N']}
+{'clooney': ['K', 'L', 'UW1', 'N', 'IY0'], 'echlin': ['EH1', 'K', 'L', 'IH0', 'N']}
+{'clooney': ['K', 'L', 'UW1', 'N', 'IY0'], 'clean': ['K', 'L', 'IY1', 'N']}
+{'clooney': ['K', 'L', 'UW1', 'N', 'IY0'], 'coleen': ['K', 'AO0', 'L', 'IY1', 'N']}
+{'calan': ['K', 'EY1', 'L', 'AH0', 'N'], 'echlin': ['EH1', 'K', 'L', 'IH0', 'N']}
+{'calan': ['K', 'EY1', 'L', 'AH0', 'N'], 'clean': ['K', 'L', 'IY1', 'N']}
+{'calan': ['K', 'EY1', 'L', 'AH0', 'N'], 'coleen': ['K', 'AO0', 'L', 'IY1', 'N']}
+{'calan': ['K', 'EY1', 'L', 'AH0', 'N'], 'clooney': ['K', 'L', 'UW1', 'N', 'IY0']}
+{"o'sullivan": ['OW0', 'S', 'AH1', 'L', 'AH0', 'V', 'AH0', 'N'], 'slavin': ['S', 'L', 'AE1', 'V', 'IH0', 'N']}
+{'salvaggio': ['S', 'AA0', 'L', 'V', 'AA1', 'JH', 'IY0', 'OW0'], 'salvage': ['S', 'AE1', 'L', 'V', 'AH0', 'JH']}
+{'salvaggio': ['S', 'AA0', 'L', 'V', 'AA1', 'JH', 'IY0', 'OW0'], 'salvage(1)': ['S', 'AE1', 'L', 'V', 'IH0', 'JH']}
+{'selvidge': ['S', 'EH1', 'L', 'V', 'IH0', 'JH'], 'salvage': ['S', 'AE1', 'L', 'V', 'AH0', 'JH']}
+{'selvidge': ['S', 'EH1', 'L', 'V', 'IH0', 'JH'], 'salvaggio': ['S', 'AA0', 'L', 'V', 'AA1', 'JH', 'IY0', 'OW0']}
+{'deines': ['D', 'IY1', 'N', 'Z'], "dana's": ['D', 'EY1', 'N', 'AH0', 'Z']}
+{"dan's": ['D', 'AE1', 'N', 'Z'], "dana's": ['D', 'EY1', 'N', 'AH0', 'Z']}
+{"dan's": ['D', 'AE1', 'N', 'Z'], 'deines': ['D', 'IY1', 'N', 'Z']}
+{"down's": ['D', 'AW1', 'N', 'Z'], "dana's": ['D', 'EY1', 'N', 'AH0', 'Z']}
+{"down's": ['D', 'AW1', 'N', 'Z'], 'deines': ['D', 'IY1', 'N', 'Z']}
+{"down's": ['D', 'AW1', 'N', 'Z'], "dan's": ['D', 'AE1', 'N', 'Z']}
+{'donors': ['D', 'OW1', 'N', 'ER0', 'Z'], "dana's": ['D', 'EY1', 'N', 'AH0', 'Z']}
+{'donors': ['D', 'OW1', 'N', 'ER0', 'Z'], 'deines': ['D', 'IY1', 'N', 'Z']}
+{'donors': ['D', 'OW1', 'N', 'ER0', 'Z'], "dan's": ['D', 'AE1', 'N', 'Z']}
+{'donors': ['D', 'OW1', 'N', 'ER0', 'Z'], "down's": ['D', 'AW1', 'N', 'Z']}
+{'borras': ['B', 'AO1', 'R', 'AH0', 'Z'], 'breweries': ['B', 'R', 'UW1', 'ER0', 'IY0', 'Z']}
+{'bires': ['B', 'AY1', 'R', 'Z'], 'breweries': ['B', 'R', 'UW1', 'ER0', 'IY0', 'Z']}
+{'bires': ['B', 'AY1', 'R', 'Z'], 'borras': ['B', 'AO1', 'R', 'AH0', 'Z']}
+{"bury's": ['B', 'EH1', 'R', 'IY0', 'Z'], 'borras': ['B', 'AO1', 'R', 'AH0', 'Z']}
+{"bury's": ['B', 'EH1', 'R', 'IY0', 'Z'], 'bires': ['B', 'AY1', 'R', 'Z']}
+{'breezy': ['B', 'R', 'IY1', 'Z', 'IY0'], 'borras': ['B', 'AO1', 'R', 'AH0', 'Z']}
+{'breezy': ['B', 'R', 'IY1', 'Z', 'IY0'], 'bires': ['B', 'AY1', 'R', 'Z']}
+{'along': ['AH0', 'L', 'AO1', 'NG'], 'loong': ['L', 'UH1', 'NG']}
+{'lying': ['L', 'AY1', 'IH0', 'NG'], 'loong': ['L', 'UH1', 'NG']}
+{'lying': ['L', 'AY1', 'IH0', 'NG'], 'along': ['AH0', 'L', 'AO1', 'NG']}
+{'laing': ['L', 'AA1', 'IH0', 'NG'], 'loong': ['L', 'UH1', 'NG']}
+{'laing': ['L', 'AA1', 'IH0', 'NG'], 'along': ['AH0', 'L', 'AO1', 'NG']}
+{'allaying': ['AH0', 'L', 'EY1', 'IH0', 'NG'], 'loong': ['L', 'UH1', 'NG']}
+{'duhon': ['D', 'UW1', 'HH', 'AH0', 'N'], 'doheny': ['D', 'AA1', 'HH', 'IH0', 'N', 'IY0']}
+{'turano': ['T', 'UH0', 'R', 'AA1', 'N', 'OW0'], 'trane': ['T', 'R', 'EY1', 'N']}
+{'treen': ['T', 'R', 'IY1', 'N'], 'trane': ['T', 'R', 'EY1', 'N']}
+{'treen': ['T', 'R', 'IY1', 'N'], 'turano': ['T', 'UH0', 'R', 'AA1', 'N', 'OW0']}
+{'tran': ['T', 'R', 'AE1', 'N'], 'trane': ['T', 'R', 'EY1', 'N']}
+{'tran': ['T', 'R', 'AE1', 'N'], 'turano': ['T', 'UH0', 'R', 'AA1', 'N', 'OW0']}
+{'tran': ['T', 'R', 'AE1', 'N'], 'treen': ['T', 'R', 'IY1', 'N']}
+{'tirana': ['T', 'IH1', 'R', 'AA0', 'N', 'AH0'], 'trane': ['T', 'R', 'EY1', 'N']}
+{'tirana': ['T', 'IH1', 'R', 'AA0', 'N', 'AH0'], 'turano': ['T', 'UH0', 'R', 'AA1', 'N', 'OW0']}
+{'tirana': ['T', 'IH1', 'R', 'AA0', 'N', 'AH0'], 'treen': ['T', 'R', 'IY1', 'N']}
+{'tirana': ['T', 'IH1', 'R', 'AA0', 'N', 'AH0'], 'tran': ['T', 'R', 'AE1', 'N']}
+{'mcconn': ['M', 'AH0', 'K', 'AA1', 'N'], 'macaroni': ['M', 'AE2', 'K', 'ER0', 'OW1', 'N', 'IY0']}
+{'mckern': ['M', 'AH0', 'K', 'ER1', 'N'], 'macaroni': ['M', 'AE2', 'K', 'ER0', 'OW1', 'N', 'IY0']}
+{'mccowan': ['M', 'AH0', 'K', 'AW1', 'AH0', 'N'], 'macaroni': ['M', 'AE2', 'K', 'ER0', 'OW1', 'N', 'IY0']}
+{'bialecki(1)': ['B', 'IY2', 'AH0', 'L', 'EH1', 'K', 'IY2'], 'bilyk': ['B', 'IH1', 'L', 'IH0', 'K']}
+{'blacker': ['B', 'L', 'AE1', 'K', 'ER0'], 'bilyk': ['B', 'IH1', 'L', 'IH0', 'K']}
+{'blacker': ['B', 'L', 'AE1', 'K', 'ER0'], 'bialecki(1)': ['B', 'IY2', 'AH0', 'L', 'EH1', 'K', 'IY2']}
+{'behlke': ['B', 'EH1', 'L', 'K'], 'bilyk': ['B', 'IH1', 'L', 'IH0', 'K']}
+{'behlke': ['B', 'EH1', 'L', 'K'], 'blacker': ['B', 'L', 'AE1', 'K', 'ER0']}
+{'bolich': ['B', 'AA1', 'L', 'IH0', 'K'], 'bialecki(1)': ['B', 'IY2', 'AH0', 'L', 'EH1', 'K', 'IY2']}
+{'bolich': ['B', 'AA1', 'L', 'IH0', 'K'], 'blacker': ['B', 'L', 'AE1', 'K', 'ER0']}
+{'bolich': ['B', 'AA1', 'L', 'IH0', 'K'], 'behlke': ['B', 'EH1', 'L', 'K']}
+{'jochem': ['JH', 'AA1', 'K', 'IH0', 'M'], 'joakima': ['JH', 'OW2', 'K', 'IY1', 'M', 'AH0']}
+{'portly': ['P', 'AO1', 'R', 'T', 'L', 'IY0'], 'partlow': ['P', 'AA1', 'R', 'T', 'L', 'OW2']}
+{'prattle': ['P', 'R', 'AE1', 'T', 'AH0', 'L'], 'partlow': ['P', 'AA1', 'R', 'T', 'L', 'OW2']}
+{'prattle': ['P', 'R', 'AE1', 'T', 'AH0', 'L'], 'portly': ['P', 'AO1', 'R', 'T', 'L', 'IY0']}
+{'petrin': ['P', 'EH1', 'T', 'R', 'IH0', 'N'], 'petrone': ['P', 'EH0', 'T', 'R', 'OW1', 'N', 'IY0']}
+{'sind': ['S', 'IH1', 'N', 'D'], 'sande': ['S', 'AE1', 'N', 'D']}
+{'sneider': ['S', 'N', 'AY1', 'D', 'ER0'], 'sande': ['S', 'AE1', 'N', 'D']}
+{'sneider': ['S', 'N', 'AY1', 'D', 'ER0'], 'sind': ['S', 'IH1', 'N', 'D']}
+{'sandow': ['S', 'AE1', 'N', 'D', 'OW0'], 'sind': ['S', 'IH1', 'N', 'D']}
+{'sandow': ['S', 'AE1', 'N', 'D', 'OW0'], 'sneider': ['S', 'N', 'AY1', 'D', 'ER0']}
+{'sandi': ['S', 'AE1', 'N', 'D', 'IY0'], 'sind': ['S', 'IH1', 'N', 'D']}
+{'sandi': ['S', 'AE1', 'N', 'D', 'IY0'], 'sneider': ['S', 'N', 'AY1', 'D', 'ER0']}
+{'walla': ['W', 'AO1', 'L', 'AA0'], 'wahl': ['W', 'AA1', 'L']}
+{'whale': ['W', 'EY1', 'L'], 'wahl': ['W', 'AA1', 'L']}
+{'whale': ['W', 'EY1', 'L'], 'walla': ['W', 'AO1', 'L', 'AA0']}
+{'willa': ['W', 'IH1', 'L', 'AH0'], 'wahl': ['W', 'AA1', 'L']}
+{'willa': ['W', 'IH1', 'L', 'AH0'], 'walla': ['W', 'AO1', 'L', 'AA0']}
+{'willa': ['W', 'IH1', 'L', 'AH0'], 'whale': ['W', 'EY1', 'L']}
+{'wyllie': ['W', 'IH1', 'L', 'IY0'], 'wahl': ['W', 'AA1', 'L']}
+{'wyllie': ['W', 'IH1', 'L', 'IY0'], 'walla': ['W', 'AO1', 'L', 'AA0']}
+{'wyllie': ['W', 'IH1', 'L', 'IY0'], 'whale': ['W', 'EY1', 'L']}
+{'olinde': ['AA1', 'L', 'IH0', 'N', 'D'], 'eiland': ['AY1', 'L', 'AH0', 'N', 'D']}
+{'lindow': ['L', 'IH1', 'N', 'D', 'OW0'], 'eiland': ['AY1', 'L', 'AH0', 'N', 'D']}
+{'lindow': ['L', 'IH1', 'N', 'D', 'OW0'], 'olinde': ['AA1', 'L', 'IH0', 'N', 'D']}
+{'loynd': ['L', 'OY1', 'N', 'D'], 'eiland': ['AY1', 'L', 'AH0', 'N', 'D']}
+{'loynd': ['L', 'OY1', 'N', 'D'], 'olinde': ['AA1', 'L', 'IH0', 'N', 'D']}
+{'loynd': ['L', 'OY1', 'N', 'D'], 'lindow': ['L', 'IH1', 'N', 'D', 'OW0']}
+{'lenzo': ['L', 'EH1', 'N', 'Z', 'OW0'], "lions'": ['L', 'AY1', 'AH0', 'N', 'Z']}
+{'lenzo': ['L', 'EH1', 'N', 'Z', 'OW0'], 'aliens': ['EY1', 'L', 'IY0', 'AH0', 'N', 'Z']}
+{'lyonnais(1)': ['L', 'AY2', 'AH0', 'N', 'EY1', 'Z'], 'lenzo': ['L', 'EH1', 'N', 'Z', 'OW0']}
+{'attics': ['AE1', 'T', 'IH0', 'K', 'S'], "eyetech's": ['AY1', 'T', 'EH2', 'K', 'S']}
+{'taxi': ['T', 'AE1', 'K', 'S', 'IY0'], "eyetech's": ['AY1', 'T', 'EH2', 'K', 'S']}
+{'ticks': ['T', 'IH1', 'K', 'S'], "eyetech's": ['AY1', 'T', 'EH2', 'K', 'S']}
+{'ticks': ['T', 'IH1', 'K', 'S'], 'attics': ['AE1', 'T', 'IH0', 'K', 'S']}
+{'ticks': ['T', 'IH1', 'K', 'S'], 'taxi': ['T', 'AE1', 'K', 'S', 'IY0']}
+{'tikes': ['T', 'AY1', 'K', 'S'], 'attics': ['AE1', 'T', 'IH0', 'K', 'S']}
+{'tikes': ['T', 'AY1', 'K', 'S'], 'taxi': ['T', 'AE1', 'K', 'S', 'IY0']}
+{'tikes': ['T', 'AY1', 'K', 'S'], 'ticks': ['T', 'IH1', 'K', 'S']}
+{'wuttke': ['W', 'AH1', 'T', 'K', 'IY0'], 'whitacre': ['W', 'IH1', 'T', 'AH0', 'K', 'ER0']}
+{"samurai's": ['S', 'AE1', 'M', 'ER0', 'AY2', 'Z'], 'simas': ['S', 'AY1', 'M', 'AH0', 'Z']}
+{'samurais(1)': ['S', 'AE1', 'M', 'ER0', 'IH0', 'Z'], 'simas': ['S', 'AY1', 'M', 'AH0', 'Z']}
+{"summer's": ['S', 'AH1', 'M', 'ER0', 'Z'], 'simas': ['S', 'AY1', 'M', 'AH0', 'Z']}
+{'siamese': ['S', 'AY2', 'AH0', 'M', 'IY1', 'Z'], 'samurais(1)': ['S', 'AE1', 'M', 'ER0', 'IH0', 'Z']}
+{'siamese': ['S', 'AY2', 'AH0', 'M', 'IY1', 'Z'], "summer's": ['S', 'AH1', 'M', 'ER0', 'Z']}
+{'solem': ['S', 'OW1', 'L', 'IH0', 'M'], 'slammer': ['S', 'L', 'AE1', 'M', 'ER0']}
+{'solem': ['S', 'OW1', 'L', 'IH0', 'M'], 'sellmeyer': ['S', 'EH1', 'L', 'M', 'AY0', 'ER0']}
+{'kieler': ['K', 'IY1', 'L', 'ER0'], 'clow': ['K', 'L', 'OW1']}
+{'cul': ['K', 'AH1', 'L'], 'clow': ['K', 'L', 'OW1']}
+{'cul': ['K', 'AH1', 'L'], 'kieler': ['K', 'IY1', 'L', 'ER0']}
+{'caley': ['K', 'EY1', 'L', 'IY0'], 'clow': ['K', 'L', 'OW1']}
+{'caley': ['K', 'EY1', 'L', 'IY0'], 'kieler': ['K', 'IY1', 'L', 'ER0']}
+{'caley': ['K', 'EY1', 'L', 'IY0'], 'cul': ['K', 'AH1', 'L']}
+{'kayla': ['K', 'EY1', 'L', 'AH0'], 'clow': ['K', 'L', 'OW1']}
+{'kayla': ['K', 'EY1', 'L', 'AH0'], 'kieler': ['K', 'IY1', 'L', 'ER0']}
+{'kayla': ['K', 'EY1', 'L', 'AH0'], 'cul': ['K', 'AH1', 'L']}
+{'myles': ['M', 'AY1', 'L', 'Z'], 'malaise': ['M', 'AE0', 'L', 'EY1', 'Z']}
+{'mullahs': ['M', 'AH1', 'L', 'AH0', 'Z'], 'malaise': ['M', 'AE0', 'L', 'EY1', 'Z']}
+{'mullahs': ['M', 'AH1', 'L', 'AH0', 'Z'], 'myles': ['M', 'AY1', 'L', 'Z']}
+{'merlis': ['M', 'ER1', 'L', 'IY0', 'Z'], 'malaise': ['M', 'AE0', 'L', 'EY1', 'Z']}
+{'merlis': ['M', 'ER1', 'L', 'IY0', 'Z'], 'myles': ['M', 'AY1', 'L', 'Z']}
+{'merlis': ['M', 'ER1', 'L', 'IY0', 'Z'], 'mullahs': ['M', 'AH1', 'L', 'AH0', 'Z']}
+{"miller's": ['M', 'IH1', 'L', 'ER0', 'Z'], 'malaise': ['M', 'AE0', 'L', 'EY1', 'Z']}
+{"miller's": ['M', 'IH1', 'L', 'ER0', 'Z'], 'myles': ['M', 'AY1', 'L', 'Z']}
+{"miller's": ['M', 'IH1', 'L', 'ER0', 'Z'], 'mullahs': ['M', 'AH1', 'L', 'AH0', 'Z']}
+{"miller's": ['M', 'IH1', 'L', 'ER0', 'Z'], 'merlis': ['M', 'ER1', 'L', 'IY0', 'Z']}
+{'sago': ['S', 'EY1', 'G', 'OW0'], 'sigg': ['S', 'IH1', 'G']}
+{'segue': ['S', 'EH1', 'G'], 'sigg': ['S', 'IH1', 'G']}
+{'segue': ['S', 'EH1', 'G'], 'sago': ['S', 'EY1', 'G', 'OW0']}
+{'saeger': ['S', 'EH1', 'G', 'ER0'], 'sigg': ['S', 'IH1', 'G']}
+{'saeger': ['S', 'EH1', 'G', 'ER0'], 'sago': ['S', 'EY1', 'G', 'OW0']}
+{'lionetti(1)': ['L', 'AY0', 'AH0', 'N', 'EH1', 'T', 'IY0'], 'allante': ['AE2', 'L', 'AA1', 'N', 'T', 'EY0']}
+{'guiffre': ['G', 'IH1', 'F', 'ER0'], 'guffy': ['G', 'AH1', 'F', 'IY0']}
+{'nicolai': ['N', 'IY1', 'K', 'OW0', 'L', 'AY2'], 'nikola': ['N', 'IH0', 'K', 'OW1', 'L', 'AH0']}
+{'nicolo': ['N', 'IH1', 'K', 'AO0', 'L', 'OW2'], 'nikola': ['N', 'IH0', 'K', 'OW1', 'L', 'AH0']}
+{'nicolo': ['N', 'IH1', 'K', 'AO0', 'L', 'OW2'], 'nicolai': ['N', 'IY1', 'K', 'OW0', 'L', 'AY2']}
+{'nicoli': ['N', 'IY0', 'K', 'OW1', 'L', 'IY0'], 'nicolai': ['N', 'IY1', 'K', 'OW0', 'L', 'AY2']}
+{'nicoli': ['N', 'IY0', 'K', 'OW1', 'L', 'IY0'], 'nicolo': ['N', 'IH1', 'K', 'AO0', 'L', 'OW2']}
+{'soon': ['S', 'UW1', 'N'], 'santa(1)': ['S', 'AE1', 'N', 'AH0']}
+{'son': ['S', 'AH1', 'N'], 'santa(1)': ['S', 'AE1', 'N', 'AH0']}
+{'son': ['S', 'AH1', 'N'], 'soon': ['S', 'UW1', 'N']}
+{'sanner': ['S', 'AE1', 'N', 'ER0'], 'soon': ['S', 'UW1', 'N']}
+{'sanner': ['S', 'AE1', 'N', 'ER0'], 'son': ['S', 'AH1', 'N']}
+{'sunia': ['S', 'UW1', 'N', 'IY0', 'AH0'], 'son': ['S', 'AH1', 'N']}
+{'sunia': ['S', 'UW1', 'N', 'IY0', 'AH0'], 'sanner': ['S', 'AE1', 'N', 'ER0']}
+{'bassetti': ['B', 'AA0', 'S', 'EH1', 'T', 'IY0'], 'biased': ['B', 'AY1', 'AH0', 'S', 'T']}
+{'bast': ['B', 'AE1', 'S', 'T'], 'biased': ['B', 'AY1', 'AH0', 'S', 'T']}
+{'bast': ['B', 'AE1', 'S', 'T'], 'bassetti': ['B', 'AA0', 'S', 'EH1', 'T', 'IY0']}
+{'bassette': ['B', 'AH0', 'S', 'EH1', 'T'], 'bast': ['B', 'AE1', 'S', 'T']}
+{'berst': ['B', 'ER1', 'S', 'T'], 'biased': ['B', 'AY1', 'AH0', 'S', 'T']}
+{'berst': ['B', 'ER1', 'S', 'T'], 'bassetti': ['B', 'AA0', 'S', 'EH1', 'T', 'IY0']}
+{'berst': ['B', 'ER1', 'S', 'T'], 'bast': ['B', 'AE1', 'S', 'T']}
+{'berst': ['B', 'ER1', 'S', 'T'], 'bassette': ['B', 'AH0', 'S', 'EH1', 'T']}
+{'leimbach': ['L', 'AY1', 'M', 'B', 'AA2', 'K'], 'lembke': ['L', 'EH1', 'M', 'B', 'K']}
+{'lembcke': ['L', 'EH1', 'M', 'B', 'K', 'IY0'], 'leimbach': ['L', 'AY1', 'M', 'B', 'AA2', 'K']}
+{'poteet': ['P', 'AA1', 'T', 'IY0', 'T'], 'petito': ['P', 'EH0', 'T', 'IY1', 'T', 'OW0']}
+{'cortesi': ['K', 'ER0', 'T', 'EH1', 'S', 'IY0'], 'keatts': ['K', 'IY1', 'T', 'S']}
+{'kates': ['K', 'EY1', 'T', 'S'], 'keatts': ['K', 'IY1', 'T', 'S']}
+{'kates': ['K', 'EY1', 'T', 'S'], 'cortesi': ['K', 'ER0', 'T', 'EH1', 'S', 'IY0']}
+{'achatz': ['AE1', 'K', 'AH0', 'T', 'S'], 'keatts': ['K', 'IY1', 'T', 'S']}
+{'achatz': ['AE1', 'K', 'AH0', 'T', 'S'], 'cortesi': ['K', 'ER0', 'T', 'EH1', 'S', 'IY0']}
+{'achatz': ['AE1', 'K', 'AH0', 'T', 'S'], 'kates': ['K', 'EY1', 'T', 'S']}
+{'curtsy': ['K', 'ER1', 'T', 'S', 'IY0'], 'keatts': ['K', 'IY1', 'T', 'S']}
+{'curtsy': ['K', 'ER1', 'T', 'S', 'IY0'], 'kates': ['K', 'EY1', 'T', 'S']}
+{'curtsy': ['K', 'ER1', 'T', 'S', 'IY0'], 'achatz': ['AE1', 'K', 'AH0', 'T', 'S']}
+{'yonker': ['Y', 'AA1', 'NG', 'K', 'ER0'], 'yahnke': ['Y', 'AE1', 'NG', 'K']}
+{'yonker': ['Y', 'AA1', 'NG', 'K', 'ER0'], 'yankey': ['Y', 'AE1', 'NG', 'K', 'IY0']}
+{'burich': ['B', 'EH1', 'R', 'IH0', 'K'], 'barack': ['B', 'AA1', 'R', 'AH0', 'K']}
+{'brocco': ['B', 'R', 'AA1', 'K', 'OW0'], 'burich': ['B', 'EH1', 'R', 'IH0', 'K']}
+{'brachia': ['B', 'R', 'EY1', 'K', 'IY2', 'AH0'], 'burich': ['B', 'EH1', 'R', 'IH0', 'K']}
+{'brachia': ['B', 'R', 'EY1', 'K', 'IY2', 'AH0'], 'brocco': ['B', 'R', 'AA1', 'K', 'OW0']}
+{'break': ['B', 'R', 'EY1', 'K'], 'barack': ['B', 'AA1', 'R', 'AH0', 'K']}
+{'break': ['B', 'R', 'EY1', 'K'], 'burich': ['B', 'EH1', 'R', 'IH0', 'K']}
+{'break': ['B', 'R', 'EY1', 'K'], 'brocco': ['B', 'R', 'AA1', 'K', 'OW0']}
+{'cosy': ['K', 'OW1', 'Z', 'IY0'], 'kazoo': ['K', 'AH0', 'Z', 'UW1']}
+{"kay's": ['K', 'EY1', 'Z'], 'kazoo': ['K', 'AH0', 'Z', 'UW1']}
+{"kay's": ['K', 'EY1', 'Z'], 'cosy': ['K', 'OW1', 'Z', 'IY0']}
+{'kizziah': ['K', 'IH1', 'Z', 'IY0', 'AH0'], "kay's": ['K', 'EY1', 'Z']}
+{'coups': ['K', 'UW1', 'Z'], 'cosy': ['K', 'OW1', 'Z', 'IY0']}
+{'coups': ['K', 'UW1', 'Z'], "kay's": ['K', 'EY1', 'Z']}
+{'coups': ['K', 'UW1', 'Z'], 'kizziah': ['K', 'IH1', 'Z', 'IY0', 'AH0']}
+{'tapia': ['T', 'AA1', 'P', 'IY0', 'AH0'], 'taper': ['T', 'EY1', 'P', 'ER0']}
+{'nitza': ['N', 'IH1', 'T', 'Z', 'AH0'], "antar's": ['AE1', 'N', 'T', 'ER0', 'Z']}
+{'nitza': ['N', 'IH1', 'T', 'Z', 'AH0'], 'antis': ['AE1', 'N', 'T', 'AY0', 'Z']}
+{'nutters': ['N', 'AH1', 'T', 'ER0', 'Z'], 'antis': ['AE1', 'N', 'T', 'AY0', 'Z']}
+{'nutters': ['N', 'AH1', 'T', 'ER0', 'Z'], 'nitza': ['N', 'IH1', 'T', 'Z', 'AH0']}
+{"nato's": ['N', 'EY1', 'T', 'OW0', 'Z'], "antar's": ['AE1', 'N', 'T', 'ER0', 'Z']}
+{"nato's": ['N', 'EY1', 'T', 'OW0', 'Z'], 'antis': ['AE1', 'N', 'T', 'AY0', 'Z']}
+{"nato's": ['N', 'EY1', 'T', 'OW0', 'Z'], 'nitza': ['N', 'IH1', 'T', 'Z', 'AH0']}
+{"nato's": ['N', 'EY1', 'T', 'OW0', 'Z'], 'nutters': ['N', 'AH1', 'T', 'ER0', 'Z']}
+{'em': ['EH1', 'M'], 'mawr': ['M', 'AO1', 'ER0']}
+{'mow': ['M', 'OW1'], 'mawr': ['M', 'AO1', 'ER0']}
+{'mow': ['M', 'OW1'], 'em': ['EH1', 'M']}
+{'aim': ['EY1', 'M'], 'mawr': ['M', 'AO1', 'ER0']}
+{'aim': ['EY1', 'M'], 'em': ['EH1', 'M']}
+{'aim': ['EY1', 'M'], 'mow': ['M', 'OW1']}
+{'murree': ['M', 'ER1', 'IY0'], 'mawr': ['M', 'AO1', 'ER0']}
+{'murree': ['M', 'ER1', 'IY0'], 'em': ['EH1', 'M']}
+{'murree': ['M', 'ER1', 'IY0'], 'mow': ['M', 'OW1']}
+{'murree': ['M', 'ER1', 'IY0'], 'aim': ['EY1', 'M']}
+{'jung': ['Y', 'UH1', 'NG'], 'yung': ['Y', 'AH1', 'NG']}
+{'yang': ['Y', 'AE1', 'NG'], 'yung': ['Y', 'AH1', 'NG']}
+{'yang': ['Y', 'AE1', 'NG'], 'jung': ['Y', 'UH1', 'NG']}
+{'detail(1)': ['D', 'IY1', 'T', 'EY0', 'L'], 'detail': ['D', 'IH0', 'T', 'EY1', 'L']}
+{'ditlow': ['D', 'IH1', 'T', 'L', 'OW0'], 'detail': ['D', 'IH0', 'T', 'EY1', 'L']}
+{'ditlow': ['D', 'IH1', 'T', 'L', 'OW0'], 'detail(1)': ['D', 'IY1', 'T', 'EY0', 'L']}
+{'dietl': ['D', 'AY1', 'AH0', 'T', 'L'], 'detail': ['D', 'IH0', 'T', 'EY1', 'L']}
+{'dietl': ['D', 'AY1', 'AH0', 'T', 'L'], 'detail(1)': ['D', 'IY1', 'T', 'EY0', 'L']}
+{'dietl': ['D', 'AY1', 'AH0', 'T', 'L'], 'ditlow': ['D', 'IH1', 'T', 'L', 'OW0']}
+{'sixed': ['S', 'IH1', 'K', 'S', 'T'], 'seacoast': ['S', 'IY1', 'K', 'OW2', 'S', 'T']}
+{'inroad': ['IH1', 'N', 'R', 'OW2', 'D'], 'unread': ['AH0', 'N', 'R', 'EH1', 'D']}
+{'nored': ['N', 'AO1', 'R', 'D'], 'unread': ['AH0', 'N', 'R', 'EH1', 'D']}
+{'nored': ['N', 'AO1', 'R', 'D'], 'inroad': ['IH1', 'N', 'R', 'OW2', 'D']}
+{'narrowed': ['N', 'EH1', 'R', 'OW0', 'D'], 'inroad': ['IH1', 'N', 'R', 'OW2', 'D']}
+{'narrowed': ['N', 'EH1', 'R', 'OW0', 'D'], 'nored': ['N', 'AO1', 'R', 'D']}
+{'ionarde': ['IY0', 'AH0', 'N', 'AA1', 'R', 'D', 'EY0'], 'inroad': ['IH1', 'N', 'R', 'OW2', 'D']}
+{'ionarde': ['IY0', 'AH0', 'N', 'AA1', 'R', 'D', 'EY0'], 'nored': ['N', 'AO1', 'R', 'D']}
+{'ionarde': ['IY0', 'AH0', 'N', 'AA1', 'R', 'D', 'EY0'], 'narrowed': ['N', 'EH1', 'R', 'OW0', 'D']}
+{'stol': ['S', 'T', 'OW1', 'L'], 'sutley': ['S', 'AH1', 'T', 'L', 'IY0']}
+{'stolle': ['S', 'T', 'AA1', 'L'], 'sutley': ['S', 'AH1', 'T', 'L', 'IY0']}
+{'stolle': ['S', 'T', 'AA1', 'L'], 'stol': ['S', 'T', 'OW1', 'L']}
+{'stello': ['S', 'T', 'EH1', 'L', 'OW0'], 'sutley': ['S', 'AH1', 'T', 'L', 'IY0']}
+{'stello': ['S', 'T', 'EH1', 'L', 'OW0'], 'stol': ['S', 'T', 'OW1', 'L']}
+{'stello': ['S', 'T', 'EH1', 'L', 'OW0'], 'stolle': ['S', 'T', 'AA1', 'L']}
+{'stell': ['S', 'T', 'EH1', 'L'], 'sutley': ['S', 'AH1', 'T', 'L', 'IY0']}
+{'stell': ['S', 'T', 'EH1', 'L'], 'stol': ['S', 'T', 'OW1', 'L']}
+{'stell': ['S', 'T', 'EH1', 'L'], 'stolle': ['S', 'T', 'AA1', 'L']}
+{'bixel': ['B', 'IH1', 'K', 'S', 'AH0', 'L'], 'bexley': ['B', 'EH1', 'K', 'S', 'L', 'IY0']}
+{'bookcellar': ['B', 'UH1', 'K', 'S', 'EH1', 'L', 'ER0'], 'bixel': ['B', 'IH1', 'K', 'S', 'AH0', 'L']}
+{'karn': ['K', 'AA1', 'R', 'N'], 'karin': ['K', 'EH1', 'R', 'IH0', 'N']}
+{'corinna': ['K', 'AO2', 'R', 'IH1', 'N', 'AH0'], 'karin': ['K', 'EH1', 'R', 'IH0', 'N']}
+{'corinna': ['K', 'AO2', 'R', 'IH1', 'N', 'AH0'], 'karn': ['K', 'AA1', 'R', 'N']}
+{'croney': ['K', 'R', 'OW1', 'N', 'IY0'], 'karin': ['K', 'EH1', 'R', 'IH0', 'N']}
+{'croney': ['K', 'R', 'OW1', 'N', 'IY0'], 'karn': ['K', 'AA1', 'R', 'N']}
+{'croney': ['K', 'R', 'OW1', 'N', 'IY0'], 'corinna': ['K', 'AO2', 'R', 'IH1', 'N', 'AH0']}
+{'karen': ['K', 'EH1', 'R', 'AH0', 'N'], 'karn': ['K', 'AA1', 'R', 'N']}
+{'karen': ['K', 'EH1', 'R', 'AH0', 'N'], 'croney': ['K', 'R', 'OW1', 'N', 'IY0']}
+{'adverse(2)': ['AE2', 'D', 'V', 'ER1', 'S'], 'divis': ['D', 'IY1', 'V', 'IH0', 'S']}
+{"davis'": ['D', 'EY1', 'V', 'AH0', 'S'], 'divis': ['D', 'IY1', 'V', 'IH0', 'S']}
+{"davis'": ['D', 'EY1', 'V', 'AH0', 'S'], 'adverse(2)': ['AE2', 'D', 'V', 'ER1', 'S']}
+{'davis(1)': ['D', 'EY1', 'V', 'IH0', 'S'], 'adverse(2)': ['AE2', 'D', 'V', 'ER1', 'S']}
+{'bibee': ['B', 'IH0', 'B', 'IY1'], 'bebee': ['B', 'EH1', 'B', 'IY0']}
+{'bibee': ['B', 'IH0', 'B', 'IY1'], 'baby': ['B', 'EY1', 'B', 'IY0']}
+{'bibee': ['B', 'IH0', 'B', 'IY1'], 'biby': ['B', 'AY1', 'B', 'IY0']}
+{'biber': ['B', 'AY1', 'B', 'ER0'], 'bebee': ['B', 'EH1', 'B', 'IY0']}
+{'biber': ['B', 'AY1', 'B', 'ER0'], 'baby': ['B', 'EY1', 'B', 'IY0']}
+{'biber': ['B', 'AY1', 'B', 'ER0'], 'bibee': ['B', 'IH0', 'B', 'IY1']}
+{'hege': ['HH', 'IY1', 'JH'], 'hage': ['HH', 'EY1', 'JH']}
+{'heagy': ['HH', 'IY1', 'JH', 'IY0'], 'hage': ['HH', 'EY1', 'JH']}
+{'hooge': ['HH', 'UW1', 'JH'], 'hage': ['HH', 'EY1', 'JH']}
+{'hooge': ['HH', 'UW1', 'JH'], 'hege': ['HH', 'IY1', 'JH']}
+{'hooge': ['HH', 'UW1', 'JH'], 'heagy': ['HH', 'IY1', 'JH', 'IY0']}
+{'rohner': ['R', 'OW1', 'N', 'ER0'], 'ryon': ['R', 'AY1', 'AH0', 'N']}
+{'reine': ['R', 'EY1', 'N'], 'ryon': ['R', 'AY1', 'AH0', 'N']}
+{'reine': ['R', 'EY1', 'N'], 'rohner': ['R', 'OW1', 'N', 'ER0']}
+{'roanna': ['R', 'OW1', 'N', 'AH0'], 'reine': ['R', 'EY1', 'N']}
+{'orion(1)': ['AO0', 'R', 'AY1', 'AH0', 'N'], 'rohner': ['R', 'OW1', 'N', 'ER0']}
+{'orion(1)': ['AO0', 'R', 'AY1', 'AH0', 'N'], 'reine': ['R', 'EY1', 'N']}
+{'torain': ['T', 'ER0', 'EY1', 'N'], 'urton': ['ER1', 'T', 'AH0', 'N']}
+{'tonner': ['T', 'AH1', 'N', 'ER0'], 'urton': ['ER1', 'T', 'AH0', 'N']}
+{'toon': ['T', 'UW1', 'N'], 'urton': ['ER1', 'T', 'AH0', 'N']}
+{'toon': ['T', 'UW1', 'N'], 'torain': ['T', 'ER0', 'EY1', 'N']}
+{'toon': ['T', 'UW1', 'N'], 'tonner': ['T', 'AH1', 'N', 'ER0']}
+{'eighteen': ['EY0', 'T', 'IY1', 'N'], 'urton': ['ER1', 'T', 'AH0', 'N']}
+{'eighteen': ['EY0', 'T', 'IY1', 'N'], 'torain': ['T', 'ER0', 'EY1', 'N']}
+{'eighteen': ['EY0', 'T', 'IY1', 'N'], 'tonner': ['T', 'AH1', 'N', 'ER0']}
+{'eighteen': ['EY0', 'T', 'IY1', 'N'], 'toon': ['T', 'UW1', 'N']}
+{'denied': ['D', 'IH0', 'N', 'AY1', 'D'], 'donder': ['D', 'AA1', 'N', 'D', 'ER0']}
+{'denied': ['D', 'IH0', 'N', 'AY1', 'D'], 'downard': ['D', 'AW1', 'N', 'ER0', 'D']}
+{'donde': ['D', 'AA1', 'N', 'D'], 'downard': ['D', 'AW1', 'N', 'ER0', 'D']}
+{'donde': ['D', 'AA1', 'N', 'D'], 'denied': ['D', 'IH0', 'N', 'AY1', 'D']}
+{'swine': ['S', 'W', 'AY1', 'N'], 'swann': ['S', 'W', 'AA1', 'N']}
+{'sweeney': ['S', 'W', 'IY1', 'N', 'IY0'], 'swann': ['S', 'W', 'AA1', 'N']}
+{'sweeney': ['S', 'W', 'IY1', 'N', 'IY0'], 'swine': ['S', 'W', 'AY1', 'N']}
+{'sweaney': ['S', 'W', 'IY1', 'N', 'IY0'], 'swann': ['S', 'W', 'AA1', 'N']}
+{'sweaney': ['S', 'W', 'IY1', 'N', 'IY0'], 'swine': ['S', 'W', 'AY1', 'N']}
+{'overeat': ['OW1', 'V', 'ER0', 'IY2', 'T'], 'overt': ['OW0', 'V', 'ER1', 'T']}
+{'aviator': ['EY1', 'V', 'IY0', 'EY2', 'T', 'ER0'], 'overt': ['OW0', 'V', 'ER1', 'T']}
+{'evitt': ['EH1', 'V', 'IH0', 'T'], 'overt': ['OW0', 'V', 'ER1', 'T']}
+{'evitt': ['EH1', 'V', 'IH0', 'T'], 'overeat': ['OW1', 'V', 'ER0', 'IY2', 'T']}
+{'evitt': ['EH1', 'V', 'IH0', 'T'], 'aviator': ['EY1', 'V', 'IY0', 'EY2', 'T', 'ER0']}
+{'voight': ['V', 'OY1', 'T'], 'overt': ['OW0', 'V', 'ER1', 'T']}
+{'voight': ['V', 'OY1', 'T'], 'overeat': ['OW1', 'V', 'ER0', 'IY2', 'T']}
+{'voight': ['V', 'OY1', 'T'], 'aviator': ['EY1', 'V', 'IY0', 'EY2', 'T', 'ER0']}
+{'voight': ['V', 'OY1', 'T'], 'evitt': ['EH1', 'V', 'IH0', 'T']}
+{'nahm': ['N', 'AE1', 'M'], 'nomi': ['N', 'OW1', 'M', 'IY0']}
+{'anemia': ['AH0', 'N', 'IY1', 'M', 'IY0', 'AH0'], 'nahm': ['N', 'AE1', 'M']}
+{'annum': ['AE1', 'N', 'AH0', 'M'], 'nomi': ['N', 'OW1', 'M', 'IY0']}
+{'niemeier': ['N', 'IY1', 'M', 'AY0', 'ER0'], 'nomi': ['N', 'OW1', 'M', 'IY0']}
+{'niemeier': ['N', 'IY1', 'M', 'AY0', 'ER0'], 'nahm': ['N', 'AE1', 'M']}
+{'niemeier': ['N', 'IY1', 'M', 'AY0', 'ER0'], 'annum': ['AE1', 'N', 'AH0', 'M']}
+{'glueck': ['G', 'L', 'UW1', 'K'], 'gillock': ['G', 'IH1', 'L', 'AH0', 'K']}
+{'gawlik': ['G', 'AO1', 'L', 'IH0', 'K'], 'gillock': ['G', 'IH1', 'L', 'AH0', 'K']}
+{'gawlik': ['G', 'AO1', 'L', 'IH0', 'K'], 'glueck': ['G', 'L', 'UW1', 'K']}
+{'mincer': ['M', 'IH1', 'N', 'S', 'ER0'], 'manus': ['M', 'EY1', 'N', 'IH0', 'S']}
+{'mounsey': ['M', 'AW1', 'N', 'S', 'IY0'], 'manus': ['M', 'EY1', 'N', 'IH0', 'S']}
+{'mounsey': ['M', 'AW1', 'N', 'S', 'IY0'], 'mincer': ['M', 'IH1', 'N', 'S', 'ER0']}
+{'muncee': ['M', 'AH1', 'N', 'S', 'IY0'], 'manus': ['M', 'EY1', 'N', 'IH0', 'S']}
+{'muncee': ['M', 'AH1', 'N', 'S', 'IY0'], 'mincer': ['M', 'IH1', 'N', 'S', 'ER0']}
+{'mance': ['M', 'AE1', 'N', 'S'], 'manus': ['M', 'EY1', 'N', 'IH0', 'S']}
+{'mance': ['M', 'AE1', 'N', 'S'], 'mincer': ['M', 'IH1', 'N', 'S', 'ER0']}
+{'mance': ['M', 'AE1', 'N', 'S'], 'mounsey': ['M', 'AW1', 'N', 'S', 'IY0']}
+{'mance': ['M', 'AE1', 'N', 'S'], 'muncee': ['M', 'AH1', 'N', 'S', 'IY0']}
+{"newell's": ['N', 'UW1', 'AH0', 'L', 'Z'], 'inlaws(1)': ['IH1', 'N', 'L', 'AO0', 'Z']}
+{'nilles': ['N', 'AY1', 'L', 'Z'], 'inlaws(1)': ['IH1', 'N', 'L', 'AO0', 'Z']}
+{'nilles': ['N', 'AY1', 'L', 'Z'], "newell's": ['N', 'UW1', 'AH0', 'L', 'Z']}
+{'okimoto': ['OW0', 'K', 'IY0', 'M', 'OW1', 'T', 'OW0'], 'kimmet': ['K', 'IH1', 'M', 'IH0', 'T']}
+{'comet': ['K', 'AA1', 'M', 'AH0', 'T'], 'kimmet': ['K', 'IH1', 'M', 'IH0', 'T']}
+{'comet': ['K', 'AA1', 'M', 'AH0', 'T'], 'okimoto': ['OW0', 'K', 'IY0', 'M', 'OW1', 'T', 'OW0']}
+{'calm(1)': ['K', 'AA1', 'L', 'M'], 'clim': ['K', 'L', 'IH1', 'M']}
+{'cullom': ['K', 'AH1', 'L', 'AH0', 'M'], 'clim': ['K', 'L', 'IH1', 'M']}
+{'cullom': ['K', 'AH1', 'L', 'AH0', 'M'], 'calm(1)': ['K', 'AA1', 'L', 'M']}
+{'cullum': ['K', 'AH1', 'L', 'AH0', 'M'], 'clim': ['K', 'L', 'IH1', 'M']}
+{'cullum': ['K', 'AH1', 'L', 'AH0', 'M'], 'calm(1)': ['K', 'AA1', 'L', 'M']}
+{'klem': ['K', 'L', 'EH1', 'M'], 'clim': ['K', 'L', 'IH1', 'M']}
+{'klem': ['K', 'L', 'EH1', 'M'], 'calm(1)': ['K', 'AA1', 'L', 'M']}
+{'klem': ['K', 'L', 'EH1', 'M'], 'cullom': ['K', 'AH1', 'L', 'AH0', 'M']}
+{'klem': ['K', 'L', 'EH1', 'M'], 'cullum': ['K', 'AH1', 'L', 'AH0', 'M']}
+{'holck': ['HH', 'OW1', 'L', 'K'], 'hilliker(1)': ['HH', 'IH1', 'L', 'IH0', 'K', 'ER0']}
+{'halleck': ['HH', 'AE1', 'L', 'IH0', 'K'], 'holck': ['HH', 'OW1', 'L', 'K']}
+{'hoylake': ['HH', 'OY1', 'L', 'EY2', 'K'], 'hilliker(1)': ['HH', 'IH1', 'L', 'IH0', 'K', 'ER0']}
+{'hoylake': ['HH', 'OY1', 'L', 'EY2', 'K'], 'holck': ['HH', 'OW1', 'L', 'K']}
+{'hoylake': ['HH', 'OY1', 'L', 'EY2', 'K'], 'halleck': ['HH', 'AE1', 'L', 'IH0', 'K']}
+{'shand': ['SH', 'AE1', 'N', 'D'], 'schnyder': ['SH', 'N', 'AY1', 'D', 'ER0']}
+{'shand': ['SH', 'AE1', 'N', 'D'], 'schnieder': ['SH', 'N', 'AY1', 'D', 'ER0']}
+{'catano': ['K', 'AA0', 'T', 'AA1', 'N', 'OW0'], 'cation': ['K', 'AE1', 'T', 'AY2', 'AH0', 'N']}
+{'catino': ['K', 'AA0', 'T', 'IY1', 'N', 'OW0'], 'cation': ['K', 'AE1', 'T', 'AY2', 'AH0', 'N']}
+{'catino': ['K', 'AA0', 'T', 'IY1', 'N', 'OW0'], 'cotton': ['K', 'AA1', 'T', 'AH0', 'N']}
+{'catino': ['K', 'AA0', 'T', 'IY1', 'N', 'OW0'], 'cotten': ['K', 'AA1', 'T', 'AH0', 'N']}
+{'brit': ['B', 'R', 'IH1', 'T'], 'boart': ['B', 'AO1', 'R', 'T']}
+{'berate': ['B', 'IH0', 'R', 'EY1', 'T'], 'boart': ['B', 'AO1', 'R', 'T']}
+{'berate': ['B', 'IH0', 'R', 'EY1', 'T'], 'brit': ['B', 'R', 'IH1', 'T']}
+{'brat': ['B', 'R', 'AE1', 'T'], 'boart': ['B', 'AO1', 'R', 'T']}
+{'brat': ['B', 'R', 'AE1', 'T'], 'brit': ['B', 'R', 'IH1', 'T']}
+{'brat': ['B', 'R', 'AE1', 'T'], 'berate': ['B', 'IH0', 'R', 'EY1', 'T']}
+{'brito': ['B', 'R', 'IY1', 'T', 'OW0'], 'boart': ['B', 'AO1', 'R', 'T']}
+{'brito': ['B', 'R', 'IY1', 'T', 'OW0'], 'brit': ['B', 'R', 'IH1', 'T']}
+{'brito': ['B', 'R', 'IY1', 'T', 'OW0'], 'berate': ['B', 'IH0', 'R', 'EY1', 'T']}
+{'brito': ['B', 'R', 'IY1', 'T', 'OW0'], 'brat': ['B', 'R', 'AE1', 'T']}
+{'sphere': ['S', 'F', 'IH1', 'R'], 'c4': ['S', 'IY1', 'F', 'AO1', 'R']}
+{'sphar': ['S', 'F', 'AA1', 'R'], 'c4': ['S', 'IY1', 'F', 'AO1', 'R']}
+{'sphar': ['S', 'F', 'AA1', 'R'], 'sphere': ['S', 'F', 'IH1', 'R']}
+{'arts': ['AA1', 'R', 'T', 'S'], 'rites': ['R', 'AY1', 'T', 'S']}
+{'rietz': ['R', 'IY1', 'T', 'S'], 'rites': ['R', 'AY1', 'T', 'S']}
+{'rietz': ['R', 'IY1', 'T', 'S'], 'arts': ['AA1', 'R', 'T', 'S']}
+{"right's": ['R', 'AY1', 'T', 'S'], 'arts': ['AA1', 'R', 'T', 'S']}
+{"right's": ['R', 'AY1', 'T', 'S'], 'rietz': ['R', 'IY1', 'T', 'S']}
+{'routes': ['R', 'UW1', 'T', 'S'], 'rites': ['R', 'AY1', 'T', 'S']}
+{'routes': ['R', 'UW1', 'T', 'S'], 'arts': ['AA1', 'R', 'T', 'S']}
+{'routes': ['R', 'UW1', 'T', 'S'], 'rietz': ['R', 'IY1', 'T', 'S']}
+{'routes': ['R', 'UW1', 'T', 'S'], "right's": ['R', 'AY1', 'T', 'S']}
+{'clerc': ['K', 'L', 'ER1', 'K'], 'klecker': ['K', 'L', 'EH1', 'K', 'ER0']}
+{'clerc': ['K', 'L', 'ER1', 'K'], 'choleric': ['K', 'AA1', 'L', 'ER0', 'IH0', 'K']}
+{'clerk': ['K', 'L', 'ER1', 'K'], 'klecker': ['K', 'L', 'EH1', 'K', 'ER0']}
+{'clerk': ['K', 'L', 'ER1', 'K'], 'choleric': ['K', 'AA1', 'L', 'ER0', 'IH0', 'K']}
+{'clercq': ['K', 'L', 'ER1', 'K'], 'klecker': ['K', 'L', 'EH1', 'K', 'ER0']}
+{'clercq': ['K', 'L', 'ER1', 'K'], 'choleric': ['K', 'AA1', 'L', 'ER0', 'IH0', 'K']}
+{'cleva': ['K', 'L', 'IY1', 'V', 'AH0'], 'klaver': ['K', 'L', 'EY1', 'V', 'ER0']}
+{'cleva': ['K', 'L', 'IY1', 'V', 'AH0'], 'clover': ['K', 'L', 'OW1', 'V', 'ER0']}
+{'clevie': ['K', 'L', 'IY1', 'V', 'IY0'], 'klaver': ['K', 'L', 'EY1', 'V', 'ER0']}
+{'clevie': ['K', 'L', 'IY1', 'V', 'IY0'], 'clover': ['K', 'L', 'OW1', 'V', 'ER0']}
+{'bargas': ['B', 'AA1', 'R', 'G', 'AH0', 'Z'], 'brags': ['B', 'R', 'AE1', 'G', 'Z']}
+{'alfonse(1)': ['AE1', 'L', 'F', 'AO0', 'N', 'S'], 'alphonso': ['AE0', 'L', 'F', 'AA1', 'N', 'S', 'OW0']}
+{'aloofness': ['AH0', 'L', 'UW1', 'F', 'N', 'AH0', 'S'], 'alphonso': ['AE0', 'L', 'F', 'AA1', 'N', 'S', 'OW0']}
+{'aloofness': ['AH0', 'L', 'UW1', 'F', 'N', 'AH0', 'S'], 'alfonse(1)': ['AE1', 'L', 'F', 'AO0', 'N', 'S']}
+{'rhoades': ['R', 'OW1', 'D', 'Z'], 'rods': ['R', 'AA1', 'D', 'Z']}
+{'roads': ['R', 'OW1', 'D', 'Z'], 'rods': ['R', 'AA1', 'D', 'Z']}
+{"readers'": ['R', 'IY1', 'D', 'ER0', 'Z'], 'rods': ['R', 'AA1', 'D', 'Z']}
+{"readers'": ['R', 'IY1', 'D', 'ER0', 'Z'], 'rhoades': ['R', 'OW1', 'D', 'Z']}
+{"readers'": ['R', 'IY1', 'D', 'ER0', 'Z'], 'roads': ['R', 'OW1', 'D', 'Z']}
+{'rieders': ['R', 'IY1', 'D', 'ER0', 'Z'], 'rods': ['R', 'AA1', 'D', 'Z']}
+{'rieders': ['R', 'IY1', 'D', 'ER0', 'Z'], 'rhoades': ['R', 'OW1', 'D', 'Z']}
+{'rieders': ['R', 'IY1', 'D', 'ER0', 'Z'], 'roads': ['R', 'OW1', 'D', 'Z']}
+{'connote': ['K', 'AH0', 'N', 'OW1', 'T'], 'knut': ['K', 'N', 'AH1', 'T']}
+{"can't": ['K', 'AE1', 'N', 'T'], 'knut': ['K', 'N', 'AH1', 'T']}
+{"can't": ['K', 'AE1', 'N', 'T'], 'connote': ['K', 'AH0', 'N', 'OW1', 'T']}
+{'cantu': ['K', 'AE1', 'N', 'T', 'UW0'], 'knut': ['K', 'N', 'AH1', 'T']}
+{'cantu': ['K', 'AE1', 'N', 'T', 'UW0'], 'connote': ['K', 'AH0', 'N', 'OW1', 'T']}
+{'bear': ['B', 'EH1', 'R'], 'baehr': ['B', 'IY1', 'R']}
+{'breaux(1)': ['B', 'R', 'UW1'], 'baehr': ['B', 'IY1', 'R']}
+{'breaux(1)': ['B', 'R', 'UW1'], 'bear': ['B', 'EH1', 'R']}
+{'aubrey': ['AO1', 'B', 'R', 'IY0'], 'baehr': ['B', 'IY1', 'R']}
+{'aubrey': ['AO1', 'B', 'R', 'IY0'], 'bear': ['B', 'EH1', 'R']}
+{'aubrey': ['AO1', 'B', 'R', 'IY0'], 'breaux(1)': ['B', 'R', 'UW1']}
+{'baro': ['B', 'AA1', 'R', 'OW0'], 'baehr': ['B', 'IY1', 'R']}
+{'baro': ['B', 'AA1', 'R', 'OW0'], 'bear': ['B', 'EH1', 'R']}
+{'baro': ['B', 'AA1', 'R', 'OW0'], 'breaux(1)': ['B', 'R', 'UW1']}
+{'baro': ['B', 'AA1', 'R', 'OW0'], 'aubrey': ['AO1', 'B', 'R', 'IY0']}
+{'sillerman': ['S', 'IH1', 'L', 'ER0', 'M', 'AH0', 'N'], 'solemin': ['S', 'OW0', 'L', 'EH1', 'M', 'IH0', 'N']}
+{'solaman': ['S', 'AA1', 'L', 'AH0', 'M', 'AH0', 'N'], 'solemin': ['S', 'OW0', 'L', 'EH1', 'M', 'IH0', 'N']}
+{'whitesell': ['W', 'AY1', 'T', 'S', 'EH2', 'L'], 'whetsell': ['W', 'EH1', 'T', 'S', 'AH0', 'L']}
+{'whitesel': ['W', 'AY1', 'T', 'S', 'EH2', 'L'], 'whetsell': ['W', 'EH1', 'T', 'S', 'AH0', 'L']}
+{'enshroud': ['IH0', 'N', 'SH', 'R', 'AW1', 'D'], 'insured': ['IH2', 'N', 'SH', 'UH1', 'R', 'D']}
+{'ascertain': ['AE2', 'S', 'ER0', 'T', 'EY1', 'N'], 'settanni': ['S', 'EH0', 'T', 'AA1', 'N', 'IY0']}
+{'stena': ['S', 'T', 'IY1', 'N', 'AH0'], 'settanni': ['S', 'EH0', 'T', 'AA1', 'N', 'IY0']}
+{'stena': ['S', 'T', 'IY1', 'N', 'AH0'], 'ascertain': ['AE2', 'S', 'ER0', 'T', 'EY1', 'N']}
+{'stannie': ['S', 'T', 'AE1', 'N', 'IY0'], 'ascertain': ['AE2', 'S', 'ER0', 'T', 'EY1', 'N']}
+{'stannie': ['S', 'T', 'AE1', 'N', 'IY0'], 'stena': ['S', 'T', 'IY1', 'N', 'AH0']}
+{'sitton': ['S', 'IH1', 'T', 'AH0', 'N'], 'settanni': ['S', 'EH0', 'T', 'AA1', 'N', 'IY0']}
+{'sitton': ['S', 'IH1', 'T', 'AH0', 'N'], 'ascertain': ['AE2', 'S', 'ER0', 'T', 'EY1', 'N']}
+{'sitton': ['S', 'IH1', 'T', 'AH0', 'N'], 'stannie': ['S', 'T', 'AE1', 'N', 'IY0']}
+{'kittles': ['K', 'IH1', 'T', 'AH0', 'L', 'Z'], 'kotlarz': ['K', 'AA1', 'T', 'L', 'ER0', 'Z']}
+{'ratty': ['R', 'AE1', 'T', 'IY0'], 'routt': ['R', 'AW1', 'T']}
+{'rutter': ['R', 'AH1', 'T', 'ER0'], 'routt': ['R', 'AW1', 'T']}
+{'rutter': ['R', 'AH1', 'T', 'ER0'], 'ratty': ['R', 'AE1', 'T', 'IY0']}
+{'reitter': ['R', 'AY1', 'T', 'ER0'], 'routt': ['R', 'AW1', 'T']}
+{'reitter': ['R', 'AY1', 'T', 'ER0'], 'ratty': ['R', 'AE1', 'T', 'IY0']}
+{'wright': ['R', 'AY1', 'T'], 'routt': ['R', 'AW1', 'T']}
+{'wright': ['R', 'AY1', 'T'], 'ratty': ['R', 'AE1', 'T', 'IY0']}
+{'wright': ['R', 'AY1', 'T'], 'rutter': ['R', 'AH1', 'T', 'ER0']}
+{'degreed': ['D', 'IH0', 'G', 'R', 'IY1', 'D'], 'dioguardi': ['D', 'IY0', 'OW0', 'G', 'AA1', 'R', 'D', 'IY2']}
+{'lauten': ['L', 'AW1', 'T', 'AH0', 'N'], 'lightner': ['L', 'AY1', 'T', 'N', 'ER0']}
+{'laughton': ['L', 'AO1', 'T', 'AH0', 'N'], 'lightner': ['L', 'AY1', 'T', 'N', 'ER0']}
+{'litany': ['L', 'IH1', 'T', 'AH0', 'N', 'IY0'], 'lightner': ['L', 'AY1', 'T', 'N', 'ER0']}
+{'frucher': ['F', 'R', 'UW1', 'K', 'ER0'], 'farica': ['F', 'AA0', 'R', 'IY1', 'K', 'AH0']}
+{'cocchi': ['K', 'OW1', 'K', 'IY0'], 'kucher': ['K', 'AH1', 'K', 'ER0']}
+{'kaucher': ['K', 'AW1', 'K', 'ER0'], 'cocchi': ['K', 'OW1', 'K', 'IY0']}
+{'lorraine': ['L', 'ER0', 'EY1', 'N'], 'allan': ['AE1', 'L', 'AH0', 'N']}
+{'lorraine': ['L', 'ER0', 'EY1', 'N'], 'ileana': ['IH2', 'L', 'IY0', 'AE1', 'N', 'AH0']}
+{'elane': ['IH0', 'L', 'EY1', 'N'], 'allan': ['AE1', 'L', 'AH0', 'N']}
+{'elane': ['IH0', 'L', 'EY1', 'N'], 'ileana': ['IH2', 'L', 'IY0', 'AE1', 'N', 'AH0']}
+{'motels': ['M', 'OW0', 'T', 'EH1', 'L', 'Z'], "motorola's": ['M', 'OW2', 'T', 'ER0', 'OW1', 'L', 'AH0', 'Z']}
+{"matala's": ['M', 'AH0', 'T', 'AA1', 'L', 'AH0', 'Z'], 'motels': ['M', 'OW0', 'T', 'EH1', 'L', 'Z']}
+{'fayez': ['F', 'EY1', 'EH0', 'Z'], 'foes': ['F', 'OW1', 'Z']}
+{'faze': ['F', 'EY1', 'Z'], 'foes': ['F', 'OW1', 'Z']}
+{'fees': ['F', 'IY1', 'Z'], 'foes': ['F', 'OW1', 'Z']}
+{'fees': ['F', 'IY1', 'Z'], 'fayez': ['F', 'EY1', 'EH0', 'Z']}
+{'fees': ['F', 'IY1', 'Z'], 'faze': ['F', 'EY1', 'Z']}
+{'feser': ['F', 'IY1', 'Z', 'ER0'], 'foes': ['F', 'OW1', 'Z']}
+{'feser': ['F', 'IY1', 'Z', 'ER0'], 'fayez': ['F', 'EY1', 'EH0', 'Z']}
+{'feser': ['F', 'IY1', 'Z', 'ER0'], 'faze': ['F', 'EY1', 'Z']}
+{'luty': ['L', 'UW1', 'T', 'IY0'], 'latoya': ['L', 'AH0', 'T', 'OY1', 'AH0']}
+{'elite': ['IH0', 'L', 'IY1', 'T'], 'latoya': ['L', 'AH0', 'T', 'OY1', 'AH0']}
+{'elite': ['IH0', 'L', 'IY1', 'T'], 'luty': ['L', 'UW1', 'T', 'IY0']}
+{'elliott': ['EH1', 'L', 'IY0', 'AH0', 'T'], 'elite': ['IH0', 'L', 'IY1', 'T']}
+{'leighty': ['L', 'EY1', 'T', 'IY0'], 'latoya': ['L', 'AH0', 'T', 'OY1', 'AH0']}
+{'leighty': ['L', 'EY1', 'T', 'IY0'], 'elite': ['IH0', 'L', 'IY1', 'T']}
+{'fluster': ['F', 'L', 'AH1', 'S', 'T', 'ER0'], 'fleeced': ['F', 'L', 'IY1', 'S', 'T']}
+{'clockers': ['K', 'L', 'AA1', 'K', 'ER0', 'Z'], 'clucas': ['K', 'L', 'UW1', 'K', 'AH0', 'Z']}
+{'mooney': ['M', 'UW1', 'N', 'IY0'], 'morneault': ['M', 'ER0', 'N', 'OW1']}
+{'munni(1)': ['M', 'AH1', 'N', 'IY0'], 'morneault': ['M', 'ER0', 'N', 'OW1']}
+{'menor': ['M', 'EH1', 'N', 'ER0'], 'mooney': ['M', 'UW1', 'N', 'IY0']}
+{'menor': ['M', 'EH1', 'N', 'ER0'], 'munni(1)': ['M', 'AH1', 'N', 'IY0']}
+{'merner': ['M', 'ER1', 'N', 'ER0'], 'mooney': ['M', 'UW1', 'N', 'IY0']}
+{'merner': ['M', 'ER1', 'N', 'ER0'], 'munni(1)': ['M', 'AH1', 'N', 'IY0']}
+{'draws': ['D', 'R', 'AO1', 'Z'], "darrow's": ['D', 'EH1', 'R', 'OW0', 'Z']}
+{'draws': ['D', 'R', 'AO1', 'Z'], 'dorazio(1)': ['D', 'AO0', 'R', 'EY1', 'Z', 'IY0', 'OW0']}
+{'drewes': ['D', 'R', 'UW1', 'Z'], "darrow's": ['D', 'EH1', 'R', 'OW0', 'Z']}
+{'drewes': ['D', 'R', 'UW1', 'Z'], 'dorazio(1)': ['D', 'AO0', 'R', 'EY1', 'Z', 'IY0', 'OW0']}
+{'drewes': ['D', 'R', 'UW1', 'Z'], 'draws': ['D', 'R', 'AO1', 'Z']}
+{'doors': ['D', 'AO1', 'R', 'Z'], "darrow's": ['D', 'EH1', 'R', 'OW0', 'Z']}
+{'doors': ['D', 'AO1', 'R', 'Z'], 'dorazio(1)': ['D', 'AO0', 'R', 'EY1', 'Z', 'IY0', 'OW0']}
+{'doors': ['D', 'AO1', 'R', 'Z'], 'drewes': ['D', 'R', 'UW1', 'Z']}
+{"fans'": ['F', 'AE1', 'N', 'Z'], 'phones': ['F', 'OW1', 'N', 'Z']}
+{'guenter': ['G', 'EH1', 'N', 'T', 'ER0'], 'gonet': ['G', 'OW1', 'N', 'IH0', 'T']}
+{'agneta': ['AA0', 'G', 'N', 'EH1', 'T', 'AH0'], 'gonet': ['G', 'OW1', 'N', 'IH0', 'T']}
+{'gauntt': ['G', 'AO1', 'N', 'T'], 'gonet': ['G', 'OW1', 'N', 'IH0', 'T']}
+{'gauntt': ['G', 'AO1', 'N', 'T'], 'guenter': ['G', 'EH1', 'N', 'T', 'ER0']}
+{'gauntt': ['G', 'AO1', 'N', 'T'], 'agneta': ['AA0', 'G', 'N', 'EH1', 'T', 'AH0']}
+{'giuliani': ['JH', 'UW2', 'L', 'IY0', 'AA1', 'N', 'IY0'], 'juline': ['JH', 'UW1', 'L', 'AY0', 'N']}
+{'gillian': ['JH', 'IH1', 'L', 'IY0', 'AH0', 'N'], 'juline': ['JH', 'UW1', 'L', 'AY0', 'N']}
+{'jelen': ['JH', 'EH1', 'L', 'AH0', 'N'], 'juline': ['JH', 'UW1', 'L', 'AY0', 'N']}
+{'jelen': ['JH', 'EH1', 'L', 'AH0', 'N'], 'giuliani': ['JH', 'UW2', 'L', 'IY0', 'AA1', 'N', 'IY0']}
+{'kaposi': ['K', 'AH0', 'P', 'OW1', 'S', 'IY0'], 'capes': ['K', 'EY1', 'P', 'S']}
+{'cops': ['K', 'AA1', 'P', 'S'], 'capes': ['K', 'EY1', 'P', 'S']}
+{'cops': ['K', 'AA1', 'P', 'S'], 'kaposi': ['K', 'AH0', 'P', 'OW1', 'S', 'IY0']}
+{"koop's": ['K', 'UW1', 'P', 'S'], 'capes': ['K', 'EY1', 'P', 'S']}
+{"koop's": ['K', 'UW1', 'P', 'S'], 'kaposi': ['K', 'AH0', 'P', 'OW1', 'S', 'IY0']}
+{"koop's": ['K', 'UW1', 'P', 'S'], 'cops': ['K', 'AA1', 'P', 'S']}
+{'pammy': ['P', 'AE1', 'M', 'IY0'], 'palmer': ['P', 'AA1', 'M', 'ER0']}
+{'palm': ['P', 'AA1', 'M'], 'pammy': ['P', 'AE1', 'M', 'IY0']}
+{'palm': ['P', 'AA1', 'M'], 'paramo': ['P', 'ER0', 'AE1', 'M', 'OW0']}
+{'panozzo': ['P', 'AH0', 'N', 'AA1', 'Z', 'OW0'], 'penns': ['P', 'EH1', 'N', 'Z']}
+{'pynes': ['P', 'AY1', 'N', 'Z'], 'penns': ['P', 'EH1', 'N', 'Z']}
+{'pynes': ['P', 'AY1', 'N', 'Z'], 'panozzo': ['P', 'AH0', 'N', 'AA1', 'Z', 'OW0']}
+{'pansy': ['P', 'AE1', 'N', 'Z', 'IY0'], 'penns': ['P', 'EH1', 'N', 'Z']}
+{'pansy': ['P', 'AE1', 'N', 'Z', 'IY0'], 'panozzo': ['P', 'AH0', 'N', 'AA1', 'Z', 'OW0']}
+{'pansy': ['P', 'AE1', 'N', 'Z', 'IY0'], 'pynes': ['P', 'AY1', 'N', 'Z']}
+{'paeans': ['P', 'IY1', 'AH0', 'N', 'Z'], 'penns': ['P', 'EH1', 'N', 'Z']}
+{'paeans': ['P', 'IY1', 'AH0', 'N', 'Z'], 'pynes': ['P', 'AY1', 'N', 'Z']}
+{'paeans': ['P', 'IY1', 'AH0', 'N', 'Z'], 'pansy': ['P', 'AE1', 'N', 'Z', 'IY0']}
+{'bromley': ['B', 'R', 'AA1', 'M', 'L', 'IY0'], 'bramalea': ['B', 'R', 'AE2', 'M', 'AH0', 'L', 'IY1', 'AH0']}
+{'bromley': ['B', 'R', 'AA1', 'M', 'L', 'IY0'], 'bramel': ['B', 'R', 'AE1', 'M', 'AH0', 'L']}
+{'brumlow': ['B', 'R', 'AH1', 'M', 'L', 'OW0'], 'bramalea': ['B', 'R', 'AE2', 'M', 'AH0', 'L', 'IY1', 'AH0']}
+{'brumlow': ['B', 'R', 'AH1', 'M', 'L', 'OW0'], 'bramel': ['B', 'R', 'AE1', 'M', 'AH0', 'L']}
+{'brumlow': ['B', 'R', 'AH1', 'M', 'L', 'OW0'], 'bromley': ['B', 'R', 'AA1', 'M', 'L', 'IY0']}
+{'petunia': ['P', 'AH0', 'T', 'UW1', 'N', 'IY0', 'AH0'], 'pitner': ['P', 'IH1', 'T', 'N', 'ER0']}
+{'mapel': ['M', 'AE1', 'P', 'AH0', 'L'], 'employer(1)': ['IH0', 'M', 'P', 'L', 'OY1', 'ER0']}
+{'mapel': ['M', 'AE1', 'P', 'AH0', 'L'], 'employee(1)': ['IH0', 'M', 'P', 'L', 'OY1', 'IY0']}
+{'molony': ['M', 'AH0', 'L', 'AO1', 'N', 'IY0'], 'milone': ['M', 'IH0', 'L', 'OW1', 'N']}
+{'mullany': ['M', 'AH1', 'L', 'AH0', 'N', 'IY0'], 'milone': ['M', 'IH0', 'L', 'OW1', 'N']}
+{'molino': ['M', 'OW0', 'L', 'IY1', 'N', 'OW0'], 'milone': ['M', 'IH0', 'L', 'OW1', 'N']}
+{'molino': ['M', 'OW0', 'L', 'IY1', 'N', 'OW0'], 'molony': ['M', 'AH0', 'L', 'AO1', 'N', 'IY0']}
+{'molino': ['M', 'OW0', 'L', 'IY1', 'N', 'OW0'], 'mullany': ['M', 'AH1', 'L', 'AH0', 'N', 'IY0']}
+{'milan(1)': ['M', 'IH0', 'L', 'AA1', 'N'], 'molony': ['M', 'AH0', 'L', 'AO1', 'N', 'IY0']}
+{'milan(1)': ['M', 'IH0', 'L', 'AA1', 'N'], 'mullany': ['M', 'AH1', 'L', 'AH0', 'N', 'IY0']}
+{'milan(1)': ['M', 'IH0', 'L', 'AA1', 'N'], 'molino': ['M', 'OW0', 'L', 'IY1', 'N', 'OW0']}
+{'lantos': ['L', 'AE1', 'N', 'T', 'OW0', 'S'], 'luntz': ['L', 'AH1', 'N', 'T', 'S']}
+{"ottaway's": ['AA1', 'T', 'AH0', 'W', 'EY0', 'Z'], 'outweighs': ['AW1', 'T', 'W', 'EY2', 'Z']}
+{'tweezer': ['T', 'W', 'IY1', 'Z', 'ER0'], 'outweighs': ['AW1', 'T', 'W', 'EY2', 'Z']}
+{'tweezer': ['T', 'W', 'IY1', 'Z', 'ER0'], "ottaway's": ['AA1', 'T', 'AH0', 'W', 'EY0', 'Z']}
+{'choi': ['CH', 'OY1'], 'chewy': ['CH', 'UW1', 'IY0']}
+{'achoa': ['AH0', 'CH', 'OW1', 'AH0'], 'chewy': ['CH', 'UW1', 'IY0']}
+{'achoa': ['AH0', 'CH', 'OW1', 'AH0'], 'choi': ['CH', 'OY1']}
+{'janis': ['JH', 'AE1', 'N', 'IH0', 'S'], 'gensia': ['JH', 'EH2', 'N', 'S', 'IY1', 'AH0']}
+{'janis': ['JH', 'AE1', 'N', 'IH0', 'S'], 'janus': ['JH', 'EY1', 'N', 'AH0', 'S']}
+{'helbig': ['HH', 'EH1', 'L', 'B', 'IH0', 'G'], 'holberg': ['HH', 'OW1', 'L', 'B', 'ER0', 'G']}
+{'armed': ['AA1', 'R', 'M', 'D'], 'rumored': ['R', 'UW1', 'M', 'ER0', 'D']}
+{'eglantine': ['EH1', 'G', 'L', 'AH0', 'N', 'T', 'AY2', 'N'], 'galentine': ['G', 'AA0', 'L', 'EH0', 'N', 'T', 'IY1', 'N', 'IY0']}
+{'davi': ['D', 'AA1', 'V', 'IY0'], 'ediva': ['EH0', 'D', 'IY1', 'V', 'AH0']}
+{'devereaux': ['D', 'EH1', 'V', 'ER0', 'OW0'], 'ediva': ['EH0', 'D', 'IY1', 'V', 'AH0']}
+{'devereaux': ['D', 'EH1', 'V', 'ER0', 'OW0'], 'davi': ['D', 'AA1', 'V', 'IY0']}
+{'dev': ['D', 'EH1', 'V'], 'ediva': ['EH0', 'D', 'IY1', 'V', 'AH0']}
+{'dev': ['D', 'EH1', 'V'], 'davi': ['D', 'AA1', 'V', 'IY0']}
+{'divvy': ['D', 'IH1', 'V', 'IY0'], 'ediva': ['EH0', 'D', 'IY1', 'V', 'AH0']}
+{'divvy': ['D', 'IH1', 'V', 'IY0'], 'devereaux': ['D', 'EH1', 'V', 'ER0', 'OW0']}
+{'divvy': ['D', 'IH1', 'V', 'IY0'], 'dev': ['D', 'EH1', 'V']}
+{"assets'": ['AE1', 'S', 'EH0', 'T', 'S'], 'cetus': ['S', 'IY1', 'T', 'AH0', 'S']}
+{"seat's": ['S', 'IY1', 'T', 'S'], "assets'": ['AE1', 'S', 'EH0', 'T', 'S']}
+{'setser': ['S', 'EH1', 'T', 'S', 'ER0'], 'cetus': ['S', 'IY1', 'T', 'AH0', 'S']}
+{'setser': ['S', 'EH1', 'T', 'S', 'ER0'], "assets'": ['AE1', 'S', 'EH0', 'T', 'S']}
+{'setser': ['S', 'EH1', 'T', 'S', 'ER0'], "seat's": ['S', 'IY1', 'T', 'S']}
+{'aft': ['AE1', 'F', 'T'], 'efta': ['EH1', 'F', 'T', 'AH0']}
+{'feight': ['F', 'EY1', 'T'], 'efta': ['EH1', 'F', 'T', 'AH0']}
+{'feight': ['F', 'EY1', 'T'], 'aft': ['AE1', 'F', 'T']}
+{"o'connor": ['OW0', 'K', 'AA1', 'N', 'ER0'], 'aickin': ['EY1', 'K', 'IH0', 'N']}
+{'keene': ['K', 'IY1', 'N'], 'aickin': ['EY1', 'K', 'IH0', 'N']}
+{'keene': ['K', 'IY1', 'N'], "o'connor": ['OW0', 'K', 'AA1', 'N', 'ER0']}
+{'corinne': ['K', 'ER0', 'IY1', 'N'], 'aickin': ['EY1', 'K', 'IH0', 'N']}
+{'kinnie': ['K', 'IH1', 'N', 'IY0'], 'aickin': ['EY1', 'K', 'IH0', 'N']}
+{'kinnie': ['K', 'IH1', 'N', 'IY0'], "o'connor": ['OW0', 'K', 'AA1', 'N', 'ER0']}
+{'kinnie': ['K', 'IH1', 'N', 'IY0'], 'keene': ['K', 'IY1', 'N']}
+{'kinnie': ['K', 'IH1', 'N', 'IY0'], 'corinne': ['K', 'ER0', 'IY1', 'N']}
+{'krammes': ['K', 'R', 'AE1', 'M', 'Z'], 'kremers': ['K', 'R', 'IY1', 'M', 'ER0', 'Z']}
+{"cromer's": ['K', 'R', 'OW1', 'M', 'ER0', 'Z'], 'krammes': ['K', 'R', 'AE1', 'M', 'Z']}
+{'outfield': ['AW1', 'T', 'F', 'IY2', 'L', 'D'], 'twofold': ['T', 'UW1', 'F', 'OW1', 'L', 'D']}
+{'plies': ['P', 'L', 'AY1', 'Z'], 'plaza': ['P', 'L', 'AA1', 'Z', 'AH0']}
+{'pools': ['P', 'UW1', 'L', 'Z'], 'plaza': ['P', 'L', 'AA1', 'Z', 'AH0']}
+{'pools': ['P', 'UW1', 'L', 'Z'], 'plies': ['P', 'L', 'AY1', 'Z']}
+{'players': ['P', 'L', 'EY1', 'ER0', 'Z'], 'plaza': ['P', 'L', 'AA1', 'Z', 'AH0']}
+{'players': ['P', 'L', 'EY1', 'ER0', 'Z'], 'plies': ['P', 'L', 'AY1', 'Z']}
+{'players': ['P', 'L', 'EY1', 'ER0', 'Z'], 'pools': ['P', 'UW1', 'L', 'Z']}
+{"pell's": ['P', 'EH1', 'L', 'Z'], 'plaza': ['P', 'L', 'AA1', 'Z', 'AH0']}
+{"pell's": ['P', 'EH1', 'L', 'Z'], 'plies': ['P', 'L', 'AY1', 'Z']}
+{"pell's": ['P', 'EH1', 'L', 'Z'], 'pools': ['P', 'UW1', 'L', 'Z']}
+{"pell's": ['P', 'EH1', 'L', 'Z'], 'players': ['P', 'L', 'EY1', 'ER0', 'Z']}
+{'krum': ['K', 'R', 'AH1', 'M'], 'cormier': ['K', 'AO1', 'R', 'M', 'IY0', 'ER0']}
+{'krum': ['K', 'R', 'AH1', 'M'], 'krammer': ['K', 'R', 'AE1', 'M', 'ER0']}
+{'kairamo': ['K', 'EH2', 'R', 'AA1', 'M', 'OW0'], 'cormier': ['K', 'AO1', 'R', 'M', 'IY0', 'ER0']}
+{'kairamo': ['K', 'EH2', 'R', 'AA1', 'M', 'OW0'], 'krammer': ['K', 'R', 'AE1', 'M', 'ER0']}
+{'kairamo': ['K', 'EH2', 'R', 'AA1', 'M', 'OW0'], 'krum': ['K', 'R', 'AH1', 'M']}
+{'crummy': ['K', 'R', 'AH1', 'M', 'IY0'], 'krammer': ['K', 'R', 'AE1', 'M', 'ER0']}
+{'crummy': ['K', 'R', 'AH1', 'M', 'IY0'], 'kairamo': ['K', 'EH2', 'R', 'AA1', 'M', 'OW0']}
+{'mousley': ['M', 'AW1', 'S', 'L', 'IY0'], 'meisler(1)': ['M', 'AY1', 'S', 'L', 'ER0']}
+{'meisler': ['M', 'AY1', 'S', 'AH0', 'L', 'ER0'], 'mousley': ['M', 'AW1', 'S', 'L', 'IY0']}
+{'maisel': ['M', 'AY1', 'S', 'AH0', 'L'], 'mousley': ['M', 'AW1', 'S', 'L', 'IY0']}
+{'maisel': ['M', 'AY1', 'S', 'AH0', 'L'], 'messerli': ['M', 'EH1', 'S', 'ER0', 'L', 'IY0']}
+{'marceau': ['M', 'AA0', 'R', 'S', 'OW1'], 'morris': ['M', 'AO1', 'R', 'AH0', 'S']}
+{'marceau': ['M', 'AA0', 'R', 'S', 'OW1'], "morris'": ['M', 'AO1', 'R', 'AH0', 'S']}
+{'marceau': ['M', 'AA0', 'R', 'S', 'OW1'], 'meris': ['M', 'EH1', 'R', 'AH0', 'S']}
+{'marcy': ['M', 'AA1', 'R', 'S', 'IY0'], 'morris': ['M', 'AO1', 'R', 'AH0', 'S']}
+{'marcy': ['M', 'AA1', 'R', 'S', 'IY0'], "morris'": ['M', 'AO1', 'R', 'AH0', 'S']}
+{'marcy': ['M', 'AA1', 'R', 'S', 'IY0'], 'meris': ['M', 'EH1', 'R', 'AH0', 'S']}
+{'marcy': ['M', 'AA1', 'R', 'S', 'IY0'], 'marceau': ['M', 'AA0', 'R', 'S', 'OW1']}
+{'dirhams': ['D', 'ER1', 'AH0', 'M', 'Z'], 'demise': ['D', 'IH0', 'M', 'AY1', 'Z']}
+{'dimmers': ['D', 'IH1', 'M', 'ER0', 'Z'], 'demise': ['D', 'IH0', 'M', 'AY1', 'Z']}
+{'dimmers': ['D', 'IH1', 'M', 'ER0', 'Z'], 'dirhams': ['D', 'ER1', 'AH0', 'M', 'Z']}
+{'gonser': ['G', 'AA1', 'N', 'S', 'ER0'], 'gurnsey': ['G', 'ER1', 'N', 'S', 'IY0']}
+{'prosody': ['P', 'R', 'AA1', 'S', 'AH0', 'D', 'IY0'], 'precede': ['P', 'R', 'IH0', 'S', 'IY1', 'D']}
+{'prasad': ['P', 'R', 'AE1', 'S', 'AA0', 'D'], 'precede': ['P', 'R', 'IH0', 'S', 'IY1', 'D']}
+{'prasad': ['P', 'R', 'AE1', 'S', 'AA0', 'D'], 'prosody': ['P', 'R', 'AA1', 'S', 'AH0', 'D', 'IY0']}
+{'rains': ['R', 'EY1', 'N', 'Z'], 'runners': ['R', 'AH1', 'N', 'ER0', 'Z']}
+{"irene's": ['AY2', 'R', 'IY1', 'N', 'Z'], 'runners': ['R', 'AH1', 'N', 'ER0', 'Z']}
+{"irene's": ['AY2', 'R', 'IY1', 'N', 'Z'], 'rains': ['R', 'EY1', 'N', 'Z']}
+{'aarons': ['EH1', 'R', 'AH0', 'N', 'Z'], 'runners': ['R', 'AH1', 'N', 'ER0', 'Z']}
+{'aarons': ['EH1', 'R', 'AH0', 'N', 'Z'], 'rains': ['R', 'EY1', 'N', 'Z']}
+{'aarons': ['EH1', 'R', 'AH0', 'N', 'Z'], "irene's": ['AY2', 'R', 'IY1', 'N', 'Z']}
+{'ironies': ['AY1', 'R', 'AH0', 'N', 'IY0', 'Z'], 'runners': ['R', 'AH1', 'N', 'ER0', 'Z']}
+{'ironies': ['AY1', 'R', 'AH0', 'N', 'IY0', 'Z'], 'rains': ['R', 'EY1', 'N', 'Z']}
+{'ironies': ['AY1', 'R', 'AH0', 'N', 'IY0', 'Z'], "irene's": ['AY2', 'R', 'IY1', 'N', 'Z']}
+{'schwam': ['SH', 'W', 'AO1', 'M'], 'schwemm': ['SH', 'W', 'EH1', 'M']}
+{'mendel': ['M', 'EH1', 'N', 'D', 'AH0', 'L'], 'mondale': ['M', 'AA1', 'N', 'D', 'EY2', 'L']}
+{'mendola': ['M', 'EH0', 'N', 'D', 'OW1', 'L', 'AH0'], 'mondale': ['M', 'AA1', 'N', 'D', 'EY2', 'L']}
+{'amendola': ['AA0', 'M', 'EH0', 'N', 'D', 'OW1', 'L', 'AH0'], 'mondale': ['M', 'AA1', 'N', 'D', 'EY2', 'L']}
+{'mondallo': ['M', 'AA0', 'N', 'D', 'AE1', 'L', 'OW0'], 'mondale': ['M', 'AA1', 'N', 'D', 'EY2', 'L']}
+{'mondallo': ['M', 'AA0', 'N', 'D', 'AE1', 'L', 'OW0'], 'mendel': ['M', 'EH1', 'N', 'D', 'AH0', 'L']}
+{'mondallo': ['M', 'AA0', 'N', 'D', 'AE1', 'L', 'OW0'], 'mendola': ['M', 'EH0', 'N', 'D', 'OW1', 'L', 'AH0']}
+{'nighter': ['N', 'AY1', 'T', 'ER0'], 'annuit': ['AH0', 'N', 'UW1', 'IH0', 'T']}
+{'auntie(1)': ['AO1', 'N', 'T', 'IY0'], 'annuit': ['AH0', 'N', 'UW1', 'IH0', 'T']}
+{'auntie(1)': ['AO1', 'N', 'T', 'IY0'], 'nighter': ['N', 'AY1', 'T', 'ER0']}
+{'nauert': ['N', 'AW1', 'ER0', 'T'], 'annuit': ['AH0', 'N', 'UW1', 'IH0', 'T']}
+{'nauert': ['N', 'AW1', 'ER0', 'T'], 'auntie(1)': ['AO1', 'N', 'T', 'IY0']}
+{'knot': ['N', 'AA1', 'T'], 'annuit': ['AH0', 'N', 'UW1', 'IH0', 'T']}
+{'knot': ['N', 'AA1', 'T'], 'nighter': ['N', 'AY1', 'T', 'ER0']}
+{'knot': ['N', 'AA1', 'T'], 'auntie(1)': ['AO1', 'N', 'T', 'IY0']}
+{'knot': ['N', 'AA1', 'T'], 'nauert': ['N', 'AW1', 'ER0', 'T']}
+{'galles': ['G', 'EY1', 'L', 'Z'], "girls'": ['G', 'ER1', 'L', 'Z']}
+{"gallo's": ['G', 'AE1', 'L', 'OW0', 'Z'], "girls'": ['G', 'ER1', 'L', 'Z']}
+{"gallo's": ['G', 'AE1', 'L', 'OW0', 'Z'], 'galles': ['G', 'EY1', 'L', 'Z']}
+{'guerrillas': ['G', 'ER0', 'IH1', 'L', 'AH0', 'Z'], "girls'": ['G', 'ER1', 'L', 'Z']}
+{'guerrillas': ['G', 'ER0', 'IH1', 'L', 'AH0', 'Z'], 'galles': ['G', 'EY1', 'L', 'Z']}
+{'guerrillas': ['G', 'ER0', 'IH1', 'L', 'AH0', 'Z'], "gallo's": ['G', 'AE1', 'L', 'OW0', 'Z']}
+{'inlaid': ['IH1', 'N', 'L', 'EY2', 'D'], 'nelda': ['N', 'EH1', 'L', 'D', 'AH0']}
+{"answer's": ['AE1', 'N', 'S', 'ER0', 'Z'], "nurses'": ['N', 'ER1', 'S', 'AH0', 'Z']}
+{'gelvin': ['G', 'EH1', 'L', 'V', 'IH0', 'N'], 'glavine(1)': ['G', 'L', 'AE0', 'V', 'IY1', 'N']}
+{'galvin': ['G', 'AE1', 'L', 'V', 'IH0', 'N'], 'glavine(1)': ['G', 'L', 'AE0', 'V', 'IY1', 'N']}
+{"poppy's": ['P', 'AA1', 'P', 'IY0', 'Z'], 'poopers': ['P', 'UW1', 'P', 'ER0', 'Z']}
+{"poppy's": ['P', 'AA1', 'P', 'IY0', 'Z'], 'pipers': ['P', 'AY1', 'P', 'ER0', 'Z']}
+{'f.': ['EH1', 'F'], 'ofer': ['OW1', 'F', 'ER0']}
+{'effy': ['EH1', 'F', 'IY0'], 'ofer': ['OW1', 'F', 'ER0']}
+{'fye': ['F', 'AY1'], 'ofer': ['OW1', 'F', 'ER0']}
+{'fye': ['F', 'AY1'], 'f.': ['EH1', 'F']}
+{'fye': ['F', 'AY1'], 'effy': ['EH1', 'F', 'IY0']}
+{'furrier': ['F', 'ER1', 'IY0', 'ER0'], 'f.': ['EH1', 'F']}
+{'furrier': ['F', 'ER1', 'IY0', 'ER0'], 'fye': ['F', 'AY1']}
+{'melbourne(1)': ['M', 'EH1', 'L', 'B', 'AO0', 'N'], 'marylebone': ['M', 'ER1', 'L', 'AH0', 'B', 'OW0', 'N']}
+{'melbourne': ['M', 'EH1', 'L', 'B', 'ER0', 'N'], 'marylebone': ['M', 'ER1', 'L', 'AH0', 'B', 'OW0', 'N']}
+{'mittal': ['M', 'IH2', 'T', 'AA1', 'L'], 'mottola': ['M', 'OW0', 'T', 'OW1', 'L', 'AH0']}
+{'ellis': ['EH1', 'L', 'IH0', 'S'], 'lacer': ['L', 'EY1', 'S', 'ER0']}
+{'louse': ['L', 'AW1', 'S'], 'lacer': ['L', 'EY1', 'S', 'ER0']}
+{'louse': ['L', 'AW1', 'S'], 'ellis': ['EH1', 'L', 'IH0', 'S']}
+{'ilse': ['IH1', 'L', 'S'], 'lacer': ['L', 'EY1', 'S', 'ER0']}
+{'ilse': ['IH1', 'L', 'S'], 'ellis': ['EH1', 'L', 'IH0', 'S']}
+{'ilse': ['IH1', 'L', 'S'], 'louse': ['L', 'AW1', 'S']}
+{'leece': ['L', 'IY1', 'S'], 'lacer': ['L', 'EY1', 'S', 'ER0']}
+{'leece': ['L', 'IY1', 'S'], 'ellis': ['EH1', 'L', 'IH0', 'S']}
+{'leece': ['L', 'IY1', 'S'], 'louse': ['L', 'AW1', 'S']}
+{'leece': ['L', 'IY1', 'S'], 'ilse': ['IH1', 'L', 'S']}
+{'reset(1)': ['R', 'IY1', 'S', 'EH0', 'T'], 'erased': ['IH0', 'R', 'EY1', 'S', 'T']}
+{'rooster': ['R', 'UW1', 'S', 'T', 'ER0'], 'erased': ['IH0', 'R', 'EY1', 'S', 'T']}
+{'rooster': ['R', 'UW1', 'S', 'T', 'ER0'], 'reset(1)': ['R', 'IY1', 'S', 'EH0', 'T']}
+{'raster': ['R', 'AE1', 'S', 'T', 'ER0'], 'erased': ['IH0', 'R', 'EY1', 'S', 'T']}
+{'raster': ['R', 'AE1', 'S', 'T', 'ER0'], 'reset(1)': ['R', 'IY1', 'S', 'EH0', 'T']}
+{'russet': ['R', 'AH1', 'S', 'IH0', 'T'], 'reset(1)': ['R', 'IY1', 'S', 'EH0', 'T']}
+{'russet': ['R', 'AH1', 'S', 'IH0', 'T'], 'rooster': ['R', 'UW1', 'S', 'T', 'ER0']}
+{'russet': ['R', 'AH1', 'S', 'IH0', 'T'], 'raster': ['R', 'AE1', 'S', 'T', 'ER0']}
+{'bardo': ['B', 'AA1', 'R', 'D', 'OW0'], 'bread': ['B', 'R', 'EH1', 'D']}
+{'broader': ['B', 'R', 'AO1', 'D', 'ER0'], 'bread': ['B', 'R', 'EH1', 'D']}
+{'broader': ['B', 'R', 'AO1', 'D', 'ER0'], 'bardo': ['B', 'AA1', 'R', 'D', 'OW0']}
+{'briody': ['B', 'R', 'AY1', 'AH0', 'D', 'IY0'], 'bread': ['B', 'R', 'EH1', 'D']}
+{'briody': ['B', 'R', 'AY1', 'AH0', 'D', 'IY0'], 'bardo': ['B', 'AA1', 'R', 'D', 'OW0']}
+{'briody': ['B', 'R', 'AY1', 'AH0', 'D', 'IY0'], 'broader': ['B', 'R', 'AO1', 'D', 'ER0']}
+{'bourdeau': ['B', 'UH0', 'R', 'D', 'OW1'], 'bread': ['B', 'R', 'EH1', 'D']}
+{'bourdeau': ['B', 'UH0', 'R', 'D', 'OW1'], 'bardo': ['B', 'AA1', 'R', 'D', 'OW0']}
+{'bourdeau': ['B', 'UH0', 'R', 'D', 'OW1'], 'broader': ['B', 'R', 'AO1', 'D', 'ER0']}
+{'bourdeau': ['B', 'UH0', 'R', 'D', 'OW1'], 'briody': ['B', 'R', 'AY1', 'AH0', 'D', 'IY0']}
+{'stettler': ['S', 'T', 'EH1', 'T', 'L', 'ER0'], 'stately': ['S', 'T', 'EY1', 'T', 'L', 'IY0']}
+{'dao': ['D', 'AW1'], "i'd": ['AY1', 'D']}
+{'dough': ['D', 'OW1'], "i'd": ['AY1', 'D']}
+{'dough': ['D', 'OW1'], 'dao': ['D', 'AW1']}
+{'ode': ['OW1', 'D'], "i'd": ['AY1', 'D']}
+{'ode': ['OW1', 'D'], 'dao': ['D', 'AW1']}
+{'daye': ['D', 'EY1'], "i'd": ['AY1', 'D']}
+{'daye': ['D', 'EY1'], 'dao': ['D', 'AW1']}
+{'daye': ['D', 'EY1'], 'dough': ['D', 'OW1']}
+{'daye': ['D', 'EY1'], 'ode': ['OW1', 'D']}
+{'dumais': ['D', 'AH0', 'M', 'EY1'], 'dom': ['D', 'AA1', 'M']}
+{'dimeo': ['D', 'IY1', 'M', 'IY0', 'OW2'], 'dom': ['D', 'AA1', 'M']}
+{'dimeo': ['D', 'IY1', 'M', 'IY0', 'OW2'], 'dumais': ['D', 'AH0', 'M', 'EY1']}
+{'dommie': ['D', 'AA1', 'M', 'IY0'], 'dumais': ['D', 'AH0', 'M', 'EY1']}
+{'dummer': ['D', 'AH1', 'M', 'ER0'], 'dom': ['D', 'AA1', 'M']}
+{'dummer': ['D', 'AH1', 'M', 'ER0'], 'dumais': ['D', 'AH0', 'M', 'EY1']}
+{'dummer': ['D', 'AH1', 'M', 'ER0'], 'dimeo': ['D', 'IY1', 'M', 'IY0', 'OW2']}
+{'dummer': ['D', 'AH1', 'M', 'ER0'], 'dommie': ['D', 'AA1', 'M', 'IY0']}
+{'guillotte': ['G', 'IH0', 'L', 'AO1', 'T'], 'glatt': ['G', 'L', 'AE1', 'T']}
+{'galioto': ['G', 'AA0', 'L', 'IY0', 'OW1', 'T', 'OW0'], 'glatt': ['G', 'L', 'AE1', 'T']}
+{'galioto': ['G', 'AA0', 'L', 'IY0', 'OW1', 'T', 'OW0'], 'guillotte': ['G', 'IH0', 'L', 'AO1', 'T']}
+{'billowing': ['B', 'IH1', 'L', 'OW0', 'IH0', 'NG'], 'oblong': ['AA1', 'B', 'L', 'AO0', 'NG']}
+{'bologna(1)': ['B', 'AH0', 'L', 'OW1', 'NG', 'AA2'], 'oblong': ['AA1', 'B', 'L', 'AO0', 'NG']}
+{'bologna(1)': ['B', 'AH0', 'L', 'OW1', 'NG', 'AA2'], 'billowing': ['B', 'IH1', 'L', 'OW0', 'IH0', 'NG']}
+{'billing': ['B', 'IH1', 'L', 'IH0', 'NG'], 'oblong': ['AA1', 'B', 'L', 'AO0', 'NG']}
+{'billing': ['B', 'IH1', 'L', 'IH0', 'NG'], 'bologna(1)': ['B', 'AH0', 'L', 'OW1', 'NG', 'AA2']}
+{'bowling': ['B', 'OW1', 'L', 'IH0', 'NG'], 'oblong': ['AA1', 'B', 'L', 'AO0', 'NG']}
+{'casto': ['K', 'AE1', 'S', 'T', 'OW0'], 'excite': ['IH0', 'K', 'S', 'AY1', 'T']}
+{'cosette': ['K', 'AH0', 'S', 'EH1', 'T'], 'cassetty': ['K', 'AE1', 'S', 'IH0', 'T', 'IY0']}
+{'cosette': ['K', 'AH0', 'S', 'EH1', 'T'], 'excite': ['IH0', 'K', 'S', 'AY1', 'T']}
+{'cosette': ['K', 'AH0', 'S', 'EH1', 'T'], 'casto': ['K', 'AE1', 'S', 'T', 'OW0']}
