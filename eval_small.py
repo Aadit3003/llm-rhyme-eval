@@ -20,7 +20,6 @@ OUTPUT_PATH = "output/english"
 NON_RHYME_PATH = "data/english/test/non.txt"
 
 
-
 def llama_generate(prompt, model, tokenizer):
     DEV = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     inputs = tokenizer.encode(prompt, return_tensors="pt").to(DEV)
@@ -57,7 +56,7 @@ def text_generate(model_family, prompt, model, tokenizer):
 
 def evaluate(model, tokenizer, rhyme_type, prompt_type, model_family):
 
-    first_n = 500
+    first_n = 5
 
     input_file = f"{DATA_PATH}/{rhyme_type}.txt"
     output_file = f"{OUTPUT_PATH}/{model_family}/{prompt_type}/{rhyme_type}.txt"
@@ -107,16 +106,14 @@ def evaluate(model, tokenizer, rhyme_type, prompt_type, model_family):
             pred = 0
 
         preds.append(pred)
-        # print("PROMPT: ")
-        # print(prompt)
-        # print()
-        # print("ANSWER: ")
-        # print(ans)
-        # print()
-        # print("_______________________________________________________")
+        print("PROMPT: ")
+        print(prompt)
+        print()
+        print("ANSWER: ")
+        print(ans)
+        print()
+        print("_______________________________________________________")
         answer_strings.append(f"{word1}, {word2}, Gold: {golds[i]}, Pred: {pred} || {answer}")
-        if i%100 == 0:
-            print(f"    {i} DONE!!")
         i += 1
 
     file_write_strings(output_file, answer_strings)

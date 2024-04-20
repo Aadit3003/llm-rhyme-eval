@@ -1,0 +1,321 @@
+LOADING THE ENVIRONMENT
+Starting
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words show assonance? bot-cop <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ 
+Token will not been saved to git credential helper. Pass `add_to_git_credential=True` if you want to set the git credential as well.
+Token is valid (permission: write).
+Your token has been saved to /home/aaditd/.cache/huggingface/token
+Login successful
+(1, 0, 0, 0, 0, 0, 1, 1, 1, 1)
+[('gisclair', 'prepare'), ('enix', 'jammer'), ('postdating', 'noakes'), ('gemmer', 'petrilli'), ('acid', 'schiller'), ('eichner', 'rossin'), ('courville', 'drill'), ('klich', 'tritch'), ('unaware', 'blair'), ('freels', 'beales')]
+     Came Here
+PROMPT: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words form a perfect rhyme? gisclair-prepare <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ 
+
+ANSWER: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words form a perfect rhyme? gisclair-prepare <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+  Glockenspiel, Glockenspieler
+<|end_of_text|>
+
+_______________________________________________________
+     Came Here
+PROMPT: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words form a perfect rhyme? enix-jammer <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ 
+
+ANSWER: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words form a perfect rhyme? enix-jammer <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ ্ব্রিস টোরিান্ডাই
+<|end_of_text|>
+
+_______________________________________________________
+     Came Here
+PROMPT: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words form a perfect rhyme? postdating-noakes <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ 
+
+ANSWER: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words form a perfect rhyme? postdating-noakes <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ <|end_of_text|>
+
+_______________________________________________________
+     Came Here
+PROMPT: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words form a perfect rhyme? gemmer-petrilli <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ 
+
+ANSWER: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words form a perfect rhyme? gemmer-petrilli <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+  Glockenspiel is the German name for musical instruments in which metal bars tuned to different pitches vibrate when struck with small wooden mallets. The instrument's modern version, called glockenlycht or "lightning" by its inventor, was invented around 1500 A.D., though earlier versions were likely used as early as medieval times.
+<|end_of_text|>
+
+_______________________________________________________
+     Came Here
+PROMPT: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words form a perfect rhyme? acid-schiller <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ 
+
+ANSWER: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words form a perfect rhyme? acid-schiller <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ <|end_of_text|>
+
+_______________________________________________________
+     Came Here
+PROMPT: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words form a perfect rhyme? eichner-rossin <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ 
+
+ANSWER: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words form a perfect rhyme? eichner-rossin <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+  Glockenbaum
+<|end_of_text|>
+
+_______________________________________________________
+     Came Here
+PROMPT: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words form a perfect rhyme? courville-drill <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ 
+
+ANSWER: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words form a perfect rhyme? courville-drill <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ <|end_of_text|>
+
+_______________________________________________________
+     Came Here
+PROMPT: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words form a perfect rhyme? klich-tritch <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ 
+
+ANSWER: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words form a perfect rhyme? klich-tritch <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ <|end_of_text|>
+
+_______________________________________________________
+     Came Here
+PROMPT: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words form a perfect rhyme? unaware-blair <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ 
+
+ANSWER: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words form a perfect rhyme? unaware-blair <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+  Glockenspiel: Glockenspieler
+ Glockenpiele, glocke-spiele.
+ Gock-En-Speil!<|end_of_text|>
+
+_______________________________________________________
+     Came Here
+PROMPT: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words form a perfect rhyme? freels-beales <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ 
+
+ANSWER: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words form a perfect rhyme? freels-beales <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+  Glockenspiel Glocken Glockenspieler Glockenschlag Gockel
+<|end_of_text|>
+
+_______________________________________________________
+Non yes/no happened 10 times!
+RHYME TYPE: singlePerfect | PROMPT TYPE: title | F-1 Score: 0.0
+DONE GURL!!
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words show assonance? bot-cop <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ 
+Token will not been saved to git credential helper. Pass `add_to_git_credential=True` if you want to set the git credential as well.
+Token is valid (permission: write).
+Your token has been saved to /home/aaditd/.cache/huggingface/token
+Login successful
+(1, 1, 1, 0, 0, 0, 1, 1, 0, 0)
+[('unaware', 'blair'), ('gisclair', 'prepare'), ('klich', 'tritch'), ('postdating', 'zeal'), ('schul', 'gertner'), ('aquino', 'jamb'), ('courville', 'drill'), ('freels', 'beales'), ('aickin', 'brun'), ('seder', 'hymen')]
+     Came Here
+PROMPT: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds? unaware-blair <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ 
+
+ANSWER: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds? unaware-blair <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ <|end_of_text|>
+
+_______________________________________________________
+     Came Here
+PROMPT: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds? gisclair-prepare <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ 
+
+ANSWER: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds? gisclair-prepare <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ <|end_of_text|>
+
+_______________________________________________________
+     Came Here
+PROMPT: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds? klich-tritch <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ 
+
+ANSWER: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds? klich-tritch <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ <|end_of_text|>
+
+_______________________________________________________
+     Came Here
+PROMPT: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds? postdating-zeal <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ 
+
+ANSWER: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds? postdating-zeal <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ <|end_of_text|>
+
+_______________________________________________________
+     Came Here
+PROMPT: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds? schul-gertner <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ 
+
+ANSWER: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds? schul-gertner <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ <|end_of_text|>
+
+_______________________________________________________
+     Came Here
+PROMPT: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds? aquino-jamb <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ 
+
+ANSWER: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds? aquino-jamb <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ <|end_of_text|>
+
+_______________________________________________________
+     Came Here
+PROMPT: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds? courville-drill <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ 
+
+ANSWER: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds? courville-drill <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ 1) In your opinion, is the word "courville" rhyming with or not-rhyming with another English language word that ends in "-drilling"?  
+ Courvilledrills
+2) Please explain why you think this way.
+3) If they do/don't rhyme (as per question #1), what other English-language word(s) would make good matches for them?
+4) How confident are you of being correct about all four answers above (i.e.,
+
+_______________________________________________________
+     Came Here
+PROMPT: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds? freels-beales <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ 
+
+ANSWER: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds? freels-beales <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ <|end_of_text|>
+
+_______________________________________________________
+     Came Here
+PROMPT: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds? aickin-brun <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ 
+
+ANSWER: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds? aickin-brun <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ <|end_of_text|>
+
+_______________________________________________________
+     Came Here
+PROMPT: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds? seder-hymen <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ 
+
+ANSWER: 
+<|begin_of_text|><|start_header_id|>system<|end_header_id|> 
+ You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> 
+ Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds? seder-hymen <|eot_id|><|start_header_id|>assistant<|end_header_id|> 
+ <|end_of_text|>
+
+_______________________________________________________
+Non yes/no happened 10 times!
+RHYME TYPE: singlePerfect | PROMPT TYPE: description | F-1 Score: 0.0
+DONE GURL!!
+SINGLE PERFECT DONE!!
+ALL DONE!!

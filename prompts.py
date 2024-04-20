@@ -8,14 +8,14 @@ MODEL_NAMES = {
 
 SYSTEM_START_PROMPTS = {
     "llama2": "<s>[INST] <<SYS>> You are a helpful assistant. Always give a Yes/No answer and justify it. <</SYS>> ",
-    "llama3": "<s>[INST] <<SYS>> You are a helpful assistant. Always give a Yes/No answer and justify it. <</SYS>> ",
+    "llama3": """<|begin_of_text|><|start_header_id|>system<|end_header_id|> \n You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|eot_id|><|start_header_id|>user<|end_header_id|> \n """,
     "crystal": "<s> <|sys_start|> You are an AI assistant. You will be given a task. You must generate a Yes/No answer and justify it. <|sys_end|> <|im_start|> ",
     "olmo": "banana"
 }
 
 SYSTEM_PROMPT_ENDINGS = {
     "llama2": " [/INST]",
-    "llama3": " [/INST]",
+    "llama3": " <|eot_id|><|start_header_id|>assistant<|end_header_id|> \n ",
     "crystal": " <|im_end|>",
     "olmo": "banana"
 
@@ -23,7 +23,7 @@ SYSTEM_PROMPT_ENDINGS = {
 
 RHYME_PROMPTS = {
         "title":{ # Title
-            "singlePerfect": "Do these words rhyme form a perfect rhyme? ",
+            "singlePerfect": "Do these words form a perfect rhyme? ",
             "doublePerfect": "Do these words form a perfect rhyme? ",
             "assonance": "Do these words show assonance? ",
             "consonance": "Do these words show consonance? ",
@@ -53,11 +53,31 @@ def get_prompt(model_family, prompt_type, rhyme_type, word1, word2):
 
     return prompt
 
-def clean_answer(answer, prompt):
-    answer = answer.replace("  ", " ")
-    answer = answer.replace("  ", " ")
-    answer = answer.removeprefix(prompt)
+def clean_answer(model_family, answer, prompt):
+
+    if model_family == "crystal":
+        answer = answer.replace("  ", " ")
+        answer = answer.replace("  ", " ")
+        answer = answer.removeprefix(prompt)
+        return answer.strip()
+
+    if model_family in ["llama2", "llama3"]:
+        # print("CLEANUP!")
+        prompt = prompt.replace("<s>", " ")
+        answer = answer.replace("<s><s> ", " ")
+        answer = answer.removeprefix(prompt)
+        return answer.strip()
+    
+    raise Exception("Didn't edit!!!!")
+
 
     return answer
 
-# print(get_prompt(model_family, prompt_type, rhyme_type, word1, word2))
+# P = """<s>[INST] <<SYS>> You are a helpful assistant. Always give a Yes/No answer and justify it. <</SYS>> Do these words form a perfect rhyme? seader-jammu [/INST]"""
+# A = """<s><s> [INST] <<SYS>> You are a helpful assistant. Always give a Yes/No answer and justify it. <</SYS>> Do these words form a perfect rhyme? seader-jammu [/INST]  No, the words "seeder" and "Jammu" do not form a perfect rhyme. A perfect rhyme is when two words have the same ending sound, such as "cat / hat." While "seeder" ends in -der and "Jammu" ends in -ju, they do not share the same final sound, so they do not rhyme perfectly.</s>"""
+
+# print(clean_answer(model_family="llama2", 
+#              answer=A,
+#              prompt=P))
+
+print(get_prompt("llama3", "title", "assonance", "bot", "cop"))

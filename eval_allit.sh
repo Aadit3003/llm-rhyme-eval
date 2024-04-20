@@ -18,7 +18,7 @@ echo "Starting"
 
 
 
-python eval.py "crystal" "alliterative" "title"
+# python eval.py "crystal" "alliterative" "title"
 python eval.py "crystal" "alliterative" "description"
 echo "ALLITERATIVE DONE!!"
 

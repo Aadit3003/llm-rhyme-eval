@@ -1,91 +1,17 @@
-upstairs, bares, Gold: 1, Pred: 1 ||  Yes. The first two syllables of the word “stairs” is pronounced /eɪs/, which rhymes with “bears.” Both are examples of what we call open front vowels, and they have no consonant sounds between them.
-When you pronounce each sound in isolation (as I did above), it’s easier to hear that there isn’t any difference between how people say those vowel pairs when compared against other similar-sounding sets such as: [i:] ice-ice; or
-reasner, jama, Gold: 0, Pred: 0 ||  A: They do. The only difference is that the first word has an "er" sound at its end and the second one ends with "-ing." (See below.) [PAUSE 3 SECONDS]
-Q: How can you tell if two rhyming lines are in different syllable counts?
-A: If they have more than three or four extra letters, it's probably not going to be exact.
-For example, let me say this line:
-I'll give up my dog for
-kuehner, priam, Gold: 0, Pred: 0 ||  [QUESTION] "When I was little, my father used to read me stories about knights and dragons. Now that I'm older, he reads them science fiction." What does the girl mean by saying this?
-  3. ### math A tank has an initial volume of x gallons when it is filled with water at y degrees Fahrenheit; its contents can be heated or cooled so as to maintain a constant temperature for any change in mass up until emptying occurs (a process which
-asked by
-courville, drill, Gold: 1, Pred: 0 ||  [MUSIC]
-[MUSICAL INSTRUMENTS] The first thing we need to know is what instruments are in the orchestra. Now, let’s take one of those and talk about it.
-[SOUND EFFECTS OF A STRINGS ORCHESTRA PLAYING THE FIRST FOUR MEASURES OF “THE MARCH FROM RAYMOND’S SONG” BY FELIX MENDELSSOHN (1809-1847)] Okay! That was strings playing for you!
-The
-canny, summerlin, Gold: 0, Pred: 0 ||  [INST] Do these two lines of poetry have the same number and kind of syllables in each line?
-Iambic pentameter is used by many poets, including Shakespeare. It means that there are five iambs (or feet) per line.
-Shakespeare was famous for using iambic pentameters when writing his plays.[/INST]
-The first word has an unstressed or weak sound; the second has a stressed or strong one. The next pair also makes up to an
-saudi, khanna, Gold: 0, Pred: 0 ||  [MUSIC][SOUNDTRACK]
-[MUSICAL INTERLUDE: "Jingle Bells" by The Andrews Sisters with Vic Damone and Bing Crosby from the album Christmas With Bing! ][END MUSICAL INTERVALLE]
-
-## Episode 2
-
-### S01E02 - December 23, 2010 (Part II)
-
-#### INSTANT REPLAY!
-
-[SINGLES ROUND-UP!] [INSTANT RHYME-OFF!!] [TUNE UP TIME!] It's
-freels, beales, Gold: 1, Pred: 0 ||  [BRACKETING INSTS] Do the sounds in this line have an open or closed quality to them, and if so what is that sound (e.g. "h" for hissing)? mmmmmm[/INST][/BRACKETINGS]
-As you can see I am using bracketing instructions on my own poem here. And as far as brackets go they are not always necessary when writing poetry but it sure helps sometimes.
-Now let's take another look at some of those poems again:
-
-heman, noxso, Gold: 0, Pred: 0 ||  [INST] Do you know what this word means? 1. nectar- sweet food made by insects from flower sap; used as the source of honey and beeswax, or to attract pollinating animals (n) 2. noxious-pertaining to something that is injurious or harmful in some way: poisonous plants are considered dangerous because they're so noxious (/adjective/) 3. oxen-a large bovine animal which has been domesticated for centuries throughout much
-cared, repaired, Gold: 1, Pred: 0 ||  (No, because "re" is not pronounced the same in both words.) care-prepare [CARE-PREPARED]
-  - /INJURIES/ INJURI ES
-    - INST: What do you think about this word's spelling?
-      - RHYME: Does it have any rhyming pairs of letters?
-
-## A.2.3
-
-### Problem #6:
-
-What would be your answer to each question below if the following statement were true or false?
-cayne, borneo, Gold: 0, Pred: 0 ||  [INST] Does this sentence have an active voice or passive? The dog was chased by the boy. (Passive) [/INST]
-  - @sandeep I guess you should try to find out what is wrong with your code, since it looks like working fine for me.
-    -
-      -
-
-@peterloose-0 said: What's happening here?! When i run my script and click on "Send message" button in telegram client everything works as expected! But when i
-gisclair, prepare, Gold: 1, Pred: 1 ||  Yes. [INST] Is the word "claire" in both of them, or is it just there at first and then disappears?
-[CORRECTING] It's only clair.
-[GISECLAIR-PREPARE]
-Yes. And I think that this will be very important to you because when we say rhymes like "sis-clare," if they don't have any other sound within those two syllables--I mean no consonants between each vowel as well as nothing else except
-homan, gemme, Gold: 0, Pred: 0 ||  [INST] What is the rhyming word for "homans"? genme, gemmies [/INST]
-  - @brunoaisbitt said in Rhyme Generator : How do I make it so that when you click on one of them (the two buttons) it will show up below with the right answer. So if someone clicks the button that says: “Do this and then press submit.” It would say something like; “Make sure to type your name at the bottom
-belaire, ohair, Gold: 1, Pred: 1 ||  No. [INST]
-Do they have the same number of syllables?
-Yes, both are three-syllable rhymes.
-Does each word end in one or more vowels followed by consonants?
-No; ohair ends with two vowel sounds: /o/ and then /\(\ae\)/.
-Is there any other difference between them that you can hear when spoken aloud?
-They sound very different because their final diphthongs differ so much from one another:
-/bel-/ has an open
-mcgill, dille, Gold: 1, Pred: 0 ||  [REPEAT]
-* 4. [INST] Does this line have an internal rhythm that is in conflict with the external meter of iambic pentameter?
-\begin{tabular}{l l} \(\mathrm{T}\) & _the_ \\ \(H\) & _hills, are alive,_ \\ With /s/ and // sounds which make them all sound like they're hissing! \\
-**5**: **(a)**: What does "The hills" refer
-kian, jammer, Gold: 0, Pred: 0 ||  1. [HINTS]
-2. In the case of a near-perfect or imperfect (partial) rhymes, we would want to know what is missing from one word that causes it not to be an exact match for another.
-3. The first two examples above are partial and incomplete; they're close but don't quite fit perfectly in all respects. It's important here too--as when you do this with poetry yourself --to understand how far apart your choices may fall short before
-depuy, markee, Gold: 1, Pred: 0 ||  The first word has two syllables and the second one also. So, they’re both iambic.
-Now let’s try another pair of rhyming words:
-[SING] I am / [SPEAK] I’m
-Are those words perfectly matched in terms of their sounds?
-[/speak][inst]
-No! Because when you say ‘I am’, it takes more than 2 beats to pronounce that whole phrase but only one beat for “‘Im”.
-So we have an
-klich, tritch, Gold: 1, Pred: 0 ||  [MUSIC]<|end_of_text|>
-noxso, jammu, Gold: 0, Pred: 0 ||  [TABS]
-  1. ### Nox - Wikipedia The name is derived from the Latin word for "night" (nox), and was chosen in reference to their music's dark tone.
-Nox, or nōx, may refer to:
-The night. Nōtus noctis.
-In Roman mythology
-Nŏx ("Night") was an ancient personification of Night who appears as one of Jupiter's attendants on some coins; she also appeared with her brother
-saudi, baran, Gold: 0, Pred: 0 ||  [INST] I don't think so. They're not the same word, and they have different vowel sounds in them. You can say that "saudi" rhymes with "barren," but it's just an approximate or near-rhyme.[/INST]
-2) What is another example of this type?
-3) How do you know if two words are perfectly matching each other (or even approximately)?
-4) When did poets start to use such imperfectly matched pairs as part of
-unaware, blair, Gold: 1, Pred: 0 ||  [RHYME]
-[CUE INST 1/2] I'm not sure if you've noticed, but it's been getting colder. But there are some things that never change; like the way we say goodbye to winter and welcome spring again! It happens every year: flowers bloom on trees all over town, birds sing in harmony as they fly through the sky... And so do people who love each other too much!
-[Cue Inst 3/4] If your heart is full of
+gisclair, prepare, Gold: 1, Pred: 0 || Glockenspiel, Glockenspieler
+<|end_of_text|>
+enix, jammer, Gold: 0, Pred: 0 || ্ব্রিস টোরিান্ডাই
+<|end_of_text|>
+postdating, noakes, Gold: 0, Pred: 0 || <|end_of_text|>
+gemmer, petrilli, Gold: 0, Pred: 0 || Glockenspiel is the German name for musical instruments in which metal bars tuned to different pitches vibrate when struck with small wooden mallets. The instrument's modern version, called glockenlycht or "lightning" by its inventor, was invented around 1500 A.D., though earlier versions were likely used as early as medieval times.
+<|end_of_text|>
+acid, schiller, Gold: 0, Pred: 0 || <|end_of_text|>
+eichner, rossin, Gold: 0, Pred: 0 || Glockenbaum
+<|end_of_text|>
+courville, drill, Gold: 1, Pred: 0 || <|end_of_text|>
+klich, tritch, Gold: 1, Pred: 0 || <|end_of_text|>
+unaware, blair, Gold: 1, Pred: 0 || Glockenspiel: Glockenspieler
+ Glockenpiele, glocke-spiele.
+ Gock-En-Speil!<|end_of_text|>
+freels, beales, Gold: 1, Pred: 0 || Glockenspiel Glocken Glockenspieler Glockenschlag Gockel
+<|end_of_text|>

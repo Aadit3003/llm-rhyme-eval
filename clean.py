@@ -59,15 +59,15 @@ def main():
     a = 0
 
 
-if __name__ == "__main__":
-    # clean_file("try.txt")
-    path = "/home/aaditd/3_Rhyming/llm-rhyme/data/english/test/"
-    test_files = os.listdir(path)
-    # test_files = [t fo t in test_files if t != "singlePerfect.txt"]
-    print(test_files)
+# if __name__ == "__main__":
+#     # clean_file("try.txt")
+#     path = "/home/aaditd/3_Rhyming/llm-rhyme/data/english/test/"
+#     test_files = os.listdir(path)
+#     # test_files = [t fo t in test_files if t != "singlePerfect.txt"]
+#     print(test_files)
 
-    for file in test_files:
-        writeclean_file(path + file)
+#     for file in test_files:
+#         write_clean_file(path + file)
 
 
 

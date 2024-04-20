@@ -18,7 +18,7 @@ echo "Starting"
 
 
 
-python eval.py "crystal" "consonance" "title"
+# python eval.py "crystal" "consonance" "title"
 python eval.py "crystal" "consonance" "description"
 echo "CONSONANCE DONE!!"
 

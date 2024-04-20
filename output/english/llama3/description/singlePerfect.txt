@@ -1,125 +1,14 @@
-freels, beales, Gold: 1, Pred: 0 ||  [STUDY GUIDE]
-3) The sound of a word is represented in phonetic symbols called _phonemes_. Phoneme, from Greek: 'element', was coined (1908-9) to refer to the smallest units that distinguish one speech-sound or syllable from another.
-4) A graphone may represent more than one phone e.g., \(<\)g\(>\), which represents either /d/ as in _egg_ OR /\(\beta\)/as in _
-rosten, brun, Gold: 0, Pred: 1 ||  Yes, they do.[/INST][INST] What is the relationship between them?[INST][/INST]
-The two words are homophones.
-They sound alike but mean something very different: roten means rotten (decayed), brunn means well or spring in German.
-In English pronunciation it's easy to confuse similar-sounding words like this - especially if you don't know how each word should be spelled!
-So when writing down what someone says make sure that you check your spelling carefully before moving
-unaware, blair, Gold: 1, Pred: 0 ||  (no) [INST] Are the last two syllables of each word stressed in turn, with a break between them?
-[/INST]
-* * *
-The following examples are from _Singing to Learn_ 1-3.
-**Example A**
-\begin{tabular}{|l|l l|}
-8 & **Aim:** & To develop your ability to sing \\ \hline
-9 & **Materials needed:*** & Pencil/paper; voice recorder/CD player \\
-10
-connor, brawny, Gold: 0, Pred: 1 ||  (yes) [INST]
-Do the following pairs of words sound alike when they are said out loud?
-[past tense "was" vs present-tense verb "is"] was-is
-[noun, "bush", past participle "-ed"-ing-ed
-[adjective,-er -est-ly er-ily est-ely[/INST](no)
-[determiners,"a","an"/"the"]
-[a/an-the/a an/the a-an the-a/ann-the a-n
-ocon, brun, Gold: 0, Pred: 1 ||  No, they don't.
-What is the difference between a noun phrase (NP) or NP structure?
-[NP STRUCTURE]
-A Noun Phrase consists of two parts: an article and its corresponding adjective(s). The first word in each pair below shows how to use articles correctly when writing sentences:
-a/an/this/these/the
-The dog bit me yesterday afternoon while walking my friend's German Shepherd named "Buddy."
-Nouns can also be used as verbs; however, only some nouns
-seder, gemma, Gold: 0, Pred: 0 ||  [INST] For example: ‘day’ rhymes with ‘say’, but not with ‘bake’.[/INST]
-    -![](https://2.gravatar.com/avatar/24ee673de88d3b72ddf377ed68a155dd?s=32&d=identicon&r=G) I’m going to post a reply, which is very much this comment except more polite. In the first of my three examples above (for N=4), it doesn’t matter
-gisclair, prepare, Gold: 1, Pred: 0 ||  Does this word sound like the one before it, but with a slight difference in meaning or pronunciation (e.g., 'giggle'/'juggle')?
-* [RHYME] Are there two rhyming syllables at the end of each line?[SOUND REPETITION]
-Are all the letters pronounced separately from their neighbours within every pair of lines?
-[SILENT LETTERING]
-Does any letter not get its own separate phoneme e.g.'s', which is heard as
-kuhne, primeaux, Gold: 0, Pred: 0 ||  (1) A rhyming word is one whose sound ends in the same letter or letters as another.
-(2) The term "rhyme" may also refer to a type of meter, usually based on syllables rather than stressed-unstressed pairs. Rhymes are used differently among languages: some use them more often for poetic purposes; others less frequently but with greater effect when they do occur.[/INST]
-In English we call this device alliteration because it involves repeating initial
-What
-cared, repaired, Gold: 1, Pred: 0 ||  Does the word end in -ed, or do you hear a change of sound when it is spoken?
-The first part has 2 rhyming syllables: /kɑːd/ (care) + /ri-pjərd/
-In the second example there are two separate words with no rime at all.
-I am not sure if I understand your question correctly but:
-Do those words share some ending letters that appear to be pronounced differently while they aren't actually so
-
-mcgill, dille, Gold: 1, Pred: 1 ||  Yes, they do.
-* [Q1-2][INSTR] What is the first letter of each word?
-[mcgill-dile]
-[A1-A2][RESPONDENT 4] m-c-g-i-l
-d-e-l-a-y-m-n-t-o-r
-c-h-u-f-f-s-k-p-b-w-x-z-q-j-v-
-n-s-t-c-a-i-f-h-r-e-I-m-n-t-
-b-t-v-e-d-y-e-d-a-[END
-depuy, markee, Gold: 1, Pred: 0 ||  What is the difference between a noun, verb or adjective?
-The word "noun" means anything that names something e.g. man.
-A pronoun replaces nouns in speech: he; she etc
-An adverb modifies verbs/adj/adjs/nouns - they tell you how (quickly), where (here) when(too late).
-Adjectives describe nouns & are always preceded with an article [a/an/the].
-Verbs show action, state of being - to be/do/have/in
-courville, drill, Gold: 1, Pred: 0 ||  How many syllables are there in this word?
-**EXERCISE 2**
-This exercise is designed to test your ability to pronounce French correctly.
-Read the following sentences aloud, pronouncing each as you would expect a native speaker of English or German (or whatever language) speaking fluent French with an accent typical for his/her mother tongue:
-1. Je suis fatiguee de ce travail
-I am tired from that work [fatigued]
-You will notice how easy it can be sometimes even if
-zaley, prom, Gold: 0, Pred: 0 ||  [INST] How many syllables are there in this word?
-[/INST]
-2. A child's pronunciation of a given English phoneme is described as: [SPEECH-SOUND-DETAILED] /t/ or /d/. What does the 'or' mean here?
-
-1.
-a) The answer to both questions should be "no"
-b)
-c)
-
-2.
-
-## 6.5 Speech sound production
-
-### Learning outcomes:
-
-• Understand that speech organs work together
-
-ikon, summerlin, Gold: 0, Pred: 0 ||  [INRST] The first word rhymes with the second, but not so much as to be mistaken for it.[/INRST]
-*[[http://www.merriam-webster.com/dictionary/rhyme]] Rhyming dictionary from Meriam Webster
-+ * [[Rhymoid]]
-== References == + = ==
-− <div style="background-color: #F8F9FA; border-radius : 10px ; padding-left :20 px;"> + {{
-klich, tritch, Gold: 1, Pred: 0 ||  Does this sentence make sense in English (or the target language)? I'm a big fan of yours.[/INST]
-In addition to all that, it's good practice for you as well - your listening skills will improve!
-I think one thing we can do is start with the first word or two on each line, then see if there are any mistakes before going through the whole poem.
-Do they sound like real sentences?
-Is the spelling correct according to our rules here at BYJU'S
-
-ken, jamb, Gold: 0, Pred: 0 ||  If you want to know more about how we do this, see our [LINK]/pages/how-we-do-it/[/LINK].<|end_of_text|>
-upstairs, bares, Gold: 1, Pred: 0 ||  Does the first word in a pair of rhyming words begin with one or more silent letters (a, e, h)?staircase-are[/SILENT] Are all four vowels pronounced as short sounds - /i/,/u/, //e//?(All other pairs are exceptions.)trouser-louse
-The most common spelling pattern is that which follows this rule:
-1) The two syllables do not share an initial letter.
-2) One sound occurs at both
-belaire, ohair, Gold: 1, Pred: 0 ||  [END]
-/inst/
-1) A word that is pronounced identically to another but differs in meaning, origin or spelling.
-2) In phonology, the use of a sound as both an onset (initial segment) within one syllable while being coda (final segment) from other
-3) The initial part of any sequence
-4) An instruction for some action; especially used with imperative verbs like "say", "do" etc., e.g.: say this sentence aloud!
-5
-rossin, brion, Gold: 0, Pred: 0 ||  [A1][INST] How many of the following pairs are rhyming (have same sound) in English: cat – bat, hat - mat, fat- sat[/INST][/A1]
-[A2][INST] What is a synonym for “a lot”?[INST][/A2]
-
-## Answer 3
-
-### Question #3.
-
-[A1][INST] Choose from this list only one word which has no other synonyms.[/INST][/A1]
-
-
-Answer:
-miserable
-postdating, cannery, Gold: 0, Pred: 0 ||  [RHYME] The last syllable of post-dating is the same as that in cannery.[/RHYME]
-How to spell CANNERY correctly?
-We think so! Now look up Cannery
-Previous articleCANNED-FIREWORKS Next articleCAPTAIN-OF-THE-GUARD<|end_of_text|>
+unaware, blair, Gold: 1, Pred: 0 || <|end_of_text|>
+gisclair, prepare, Gold: 1, Pred: 0 || <|end_of_text|>
+klich, tritch, Gold: 1, Pred: 0 || <|end_of_text|>
+postdating, zeal, Gold: 0, Pred: 0 || <|end_of_text|>
+schul, gertner, Gold: 0, Pred: 0 || <|end_of_text|>
+aquino, jamb, Gold: 0, Pred: 0 || <|end_of_text|>
+courville, drill, Gold: 1, Pred: 0 || 1) In your opinion, is the word "courville" rhyming with or not-rhyming with another English language word that ends in "-drilling"?  
+ Courvilledrills
+2) Please explain why you think this way.
+3) If they do/don't rhyme (as per question #1), what other English-language word(s) would make good matches for them?
+4) How confident are you of being correct about all four answers above (i.e.,
+freels, beales, Gold: 1, Pred: 0 || <|end_of_text|>
+aickin, brun, Gold: 0, Pred: 0 || <|end_of_text|>
+seder, hymen, Gold: 0, Pred: 0 || <|end_of_text|>

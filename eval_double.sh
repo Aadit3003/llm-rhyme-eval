@@ -18,7 +18,7 @@ echo "Starting"
 
 
 
-python eval.py "crystal" "doublePerfect" "title"
+# python eval.py "crystal" "doublePerfect" "title"
 python eval.py "crystal" "doublePerfect" "description"
 echo "DOUBLE PERFECT DONE!!"
 
