@@ -4,6 +4,7 @@ import numpy as np
 import re
 import os
 import random
+from clean import write_clean_file, file_read_strings
 # random.seed(2)
 
 # ARPABET Constants
@@ -86,38 +87,6 @@ SUFFIX_MAP = {
 
 
 # UTILITY FUNCTIONS
-def file_read_strings(path):
-    """
-    Read a file into a list of strings. If the file cannot be
-    read, print an error message and return an empty list.
-    """
-    try:
-        f = open (path, 'rb')
-        contents = f.read().decode("latin-").splitlines()
-        f.close ()
-        return contents
-    except Exception as e:
-        print(f'Error: Cannot read {path}\n    {str(e)}')
-        return None
-
-
-def file_write_strings(path, lst):
-    """
-    Write a list of strings (or things that can be converted to
-    strings) to a file. If the file cannot be written, print an
-    error message.
-
-    path: A file path
-    lst: A list of strings or things that can be converted to strings.
-    """
-    try:
-        f = open (path, 'w')
-        for l in lst:
-            f.write(str(l) + '\n')
-    except Exception as e:
-        print(f'Error: Cannot write {path}\n    {str(e)}')
-        return None
-
 def populate_Dictionary(file):
     """
     Returns a dictionary of the form:-
@@ -194,7 +163,6 @@ def lenSymbolOverlap(consSet1, consSet2):
     # print(f"")
     return len(overlap)
 
-
 def findPrimaryStressedSyllable(vc):
     i = 0
     onset = None
@@ -225,7 +193,6 @@ def findPrimaryStressedSyllable(vc):
     
     return (onset, remaining, type)
 
-
 def findLastSyllable(vc):
 
     categories = ''.join([type for vowel, type in vc])
@@ -241,7 +208,6 @@ def findLastSyllable(vc):
 
 
 # RHYME FUNCTIONS
-
 
 def singlePerfectPairs(suffixes, outerLimit = 300, comparisonLimit = 300, lengthLimit = 500):
     """
@@ -266,7 +232,7 @@ def singlePerfectPairs(suffixes, outerLimit = 300, comparisonLimit = 300, length
     # print(words_list)
     for i in range(n):
         current_word = candidate_words[i]
-        remaining_words = candidate_words[0:i] + candidate_words[i+1:]
+        remaining_words = candidate_words[0:i]
         random.shuffle(remaining_words)
 
         j = 0
@@ -285,8 +251,9 @@ def singlePerfectPairs(suffixes, outerLimit = 300, comparisonLimit = 300, length
                             {current_word: PRON_DICTIONARY[current_word], 
                                 other_word:PRON_DICTIONARY[other_word]})
                         
-                        if len(single_perfect_pairs) > lengthLimit:
-                            return single_perfect_pairs
+                        if len(single_perfect_pairs) > 5 * lengthLimit:
+                            random.shuffle(single_perfect_pairs)
+                            return single_perfect_pairs[:lengthLimit]
 
 
             j += 1
@@ -296,16 +263,15 @@ def singlePerfectPairs(suffixes, outerLimit = 300, comparisonLimit = 300, length
         if i > outerLimit: break
 
 
+    random.shuffle(single_perfect_pairs)
+    return single_perfect_pairs[:lengthLimit]
 
-    return single_perfect_pairs
-
-def doublePerfectPairs(suffixes, outerLimit = 100, comparisonLimit = 100, lengthLimit = 500):
+def doublePerfectPairs(suffixes, outerLimit = 100, comparisonLimit = 100, lengthLimit = 1000):
     """
     outerLimit: Max Number of words (ending in this suffix) to consider as "current word!"
     comparisonLimit: Max number of other words to compare to the current word
     lengthLimit: Desired no. of single perfect pairs!
     """
-    single_perfect_pairs = []
     double_perfect_pairs = []
 
     candidate_words = []
@@ -323,7 +289,7 @@ def doublePerfectPairs(suffixes, outerLimit = 100, comparisonLimit = 100, length
     # print(words_list)
     for i in range(n):
         current_word = candidate_words[i]
-        remaining_words = candidate_words[0:i] + candidate_words[i+1:]
+        remaining_words = candidate_words[0:i] 
         random.shuffle(remaining_words)
 
         j = 0
@@ -342,8 +308,9 @@ def doublePerfectPairs(suffixes, outerLimit = 100, comparisonLimit = 100, length
                             {current_word: PRON_DICTIONARY[current_word], 
                                 other_word:PRON_DICTIONARY[other_word]})
 
-                        if len(double_perfect_pairs) > lengthLimit:
-                            return double_perfect_pairs
+                        if len(double_perfect_pairs) > 5 * lengthLimit:
+                            random.shuffle(double_perfect_pairs)
+                            return double_perfect_pairs[:lengthLimit]
 
 
             j += 1
@@ -351,61 +318,8 @@ def doublePerfectPairs(suffixes, outerLimit = 100, comparisonLimit = 100, length
         
         if i > outerLimit: break
 
-    return double_perfect_pairs
-
-# Old, deprecated
-def imperfectPairs(suffixes, outerLimit = 1000, comparisonLimit = 1000, lengthLimit = 500):
-    """
-    outerLimit: Max Number of words (ending in this suffix) to consider as "current word!"
-    comparisonLimit: Max number of other words to compare to the current word
-    lengthLimit: Desired no. of single perfect pairs!
-    """
-
-    imperfect_pairs = []
-
-    candidate_words = []
-
-    if type(suffixes) == 'str':
-        candidate_words = findWords(suffixes)
-    else:
-        for suffix in suffixes:
-            candidate_words.extend(findWords(suffix))
-    n = len(candidate_words)
-    print(f"Found {n} words ending with \"{suffixes}\"")
-
-    random.shuffle(candidate_words)
-
-    # print(words_list)
-    for i in range(n):
-        current_word = candidate_words[i]
-        remaining_words = candidate_words[0:i] + candidate_words[i+1:]
-        random.shuffle(remaining_words)
-
-        j = 0
-        for other_word in remaining_words:
-            vc_current, _, _ = getVowelsConsonants(current_word)
-            vc_other, _, _ = getVowelsConsonants(other_word)
-
-            nucleus_current, coda_current = findLastSyllable(vc_current)
-            nucleus_other, coda_other = findLastSyllable(vc_other)
-
-
-            if coda_current[1:] == coda_other[1:] and nucleus_current[1] != nucleus_other[1]:
-                    imperfect_pairs.append(
-                            {current_word: PRON_DICTIONARY[current_word], 
-                                other_word:PRON_DICTIONARY[other_word]})
-
-                    if len(imperfect_pairs) > lengthLimit:
-                            return imperfect_pairs
-
-
-            j += 1
-            if j > comparisonLimit: break
-        
-        if i > outerLimit: break
-
-    return imperfect_pairs
-    
+    random.shuffle(double_perfect_pairs)
+    return double_perfect_pairs[:lengthLimit]
 
 def assonancePairs(innerLimit = 5, outerLimit = 1000):
     """
@@ -691,77 +605,51 @@ def main():
     
     SPP_SOLUTION_WRITE_LIST = []
     DPP_SOLUTION_WRITE_LIST = []
-    IPP_SOLUTION_WRITE_LIST = []
-    ASS_SOLUTION_WRITE_LIST = []
-    CONS_SOLUTION_WRITE_LIST = []
-    ALL_SOLUTION_WRITE_LIST = []
-    NON_SOLUTION_WRITE_LIST = []
 
-    SPP_TEST_LIST, DPP_TEST_LIST, ASS_TEST_LIST, CONS_TEST_LIST, IPP_TEST_LIST = [], [], [], [], []
-    ALL_TEST_LIST = []
-    NON_TEST_LIST = []
+    SUFFIXES = ["ing", ["sion", "tion"], ["ence", "ance"], 'acy', \
+                'al', 'dom', ['er', 'or'], 'ism', 'ist', ['ity', 'ty'], \
+                'ment', 'ness', 'ship', 'ure', ['ery', 'ary'], 'age', ['ant', 'ent'], \
+                ['air', 'are'], ['eel', 'ill', 'eal', 'ial'], ['ch', 'tch'], \
+                'op', 'ept', 'ed', 'ect', 'ept']
 
-    SUFFIXES = ["ing", ["sion", "tion"], ["ence", "ance"], 'acy', 'al', 'dom', ['er', 'or'], 'ism', 'ist', ['ity', 'ty'], 'ment', 'ness', 'ship', 'ure']
+    random.shuffle(SUFFIXES)
+    for suffix in SUFFIXES:
+        if suffix in [['air', 'are'],'op', 'ept', 'ed', 'ect', 'ept', ['eel', 'ill', 'eal', 'ial']]:
+            lim = 500
+        else:
+            lim = 200
+        # spp = singlePerfectPairs(suffix, lim, lim, 1000)
+        # dpp = doublePerfectPairs(suffix, 500, 500, 1000)
 
+        # SPP_SOLUTION_WRITE_LIST.extend(spp)
+        # DPP_SOLUTION_WRITE_LIST.extend(dpp)
 
-    # for suffix in SUFFIXES:
-    #     # spp, dpp = PerfectPairs(suffix)
-    #     spp = singlePerfectPairs(suffix)
-    #     ipp = imperfectPairs(suffix)
+    # write_clean_file("data/english/solutions/singlePerfect.txt", 
+                     "data/english/test/singlePerfect.txt",
+                     SPP_SOLUTION_WRITE_LIST)
+    
+    # write_clean_file("data/english/solutions/doublePerfect.txt", 
+    #                  "data/english/test/doublePerfect.txt",
+    #                  DPP_SOLUTION_WRITE_LIST)
 
-    #     SPP_SOLUTION_WRITE_LIST.extend(spp)
-    #     # DPP_SOLUTION_WRITE_LIST.extend(dpp)
-    #     IPP_SOLUTION_WRITE_LIST.extend(ipp)
-
-    #     SPP_TEST_LIST.extend([' '.join(list(s.keys())) for s in spp])
-    #     # DPP_TEST_LIST.extend([' '.join(list(d.keys())) for d in dpp])
-    #     IPP_TEST_LIST.extend([' '.join(list(i.keys())) for i in ipp])
-
-    # file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/solutions/singlePerfect.txt", SPP_SOLUTION_WRITE_LIST)
-    # file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/solutions/doublePerfect.txt", DPP_SOLUTION_WRITE_LIST)
-    # file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/solutions/imperfect.txt", IPP_SOLUTION_WRITE_LIST)
-
-    # file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/test/singlePerfect.txt", SPP_TEST_LIST)
-    # file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/test/doublePerfect.txt", DPP_TEST_LIST)
-    # file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/test/imperfect.txt", IPP_TEST_LIST)
-
-    # print()
-    # print(f"{len(SPP_TEST_LIST)}, Single Perfect pairs")
-    # print(f"{len(DPP_TEST_LIST)}, Double Perfect pairs")
-    # print(f"{len(IPP_TEST_LIST)}, Imerfect pairs")
-
-    # Write Assonance and Consonance Pairs!
     # ass, cons = SlantPairs()
-
-    # ASS_SOLUTION_WRITE_LIST = ass
-    # ASS_TEST_LIST = [' '.join(list(a.keys())) for a in ass]
-    # CONS_SOLUTION_WRITE_LIST = cons
-    # CONS_TEST_LIST = [' '.join(list(c.keys())) for c in cons]
-
-    # file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/solutions/assonance.txt", ASS_SOLUTION_WRITE_LIST)
-    # file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/test/assonance.txt", ASS_TEST_LIST)
-    # file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/solutions/consonance.txt", CONS_SOLUTION_WRITE_LIST)
-    # file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/test/consonance.txt", CONS_TEST_LIST)
+    # write_clean_file("data/english/solutions/assonance.txt",
+    #                  "data/english/test/assonance.txt",
+    #                  ass)
+    
+    # write_clean_file("data/english/solutions/consonance.txt",
+    #                  "data/english/test/consonance.txt",
+    #                  cons)
 
     # allit = alliterativePairs(1000)
+    # write_clean_file("data/english/solutions/alliterative.txt",
+    #                  "data/english/test/alliterative.txt",
+    #                  allit)
 
-    # ALL_SOLUTION_WRITE_LIST = allit
-    # ALL_TEST_LIST = [' '.join(list(a.keys())) for a in allit]
-
-    # file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/solutions/alliterative.txt", ALL_SOLUTION_WRITE_LIST)
-    # file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/test/alliterative.txt", ALL_TEST_LIST)
-
-    nons = nonRhymingPairs(100, 20, 5000)
-    NON_SOLUTION_WRITE_LIST = nons
-    NON_TEST_LIST = [' '.join(list(n.keys())) for n in nons]
-
-    file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/solutions/non.txt", NON_SOLUTION_WRITE_LIST)
-    file_write_strings("/home/aaditd/3_Rhyming/llm-rhyme/data/english/test/non.txt", NON_TEST_LIST)
-
-
-
-
-    
+    # nons = nonRhymingPairs(100, 20, 5000)
+    # write_clean_file("data/english/solutions/non.txt",
+    #                  "data/english/test/non.txt",
+    #                  nons)
 
     print("DONE!!")
 
