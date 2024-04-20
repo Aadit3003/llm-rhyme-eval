@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name=assonance
-#SBATCH --output=logs/assonance.out
-#SBATCH --error=logs/assonance.err
+#SBATCH --output=logs/crystal/assonance.out
+#SBATCH --error=logs/crystal/assonance.err
 #SBATCH --partition=general
 #SBATCH --nodes=1
 #SBATCH --gres=gpu:A6000:1
@@ -18,8 +18,8 @@ echo "Starting"
 
 
 
-python eval.py "assonance" "title"
-python eval.py "assonance" "description"
+python eval.py "crystal" "assonance" "title"
+python eval.py "crystal" "assonance" "description"
 echo "ASSONANCE DONE!!"
 
 

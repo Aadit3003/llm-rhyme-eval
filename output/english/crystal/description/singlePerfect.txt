@@ -1,0 +1,28 @@
+depuy, markee, Gold: 1, Pred: 1 ||  Yes, the words "depuy-markee" rhyme because they share the same vowel and consonant sounds at the end.</s>
+belaire, ohair, Gold: 1, Pred: 1 ||  Yes, the words "belaire" and "ohair" rhyme because they both follow this pattern: different consonants (bel and oh), identical vowel sound (ae - ae in both), and identical consonant sound (re).</s>
+courville, drill, Gold: 1, Pred: 1 ||  Yes, the words "courville" and "drill" rhyme. They both have similar consonant and vowel sounds at the end, which results in a rhyming pattern.</s>
+freels, beales, Gold: 1, Pred: 0 ||  No, the words "freels" and "beales" do not rhyme because they do not have the same consonant and vowel sounds in their final consonant position. "Freels" ends with the consonant sound /f/, while "beales" ends with the consonant sound /z/. These two consonant sounds are different, disrupting the rhyme scheme.</s>
+hyman, necaise, Gold: 0, Pred: 1 ||  Yes, the words "hyman" and "necaise" rhyme, as they have the same vowel sound "ee" but different consonant sounds "hh" and "k" respectively.</s>
+o'shell, bruney, Gold: 0, Pred: 1 ||  Yes, the words "o'shell-bruney" rhyme. They both follow the pattern of having a single consonant sound at the beginning (o'shell-bruney), followed by identical vowel and consonant sounds (both end with "ey").</s>
+incase, castings, Gold: 0, Pred: 1 ||  Yes, the words "incase-castings" do rhyme, because they share a common sound pattern at the end (e.g., "ase" and "ings"). In this case, the word "in" and "ca" sound similar, and the "se" at the end are identical. So, the two words share the same rhyme.</s>
+unaware, blair, Gold: 1, Pred: 1 ||  Yes, the words "unaware-blair" rhyme as both have identical vowel and consonant sounds:
+- "unaware" and "blair" both end in a long "a" sound, followed by similar consonant sounds.</s>
+gummi, necks, Gold: 0, Pred: 1 ||  Yes, the words "gummi-necks" rhyme because they share the same pattern of identical vowel and consonant sounds at the end of each word, although the ending consonants are different: "gummi" and "necks."</s>
+schaal, hymen, Gold: 0, Pred: 1 ||  Yes, the words schaal-hymen do rhyme because they have different consonants followed by identical vowel and consonant sounds. The consonants in each word are 'ch' and 'y,' which produce the same sound, and the vowels ('ä') and consonants ('al') are the same, making them a rhyming pair.</s>
+gisclair, prepare, Gold: 1, Pred: 1 ||  Yes, the words "gisclair" and "prepare" rhyme. Both words have the same pattern of having the same consonant sequence followed by the identical vowel sound of 'a' and 'r'. The only difference is that the first word has a slightly altered pronunciation due to the 'i' sound at the beginning, which is not a significant enough change to break the rhyme.</s>
+cared, repaired, Gold: 1, Pred: 1 ||  Yes
+
+These words, "cared" and "repaired," do rhyme because they follow the pattern of having different consonants followed by identical vowel and consonant sounds. The rhyme scheme is an example of consonance or a near rhyme.</s>
+cano, braner, Gold: 0, Pred: 1 ||  Yes, those two words "cano-braner" rhyme. They have the same consonants: "an-o" and "bran-er". Additionally, the only vowel sound they have in common is "o" and they both end with the same consonant sound "-er."</s>
+ireson, jemmie, Gold: 0, Pred: 1 ||  Yes, both of these words rhyme as they share the same vowel and consonant sounds following different consonants:
+
+- "ireson" rhymes with "emerge"
+- "jemmie" rhymes with "gloomie"
+
+The difference in the consonant sounds at the beginning of each word determines the rhyme.</s>
+klich, tritch, Gold: 1, Pred: 1 ||  Yes, the words "klich-tritch" do rhyme, as they both have the same vowel sound sequence (i.e., the /ik/ and /tr/ sounds). However, they do not fit the traditional definition of rhyme, as the final consonant of each word is different ("ch" vs. "ch"), but this is not a requirement for "internal" rhyme.</s>
+kain, jammu, Gold: 0, Pred: 1 ||  Yes, the words "kain" and "jammu" do rhyme, as they have the same pattern of identical vowel and consonant sounds.</s>
+egerton, borneo, Gold: 0, Pred: 1 ||  Yes, both words "egerton" and "borneo" rhyme as they share the same pattern of identical vowel and consonant sounds at the end of the word. This is known as a 'consonantal rhyme.'</s>
+mcgill, dille, Gold: 1, Pred: 1 ||  Yes, the words "mcgill-dille" indeed rhyme, as they have different consonants but the same vowel and consonant sounds.</s>
+side, castings, Gold: 0, Pred: 1 ||  Yes, these words rhyme because they have identical vowel and consonant sounds at the end - "side" and "castings".</s>
+upstairs, bares, Gold: 1, Pred: 1 ||  Yes, the words "upstairs" and "bares" do rhyme because they have the same vowel and consonant sounds but the consonant sounds are different between the two words.</s>

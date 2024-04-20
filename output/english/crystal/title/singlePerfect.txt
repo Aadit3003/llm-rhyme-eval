@@ -1,0 +1,43 @@
+unaware, blair, Gold: 1, Pred: 1 ||  Yes, "unaware" and "blair" form a perfect rhyme.
+
+In poetry, two words rhyme if their ending sounds are identical and agree with each other. In this case, both words have the syllable structure "ooh" (unaware) and "air" (blair), so the ending sounds are identical and agree with each other. Hence, they form a perfect rhyme.</s>
+lacaze, brion, Gold: 0, Pred: 1 ||  Yes, "lacaze-brion" forms a perfect rhyme.
+
+The words "lacaze" and "brion" together rhyme, making them a perfect rhyme when spoken separately or together. A perfect rhyme is considered a harmonious match that makes the ears feel comfortable upon hearing the matching words.</s>
+lockers, knacks, Gold: 0, Pred: 0 ||  No, these words do not form a perfect rhyme.
+
+Justification:
+'Perfect rhyme' refers to a pair of words that rhyme in exactly the same way, such as in the word "cat" and "mat". While 'lockers' and 'knacks' do share the common pattern of /l/ and /k/, they do not rhyme completely as the ending 'er' and 'acks' is different hence they do not present a perfect audible match and hence are considered to not rhyme perfectly.</s>
+freels, beales, Gold: 1, Pred: 1 ||  Yes, the words "freels" and "beales" form a perfect rhyme, as they both end in the syllable -ls.</s>
+petrilla, noxso, Gold: 0, Pred: 0 ||  No, the words "petrilla-noxso" do not form a perfect rhyme. 
+
+Justification:
+
+In poetry, a perfect rhyme occurs when the meaning of the last word in one line matches the first word in the next line, and the pronunciation of the last vowel in each line is exactly the same. "Petrilla" and "noxso" are nouns with different meanings: "petrilla" refers to an enameled pot for serving liquids, and "noxso" is not a known word. The pronunciation of these nouns does not match when read in a repetitive manner, and thus do not form a perfect rhyme.</s>
+mcgill, dille, Gold: 1, Pred: 1 ||  Yes</s>
+game, guyton, Gold: 0, Pred: 1 ||  Yes, "game-guyton" rhymes together. 
+
+Justification: On analyzing the phonetic segments of the words, one can see that the 'a' sound in the first word "game" matches the 'u' sound in the second word "guyton." So, they rhyme with each other. Even though the second word doesn't consist of the exact same phoneme as the first, the pronunciation is still compatible.</s>
+shaul, incase, Gold: 0, Pred: 0 ||  No, these words do not rhyme. The word pair "shaul-incase" does not form a perfect or blending rhyme, as they have different syllable and rhyme structures.</s>
+gisclair, prepare, Gold: 1, Pred: 1 ||  Yes, the words "gisclair" and "prepare" do form a perfect rhyme, as they both end in the vowel sound /aɪ/ and the same consonant sound /r/.</s>
+souder, rosene, Gold: 0, Pred: 0 ||  No, these words do not form a perfect rhyme. They rhyme because of the 'oo' sound in "souder" and "rosene", but they do not rhyme exactly the same way as they are not pronounced the same and not from the same class (Front vowel -unstressed) in the phonetic structure, which is required for a perfect rhyme.</s>
+belaire, ohair, Gold: 1, Pred: 1 ||  Yes, the words "belaire" and "ohair" do form a perfect rhyme.
+
+Justification:
+
+Rhyme is typically defined as a similarity in the sounds of words, either at the end of the words or in internal syllables. In this case, both words share the exact same sound sequence - /beɪ.lɛər/ and /o.hɛər/, respectively - especially when considering pronunciation. This is often referred to as a perfect or full rhyme.</s>
+depuy, markee, Gold: 1, Pred: 0 ||  No, these words do not form a perfect rhyme.
+
+A perfect rhyme occurs when two words have the exact same vowel sounds, syllable structure, and final consonant sound. In the given words, "depuy-markee", the final vowel sounds are different - /juː/ (pronounced "joo") in the first word and /maːki/ (pronounced "mah-kee") in the second. Therefore, the words do not have a perfect rhyme.</s>
+homeowner, castings, Gold: 0, Pred: 1 ||  Yes, these words form a perfectly matching end rhyme. Both "homeowner" and "castings" have the same vowel sound as well as the same final consonant.</s>
+kuhn, brony, Gold: 0, Pred: 0 ||  No, these words do not rhyme. The words "kuhn" and "brony" are not a perfect rhyme. A perfect rhyme occurs when the last or ending sounds of two words match with each other such as 'cat' and 'hat' or 'night' and 'site'. In the case of "kuhn-brony", "kuhn" and "brony" do not match with each other in terms of ending sound and therefore, they do not create a perfect rhyme.</s>
+courville, drill, Gold: 1, Pred: 0 ||  No, these words do not form a perfect rhyme. A perfect rhyme is when the two words have the same exact vowel sounds and the same exact consonant sounds at the ends of the words. In this case, the closest rhyme might be "orville-dirr" or "urville-bill." However, neither of these is a perfect rhyme.</s>
+shula, jammer, Gold: 0, Pred: 0 ||  No, these words do not rhyme and do not form a perfect rhyme.
+
+"Shula" and "jammer" are two different sounds and do not have the same vowel sounds or consonant sounds in a way that would create a rhyming relationship. In this case, the only pairing resembling a rhyme is the -ula ending, which may not be considered a true rhyme, but rather a slang or colloquial use of this term.</s>
+gomer, rossin, Gold: 0, Pred: 0 ||  No, the words "gomer" and "rossin" do not rhyme, as they are a homograph and not a homophone. Gomer refers to a short form of a name, specifically "Gerald." Rossin is a surname originating from France. The pair does not share a common pronunciation, making them non-rhyming words.</s>
+upstairs, bares, Gold: 1, Pred: 1 ||  Yes, the words "upstairs" and "bares" form a perfect rhyme, as they share the same ending sound. In this case, both words end with the sound /ɛːz/.</s>
+klich, tritch, Gold: 1, Pred: 1 ||  Yes, the words "klich-tritch" form a perfect, or strict, rhyme. This means that the ending (/-ich) is identical in both words and cannot be read or pronounced any other way. In this case, each word ends in an "ic" sound, and the two words share both the spelling and pronunciation.</s>
+cared, repaired, Gold: 1, Pred: 1 ||  Yes, the words "cared" and "repaired" do form a perfect rhyme. 
+
+A perfect rhyme happens when the vowels at the end of the last syllable of one word sound exactly the same as the vowels in the last syllable of another word. In this case, both words end with the vowel sound of /ɛə/, which qualifies as a perfect rhyme.</s>

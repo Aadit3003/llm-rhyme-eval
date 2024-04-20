@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name=double
-#SBATCH --output=logs/double.out
-#SBATCH --error=logs/double.err
+#SBATCH --output=logs/crystal/double.out
+#SBATCH --error=logs/crystal/double.err
 #SBATCH --partition=general
 #SBATCH --nodes=1
 #SBATCH --gres=gpu:A6000:1
@@ -18,8 +18,8 @@ echo "Starting"
 
 
 
-python eval.py "doublePerfect" "title"
-python eval.py "doublePerfect" "description"
+python eval.py "crystal" "doublePerfect" "title"
+python eval.py "crystal" "doublePerfect" "description"
 echo "DOUBLE PERFECT DONE!!"
 
 

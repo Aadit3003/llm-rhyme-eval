@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name=consonance
-#SBATCH --output=logs/consonance.out
-#SBATCH --error=logs/consonance.err
+#SBATCH --output=logs/crystal/consonance.out
+#SBATCH --error=logs/crystal/consonance.err
 #SBATCH --partition=general
 #SBATCH --nodes=1
 #SBATCH --gres=gpu:A6000:1
@@ -18,8 +18,8 @@ echo "Starting"
 
 
 
-python eval.py "consonance" "title"
-python eval.py "consonance" "description"
+python eval.py "crystal" "consonance" "title"
+python eval.py "crystal" "consonance" "description"
 echo "CONSONANCE DONE!!"
 
 
