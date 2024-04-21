@@ -1,6 +1,6 @@
 MODEL_NAMES = {
     "llama2": "meta-llama/Llama-2-7b-chat-hf", # DONE!
-    "llama3": "meta-llama/Meta-Llama-3-8B",
+    "llama3": "meta-llama/Meta-Llama-3-8B-Instruct",
     "crystal": "LLM360/CrystalChat", # DONE!
     "olmo": "allenai/OLMo-7B-Instruct"
 }
@@ -73,6 +73,8 @@ def clean_answer(model_family, answer, prompt):
         return answer.strip()
 
     elif model_family == "llama3":
+        # print(answer)
+        
         answer = answer.split("<|start_header_id|>assistant<|end_header_id|>")[1]
         answer = answer.replace("\n", "")
         return answer.strip()

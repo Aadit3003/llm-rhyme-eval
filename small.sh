@@ -1,11 +1,11 @@
 #!/bin/bash
 #SBATCH --job-name=small
-#SBATCH --output=logs/llama3/single.out
-#SBATCH --error=logs/llama3/single.err
+#SBATCH --output=logs/llama3/small.out
+#SBATCH --error=logs/llama3/small.err
 #SBATCH --partition=general
 #SBATCH --nodes=1
-#SBATCH --gres=gpu:A6000:1
-#SBATCH --time 08:00:00 
+#SBATCH --gres=gpu:v100:1
+#SBATCH --time 02:00:00 
 
 echo "LOADING THE ENVIRONMENT"
 source ~/.bashrc

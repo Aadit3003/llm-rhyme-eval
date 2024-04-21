@@ -1,2 +1,3 @@
 Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:14<00:14, 14.96s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:20<00:00,  9.47s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:20<00:00, 10.29s/it]
 Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:05<00:05,  5.02s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:07<00:00,  3.32s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:07<00:00,  3.58s/it]
+slurmstepd: error: *** JOB 240294 ON babel-3-19 CANCELLED AT 2024-04-20T22:16:55 ***

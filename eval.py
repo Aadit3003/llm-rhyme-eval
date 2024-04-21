@@ -134,9 +134,9 @@ def evaluate(model, tokenizer, rhyme_type, prompt_type, model_family):
 
         r = re.compile(r'[\s{}]+'.format(re.escape(punctuation)))
         answer_tokens = r.split(answer.strip().lower())[0:15]
-        print()
-        print(answer_tokens)
-        print()
+        # print()
+        # print(answer_tokens)
+        # print()
 
         if "yes" in answer_tokens:
             pred = 1
@@ -148,14 +148,17 @@ def evaluate(model, tokenizer, rhyme_type, prompt_type, model_family):
             pred = 0
 
         preds.append(pred)
-        print("PROMPT: ")
-        print(prompt)
-        print()
-        print("ANSWER: ")
-        print(ans)
-        print()
-        print("_______________________________________________________")
+        # print("PROMPT: ")
+        # print(prompt)
+        # print()
+        # print("ANSWER: ")
+        # print(ans)
+        # print()
+        # print("_______________________________________________________")
         answer_strings.append(f"{word1}, {word2}, Gold: {golds[i]}, Pred: {pred} || {answer}")
+
+        if i % 100 == 0:
+            print(f"        {i} DONE!")
         i += 1
 
     file_write_strings(output_file, answer_strings)
