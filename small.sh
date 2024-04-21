@@ -16,7 +16,7 @@ echo "Starting"
 # Your job commands go here
 
 
-
+# python ol.py
 
 python eval_small.py "llama3" "singlePerfect" "title"
 python eval_small.py "llama3" "singlePerfect" "description"

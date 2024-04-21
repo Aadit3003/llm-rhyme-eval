@@ -1,0 +1,707 @@
+LOADING THE ENVIRONMENT
+Starting
+Token will not been saved to git credential helper. Pass `add_to_git_credential=True` if you want to set the git credential as well.
+Token is valid (permission: write).
+Your token has been saved to /home/aaditd/.cache/huggingface/token
+Login successful
+(0, 0, 0, 1, 1, 0, 1, 1, 0, 1)
+[('aquino', 'bruney'), ('kan', 'boerner'), ('solder', 'schley'), ('alleva', 'leever'), ('sacred', 'scored'), ('souder', 'gotten'), ('courtesy', 'cates'), ('basso', 'bice'), ('gitano', 'zelia'), ('rosenow', 'rosano')]
+
+['no', 'aquino', 'bruney', 'does', 'not', 'show', 'consonance', 'consonance', 'in', 'poetry', 'and', 'poetry', 'writing', 'refers', 'to']
+
+PROMPT: 
+Do these words show consonance? aquino-bruney
+
+ANSWER: 
+<|user|>
+Do these words show consonance? aquino-bruney
+<|assistant|>
+No, "aquino-bruney" does not show consonance. Consonance in poetry and poetry writing refers to the use of consonant sounds in a song or poem to enhance the overall effect or feeling of the piece, or to create a specific emotional response from the audience.
+
+In this case, the combination of consonants in "aquino-bruney" does not create a sense of consonance. There are no distinct consonant sounds or clusters that stand out
+
+_______________________________________________________
+
+['no', 'the', 'words', 'kan', 'boerner', 'do', 'not', 'show', 'consonance', 'consonance', 'in', 'linguistics', 'refers', 'to', 'the']
+
+PROMPT: 
+Do these words show consonance? kan-boerner
+
+ANSWER: 
+<|user|>
+Do these words show consonance? kan-boerner
+<|assistant|>
+No, the words "kan-boerner" do not show consonance. Consonance in linguistics refers to the sounding of the final consonant sounds in a phrase or word, without taking into account their meaning. In this case, "kan-boerner" does not contain any consonant sounds that are pronounced but not essential to the meaning of the word.
+
+Here are the sounds for each consonant in "kan-boerner":
+
+* K - K
+
+_______________________________________________________
+
+['no', 'solder', 'schley', 'does', 'not', 'show', 'consonance', 'consonance', 'in', 'linguistics', 'refers', 'to', 'the', 'sound', 'relationship']
+
+PROMPT: 
+Do these words show consonance? solder-schley
+
+ANSWER: 
+<|user|>
+Do these words show consonance? solder-schley
+<|assistant|>
+No, "solder-schley" does not show consonance. Consonance in linguistics refers to the sound relationship between the final consonant sounds (also called obstruents) in the words within a phrase or sentence.
+
+In this case, "solder-schley" doesn't show consonance because the final consonant sounds -s- and -l- are not adjacent in the words. "Solder" and "Schley" do not have adjacent consonant
+
+_______________________________________________________
+
+['yes', 'alleva', 'leever', 'is', 'an', 'example', 'of', 'consonance', 'in', 'the', 'english', 'language', 'consonance', 'refers', 'to']
+
+PROMPT: 
+Do these words show consonance? alleva-leever
+
+ANSWER: 
+<|user|>
+Do these words show consonance? alleva-leever
+<|assistant|>
+Yes, "alleva-leever" is an example of consonance in the English language. Consonance refers to the repetition of consonant sounds within close proximity in a phrase or word. In the case of "alleva-leever," the repeated "v" and "l" sounds create a consonantal harmony that adds to the overall soothing sound of the word.
+
+Some other examples of consonance in English include:
+
+* "singing bird" has the repeated
+
+_______________________________________________________
+
+['no', 'sacred', 'and', 'scored', 'do', 'not', 'show', 'consonance', 'in', 'this', 'context', 'consonance', 'in', 'linguistics', 'refers']
+
+PROMPT: 
+Do these words show consonance? sacred-scored
+
+ANSWER: 
+<|user|>
+Do these words show consonance? sacred-scored
+<|assistant|>
+No, "sacred" and "scored" do not show consonance in this context. Consonance in linguistics refers to the sound pattern in a phrase or word in which long vowel sounds and the sounds of consonant letters are followed by long vowel sounds or by the same consonant before another vowel sound. In the phrase "sacred-scored," "sacred" has one long vowel sound and the following's' sounds are also consonants,
+
+_______________________________________________________
+
+['no', 'souder', 'gotten', 'does', 'not', 'show', 'consonance', 'consonance', 'in', 'linguistics', 'refers', 'to', 'the', 'sound', 'relationship']
+
+PROMPT: 
+Do these words show consonance? souder-gotten
+
+ANSWER: 
+<|user|>
+Do these words show consonance? souder-gotten
+<|assistant|>
+No, "souder-gotten" does not show consonance. Consonance in linguistics refers to the sound relationship between nearby consonants in a word, and "souder-gotten" does not have any consonant sounds that are next to each other. In contrast, words like "bed" and "flad" in the phrase "bed flad" have consonant sounds that are close together, creating a sense of consonance.
+
+_______________________________________________________
+
+['no', 'courtesy', 'and', 'cates', 'do', 'not', 'show', 'consonance', 'consonance', 'in', 'poetry', 'and', 'music', 'refers', 'to']
+
+PROMPT: 
+Do these words show consonance? courtesy-cates
+
+ANSWER: 
+<|user|>
+Do these words show consonance? courtesy-cates
+<|assistant|>
+No, "courtesy" and "cates" do not show consonance. Consonance in poetry and music refers to the sound, or the manner in which the vowel sounds are expressed in a phrase or a word. "Courtesy" and "cates," however, do not have the same vowel sounds, making them less consonant than words like "chicken" or "shoelace."
+
+_______________________________________________________
+
+['no', 'basso', 'bice', 'does', 'not', 'show', 'consonance', 'the', 'consonants', 'b', 'and', 'c', 'are', 'both', 'hard']
+
+PROMPT: 
+Do these words show consonance? basso-bice
+
+ANSWER: 
+<|user|>
+Do these words show consonance? basso-bice
+<|assistant|>
+No, "basso-bice" does not show consonance. The consonants "b" and "c" are both hard or solid consonants, while "suo" has a soft "u" sound. There is no consonant repetition or nearby vowels to create a sense of consonance in this word.
+
+_______________________________________________________
+
+['no', 'gitano', 'zelia', 'does', 'not', 'show', 'consonance', 'consonance', 'in', 'linguistics', 'refers', 'to', 'the', 'sound', 'pattern']
+
+PROMPT: 
+Do these words show consonance? gitano-zelia
+
+ANSWER: 
+<|user|>
+Do these words show consonance? gitano-zelia
+<|assistant|>
+No, "gitano-zelia" does not show consonance. Consonance in linguistics refers to the sound pattern in a phrase or word in which certain vowel sounds are shortened, removed or simply lacked, while consonant sounds remain.
+
+In the word "gitano-zelia", there are no prolonged or unaspirated vowel sounds, and no consonant sounds are lacking. This word does not demonstrate consonance.
+
+Sources:
+
+- Merri
+
+_______________________________________________________
+
+['no', 'rosennow', 'rosano', 'does', 'not', 'show', 'consonance', 'consonance', 'in', 'linguistics', 'refers', 'to', 'the', 'sound', 'relationship']
+
+PROMPT: 
+Do these words show consonance? rosenow-rosano
+
+ANSWER: 
+<|user|>
+Do these words show consonance? rosenow-rosano
+<|assistant|>
+No, "rosennow-rosano" does not show consonance. Consonance in linguistics refers to the sound relationship between the last sounds or rhymes in the syllables of a word, where the last sound (sonorant) is either a nasal (m, n, or nasalized versions of these) or a liquid (r, l). In the word "rosennow-rosano," there is no distinct consonant sound following the last sound (n or
+
+_______________________________________________________
+Non yes/no happened 0 times!
+RHYME TYPE: consonance | PROMPT TYPE: title | F-1 Score: 0.3333333333333333
+DONE GURL!!
+Token will not been saved to git credential helper. Pass `add_to_git_credential=True` if you want to set the git credential as well.
+Token is valid (permission: write).
+Your token has been saved to /home/aaditd/.cache/huggingface/token
+Login successful
+(0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 0, 0, 1, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 1, 0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 0, 0, 1, 0, 0, 1, 1, 1, 1, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 1, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 0, 1, 0, 1, 0, 1, 0, 0, 0, 1, 1, 1, 0, 1, 0, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 1, 0, 1, 1, 1, 0, 0, 0, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 1, 0, 1, 1, 0, 1, 1, 0, 0, 0, 1, 1, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 1, 1, 0, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 1, 1, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1, 0, 1, 0, 1, 0, 0, 1, 0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 1, 1, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 1, 0, 1, 1, 1, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 0, 1, 0, 0, 1, 0, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1, 0, 1, 0, 0, 0, 0, 1, 1, 1, 0, 0, 0, 0, 1, 1, 0, 1, 1, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 0, 0, 1, 1, 1, 1, 1)
+[('multiprocessor', 'koehn'), ('heman', 'premo'), ('schoeller', 'jemmie'), ('depaolo', 'deeply'), ('foth', 'fathi'), ('encase', 'sumerlin'), ('lookers', 'kissling'), ('loynd', 'olinde'), ('leake', 'elcotel'), ('gama', 'primeaux'), ('muske', 'majeske'), ('aird', 'rood'), ('immel', 'muller'), ('barstow', 'braced'), ('sidey', 'hehman'), ('saudi', 'koehne'), ('shula', 'excelling'), ('fires', 'phase'), ('blotter', 'balletto'), ('guyton', 'noxso'), ('hymen', 'jammer'), ('ashley', 'enix'), ('hergert', 'kain'), ("knicks'", 'smolen'), ('smoot', 'summit'), ('berber', 'baba'), ("curtis'", 'kites'), ('foth', 'fauth'), ('sowed', 'hehman'), ('gemmer', 'incase'), ("curtis'", 'cates'), ('cannes', 'roesner'), ('rizzo', 'rowser'), ("maids'", 'murders'), ('lance', 'linsay'), ('baran', 'gemme'), ('sowder', 'sterilizations'), ('prody', 'eppard'), ("moody's", 'maids'), ('cane', 'bowron'), ('crowden', 'cardoni'), ('hens', "hanoi's"), ('misspelled', 'misapplied'), ('alleva', 'oliver'), ('paone', 'peon'), ("o'kane", 'primeaux'), ('maddy', 'emde'), ('connor', 'primo'), ('baez', 'boos'), ('wildes', "world's"), ('royale', 'orel'), ('sent', 'sante'), ('side', 'zel'), ('opus', 'oops'), ('tidy', 'todo'), ('lechler', 'locally'), ('plies', "apple's"), ('ares', 'rowser'), ('ward', 'weird'), ('ocon', 'borneo'), ("bell's", 'bylaws'), ('gumm', 'heman'), ('pritz', 'pirouettes'), ('pralle', 'pirelli'), ('soeder', 'szalay'), ('kapuscinski', 'brun'), ('aird', 'arid'), ('divi', 'davao'), ('atek', 'tek'), ('interact', 'ankita'), ('hermann', 'knacks'), ('shiller', 'zele'), ('cannes', 'obryan'), ('zele', 'bryna'), ('morlan', 'marleene'), ('guertin', 'multiprocessor'), ('rayson', 'rosano'), ('seda', 'healthy'), ('blotter', 'ability'), ("o'shell", 'smolen'), ('egert', 'gotta'), ('gomer', "olokuei's"), ('ebright', 'bret'), ('incase', 'zulu'), ('heman', 'zil'), ('brunty', 'brunetta'), ('hoheisel', 'heisler'), ('ermer', 'maia'), ('kamler', 'comly'), ('sighed', 'health'), ('haggart', 'iacona'), ('guyton', 'enix'), ('hamner', 'arseneau'), ('jobber', 'gebbia'), ('akana', 'sumerlin'), ('herronimo', 'primeaux'), ('of', 'ivory'), ('aqaba', 'coby'), ('nix', 'zarroli'), ('cycare', 'screw'), ('shelley', 'hamner'), ('behalf', 'behof'), ('rasorite', 'rosty'), ('dedeaux', 'dud'), ('gomer', 'kian'), ('leiby', 'laborer'), ('kehn', 'bruner'), ('canny', 'electoral'), ('acid', 'homeowner'), ('bresser', 'brass'), ('curd', 'cod'), ('summaries', 'semis'), ('bryan', 'germer'), ('bessey', 'basso'), ("avalon's", 'villines'), ('gotten', 'nex'), ('shiller', 'health'), ('sued', 'zil'), ('summitt', 'smoot'), ('rossin', 'germe'), ('silsby', 'brion'), ('hsieh', 'shurr'), ('sterilizations', 'homeowner'), ('scarry', 'sukru'), ('barstow', 'abreast'), ('petralia', 'nix'), ('next', 'jama'), ('ken', 'jimmie'), ('hannes', 'hens'), ('node', 'indy'), ('zaley', 'berna'), ('gemmer', 'lacaze'), ('kuehne', 'elcotel'), ('schiller', 'gahm'), ('akana', 'barrineau'), ('elapse', "lips'"), ('hermann', 'health'), ('sheeler', 'guyton'), ('reunite', 'arnett'), ('liebe', 'allbee'), ('prody', 'perdue'), ('irey', 'err'), ('schmehl', 'shimel'), ('burdell', 'badal'), ('kan', 'orson'), ('cano', 'kapuscinski'), ('pilz', "apple's"), ('looped', 'leapt'), ('sudd', 'kian'), ('saudi', 'goyim'), ('maracle', 'markel'), ('peko', 'apec'), ('health', 'caen'), ('saudi', 'enex'), ('retool', 'rattler'), ('liebe', 'laborer'), ('cod', 'boren'), ('rosenow', 'rosanne'), ('until', 'entail'), ('shirlee', 'haman'), ('tokio', 'attica'), ("cernuda's", 'sounds'), ('pty', 'patois'), ('rayson', 'rosanne'), ('tyree', 'tor'), ('schiller', 'prima'), ('scholer', 'gautney'), ('sudd', 'keene'), ('gamboa', 'gumbo'), ('smullen', 'jammer'), ('easily', 'germe'), ('loynd', 'lundy'), ('lick', 'chlorofluorocarbons'), ('paonessa', 'ponce'), ('alco', 'sumerlin'), ('orson', 'jimmy'), ('panton', 'pantano'), ('postdating', 'reierson'), ("day's", 'owades'), ('truett', 'outright'), ('schoeller', 'oslo'), ('nappier', 'nepa'), ('sidor', 'premo'), ('silsby', 'kian'), ('kissling', 'brun'), ('kinne', 'roesner'), ('scour', 'screw'), ('sheley', 'elcotel'), ('gumm', 'gotten'), ('keehan', 'jaimie'), ('cod', 'gautney'), ('gyn', 'agner'), ("curtis'", "eckert's"), ('gama', 'breighner'), ('gautney', 'breon'), ('lopes', "lips'"), ('royale', 'aerial'), ('saudi', 'arseneau'), ('shelley', 'oslo'), ('fires', 'fuzz'), ('ablate', 'ability'), ('nyx', 'oslo'), ('nun', 'nanni'), ('schuler', 'guyton'), ('acid', 'priam'), ('herlong', 'heling'), ('amadea', 'murdaugh'), ('knocked', 'ancheta'), ('afloat', 'follette'), ('amyloid', 'imelda'), ('haman', 'kearn'), ('reisenauer', 'brun'), ('follmer', 'flume'), ('cedar', 'annex'), ('basso', 'bice'), ('kearny', 'roesner'), ('leakey', 'sumerlin'), ('keene', 'chlorofluorocarbons'), ('zell', 'boerner'), ('tyrone', 'terrien'), ('bleck', 'bilk'), ('horse', 'haris'), ('bresser', 'bras'), ('leaders', 'lads'), ('koehne', 'berna'), ('oelkers', 'kenney'), ('eckerd', 'cod'), ('arison', 'bran'), ('oecd', 'girten'), ('keehner', 'iacono'), ('kuhn', 'jama'), ("maids'", 'meadows'), ("day's", 'doers'), ('utt', 'eight'), ('necks', 'kanner'), ('bachmeier', 'beckum'), ('utt', 'thai'), ('paone', 'perna'), ('ares', 'ours'), ('soady', 'necks'), ('brasseur', 'bresser'), ('herminie', 'rasner'), ('butzer', 'bytes'), ('lundy', 'olinde'), ('owades', 'doers'), ('canney', 'boren'), ('reasner', 'borneo'), ('sighed', 'multiprocessor'), ('game', 'hermon'), ('ferns', 'farinas'), ('lockers', 'herminie'), ('zell', 'primo'), ('sighed', 'elcotel'), ('kuhne', 'obryan'), ('scholl', 'enix'), ('sheilah', 'necks'), ('cede', 'zel'), ('deigned', 'deanda'), ('sheilah', 'roesner'), ('alleva', 'leever'), ('petrilli', 'hohman'), ('tokio', 'tek'), ('oshell', 'nix'), ('sheilah', 'germer'), ('follmer', 'flaim'), ('zaley', 'prom'), ('shaul', 'patrol'), ('enix', 'osler'), ('goyim', 'zeal'), ('side', 'schaal'), ('treen', 'terrien'), ('tomato', 'timeout'), ('majeske', 'maruska'), ('suder', 'caen'), ('lair', 'lire'), ('ruyle', 'rollie'), ('colors', 'klose'), ('heuring', 'harangue'), ('silsby', 'arseneault'), ('dewinter', 'koehne'), ('schul', 'zell'), ('immerse', 'miesse'), ('of', 'eave'), ('hyman', 'primo'), ("olokuei's", 'reasner'), ('goyim', 'prem'), ('sinatra', 'suntory'), ('borneo', 'primeaux'), ('next', 'rosene'), ('saudi', 'annex'), ('dravo', 'dr'), ('oops', 'pisa'), ('sawdey', 'zulu'), ('ebright', 'berti'), ('gumm', 'smolen'), ('ybanez', "bono's"), ('multiprocessor', 'necaise'), ('wotton', 'wittner'), ('schuele', 'nix'), ('fob', 'furber'), ('peratis', 'pettus'), ('leiby', 'lob'), ('shill', "olokuei's"), ('sighed', 'huguet'), ('hannes', "hanoi's"), ('lamaist', 'lemaster'), ('oecd', 'lockers'), ('sauter', 'esty'), ('garroz', 'gruis'), ("gear's", 'gruis'), ('schley', 'petrelli'), ('hohman', 'zulu'), ('dandy', 'deigned'), ("moody's", 'murders'), ('ginocchio', 'janick'), ('toyed', 'tad'), ('sued', 'jimmy'), ('liqueur', 'gemma'), ('poopers', 'puppies'), ('hamann', 'breighner'), ('orel', 'rollie'), ('sawed', 'zele'), ('sidor', 'enix'), ('hun', "o'hern"), ('bossi', 'bice'), ('lovitz', 'elevates'), ('return', 'orton'), ('marleene', 'marilyn'), ('mealy', 'muller'), ("cernuda's", "sunday's"), ('scholer', 'rosten'), ('tamke', 'tomko'), ('ocon', 'locatelli'), ('saudi', 'excelling'), ('fires', 'fors'), ('lacaze', 'guertin'), ('sims', "summor's"), ('platz', 'pilots'), ('wooten', 'wittner'), ('goyim', 'enex'), ('curlee', 'kahle'), ('amoruso', 'immerse'), ('kearny', 'berna'), ('eichen', 'bruney'), ('schmoll', 'schmehl'), ('ma', 'ermer'), ('gyn', 'agne'), ('moulder', 'imelda'), ('kelker', 'kloc'), ('cane', 'jimmie'), ('tsuda', 'osler'), ("o'shell", 'jimmy'), ('solder', 'girten'), ('sant', 'sent'), ('ivory', 'yves'), ('coby', 'cab'), ('he', 'hah'), ('mieske', 'mosco'), ('curries', 'cause'), ('petrelli', 'primeaux'), ('hammann', 'brony'), ('rea', 'err'), ('powered', 'peddie'), ('excelling', 'prima'), ('sudd', 'geremia'), ("lady's", 'eliades'), ('rosenow', 'rosano'), ('baez', 'baz'), ('soeder', 'hammann'), ('fleurette', 'flutter'), ('ruyle', 'orel'), ('kinne', 'rosene'), ('chesser', 'chaus'), ('sowed', 'zulli'), ('murdaugh', 'emde'), ('schlee', 'nyx'), ("tandy's", 'attends'), ('agerton', 'conn'), ('arseneau', 'germer'), ('witch', 'wyche'), ('hayton', 'huttner'), ('trimm', 'atrium'), ('khomeini', 'berna'), ('next', 'jimmy'), ('nichter', 'ankita'), ('dalley', 'dehler'), ('bessey', 'bice'), ('gekko', 'gocke'), ('sundai', 'sandie'), ('knocked', 'nichter'), ('summerlin', 'elcotel'), ('game', 'zarroli'), ('hergert', 'arison'), ('billiter', 'balletto'), ('straker', 'stork'), ('chalet', 'prima'), ('hergert', 'arseneau'), ('aleshire', 'lesharo'), ('tay', 'thai'), ('eight', 'thai'), ('petralia', 'jamb'), ('tay', 'utt'), ('luk', 'electoral'), ('streeper', 'strip'), ('hermon', 'bran'), ('kanner', 'premo'), ('cedar', 'prom'), ('tirey', 'terre'), ('sewed', 'zel'), ('tor', 'touro'), ('sudd', 'berna'), ('deemed', 'dammed'), ('amoruso', 'miesse'), ('ikon', 'jamb'), ('shirlee', 'dewinter'), ('nichter', 'ancheta'), ('healthy', 'obryan'), ('elicker', 'jamb'), ('kaine', 'arseneau'), ('quito', 'keto'), ('seader', 'rosene'), ('opus', 'pearse'), ('schueler', 'bran'), ('aird', 'roadie'), ('gumm', 'arison'), ('atek', 'tokio'), ('sawed', 'zulli'), ('shelly', 'girten'), ('highman', 'nyx'), ('aqaba', 'cabe'), ('kut', 'keto'), ('sowed', "olokuei's"), ('suder', 'jemmie'), ('sewed', 'jimmy'), ('haynes', 'hannes'), ('zel', 'iacona'), ('kian', 'brony'), ('breen', 'jamb'), ('arid', 'roadie'), ('curd', 'kid'), ('oecd', 'prom'), ('cardoen', 'cardoni'), ('seider', 'shelly'), ('seder', 'hymen'), ('homann', 'litigating'), ('saudi', 'braner'), ('ocon', 'reasner'), ('cede', 'hamann'), ('cedar', 'borneo'), ('shill', 'boerner'), ('schueler', 'zel'), ('koehne', 'breighner'), ('gomer', 'khomeini'), ('tyke', 'atek'), ('cent', 'serranto'), ('gahm', 'jimi'), ('lac', 'chlorofluorocarbons'), ('kin', 'summerlin'), ('colors', 'kleis'), ('shaul', 'gotten'), ("alcoa's", 'bran'), ('incase', 'ken'), ('anania', 'gnann'), ('kin', 'jama'), ('dolley', 'dehler'), ('aside', 'zel'), ('viau', 'yves'), ('shula', 'premo'), ('scour', 'scarry'), ('catino', 'catain'), ('aquino', 'brawny'), ('tidy', 'tad'), ('noakes', 'gemma'), ('kaney', 'bran'), ('egerton', 'borneo'), ('petrelli', 'hymen'), ('apec', 'pokey'), ('nunn', 'nanni'), ("o'connor", 'bruney'), ('sowed', 'gemme'), ('flammer', 'flume'), ("alcoa's", 'geitner'), ('geac', 'gokey'), ('beitz', 'bytes'), ('health', 'herronimo'), ('linus', 'linsay'), ('coriander', 'craned'), ('khomeini', 'aachener'), ('aside', 'kearn'), ('gumm', 'reasner'), ('kites', "eckert's"), ('khomeini', 'kian'), ('sterilizations', 'borneo'), ('storch', 'sitrick'), ('zalay', 'zil'), ('shiels', "shirley's"), ('maruska', 'mosco'), ('haynes', 'hens'), ('zeal', 'rossin'), ('szalay', 'jemmie'), ('suder', 'bryna'), ('morr', 'mer'), ('bronn', 'jamb'), ('heman', 'oslo'), ('incase', 'oslo'), ('abbasi', 'basso'), ('sued', 'hohman'), ('stalowa', 'astley'), ('schueler', 'herminie'), ('borneo', 'gemma'), ('laborer', 'allbee'), ("melloan's", 'melons'), ('dad', 'dud'), ('sued', 'kissling'), ('sued', 'bowron'), ('hootie', 'huerter'), ('aside', 'schuller'), ('encase', 'prom'), ('tor', 'tirey'), ("knicks'", 'gemma'), ('cedar', 'shaul'), ('seda', 'gemmer'), ('sacred', 'scored'), ('kerby', 'aqaba'), ('treen', 'tyrone'), ('kania', 'germer'), ("o'shell", 'conn'), ('divi', 'devaux'), ('mentel', 'minutely'), ('girten', 'gemme'), ('dedeaux', 'dowdy'), ('quito', 'ector'), ('incase', 'jimi'), ("bonn's", "bono's"), ('shelor', 'hermon'), ('loco', 'geremia'), ('hohman', 'elcotel'), ('burdell', 'abdollah'), ('tyree', 'terre'), ('sowata', 'esty'), ('hah', 'howey'), ('shill', 'hamann'), ('ayerst', 'rasorite'), ('acid', 'gotten'), ('leaps', 'lopes'), ('brust', 'braced'), ('sawed', 'prima'), ('tullar', "it'll"), ('arrow', 'err'), ('dover', 'davey'), ('agerton', 'primo'), ('altay', 'alta'), ('enix', 'bran'), ('storti', 'streett'), ('osler', 'ozelle'), ('kuehne', 'jemmie'), ('settle', 'stille'), ('kohn', 'castings'), ('aqaba', 'cab'), ('catain', 'curtner'), ('lockers', 'brawny'), ('schlee', 'breighner'), ('seider', 'barrineau'), ('saudi', 'aachener'), ("olokuei's", 'germer'), ('puppies', 'paupers'), ('encase', 'keene'), ('zil', 'osler'), ('pfahl', 'flour'), ('lockers', 'kenney'), ('platz', 'palazzi'), ('cona', 'sumerlin'), ('garry', 'gore'), ('argent', 'reagent'), ('dawes', 'doers'), ('kanai', 'gemme'), ('atek', 'attica'), ("alcoa's", 'multiprocessor'), ('lair', 'luria'), ('next', 'chlorofluorocarbons'), ('gerk', 'gekko'), ('tsuda', 'noxso'), ('leaps', "lips'"), ('geitner', 'castings'), ('cona', 'brun'), ('agerton', 'jemmie'), ('strep', 'streeper'), ('zalay', 'osler'), ('zaley', 'arseneault'), ('oslo', 'rasner'), ('pfohl', 'fallaw'), ('koehne', 'prem'), ('ketch', 'cuccio'), ('ybanez', 'baynes'), ('depaolo', 'oedipal'), ('strep', 'streep'), ('madore', 'madry'), ('zil', 'obryan'), ('astley', 'settle'), ('agerton', 'kanne'), ('erlach', 'jama'), ('litigating', 'brawny'), ('gomer', 'petrelli'), ('lance', 'linus'), ("o'conner", 'primo'), ('ocon', 'braner'), ('imelda', 'millard'), ('hannam', 'zeal'), ('huguet', 'noakes'), ('gertner', 'arseneault'), ('koehne', 'obryan'), ('courtesy', "eckert's"), ('arseneault', 'brony'), ('coody', 'curd'), ('fathi', 'fauth'), ('hun', 'hano'), ('aachener', 'germe'), ('aside', 'gemme'), ('hammann', 'zell'), ('suder', 'schlee'), ('cally', 'kiehl'), ('cod', 'contusion'), ('camm', 'came'), ('seda', 'jimi'), ('rahn', 'raine'), ('aside', 'nex'), ('acid', 'prem'), ('amado', 'murdaugh'), ('kiene', 'roesner'), ('berber', 'baba'), ('imes', "mae's"), ('nix', 'premo'), ('scholl', 'hermann'), ('tyree', 'touro'), ('tor', 'terre'), ('oecd', 'noxso'), ('kahle', 'cally'), ('side', 'cona'), ('encase', 'conn'), ('hamann', 'cannery'), ("day's", 'dyes'), ('rizzo', 'ours'), ('schuele', 'multiprocessor'), ('necaise', 'koehn'), ('bras', 'barris'), ('pfohl', 'flour'), ('courtesy', 'cates'), ('sighed', 'zelia'), ('depaola', 'oedipal'), ('grue', 'gore'), ('howerton', 'huttner'), ('horse', 'haris'), ('oops', 'pesce'), ('kan', 'arseneault'), ('kenna', 'boerner'), ('dolley', 'idle'), ('dyes', 'dawes'), ('ploys', "apple's"), ('grue', 'agra'), ('amilia', 'muller'), ("o'shell", 'keene'), ('rosen', 'rosanne'), ('sidor', 'petralia'), ('lockers', 'knacks'), ('royer', 'arrow'), ('leake', 'gemme'), ('sheely', 'shiloh'), ('ikon', 'reasner'), ("cernuda's", 'sandos'), ('koehn', 'bruner'), ('tay', 'outta'), ('saudi', 'chalet'), ('sowder', 'guyton'), ('guyette', 'gotta'), ("gettin'", 'primo'), ('schuler', 'prem'), ('cause', "kay's"), ('petrelli', 'ireson'), ('koller', 'curlee'), ('ward', 'weirdo'), ('cod', 'sumerlin'), ('keener', 'arseneault'), ('roesner', 'smullen'), ('owned', 'indy'), ('zoll', 'ozelle'), ('ma', "'em"), ('idle', 'daly'), ('arseneault', 'bruner'), ('zarroli', 'bran'), ('lynd', 'olinde'), ('gumm', 'lookers'), ('cannery', 'smullen'), ('primeaux', 'smolen'), ('rotolo', 'retool'), ('sudd', 'caen'), ('breth', 'broth'), ('aird', 'rohde'), ('tomatoe', 'timeout'), ('tyke', 'tek'), ('madora', 'madry'), ('dawes', 'owades'), ('kut', 'actor'), ('hany', 'hano'), ('pasta', 'pistor'), ('knacks', 'chlorofluorocarbons'), ('agner', 'eagen'), ('saudi', 'jammer'), ('heisler', 'houseal'), ('knacks', 'zulli'), ('strnad', 'standre'), ('side', 'hamner'), ('kanne', 'electoral'), ('hannam', 'caen'), ('lindy', 'olinde'), ('idle', 'dehler'), ('brott', 'bret'), ('sewed', 'risner'), ('floats', 'felts'), ('rossin', 'jimi'), ('hermon', 'rossin'), ('schuler', 'brony'), ('ceder', 'castings'), ('silsby', 'schlee'), ('oecd', 'locatelli'), ('tyree', 'tirey'), ('lotto', 'laity'), ('entail', 'nuttle'), ('incase', 'herronimo'), ('saudi', 'kearn'), ('hert', 'hiott'), ('lacaze', 'brion'), ('gomer', 'kisling'), ('sighed', 'gertner'), ('elapse', 'lopes'), ('surat', 'esty'), ('husky', 'hasek'), ('oelkers', 'healthy'), ('bourne', 'jam'), ('kut', 'quito'), ('camel', 'kemler'), ('sighed', 'petralia'), ('casinos', 'axons'), ('rattan', 'orton'), ('lockers', 'guertin'), ('egnor', 'agne'), ('loynd', 'lindy'), ('node', 'nader'), ('sewed', 'breighner'), ('nyx', 'jaimie'), ('zell', 'castings'), ('pisa', 'pesce'), ('kian', 'brun'), ('pennisi', 'ponce'), ('luther', 'aletha'), ('litigating', 'jammer'), ("boys'", 'boos'), ('gomer', 'brion'), ('bryner', 'jimi'), ('homeowner', 'brion'), ('cede', 'sterilizations'), ('ashen', 'shein'), ('petrilli', 'arseneault'), ('game', 'contusion'), ("boat's", 'bettis'), ('lerch', 'jammu'), ('flammer', 'aflame'), ('irey', 'arrow'), ('coone', 'locatelli'), ("sunday's", "cernuda's"), ('interact', 'ancheta'), ('petralia', 'roesner'), ('kanner', 'bryna'), ('gemmer', 'bahraini'), ("boat's", 'beitz'), ('lynd', 'lundy'), ('highman', 'nex'), ("sunday's", 'sandos'), ('nunn', 'gnann'), ('poky', 'apec'), ('summaries', 'sims'), ('brunty', 'aberrant'), ('nex', 'kian'), ('isch', 'hsieh'), ('oops', 'pearse'), ('came', 'cam'), ('pilz', 'ploys'), ('szalay', 'braner'), ('rea', 'irey'), ('roesner', 'barrineau'), ('canipe', 'knupp'), ('egnor', 'eagen'), ('sued', 'hamann'), ('flay', 'fallaw'), ('girten', 'rossin'), ('sheilah', 'excelling'), ('rotan', 'retin'), ('nun', 'anania'), ('amadea', 'emde'), ("maids'", "moody's"), ("o'kane", 'jimmie'), ('silsby', 'sterilizations'), ('astra', 'storey'), ('alloys', 'eilers'), ('kuhn', 'baran'), ('pyne', 'perna'), ('maddy', 'murdaugh'), ('shaul', 'bowron'), ('gummi', 'breon'), ('pty', 'petteway'), ('schlee', 'prem'), ("boat's", 'butzer'), ('elicker', 'jam'), ('saudi', 'hammann'), ('game', 'lookers'), ('sidener', 'sidonia'), ('he', 'houy'), ('gotten', 'primeaux'), ('shaul', 'gomer'), ('stork', 'sitrick'), ('schuler', 'jaimie'), ('side', 'healthy'), ('sudd', 'scholl'), ('sundai', 'sandy'), ("mel's", "molly's"), ('reunite', 'arnot'), ('shelly', 'primo'), ('sader', 'jam'), ('cowen', 'bruner'), ("boys'", 'baez'), ('daughter', 'idiot'), ('goyim', 'zell'), ('antell', 'until'), ('chalet', 'gautney'), ('actor', 'keto'), ('multiprocessor', 'kain'), ('saudi', 'homann'), ('boaters', 'abts'), ('nix', 'brion'), ('zulu', 'reasner'), ('sudd', 'petralia'), ('pacesetter', 'pasta'), ('coody', 'kid'), ('houy', 'howey'), ('homeowner', "knicks'"), ('sewed', 'jimmie'), ('cuccio', 'kutch'), ('strnad', 'ascertained'), ('rosten', 'jimi'), ('keene', 'gemme'), ('elopes', "lips'"), ('geac', 'gekko'), ('tsuda', 'jimmie'), ('kenna', 'bahraini'), ('patrol', 'litigating'), ('petrilli', "gettin'"), ('nyx', 'hannam'), ("o'connor", 'jimmie'), ('game', 'nix'), ('pols', 'ploys'), ('sinatra', 'santoro'), ('game', 'germe'), ('bleck', 'bialik'), ('gitano', 'brony'), ('shein', 'ocean'), ('moulin', 'milone'), ('solder', 'healthy'), ('annex', 'primeaux'), ('sawdey', 'dewinter'), ('litigating', 'reasner'), ('torma', 'trimm'), ('leaps', 'elopes'), ('locally', 'leclere'), ('haggart', 'prima'), ('megill', 'module'), ('cod', 'necks'), ('immel', 'mealy'), ('schul', 'smolen'), ('sterilizations', 'jimi'), ('seider', 'patrol'), ('milone', 'millennia'), ('hermon', 'zaley'), ('hun', 'hany'), ('ashley', 'caen'), ('brethauer', 'broth'), ('arison', 'jimmy'), ('zulli', 'kanner'), ('zulu', 'baran'), ('schueler', 'breon'), ('sowed', 'schul'), ('torino', 'tirone'), ('erlich', 'jaimie'), ("summor's", 'semis'), ('peko', 'poky'), ('sidey', 'kearn'), ('oslo', 'smullen'), ('agne', 'eagen'), ('kearn', 'braner'), ('nader', 'indy'), ('keehner', 'aken'), ('herner', 'hany'), ('leake', 'gemma'), ('follow-up', 'philippa'), ('garroz', "gear's"), ('curries', 'kays'), ('girten', 'brony'), ('iacona', 'boerner'), ('seda', 'keeny'), ('sewed', 'khanna'), ('smutty', 'smoot'), ('astra', 'setaro'), ('dad', 'dowdy'), ('beebower', 'baba'), ('keener', 'brawny'), ('americus', "marcos'"), ('coone', 'prima'), ('rotan', 'return'), ('shill', 'sumerlin'), ('schueler', 'necks'), ('nex', 'primeaux'), ("o'shell", 'jammer'), ('became', 'bachmeier'), ('blaize', 'abalos'), ('royer', 'irey'), ('gemmer', 'petrilli'), ('saad', "olokuei's"), ('ayerst', 'erased'), ('straker', 'sitrick'), ('saudi', "gettin'"), ('meadows', 'murders'), ('ikon', 'bruner'), ('can', 'gemme'), ('outright', 'tart'), ('sheley', 'incase'), ('faz', 'fuzz'), ('pfahl', 'pfohl'), ('throne', 'theron'), ('highman', 'jammer'), ('pilots', 'palazzi'), ('scholey', 'necks'), ('fires', 'faz'), ('zel', 'kanne'), ('gahm', 'zulu'), ('game', 'kanner'), ("olokuei's", 'hannam'), ('cede', 'smolen'), ('schley', 'egerton'), ('encase', 'zell'), ('gokey', 'gocke'), ('incase', 'risner'), ('haman', 'guertin'), ('leaky', 'gemme'), ('balzer', 'bylaws'), ('aside', 'healthy'), ('gyn', 'eagen'), ('gumm', 'gemme'), ('saudi', 'gotten'), ('lyke', 'jamb'), ('schuele', 'reierson'), ('astley', 'stille'), ('rotolo', 'rattler'), ('altay', 'laity'), ('zeal', 'boerner'), ('hannam', 'chlorofluorocarbons'), ('schueler', 'gemme'), ("o'conner", 'berna'), ('leads', "lady's"), ('sant', 'serranto'), ('szalay', 'jama'), ('tek', 'attica'), ('sinatra', 'santore'), ('weirder', 'ward'), ('game', 'bruney'), ('oecd', 'gummi'), ('raine', 'arian'), ('streep', 'strip'), ('shaul', 'zele'), ('szalay', 'castings'), ('cedar', 'incase'), ('noxso', 'iacona'), ('huguet', 'enex'), ('barstow', 'brust'), ('imo', 'ermer'), ('touro', 'terre'), ('connery', 'orson'), ('zulli', 'jamb'), ('cuccio', 'katcher'), ('sims', 'semis'), ('brussels', 'barcellos'), ('tamarac', 'tomko'), ('barrineau', 'premo'), ('aickin', 'breon'), ('brass', 'barris'), ('hertzler', 'hutzel'), ('chalet', 'hohman'), ("o'shell", 'kisling'), ('comly', 'kemler'), ('imes', "mays'"), ('zil', 'ozelle'), ('leclere', 'lukoil'), ('demeans', 'dominoes')]
+
+['no', 'the', 'words', 'multiprocessor', 'and', 'koehn', 'do', 'not', 'have', 'identical', 'consonant', 'sounds', 'but', 'different', 'vowel']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? multiprocessor-koehn
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? multiprocessor-koehn
+<|assistant|>
+No, the words "multiprocessor" and "koehn" do not have identical consonant sounds but different vowel sounds. The first consonant pair in "multiprocessor" is /m/ and /p/, while the first consonant pair in "koehn" is /k/ and /ɧ/. The second consonant pair in both words is also different.
+
+In "multiprocessor," the second consonant pair is /r/
+
+_______________________________________________________
+
+['no', 'hman', 'and', 'premo', 'do', 'not', 'have', 'identical', 'consonant', 'sounds', 'but', 'different', 'vowel', 'sounds', 'let']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? heman-premo
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? heman-premo
+<|assistant|>
+No, "hman" and "premo" do not have identical consonant sounds but different vowel sounds. Let's break it down:
+
+- "H" and "m" are both represented by their individual letters and have the same sound "h."
+- "P" and "n" are both represented by their individual letters and have the same sound "n."
+- "E" is the only difference in vowel sound, as "e" is pronounced with a
+
+_______________________________________________________
+
+['yes', 'the', 'words', 'schoeller', 'jemmie', 'have', 'identical', 'consonant', 'sounds', 'but', 'different', 'vowel', 'sounds', 'the', 'words']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? schoeller-jemmie
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? schoeller-jemmie
+<|assistant|>
+Yes, the words "schoeller-jemmie" have identical consonant sounds but different vowel sounds.
+
+The words consist of five consonant sounds:
+
+1. /s/ in "schoeller" and "jemmie"
+2. /k/ in "c" (as in "cat")
+3. /o/ in "oeller"
+4. /ɪ/ in "i"
+5. /ə/ in "m"
+
+_______________________________________________________
+
+['yes', 'depaolo', 'and', 'deeply', 'are', 'examples', 'of', 'words', 'with', 'identical', 'consonant', 'sounds', 'but', 'different', 'vowel']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? depaolo-deeply
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? depaolo-deeply
+<|assistant|>
+Yes, "depaolo" and "deeply" are examples of words with identical consonant sounds but different vowel sounds.
+
+In "depaolo", the consonant sounds include:
+
+* P - /p/
+* E - /e/
+* D - /d/
+* O - /o/
+
+The vowel sound in "depaolo" is /ɪ/ or /iː/ (the middle vowel of the
+
+_______________________________________________________
+
+['no', 'foth', 'fathi', 'does', 'not', 'consist', 'of', 'identical', 'consonant', 'sounds', 'with', 'different', 'vowel', 'sounds', 'here']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? foth-fathi
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? foth-fathi
+<|assistant|>
+No, "foth-fathi" does not consist of identical consonant sounds with different vowel sounds. Here's a breakdown of the sounds in each word component:
+
+1. Foth: The f sound is pronounced like a "f" in the English word "flat." The h sound is not pronounced.
+2. Thi: The t sound is pronounced like a "t" in the English word "cat." The i sound is a long i sound, as in
+
+_______________________________________________________
+
+['no', 'encase', 'and', 'sumerlin', 'do', 'not', 'have', 'identical', 'consonant', 'sounds', 'but', 'different', 'vowel', 'sounds', 'here']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? encase-sumerlin
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? encase-sumerlin
+<|assistant|>
+No, "encase" and "sumerlin" do not have identical consonant sounds but different vowel sounds. 
+
+Here's a breakdown of the consonant sounds in both words:
+
+- "Encase" has consonant sounds /n/ /s/ /ç/ /ʧ/ ('ch') and /e/
+- "Sumerlin" has consonant sounds /s/ /m/ /ə/ /ɹ/ /ɰ/ ('
+
+_______________________________________________________
+
+['no', 'lookers', 'and', 'kissling', 'do', 'not', 'have', 'identical', 'consonant', 'sounds', 'but', 'different', 'vowel', 'sounds', 'allow']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? lookers-kissling
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? lookers-kissling
+<|assistant|>
+No, "lookers" and "kissling" do not have identical consonant sounds but different vowel sounds. Allow me to explain further:
+
+1. Consonants: The consonants in both words are the same. They include "l," "o," "k," "o," "p," and "g."
+
+2. Vowels: The vowel in "lookers" is long, pronounced as "[eə]," while the vow
+
+_______________________________________________________
+
+['no', 'loynd', 'olinde', 'does', 'not', 'consist', 'of', 'identical', 'consonant', 'sounds', 'but', 'different', 'vowel', 'sounds', 'the']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? loynd-olinde
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? loynd-olinde
+<|assistant|>
+No, "loynd-olinde" does not consist of identical consonant sounds but different vowel sounds. 
+
+The words you have listed are two separate phrases: 
+
+1. "loynd" (l as in "ligh") has the consonant sounds [l], [o], [o], and [n]. The first [l] and the last [n] are voiced, while the others are unvoiced.
+2. "olinde"
+
+_______________________________________________________
+
+['no', 'leake', 'and', 'elcotel', 'do', 'not', 'have', 'identical', 'consonant', 'sounds', 'and', 'different', 'vowel', 'sounds', 'here']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? leake-elcotel
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? leake-elcotel
+<|assistant|>
+No, "leake" and "elcotel" do not have identical consonant sounds and different vowel sounds.
+
+Here's a breakdown of the consonant sounds and vowel sounds in each word:
+
+* "leake": L, E, C, K
+* "elcotel": E, L, O, T, E
+
+The most notable difference is that "elcotel" has one more consonant sound (T) compared to "le
+
+_______________________________________________________
+
+['no', 'gama', 'and', 'primeaux', 'do', 'not', 'have', 'exactly', 'identical', 'consonant', 'sounds', 'but', 'different', 'vowel', 'sounds']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? gama-primeaux
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? gama-primeaux
+<|assistant|>
+No, "gama" and "primeaux" do not have exactly identical consonant sounds but different vowel sounds. Here's a breakdown of the consonants in each word:
+
+1. "gama" has a consonant cluster consisting of a plosive (g) followed by a nasal (m) with an audible release (a) or glide (m) in the middle of the word.
+
+2. "primeaux" starts with a plos
+
+_______________________________________________________
+
+['yes', 'muske', 'majeske', 'has', 'identical', 'consonant', 'sounds', 'but', 'different', 'vowel', 'sounds', 'here', 's', 'a', 'breakdown']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? muske-majeske
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? muske-majeske
+<|assistant|>
+Yes, "muske-majeske" has identical consonant sounds but different vowel sounds.
+
+Here's a breakdown of the consonant and vowel sounds in each word:
+
+* Muske: M (mutter) U (o) S (s) K (k)
+* Majeske: M (m) A (ae) S (s) J (j) E (e) S (k)
+
+In "muske-ma
+
+_______________________________________________________
+
+['yes', 'the', 'words', 'air', 'and', 'rood', 'have', 'identical', 'consonant', 'sounds', 'but', 'different', 'vowel', 'sounds', 'the']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? aird-rood
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? aird-rood
+<|assistant|>
+Yes, the words "air" and "rood" have identical consonant sounds but different vowel sounds. The consonant sound in both words is /r/, but the vowel sound in "air" is a long /i:/ sound, while the vowel sound in "rood" is a long /u:/ sound. Additionally, the "r" in both words is voiced, meaning the vibrating parts of the speech tissue (larynx and cords) are audible.
+
+_______________________________________________________
+
+['yes', 'the', 'words', 'immel', 'and', 'müller', 'in', 'german', 'and', 'imma', 'and', 'uller', 'in', 'spanish', 'are']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? immel-muller
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? immel-muller
+<|assistant|>
+Yes, the words "immel" and "müller" in German, and "imma" and "uller" in Spanish, are examples of words with identical consonant sounds but different vowel sounds.
+
+In German, "immel" has the consonant sound /ˈɪməl/, and "Müller" has the consonant sound /ˈʋɛlər/. Similarly, in Spanish, "immel" has the cons
+
+_______________________________________________________
+
+['yes', 'barstow', 'and', 'braced', 'are', 'examples', 'of', 'words', 'with', 'identical', 'consonant', 'sounds', 'but', 'different', 'vowel']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? barstow-braced
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? barstow-braced
+<|assistant|>
+Yes, "barstow" and "braced" are examples of words with identical consonant sounds but different vowel sounds. In "barstow", the consonant sounds include:
+
+* /b/ (b)
+* /r/ (r)
+* /s/ (s)
+
+The vowel sound, on the other hand, is /æ/, as in "cat."
+
+In "braced", the consonant sounds include:
+
+
+
+_______________________________________________________
+
+['no', 'sidey', 'hehman', 'does', 'not', 'have', 'identical', 'consonant', 'sounds', 'but', 'different', 'vowel', 'sounds', 'let', 's']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? sidey-hehman
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? sidey-hehman
+<|assistant|>
+No, "sidey-hehman" does not have identical consonant sounds but different vowel sounds. Let's break it down:
+
+1. "Side" and "sheman" both start with the consonant sound "s," followed by a vowel sound ("e" in "e" and "e" in "e").
+
+2. The first "i" in "side" sounds like the vowel sound in "y," while "i" in "
+
+_______________________________________________________
+
+['yes', 'saudi', 'and', 'koehn', 'have', 'identical', 'consonant', 'sounds', 'but', 'different', 'vowel', 'sounds', 'in', 'saudi', 'the']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? saudi-koehne
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? saudi-koehne
+<|assistant|>
+Yes, "saudi" and "koehn" have identical consonant sounds but different vowel sounds. In "saudi," the consonants /s/ and /t/ are both presented with a single blowing blow (or plosive) stop, whereas in "koehn," the consonants /k/ and /o/ are both presented with a single fricative (or continuous stop) sound. The vowel in "saudi" is pronounced with
+
+_______________________________________________________
+
+['no', 'shula', 'and', 'excelling', 'do', 'not', 'have', 'identical', 'consonant', 'sounds', 'but', 'different', 'vowel', 'sounds', 'let']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? shula-excelling
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? shula-excelling
+<|assistant|>
+No, "shula" and "excelling" do not have identical consonant sounds but different vowel sounds. Let's break it down:
+
+1. Sh: The "sh" sound in both words is made by blocking the air flow from the tongue to the mouth passage and releasing it with a blast of air, forming a "sh" sound. However, the tongue positions are different: in "shula", the tongue remains in the same position in the mouth during the
+
+_______________________________________________________
+
+['yes', 'the', 'words', 'fires', 'and', 'phase', 'have', 'identical', 'consonant', 'sounds', 'but', 'different', 'vowel', 'sounds', 'the']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? fires-phase
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? fires-phase
+<|assistant|>
+Yes, the words "fires" and "phase" have identical consonant sounds but different vowel sounds. The consonant sounds in "fires" are: /f/ (fo), /љ r/ (ar), /ɛ/ (æ) and /ɪ/ (eɪ); while in "phase" the consonant sounds are: /æ dʒeɪz/ (juhz).
+
+Meanwhile, the vowel sounds in "fires
+
+_______________________________________________________
+
+['yes', 'the', 'words', 'blotter', 'and', 'balletto', 'have', 'identical', 'consonant', 'sounds', 'but', 'different', 'vowel', 'sounds', 'the']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? blotter-balletto
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? blotter-balletto
+<|assistant|>
+Yes, the words "blotter" and "balletto" have identical consonant sounds but different vowel sounds.
+
+The consonant sounds in the words are:
+
+* B: Blotter
+* L: Balletto
+
+The vowel sounds, on the other hand, are different:
+
+* E: Blotter
+* A: Balletto
+
+Thus, while the words have identical consonant sounds, they differ in their vow
+
+_______________________________________________________
+
+['no', 'guyton', 'and', 'noxso', 'do', 'not', 'have', 'identical', 'consonant', 'sounds', 'but', 'different', 'vowel', 'sounds', 'guyton']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? guyton-noxso
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? guyton-noxso
+<|assistant|>
+No, "guyton" and "noxso" do not have identical consonant sounds but different vowel sounds.
+
+"Guyton" has the following consonant sounds:
+
+* G - silent, only present in the final "g"
+* Y - a sound made by opening the mouth wide and making a yee-yee sound
+* U - a sound made by rounding the lips, like in the word "out"
+* T - a hard,
+
+_______________________________________________________
+
+['yes', 'the', 'words', 'hymen', 'and', 'jammer', 'have', 'identical', 'consonant', 'sounds', 'but', 'different', 'vowel', 'sounds', 'the']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? hymen-jammer
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? hymen-jammer
+<|assistant|>
+Yes, the words "hymen" and "jammer" have identical consonant sounds but different vowel sounds. The consonant sounds in both words are:
+
+* Y: quiet, unreleased
+* H: a voiceless obstruent, with no apparent place of articulation (palato-alveolar)
+* U: unrounded vowel, a low-mid back unrounded vowel, also known as [ʊ]
+* M: a
+
+_______________________________________________________
+
+['no', 'ashley', 'and', 'nexis', 'do', 'not', 'have', 'identical', 'consonant', 'sounds', 'but', 'different', 'vowel', 'sounds', 'here']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? ashley-enix
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? ashley-enix
+<|assistant|>
+No, "ashley" and "nexis" do not have identical consonant sounds but different vowel sounds. Here's a breakdown of the phonetic representation of each word:
+
+* "Ashley" has:
+   + /ə/ (the vowel in "o") is a central open front unrounded vowel.
+   + /s/ (the fricative consonant) is pronounced with the tongue closer to the roof of the mouth than in "ch
+
+_______________________________________________________
+
+['no', 'hergert', 'and', 'kain', 'do', 'not', 'have', 'identical', 'consonant', 'sounds', 'but', 'different', 'vowel', 'sounds', 'they']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? hergert-kain
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? hergert-kain
+<|assistant|>
+No, "hergert" and "kain" do not have identical consonant sounds but different vowel sounds. They are spelled differently and pronounced differently as well:
+
+- "Hergert" has the following pronunciation: /ɡɛrɡɛt/
+  Consonants:
+  - Plosive: /r/
+  - fricative: /ɣ/
+  - plosive: /g/
+  
+
+_______________________________________________________
+
+['no', 'knicks', 'smolens', 'does', 'not', 'contain', 'words', 'with', 'identical', 'consonant', 'sounds', 'but', 'different', 'vowel', 'sounds']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? knicks'-smolen
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? knicks'-smolen
+<|assistant|>
+No, "knicks"-"smolens" does not contain words with identical consonant sounds but different vowel sounds. The words "knicks" and "smolens" both have the same consonant sounds and differ only in their vowel sounds. "Knicks" has a /n/ sound, an /ik/ sounds, and a /e/ sound, while "smolens" has a /kn/ sound, an /s/ sound, and a /
+
+_______________________________________________________
+
+['yes', 'the', 'words', 'smoot', 'and', 'summit', 'have', 'identical', 'consonant', 'sounds', 'but', 'different', 'vowel', 'sounds', 'the']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? smoot-summit
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? smoot-summit
+<|assistant|>
+Yes, the words "smoot" and "summit" have identical consonant sounds but different vowel sounds.
+
+The consonant sounds in the words are:
+
+* M: in both words
+* S: present in both words (but has different sounds in each word)
+* M: present in both words
+* T: present in both words
+* O: present in both words
+
+The vowel sounds, on the other hand, are:
+
+
+
+_______________________________________________________
+
+['yes', 'the', 'words', 'berber', 'and', 'baba', 'have', 'identical', 'consonant', 'sounds', 'but', 'different', 'vowel', 'sounds', 'berber']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? berber-baba
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? berber-baba
+<|assistant|>
+Yes, the words "berber" and "baba" have identical consonant sounds but different vowel sounds. "Berber" and "baba" are both language varieties of the Berber language, which is spoken by the Berber people.
+
+In the word "berber," the consonant sounds are:
+
+* B as in "bee"
+* é as in "éee" (as in "é" with a rounded vowel)
+* b
+
+_______________________________________________________
+
+['no', 'the', 'words', 'curtis', 'and', 'kites', 'do', 'not', 'have', 'identical', 'consonant', 'sounds', 'and', 'different', 'vowel']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? curtis'-kites
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? curtis'-kites
+<|assistant|>
+No, the words "curtis' and "kites" do not have identical consonant sounds and different vowel sounds.
+
+"Curtis" has the consonant sounds "c" and "t" in every position, and the vowel sound is "u" as in "cut."
+
+"Kites" has the consonant sounds "k" and "t" in every position, and the vowel sound is "i" as in "bit."
+
+
+
+_______________________________________________________
+
+['no', 'foth', 'fauth', 'doesn', 't', 'meet', 'the', 'criteria', 'for', 'identical', 'consonant', 'sounds', 'but', 'different', 'vowel']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? foth-fauth
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? foth-fauth
+<|assistant|>
+No, "foth-fauth" doesn't meet the criteria for identical consonant sounds but different vowel sounds. Instead, it displays non-identical consonant sounds with identical vowel sounds:
+
+- "foth" has "f" and "t" consonants with an identical vowel sound.
+- "fauth" has "f" and "t" consonants with the same vowel sound, which is a long "u" sound.
+
+_______________________________________________________
+
+['yes', 'sowed', 'and', 'sheman', 'have', 'identical', 'consonant', 'sounds', 'but', 'different', 'vowel', 'sounds', 'sowed', 'has', 'the']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? sowed-hehman
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? sowed-hehman
+<|assistant|>
+Yes, "sowed" and "sheman" have identical consonant sounds but different vowel sounds.
+
+"Sowed" has the consonant sounds /s/ and /w/, while "sheman" has the consonant sounds /s/ and /m/. The vowel sounds in both words are different. "Sowed" has a /ɑ/ vowel, while "sheman" has a /i/ vowel.
+
+It's
+
+_______________________________________________________
+
+['no', 'gemmer', 'and', 'incase', 'do', 'not', 'have', 'identical', 'consonant', 'sounds', 'but', 'different', 'vowel', 'sounds', 'in']
+
+PROMPT: 
+Do these words have identical consonant sounds but different vowel sounds? gemmer-incase
+
+ANSWER: 
+<|user|>
+Do these words have identical consonant sounds but different vowel sounds? gemmer-incase
+<|assistant|>
+No, "gemmer" and "incase" do not have identical consonant sounds but different vowel sounds.
+
+In "gemmer," the consonant sounds are: g, m, e, r
+The vowel sound is: a
+
+In "incase," the consonant sounds are: i, n, c, s
+The vowel sound is: a
+
+So, there are no identical consonant sounds but different vowel sounds in "gemmer
+
+_______________________________________________________

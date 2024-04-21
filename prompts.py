@@ -1,8 +1,8 @@
 MODEL_NAMES = {
-    "llama2": "meta-llama/Llama-2-7b-chat-hf",
+    "llama2": "meta-llama/Llama-2-7b-chat-hf", # DONE!
     "llama3": "meta-llama/Meta-Llama-3-8B",
-    "crystal": "LLM360/CrystalChat",
-    "olmo": "allenai/OLMo-7B"
+    "crystal": "LLM360/CrystalChat", # DONE!
+    "olmo": "allenai/OLMo-7B-Instruct"
 }
 
 
@@ -45,13 +45,17 @@ word1 = "bean"
 word2 = "whale"
 
 def get_prompt(model_family, prompt_type, rhyme_type, word1, word2):
-    prompt_prefix = SYSTEM_START_PROMPTS[model_family]
-    prompt_suffix = SYSTEM_PROMPT_ENDINGS[model_family]
+
+    if model_family in ["llama2", "cyrstal"]:
+        prompt_prefix = SYSTEM_START_PROMPTS[model_family]
+        prompt_suffix = SYSTEM_PROMPT_ENDINGS[model_family]
 
 
-    prompt = prompt_prefix + RHYME_PROMPTS[prompt_type][rhyme_type] + f"{word1}-{word2}" + prompt_suffix
+        prompt = prompt_prefix + RHYME_PROMPTS[prompt_type][rhyme_type] + f"{word1}-{word2}" + prompt_suffix
+    
+    else: # For Llama3 and Olmo, we use tokenizer.apply_chat_template!
 
-    return prompt
+        return RHYME_PROMPTS[prompt_type][rhyme_type] + f"{word1}-{word2}"
 
 def clean_answer(model_family, answer, prompt):
 
@@ -61,12 +65,24 @@ def clean_answer(model_family, answer, prompt):
         answer = answer.removeprefix(prompt)
         return answer.strip()
 
-    if model_family in ["llama2", "llama3"]:
+    elif model_family == "llama2":
         # print("CLEANUP!")
         prompt = prompt.replace("<s>", " ")
         answer = answer.replace("<s><s> ", " ")
         answer = answer.removeprefix(prompt)
         return answer.strip()
+
+    elif model_family == "llama3":
+        answer = answer.split("<|start_header_id|>assistant<|end_header_id|>")[1]
+        answer = answer.replace("\n", "")
+        return answer.strip()
+    
+    elif model_family == "olmo":
+        # print(answer)
+        answer = answer.split("<|assistant|>")[1]
+        answer = answer.replace("\n", "")
+        return answer.strip()
+
     
     raise Exception("Didn't edit!!!!")
 
@@ -80,4 +96,4 @@ def clean_answer(model_family, answer, prompt):
 #              answer=A,
 #              prompt=P))
 
-print(get_prompt("llama3", "title", "assonance", "bot", "cop"))
+# print(get_prompt("llama3", "title", "assonance", "bot", "cop"))

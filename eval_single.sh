@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name=single
-#SBATCH --output=logs/llama2/single.out
-#SBATCH --error=logs/llama2/single.err
+#SBATCH --output=logs/olmo/single.out
+#SBATCH --error=logs/olmo/single.err
 #SBATCH -N 1
 #SBATCH -p shire-general
 #SBATCH -w shire-2-16
@@ -18,8 +18,8 @@ echo "Starting"
 # Your job commands go here
 
 
-python eval.py "llama2" "singlePerfect" "title"
-python eval.py "llama2" "singlePerfect" "description"
+python eval.py "olmo" "singlePerfect" "title"
+python eval.py "olmo" "singlePerfect" "description"
 echo "SINGLE PERFECT DONE!!"
 
 

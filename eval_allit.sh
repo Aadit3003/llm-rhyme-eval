@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name=alliterative
-#SBATCH --output=logs/crystal/alliterative.out
-#SBATCH --error=logs/crystal/alliterative.err
+#SBATCH --output=logs/olmo/alliterative.out
+#SBATCH --error=logs/olmo/alliterative.err
 #SBATCH --partition=general
 #SBATCH --nodes=1
 #SBATCH --gres=gpu:A6000:1
@@ -18,8 +18,8 @@ echo "Starting"
 
 
 
-# python eval.py "crystal" "alliterative" "title"
-python eval.py "crystal" "alliterative" "description"
+python eval.py "olmo" "alliterative" "title"
+python eval.py "olmo" "alliterative" "description"
 echo "ALLITERATIVE DONE!!"
 
 

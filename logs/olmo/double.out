@@ -4,13 +4,9 @@ Token will not been saved to git credential helper. Pass `add_to_git_credential=
 Token is valid (permission: write).
 Your token has been saved to /home/aaditd/.cache/huggingface/token
 Login successful
-(0, 0, 1, 0, 1, 0, 1, 1, 1, 0)
-[('haman', 'arseneault'), ('connery', 'orson'), ('freels', 'beales'), ('alleco', 'germe'), ('unaware', 'blair'), ('scholl', 'electoral'), ('klich', 'tritch'), ('gisclair', 'prepare'), ('courville', 'drill'), ('saudi', "gettin'")]
 Token will not been saved to git credential helper. Pass `add_to_git_credential=True` if you want to set the git credential as well.
 Token is valid (permission: write).
 Your token has been saved to /home/aaditd/.cache/huggingface/token
 Login successful
-(0, 0, 0, 0, 1, 1, 1, 1, 1, 0)
-[('canney', 'breighner'), ('sader', 'obryan'), ('suder', 'brawny'), ('hermann', 'health'), ('courville', 'drill'), ('freels', 'beales'), ('unaware', 'blair'), ('klich', 'tritch'), ('gisclair', 'prepare'), ("knicks'", 'smolen')]
-SINGLE PERFECT DONE!!
+DOUBLE PERFECT DONE!!
 ALL DONE!!
