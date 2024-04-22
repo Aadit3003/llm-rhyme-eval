@@ -1,11 +1,12 @@
 #!/bin/bash
-#SBATCH --job-name=alliterative
-#SBATCH --output=logs/llama3/alliterative.out
-#SBATCH --error=logs/llama3/alliterative.err
-#SBATCH --partition=general
-#SBATCH --nodes=1
-#SBATCH --gres=gpu:v100:2
-#SBATCH --time 08:00:00 
+#SBATCH --job-name=ol_alliterative
+#SBATCH --output=logs/olmo/alliterative.out
+#SBATCH --error=logs/olmo/alliterative.err
+#SBATCH -N 1
+#SBATCH -p shire-general
+#SBATCH --gres=gpu:A100_80GB:2
+#SBATCH --mem=32G
+#SBATCH --time=0-08:00:00 
 
 echo "LOADING THE ENVIRONMENT"
 source ~/.bashrc
@@ -18,8 +19,8 @@ echo "Starting"
 
 
 
-python eval.py "llama3" "alliterative" "title"
-python eval.py "llama3" "alliterative" "description"
+python eval.py "olmo" "alliterative" "title"
+python eval.py "olmo" "alliterative" "description"
 echo "ALLITERATIVE DONE!!"
 
 

@@ -1,7 +1,0 @@
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:08<00:08,  8.02s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:10<00:00,  5.00s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:10<00:00,  5.45s/it]
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:04<00:04,  4.69s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  2.86s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  3.14s/it]
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:08<00:08,  8.45s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:11<00:00,  5.15s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:11<00:00,  5.65s/it]
-Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [01:12<01:12, 72.14s/it]Loading checkpoint shards: 100%|██████████| 2/2 [01:35<00:00, 43.25s/it]Loading checkpoint shards: 100%|██████████| 2/2 [01:35<00:00, 47.58s/it]
-slurmstepd: error: Unable to send job complete message: Unable to contact slurm controller (connect failure)
-slurmstepd: error: Unable to send job complete message: Unable to contact slurm controller (connect failure)
-slurmstepd: error: Unable to send job complete message: Unable to contact slurm controller (connect failure)

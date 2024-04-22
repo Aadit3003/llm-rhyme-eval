@@ -1,0 +1,364 @@
+{'click': ['k', 'l', 'I1', 'k'], 'kelk': ['k', 'E1', 'l', 'k']}
+{'pleitte': ['p', 'l', 'K1', 't', '@0'], 'poelt': ['p', 'u1', 'l', 't']}
+{'aangerist': ['a1', 'N', 'G', '@0', 'r', 'I0', 's', 't'], 'onguurst': ['O0', 'N', 'G', 'y1', 'r', 's', 't']}
+{'onheil': ['O1', 'n', 'h', 'K0', 'l'], 'inhalen': ['I1', 'n', 'h', 'a0', 'l', '@0']}
+{'opslaat': ['O1', 'p', 's', 'l', 'a0', 't'], 'absoluut': ['A0', 'p', 's', 'o0', 'l', 'y1', 't']}
+{'kun': ['k', '}1', 'n'], 'koen': ['k', 'u1', 'n']}
+{'fleuren': ['f', 'l', '|1', 'r', '@0'], 'foulard': ['f', 'u0', 'l', 'a1', 'r']}
+{'knoei': ['k', 'n', 'u1', 'j'], 'knieen': ['k', 'n', 'i1', 'j', '@0']}
+{'kloek': ['k', 'l', 'u1', 'k'], 'kelk': ['k', 'E1', 'l', 'k']}
+{'schijt': ['s', 'x', 'K1', 't'], 'scheten': ['s', 'x', 'e1', 't', '@0']}
+{'noveer': ['n', 'o0', 'v', 'e1', 'r'], 'naievere': ['n', 'a0', 'i1', 'v', '@0', 'r', '@0']}
+{"aorta's": ['a0', 'O1', 'r', 't', 'a0', 's'], 'rits': ['r', 'I1', 't', 's']}
+{'hei': ['h', 'K1'], 'oho': ['o0', 'h', 'o1']}
+{'afkaad': ['A1', 'f', 'k', 'a0', 't'], 'affect': ['A0', 'f', 'E1', 'k', 't']}
+{'barnt': ['b', 'A1', 'r', 'n', 't'], 'burend': ['b', 'y1', 'r', '@0', 'n', 't']}
+{'prijst': ['p', 'r', 'K1', 's', 't'], 'persten': ['p', 'E1', 'r', 's', 't', '@0']}
+{'funds': ['f', '}1', 'n', 't', 's'], 'fanatische': ['f', 'a0', 'n', 'a1', 't', 'i0', 's', '@0']}
+{'rijder': ['r', 'K1', 'd', '@0', 'r'], 'radeer': ['r', 'a0', 'd', 'e1', 'r']}
+{'invetten': ['I1', 'n', 'v', 'E0', 't', '@0'], 'navet': ['n', 'a0', 'v', 'E1', 't']}
+{'brommers': ['b', 'r', 'O1', 'm', '@0', 'r', 's'], 'bramraas': ['b', 'r', 'A1', 'm', 'r', 'a0', 's']}
+{'nacht': ['n', 'A1', 'x', 't'], 'naoogt': ['n', 'a1', 'o0', 'x', 't']}
+{'uitwijst': ['L1', 't', 'w', 'K0', 's', 't'], 'twisten': ['t', 'w', 'I1', 's', 't', '@0']}
+{'eesten': ['e1', 's', 't', '@0'], 'st': ['s', 't']}
+{'unicaten': ['y0', 'n', 'i0', 'k', 'a1', 't', '@0'], 'nekt': ['n', 'E1', 'k', 't']}
+{'ijdele': ['K1', 'd', '@0', 'l', '@0'], 'dal': ['d', 'A1', 'l']}
+{'tot': ['t', 'O1', 't'], 'uiteet': ['L1', 't', 'e0', 't']}
+{'gros': ['x', 'r', 'O1', 's'], 'gerace': ['x', '@0', 'r', 'e1', 's']}
+{'krotter': ['k', 'r', 'O1', 't', '@0', 'r'], 'karteer': ['k', 'A0', 'r', 't', 'e1', 'r']}
+{'kruis': ['k', 'r', 'L1', 's'], 'kras': ['k', 'r', 'A1', 's']}
+{'verbeurd': ['v', '@0', 'r', 'b', '|1', 'r', 't'], 'voorboort': ['v', 'o1', 'r', 'b', 'o0', 'r', 't']}
+{'kina': ['k', 'i1', 'n', 'a0'], 'kenau': ['k', 'e1', 'n', 'M0']}
+{'pens': ['p', 'E1', 'n', 's'], 'panisch': ['p', 'a1', 'n', 'i0', 's']}
+{'turfvuren': ['t', '}1', 'r', 'f', 'y0', 'r', '@0'], 'tarifeer': ['t', 'a0', 'r', 'i0', 'f', 'e1', 'r']}
+{'toon': ['t', 'o1', 'n'], 'tinnen': ['t', 'I1', 'n', '@0']}
+{'aflieten': ['A1', 'f', 'l', 'i0', 't', '@0'], 'flute': ['f', 'l', 'y1', 't']}
+{'poreust': ['p', 'o0', 'r', '|1', 's', 't'], 'persten': ['p', 'E1', 'r', 's', 't', '@0']}
+{'offset': ['O1', 'f', 's', 'E0', 't'], 'feestten': ['f', 'e1', 's', 't', '@0']}
+{'aderen': ['a1', 'd', '@0', 'r', '@0'], 'door': ['d', 'o1', 'r']}
+{'ontsmet': ['O0', 'n', 't', 's', 'm', 'E1', 't'], 'antisemieten': ['A0', 'n', 't', 'i0', 's', '@0', 'm', 'i1', 't', '@0']}
+{'bijknipt': ['b', 'K1', 'k', 'n', 'I0', 'p', 't'], 'beknopt': ['b', '@0', 'k', 'n', 'O1', 'p', 't']}
+{'balata': ['b', 'a0', 'l', 'a1', 't', 'a0'], 'beoliet': ['b', '@0', 'o1', 'l', 'i0', 't']}
+{'indubbend': ['I1', 'n', 'd', '}0', 'b', '@0', 'n', 't'], 'ontbond': ['O0', 'n', 'd', 'b', 'O1', 'n', 't']}
+{'menu': ['m', 'e0', 'n', 'y1'], 'mijnen': ['m', 'K1', 'n', '@0']}
+{'roken': ['r', 'o1', 'k', '@0'], 'erica': ['e1', 'r', 'i0', 'k', 'a0']}
+{'esters': ['E1', 's', 't', '@0', 'r', 's'], 'oestrus': ['|1', 's', 't', 'r', '}0', 's']}
+{'gaand': ['x', 'a1', 'n', 't'], 'genutte': ['x', '@0', 'n', '}1', 't', '@0']}
+{'Papoes': ['p', 'a0', 'p', 'u1', 's'], 'pipse': ['p', 'I1', 'p', 's', '@0']}
+{'aanbijt': ['a1', 'm', 'b', 'K0', 't'], 'inboet': ['I1', 'm', 'b', 'u0', 't']}
+{'doods': ['d', 'o1', 't', 's'], 'duts': ['d', '}1', 't', 's']}
+{'rasvee': ['r', 'A1', 's', 'f', 'e0'], 'recief': ['r', '@0', 's', 'i1', 'f']}
+{'doorsta': ['d', 'o1', 'r', 's', 't', 'a0'], 'doorreisd': ['d', 'o0', 'r', 'K1', 's', 't']}
+{'naievere': ['n', 'a0', 'i1', 'v', '@0', 'r', '@0'], 'aanvuur': ['a1', 'n', 'v', 'y0', 'r']}
+{'salet': ['s', 'a0', 'l', 'E1', 't'], 'sleedt': ['s', 'l', 'e1', 't']}
+{'parament': ['p', 'a0', 'r', 'a0', 'm', 'E1', 'n', 't'], 'pramend': ['p', 'r', 'a1', 'm', '@0', 'n', 't']}
+{'afrees': ['A1', 'f', 'r', 'e0', 's'], 'farussen': ['f', 'a1', 'r', '}0', 's', '@0']}
+{'neukten': ['n', '|1', 'k', 't', '@0'], 'nekt': ['n', 'E1', 'k', 't']}
+{'vilten': ['v', 'I1', 'l', 't', '@0'], 'volta': ['v', 'O1', 'l', 't', 'a0']}
+{'potteus': ['p', 'O0', 't', '|1', 's'], 'pythische': ['p', 'i1', 't', 'i0', 's', '@0']}
+{'dierbaardere': ['d', 'i1', 'r', 'b', 'a0', 'r', 'd', '@0', 'r', '@0'], 'doorborduur': ['d', 'o1', 'r', 'b', 'O0', 'r', 'd', 'y0', 'r']}
+{'oprook': ['O1', 'p', 'r', 'o0', 'k'], 'prijken': ['p', 'r', 'K1', 'k', '@0']}
+{'wangklieren': ['w', 'A1', 'N', 'k', 'l', 'i0', 'r', '@0'], 'wijnkleur': ['w', 'K1', 'N', 'k', 'l', '|0', 'r']}
+{'kras': ['k', 'r', 'A1', 's'], 'kruiassen': ['k', 'r', 'L1', 'A0', 's', '@0']}
+{'wil': ['w', 'I1', 'l'], 'wal': ['w', 'A1', 'l']}
+{'openrukte': ['o1', 'p', '@0', 'r', '}0', 'k', 't', '@0'], 'prikt': ['p', 'r', 'I1', 'k', 't']}
+{'click': ['k', 'l', 'I1', 'k'], 'kloek': ['k', 'l', 'u1', 'k']}
+{'hutst': ['h', '}1', 't', 's', 't'], 'hitste': ['h', 'I1', 't', 's', 't', '@0']}
+{'inlosten': ['I1', 'n', 'l', 'O0', 's', 't', '@0'], 'onlust': ['O1', 'n', 'l', '}0', 's', 't']}
+{'kopietjes': ['k', 'o0', 'p', 'i1', 't', 'j', '@0', 's'], 'kapotjas': ['k', 'a0', 'p', 'O1', 't', 'j', 'A0', 's']}
+{'beroemen': ['b', '@0', 'r', 'u1', 'm', '@0'], 'braam': ['b', 'r', 'a1', 'm']}
+{'aspot': ['A1', 's', 'p', 'O0', 't'], 'spuiten': ['s', 'p', 'L1', 't', '@0']}
+{'inetsten': ['I1', 'n', 'E0', 't', 's', 't', '@0'], 'ontziet': ['O0', 'n', 't', 's', 'i1', 't']}
+{'bult': ['b', '}1', 'l', 't'], 'beoliet': ['b', '@0', 'o1', 'l', 'i0', 't']}
+{'rechtop': ['r', 'E0', 'x', 't', 'O1', 'p'], 'archetypen': ['A1', 'r', 'x', '@0', 't', 'i0', 'p', '@0']}
+{'borat': ['b', 'o0', 'r', 'A1', 't'], 'berijdt': ['b', '@0', 'r', 'K1', 't']}
+{'printen': ['p', 'r', 'I1', 'n', 't', '@0'], 'prent': ['p', 'r', 'E1', 'n', 't']}
+{'lonten': ['l', 'O1', 'n', 't', '@0'], 'eland': ['e1', 'l', 'A0', 'n', 't']}
+{'koelen': ['k', 'u1', 'l', '@0'], 'colli': ['k', 'O1', 'l', 'i0']}
+{'kloek': ['k', 'l', 'u1', 'k'], 'koelakken': ['k', 'u0', 'l', 'A1', 'k', '@0']}
+{'curator': ['k', 'y0', 'r', 'a1', 't', 'O0', 'r'], 'korter': ['k', 'O1', 'r', 't', '@0', 'r']}
+{'offset': ['O1', 'f', 's', 'E0', 't'], 'afzoodt': ['A1', 'f', 's', 'o0', 't']}
+{'karteer': ['k', 'A0', 'r', 't', 'e1', 'r'], 'korter': ['k', 'O1', 'r', 't', '@0', 'r']}
+{'bijten': ['b', 'K1', 't', '@0'], 'bat': ['b', 'E1', 't']}
+{'theekop': ['t', 'e1', 'k', 'O0', 'p'], 'uitkip': ['L1', 't', 'k', 'I0', 'p']}
+{'licks': ['l', 'I1', 'k', 's'], 'electie': ['e0', 'l', 'E1', 'k', 's', 'i0']}
+{'logt': ['l', 'O1', 'x', 't'], 'lichten': ['l', 'I1', 'x', 't', '@0']}
+{"topi's": ['t', 'o1', 'p', 'i0', 's'], 'autopsie': ['M0', 't', 'O0', 'p', 's', 'i1']}
+{'piekt': ['p', 'i1', 'k', 't'], 'pocket': ['p', 'O1', 'k', '@0', 't']}
+{'veerloon': ['v', 'e1', 'r', 'l', 'o0', 'n'], 'voerlinnen': ['v', 'u1', 'r', 'l', 'I0', 'n', '@0']}
+{'openlaat': ['o1', 'p', '@0', 'l', 'a0', 't'], 'poelt': ['p', 'u1', 'l', 't']}
+{'fot': ['f', 'O1', 't'], 'fouten': ['f', 'M1', 't', '@0']}
+{'prent': ['p', 'r', 'E1', 'n', 't'], 'peurend': ['p', '|1', 'r', '@0', 'n', 't']}
+{'collecte': ['k', 'O0', 'l', 'E1', 'k', 't', '@0'], 'klokt': ['k', 'l', 'O1', 'k', 't']}
+{'saters': ['s', 'a1', 't', '@0', 'r', 's'], 'oestrus': ['|1', 's', 't', 'r', '}0', 's']}
+{'al': ['A1', 'l'], 'li': ['l', 'i1']}
+{'gerst': ['x', 'E1', 'r', 's', 't'], 'geroest': ['x', '@0', 'r', 'u1', 's', 't']}
+{'feestten': ['f', 'e1', 's', 't', '@0'], 'afzoodt': ['A1', 'f', 's', 'o0', 't']}
+{'vloekt': ['v', 'l', 'u1', 'k', 't'], 'vlekt': ['v', 'l', 'E1', 'k', 't']}
+{'torst': ['t', 'O1', 'r', 's', 't'], 'trassaat': ['t', 'r', 'A0', 's', 'a1', 't']}
+{'aanstaar': ['a1', 'n', 's', 't', 'a0', 'r'], 'instuur': ['I1', 'n', 's', 't', 'y0', 'r']}
+{'oprook': ['O1', 'p', 'r', 'o0', 'k'], 'park': ['p', 'A1', 'r', 'k']}
+{'inmijnt': ['I1', 'n', 'm', 'K0', 'n', 't'], 'aanmuntten': ['a1', 'n', 'm', '}0', 'n', 't', '@0']}
+{'inetste': ['I1', 'n', 'E0', 't', 's', 't', '@0'], 'ontziet': ['O0', 'n', 't', 's', 'i1', 't']}
+{'skie': ['s', 'k', 'i1'], 'sic': ['s', 'I1', 'k']}
+{'vloekt': ['v', 'l', 'u1', 'k', 't'], 'vlakten': ['v', 'l', 'A1', 'k', 't', '@0']}
+{'graad': ['x', 'r', 'a1', 't'], 'gorten': ['x', 'O1', 'r', 't', '@0']}
+{'russen': ['r', '}1', 's', '@0'], 'ras': ['r', 'A1', 's']}
+{'luchtten': ['l', '}1', 'x', 't', '@0'], 'logt': ['l', 'O1', 'x', 't']}
+{'toer': ['t', 'u1', 'r'], 'etteren': ['E1', 't', '@0', 'r', '@0']}
+{'park': ['p', 'A1', 'r', 'k'], 'prijken': ['p', 'r', 'K1', 'k', '@0']}
+{'belaadt': ['b', '@0', 'l', 'a1', 't'], 'bult': ['b', '}1', 'l', 't']}
+{'brijnt': ['b', 'r', 'K1', 'n', 't'], 'burend': ['b', 'y1', 'r', '@0', 'n', 't']}
+{'feilt': ['f', 'K1', 'l', 't'], 'aflieten': ['A1', 'f', 'l', 'i0', 't', '@0']}
+{'onwijst': ['O0', 'n', 'w', 'K1', 's', 't'], 'nauwste': ['n', 'M1', 'w', 's', 't', '@0']}
+{'modi': ['m', 'o1', 'd', 'i0'], 'midden': ['m', 'I1', 'd', '@0']}
+{'parabool': ['p', 'a0', 'r', 'a0', 'b', 'o1', 'l'], 'preibollen': ['p', 'r', 'K1', 'b', 'O0', 'l', '@0']}
+{'aanpakken': ['a1', 'm', 'p', 'A0', 'k', '@0'], 'meepik': ['m', 'e1', 'p', 'I0', 'k']}
+{'y-assen': ['K1', 'A0', 's', '@0'], 'ace': ['e1', 's']}
+{'vesten': ['v', 'E1', 's', 't', '@0'], 'vast': ['v', 'A1', 's', 't']}
+{'houdt': ['h', 'M1', 't'], 'heet': ['h', 'e1', 't']}
+{'aimabele': [')0', 'm', 'a1', 'b', '@0', 'l', '@0'], 'mobiel': ['m', 'o0', 'b', 'i1', 'l']}
+{'Zweed': ['z', 'w', 'e1', 't'], 'zwad': ['z', 'w', 'A1', 't']}
+{'oppikten': ['O1', 'p', 'I0', 'k', 't', '@0'], 'piekt': ['p', 'i1', 'k', 't']}
+{"extra's": ['E1', 'k', 's', 't', 'r', 'a0', 's'], "case-story's": ['k', 'e1', 's', 't', 'o0', 'r', 'i0', 's']}
+{'lal': ['l', 'A1', 'l'], 'lila': ['l', 'i1', 'l', 'a0']}
+{'balata': ['b', 'a0', 'l', 'a1', 't', 'a0'], 'bult': ['b', '}1', 'l', 't']}
+{'pleitte': ['p', 'l', 'K1', 't', '@0'], 'peult': ['p', '|1', 'l', 't']}
+{'ziedt': ['z', 'i1', 't'], 'zotte': ['z', 'O1', 't', '@0']}
+{'uitstaand': ['L1', 't', 's', 't', 'a0', 'n', 't'], 'toestond': ['t', 'u1', 's', 't', 'O0', 'n', 't']}
+{'eland': ['e1', 'l', 'A0', 'n', 't'], 'leunt': ['l', '|1', 'n', 't']}
+{'omstikken': ['O0', 'm', 's', 't', 'I1', 'k', '@0'], 'messteek': ['m', 'E1', 's', 't', 'e0', 'k']}
+{'aanvetten': ['a1', 'n', 'v', 'E0', 't', '@0'], 'navet': ['n', 'a0', 'v', 'E1', 't']}
+{'buren': ['b', 'y1', 'r', '@0'], 'bourree': ['b', 'u0', 'r', 'e1']}
+{'erratisch': ['E0', 'r', 'a1', 't', 'i0', 's'], 'rits': ['r', 'I1', 't', 's']}
+{'arena': ['a0', 'r', 'e1', 'n', 'a0'], 'ruin': ['r', 'L1', 'n']}
+{'dakterrassen': ['d', 'A1', 'k', 't', 'E0', 'r', 'A0', 's', '@0'], 'doctors': ['d', 'O1', 'k', 't', 'O0', 'r', 's']}
+{'inwoon': ['I1', 'n', 'w', 'o0', 'n'], 'aanwen': ['a1', 'n', 'w', 'E0', 'n']}
+{'modi': ['m', 'o1', 'd', 'i0'], 'maden': ['m', 'a1', 'd', '@0']}
+{'roekoe': ['r', 'u0', 'k', 'u1'], 'rik': ['r', 'I1', 'k']}
+{'uitwijst': ['L1', 't', 'w', 'K0', 's', 't'], 'twistten': ['t', 'w', 'I1', 's', 't', '@0']}
+{'ezelen': ['e1', 'z', '@0', 'l', '@0'], 'zuil': ['z', 'L1', 'l']}
+{'autosport': ['M1', 't', 'o0', 's', 'p', 'O0', 'r', 't'], 'uitspruiten': ['L1', 't', 's', 'p', 'r', 'L0', 't', '@0']}
+{'epos': ['e1', 'p', 'O0', 's'], 'pies': ['p', 'i1', 's']}
+{'metten': ['m', 'E1', 't', '@0'], 'aamt': ['a1', 'm', 't']}
+{'uremie': ['y0', 'r', 'e0', 'm', 'i1'], 'armee': ['A0', 'r', 'm', 'e1']}
+{'bat': ['b', 'E1', 't'], 'bood': ['b', 'o1', 't']}
+{'staaf': ['s', 't', 'a1', 'f'], 'stuf': ['s', 't', '}1', 'f']}
+{'kickt': ['k', 'I1', 'k', 't'], 'kookten': ['k', 'o1', 'k', 't', '@0']}
+{'eiloof': ['K1', 'l', 'o0', 'f'], 'elf': ['E1', 'l', 'f']}
+{'verjaren': ['v', '@0', 'r', 'j', 'a1', 'r', '@0'], 'varieer': ['v', 'a0', 'r', 'i0', 'j', 'e1', 'r']}
+{'smart': ['s', 'm', 'A1', 'r', 't'], 'smeert': ['s', 'm', 'e1', 'r', 't']}
+{'schoffelt': ['s', 'x', 'O1', 'f', '@0', 'l', 't'], 'schuiflood': ['s', 'x', 'L1', 'f', 'l', 'o0', 't']}
+{'oestrus': ['|1', 's', 't', 'r', '}0', 's'], 'struise': ['s', 't', 'r', 'L1', 's', '@0']}
+{'innen': ['I1', 'n', '@0'], 'nee': ['n', 'e1']}
+{'ijsschuit': ['K1', 's', 'x', 'L0', 't'], 'scheten': ['s', 'x', 'e1', 't', '@0']}
+{'opeisten': ['O1', 'p', 'K0', 's', 't', '@0'], 'pust': ['p', '}1', 's', 't']}
+{'bakken': ['b', 'A1', 'k', '@0'], 'boek': ['b', 'u1', 'k']}
+{'pure': ['p', 'y1', 'r', '@0'], 'pro': ['p', 'r', 'o1']}
+{'potteus': ['p', 'O0', 't', '|1', 's'], 'oppoetsen': ['O1', 'p', 'u0', 't', 's', '@0']}
+{'hoes': ['h', 'u1', 's'], 'heuse': ['h', '|1', 's', '@0']}
+{'waan': ['w', 'a1', 'n'], 'won': ['w', 'O1', 'n']}
+{'erratisch': ['E0', 'r', 'a1', 't', 'i0', 's'], "aorta's": ['a0', 'O1', 'r', 't', 'a0', 's']}
+{'ziftten': ['z', 'I1', 'f', 't', '@0'], 'zeeft': ['z', 'e1', 'f', 't']}
+{'tembaarste': ['t', 'E1', 'm', 'b', 'a0', 'r', 's', 't', '@0'], 'uiteenbarst': ['L0', 't', 'e1', 'm', 'b', 'A0', 'r', 's', 't']}
+{'wolluis': ['w', 'O1', 'l', 'L0', 's'], 'wielassen': ['w', 'i1', 'l', 'A0', 's', '@0']}
+{'ronddient': ['r', 'O1', 'n', 'd', 'i0', 'n', 't'], 'rendant': ['r', 'E0', 'n', 'd', 'A1', 'n', 't']}
+{'scheurwol': ['s', 'x', '|1', 'r', 'w', 'O0', 'l'], 'schoorwal': ['s', 'x', 'o1', 'r', 'w', 'A0', 'l']}
+{'parament': ['p', 'a0', 'r', 'a0', 'm', 'E1', 'n', 't'], 'pruimend': ['p', 'r', 'L1', 'm', '@0', 'n', 't']}
+{'nip': ['n', 'I1', 'p'], 'nopen': ['n', 'o1', 'p', '@0']}
+{'peult': ['p', '|1', 'l', 't'], 'poelt': ['p', 'u1', 'l', 't']}
+{'loost': ['l', 'o1', 's', 't'], 'lacet': ['l', 'a0', 's', 'E1', 't']}
+{'kasteel': ['k', 'A0', 's', 't', 'e1', 'l'], 'koestijl': ['k', 'u1', 's', 't', 'K0', 'l']}
+{'stek': ['s', 't', 'E1', 'k'], 'stak': ['s', 't', 'A1', 'k']}
+{'clip': ['k', 'l', 'I1', 'p'], 'kleppen': ['k', 'l', 'E1', 'p', '@0']}
+{'mikken': ['m', 'I1', 'k', '@0'], 'amok': ['a0', 'm', 'O1', 'k']}
+{'erna': ['E0', 'r', 'n', 'a1'], 'arena': ['a0', 'r', 'e1', 'n', 'a0']}
+{'krappere': ['k', 'r', 'A1', 'p', '@0', 'r', '@0'], 'kropaar': ['k', 'r', 'O1', 'p', 'a0', 'r']}
+{'r': ['E1', 'r'], 'eren': ['e1', 'r', '@0']}
+{'omrol': ['O1', 'm', 'r', 'O0', 'l'], 'amorele': ['a0', 'm', 'o0', 'r', 'e1', 'l', '@0']}
+{'snikt': ['s', 'n', 'I1', 'k', 't'], 'snakten': ['s', 'n', 'A1', 'k', 't', '@0']}
+{'schijt': ['s', 'x', 'K1', 't'], 'schatte': ['s', 'x', 'A1', 't', '@0']}
+{'staken': ['s', 't', 'a1', 'k', '@0'], 'stak': ['s', 't', 'A1', 'k']}
+{'rans': ['r', 'A1', 'n', 's'], 'rijns': ['r', 'K1', 'n', 's']}
+{'stek': ['s', 't', 'E1', 'k'], 'staken': ['s', 't', 'a1', 'k', '@0']}
+{'oppijpt': ['O1', 'p', 'K0', 'p', 't'], 'pepita': ['p', 'e0', 'p', 'i1', 't', 'a0']}
+{'rechtop': ['r', 'E0', 'x', 't', 'O1', 'p'], 'archetype': ['A1', 'r', 'x', '@0', 't', 'i0', 'p', '@0']}
+{'kwats': ['k', 'w', 'A1', 't', 's'], 'equatie': ['e0', 'k', 'w', 'a1', 't', 's', 'i0']}
+{'goeddunkt': ['x', 'u1', 'd', '}0', 'N', 'k', 't'], 'gedankte': ['x', '@0', 'd', 'A1', 'N', 'k', 't', '@0']}
+{'verbrod': ['v', '@0', 'r', 'b', 'r', 'O1', 't'], 'voorboort': ['v', 'o1', 'r', 'b', 'o0', 'r', 't']}
+{'kaarsen': ['k', 'a1', 'r', 's', '@0'], 'kruis': ['k', 'r', 'L1', 's']}
+{'schaar': ['s', 'x', 'a1', 'r'], 'schar': ['s', 'x', 'A1', 'r']}
+{'gerst': ['x', 'E1', 'r', 's', 't'], 'gerusten': ['x', '@0', 'r', '}1', 's', 't', '@0']}
+{'grossiert': ['x', 'r', 'O0', 's', 'i1', 'r', 't'], 'grijsaard': ['x', 'r', 'K1', 's', 'a0', 'r', 't']}
+{'prijst': ['p', 'r', 'K1', 's', 't'], 'presten': ['p', 'r', 'E1', 's', 't', '@0']}
+{'preekten': ['p', 'r', 'e1', 'k', 't', '@0'], 'prikt': ['p', 'r', 'I1', 'k', 't']}
+{'moquette': ['m', 'o0', 'k', 'E1', 't', '@0'], 'omkaad': ['O0', 'm', 'k', 'a1', 't']}
+{'iemker': ['i1', 'm', 'k', 'E0', 'r'], 'omkeren': ['O1', 'm', 'k', 'e0', 'r', '@0']}
+{'roemen': ['r', 'u1', 'm', '@0'], 'armee': ['A0', 'r', 'm', 'e1']}
+{'cel': ['s', 'E1', 'l'], 'salut': ['s', 'a0', 'l', 'y1']}
+{'dellen': ['d', 'E1', 'l', '@0'], 'dal': ['d', 'A1', 'l']}
+{'fonds': ['f', 'O1', 'n', 't', 's'], 'fijntes': ['f', 'K1', 'n', 't', '@0', 's']}
+{'pleura': ['p', 'l', '|1', 'r', 'a0'], 'pelorie': ['p', 'e0', 'l', 'o0', 'r', 'i1']}
+{'voord': ['v', 'o1', 'r', 't'], 'vreet': ['v', 'r', 'e1', 't']}
+{'tippend': ['t', 'I1', 'p', '@0', 'n', 't'], 'uitpent': ['L1', 't', 'p', 'E0', 'n', 't']}
+{'waas': ['w', 'a1', 's'], 'wiesen': ['w', 'i1', 's', '@0']}
+{'aanspoel': ['a1', 'n', 's', 'p', 'u0', 'l'], 'inspelen': ['I1', 'n', 's', 'p', 'e0', 'l', '@0']}
+{'vast': ['v', 'A1', 's', 't'], 'veesten': ['v', 'e1', 's', 't', '@0']}
+{'naat': ['n', 'a1', 'A0', 't'], 'netto': ['n', 'E1', 't', 'o0']}
+{'midi': ['m', 'i1', 'd', 'i0'], 'maden': ['m', 'a1', 'd', '@0']}
+{'protte': ['p', 'r', 'O1', 't', '@0'], 'apparaat': ['A0', 'p', 'a0', 'r', 'a1', 't']}
+{'naakt': ['n', 'a1', 'k', 't'], 'neukten': ['n', '|1', 'k', 't', '@0']}
+{'gerst': ['x', 'E1', 'r', 's', 't'], 'geroeste': ['x', '@0', 'r', 'u1', 's', 't', '@0']}
+{'uiteet': ['L1', 't', 'e0', 't'], 'tod': ['t', 'O1', 't']}
+{'force': ['f', 'O1', 'r', 's', '@0'], 'afrees': ['A1', 'f', 'r', 'e0', 's']}
+{'adresseert': ['A0', 'd', 'r', 'E0', 's', 'e1', 'r', 't'], 'drossaard': ['d', 'r', 'O1', 's', 'a0', 'r', 't']}
+{'geest': ['x', 'e1', 's', 't'], 'oogstten': ['o1', 'x', 's', 't', '@0']}
+{'houdt': ['h', 'M1', 't'], 'hoed': ['h', 'u1', 't']}
+{'opluik': ['O1', 'p', 'l', 'L0', 'k'], 'pluk': ['p', 'l', '}1', 'k']}
+{'know-how': ['n', 'o0', 'h', 'M1', 'w'], 'inhuwen': ['I1', 'n', 'h', 'y0', 'w', '@0']}
+{'kenau': ['k', 'e1', 'n', 'M0'], 'koen': ['k', 'u1', 'n']}
+{'oplichten': ['O1', 'p', 'l', 'I0', 'x', 't', '@0'], 'plecht': ['p', 'l', 'E1', 'x', 't']}
+{'witten': ['w', 'I1', 't', '@0'], 'wat': ['w', 'A1', 't']}
+{'hymnisch': ['h', 'I1', 'm', 'n', 'i0', 's'], 'hymens': ['h', 'i1', 'm', '@0', 'n', 's']}
+{'munterij': ['m', '}0', 'n', 't', '@0', 'r', 'K1'], 'monitor': ['m', 'o1', 'n', 'i0', 't', 'O0', 'r']}
+{'aaszak': ['a1', 's', 'A0', 'k'], 'sic': ['s', 'I1', 'k']}
+{'rook': ['r', 'o1', 'k'], 'erica': ['e1', 'r', 'i0', 'k', 'a0']}
+{'apartst': ['a0', 'p', 'A1', 'r', 't', 's', 't'], 'protesten': ['p', 'r', 'o0', 't', 'E1', 's', 't', '@0']}
+{'oploken': ['O1', 'p', 'l', 'o0', 'k', '@0'], 'pluk': ['p', 'l', '}1', 'k']}
+{'oppijpten': ['O1', 'p', 'K0', 'p', 't', '@0'], 'pepita': ['p', 'e0', 'p', 'i1', 't', 'a0']}
+{'aanzetten': ['a1', 'n', 'z', 'E0', 't', '@0'], 'inzit': ['I1', 'n', 'z', 'I0', 't']}
+{'majolica': ['m', 'a0', 'j', 'o1', 'l', 'i0', 'k', 'a0'], 'moeilijk': ['m', 'u1', 'j', 'l', '@0', 'k']}
+{'curator': ['k', 'y0', 'r', 'a1', 't', 'O0', 'r'], 'krotter': ['k', 'r', 'O1', 't', '@0', 'r']}
+{'Euromarkt': ['|1', 'r', 'o0', 'm', 'A0', 'r', 'k', 't'], 'oormerkte': ['o1', 'r', 'm', 'E0', 'r', 'k', 't', '@0']}
+{'asten': ['A1', 's', 't', '@0'], 'st': ['s', 't']}
+{'bette': ['b', 'E1', 't', '@0'], 'bood': ['b', 'o1', 't']}
+{'wanen': ['w', 'a1', 'n', '@0'], 'won': ['w', 'O1', 'n']}
+{'schatte': ['s', 'x', 'A1', 't', '@0'], 'ijsschuit': ['K1', 's', 'x', 'L0', 't']}
+{'schaap': ['s', 'x', 'a1', 'p'], 'schop': ['s', 'x', 'O1', 'p']}
+{'ijdele': ['K1', 'd', '@0', 'l', '@0'], 'deal': ['d', 'i1', 'l']}
+{'polo': ['p', 'o1', 'l', 'o0'], 'peil': ['p', 'K1', 'l']}
+{'piekt': ['p', 'i1', 'k', 't'], 'pikte': ['p', 'I1', 'k', 't', '@0']}
+{'vuurzee': ['v', 'y1', 'r', 'z', 'e0'], 'vrezen': ['v', 'r', 'e1', 'z', '@0']}
+{'laagt': ['l', 'a1', 'x', 't'], 'lichten': ['l', 'I1', 'x', 't', '@0']}
+{'etappe': ['e0', 't', 'A1', 'p', '@0'], 'atopie': ['a0', 't', 'o0', 'p', 'i1']}
+{'slijten': ['s', 'l', 'K1', 't', '@0'], 'sleedt': ['s', 'l', 'e1', 't']}
+{'naakt': ['n', 'a1', 'k', 't'], 'nekt': ['n', 'E1', 'k', 't']}
+{'lonten': ['l', 'O1', 'n', 't', '@0'], 'leunt': ['l', '|1', 'n', 't']}
+{'stol': ['s', 't', 'O1', 'l'], 'staal': ['s', 't', 'a1', 'l']}
+{'brijnt': ['b', 'r', 'K1', 'n', 't'], 'barnt': ['b', 'A1', 'r', 'n', 't']}
+{'spoorrat': ['s', 'p', 'o1', 'r', 'A0', 't'], 'sproeten': ['s', 'p', 'r', 'u1', 't', '@0']}
+{'puurt': ['p', 'y1', 'r', 't'], 'oprijdt': ['O1', 'p', 'r', 'K0', 't']}
+{'vlekt': ['v', 'l', 'E1', 'k', 't'], 'vlakten': ['v', 'l', 'A1', 'k', 't', '@0']}
+{'toque': ['t', 'O1', 'k'], 'taco': ['t', 'a1', 'k', 'o0']}
+{'meeuwen': ['m', 'e1', 'w', '@0'], 'mouw': ['m', 'M1', 'w']}
+{'prijst': ['p', 'r', 'K1', 's', 't'], 'poreust': ['p', 'o0', 'r', '|1', 's', 't']}
+{'rabat': ['r', 'a0', 'b', 'A1', 't'], 'eerbied': ['e1', 'r', 'b', 'i0', 't']}
+{'openlaat': ['o1', 'p', '@0', 'l', 'a0', 't'], 'peult': ['p', '|1', 'l', 't']}
+{'fonds': ['f', 'O1', 'n', 't', 's'], 'fanatische': ['f', 'a0', 'n', 'a1', 't', 'i0', 's', '@0']}
+{'feilt': ['f', 'K1', 'l', 't'], 'afloodt': ['A1', 'f', 'l', 'o0', 't']}
+{'graeci': ['x', 'r', 'e1', 's', 'i0'], 'gros': ['x', 'r', 'O1', 's']}
+{'offset': ['O1', 'f', 's', 'E0', 't'], 'afsta': ['A1', 'f', 's', 't', 'a0']}
+{'oestrus': ['|1', 's', 't', 'r', '}0', 's'], 'satyrs': ['s', 'a1', 't', 'i0', 'r', 's']}
+{'missa': ['m', 'I1', 's', 'a0'], 'mes': ['m', 'E1', 's']}
+{'roken': ['r', 'o1', 'k', '@0'], 'roekoe': ['r', 'u0', 'k', 'u1']}
+{'uitputte': ['L1', 't', 'p', '}0', 't', '@0'], 'toupet': ['t', 'u0', 'p', 'E1', 't']}
+{'kelk': ['k', 'E1', 'l', 'k'], 'koelakken': ['k', 'u0', 'l', 'A1', 'k', '@0']}
+{'doorsta': ['d', 'o1', 'r', 's', 't', 'a0'], 'drieste': ['d', 'r', 'i1', 's', 't', '@0']}
+{'plecht': ['p', 'l', 'E1', 'x', 't'], 'openlucht': ['o0', 'p', '@0', 'l', '}1', 'x', 't']}
+{'fis': ['f', 'i1', 's'], 'fessen': ['f', 'E1', 's', '@0']}
+{'onecht': ['O0', 'n', 'E1', 'x', 't'], 'nacht': ['n', 'A1', 'x', 't']}
+{'schamp': ['s', 'x', 'A1', 'm', 'p'], 'schimpen': ['s', 'x', 'I1', 'm', 'p', '@0']}
+{'poreust': ['p', 'o0', 'r', '|1', 's', 't'], 'presten': ['p', 'r', 'E1', 's', 't', '@0']}
+{'plokken': ['p', 'l', 'O1', 'k', '@0'], 'pluk': ['p', 'l', '}1', 'k']}
+{'doorroestten': ['d', 'o1', 'r', 'u0', 's', 't', '@0'], 'doorreisd': ['d', 'o0', 'r', 'K1', 's', 't']}
+{'potteus': ['p', 'O0', 't', '|1', 's'], 'pythisch': ['p', 'i1', 't', 'i0', 's']}
+{'onlust': ['O1', 'n', 'l', '}0', 's', 't'], 'inlijstte': ['I1', 'n', 'l', 'K0', 's', 't', '@0']}
+{'gerood': ['x', '@0', 'r', 'o1', 't'], 'graad': ['x', 'r', 'a1', 't']}
+{'manischt': ['m', 'a1', 'n', 'i0', 's', 't'], 'menist': ['m', 'e0', 'n', 'I1', 's', 't']}
+{'tippen': ['t', 'I1', 'p', '@0'], 'atopie': ['a0', 't', 'o0', 'p', 'i1']}
+{'erica': ['e1', 'r', 'i0', 'k', 'a0'], 'rik': ['r', 'I1', 'k']}
+{'azoische': ['a0', 'z', 'o1', 'w', 'i0', 's', '@0'], 'Zeeuws': ['z', 'e1', 'w', 's']}
+{'kun': ['k', '}1', 'n'], 'kina': ['k', 'i1', 'n', 'a0']}
+{'midden': ['m', 'I1', 'd', '@0'], 'midi': ['m', 'i1', 'd', 'i0']}
+{'slijten': ['s', 'l', 'K1', 't', '@0'], 'salet': ['s', 'a0', 'l', 'E1', 't']}
+{'roken': ['r', 'o1', 'k', '@0'], 'rik': ['r', 'I1', 'k']}
+{'paleize': ['p', 'a0', 'l', 'K1', 'z', '@0'], 'poolzee': ['p', 'o1', 'l', 'z', 'e0']}
+{'click': ['k', 'l', 'I1', 'k'], 'koelakken': ['k', 'u0', 'l', 'A1', 'k', '@0']}
+{'pythisch': ['p', 'i1', 't', 'i0', 's'], 'oppoetsen': ['O1', 'p', 'u0', 't', 's', '@0']}
+{'toer': ['t', 'u1', 'r'], 'teer': ['t', 'e1', 'r']}
+{'reinetten': ['r', 'K0', 'n', 'E1', 't', '@0'], 'randt': ['r', 'A1', 'n', 't']}
+{'dellen': ['d', 'E1', 'l', '@0'], 'deal': ['d', 'i1', 'l']}
+{'afloodt': ['A1', 'f', 'l', 'o0', 't'], 'flute': ['f', 'l', 'y1', 't']}
+{'sleetse': ['s', 'l', 'e1', 't', 's', '@0'], "salto's": ['s', 'A1', 'l', 't', 'o0', 's']}
+{'uremie': ['y0', 'r', 'e0', 'm', 'i1'], 'roemen': ['r', 'u1', 'm', '@0']}
+{'noveer': ['n', 'o0', 'v', 'e1', 'r'], 'aanvuur': ['a1', 'n', 'v', 'y0', 'r']}
+{'guit': ['x', 'L1', 't'], 'achtte': ['A1', 'x', 't', '@0']}
+{'mom': ['m', 'O1', 'm'], 'Mimi': ['m', 'i1', 'm', 'i0']}
+{'ziedt': ['z', 'i1', 't'], 'zetten': ['z', 'E1', 't', '@0']}
+{'plees': ['p', 'l', 'e1', 's'], 'Poolse': ['p', 'o1', 'l', 's', '@0']}
+{'funds': ['f', '}1', 'n', 't', 's'], 'fijntes': ['f', 'K1', 'n', 't', '@0', 's']}
+{'aanziend': ['a1', 'n', 'z', 'i0', 'n', 't'], 'inzendt': ['I1', 'n', 'z', 'E0', 'n', 't']}
+{'verkleuren': ['v', '@0', 'r', 'k', 'l', '|1', 'r', '@0'], 'vaarklaar': ['v', 'a1', 'r', 'k', 'l', 'a0', 'r']}
+{'laagt': ['l', 'a1', 'x', 't'], 'logt': ['l', 'O1', 'x', 't']}
+{'protte': ['p', 'r', 'O1', 't', '@0'], 'puurt': ['p', 'y1', 'r', 't']}
+{'snoek': ['s', 'n', 'u1', 'k'], 'snak': ['s', 'n', 'A1', 'k']}
+{'iemker': ['i1', 'm', 'k', 'E0', 'r'], 'micro': ['m', 'i0', 'k', 'r', 'o1']}
+{'kaarsen': ['k', 'a1', 'r', 's', '@0'], 'kras': ['k', 'r', 'A1', 's']}
+{'geruste': ['x', '@0', 'r', '}1', 's', 't', '@0'], 'gerst': ['x', 'E1', 'r', 's', 't']}
+{'hem': ['h', 'E1', 'm'], 'hum': ['h', '}1', 'm']}
+{'erna': ['E0', 'r', 'n', 'a1'], 'ruin': ['r', 'L1', 'n']}
+{'erica': ['e1', 'r', 'i0', 'k', 'a0'], 'roekoe': ['r', 'u0', 'k', 'u1']}
+{'koppelend': ['k', 'O1', 'p', '@0', 'l', '@0', 'n', 't'], 'kuipplant': ['k', 'L1', 'p', 'l', 'A0', 'n', 't']}
+{'portiers': ['p', 'O0', 'r', 't', 'i1', 'r', 's'], 'praters': ['p', 'r', 'a1', 't', '@0', 'r', 's']}
+{'visten': ['v', 'I1', 's', 't', '@0'], 'vast': ['v', 'A1', 's', 't']}
+{'sepia': ['s', 'e1', 'p', 'i0', 'j', 'a0'], 'spuien': ['s', 'p', 'L1', 'j', '@0']}
+{'sas': ['s', 'A1', 's'], 'soesa': ['s', 'u1', 's', 'a0']}
+{'weetgierigste': ['w', 'e0', 't', 'x', 'i1', 'r', '@0', 'x', 's', 't', '@0'], 'weetgraagst': ['w', 'e1', 't', 'x', 'r', 'a0', 'x', 's', 't']}
+{'val': ['v', 'A1', 'l'], 'euvel': ['|1', 'v', '@0', 'l']}
+{'apparaat': ['A0', 'p', 'a0', 'r', 'a1', 't'], 'puurt': ['p', 'y1', 'r', 't']}
+{'calqueert': ['k', 'A0', 'l', 'k', 'e1', 'r', 't'], 'klokkaarten': ['k', 'l', 'O1', 'k', 'a0', 'r', 't', '@0']}
+{'etteren': ['E1', 't', '@0', 'r', '@0'], 'teer': ['t', 'e1', 'r']}
+{'rook': ['r', 'o1', 'k'], 'roekoe': ['r', 'u0', 'k', 'u1']}
+{'deal': ['d', 'i1', 'l'], 'dal': ['d', 'A1', 'l']}
+{'kina': ['k', 'i1', 'n', 'a0'], 'koen': ['k', 'u1', 'n']}
+{'esters': ['E1', 's', 't', '@0', 'r', 's'], 'satyrs': ['s', 'a1', 't', 'i0', 'r', 's']}
+{'iebel': ['i1', 'b', '@0', 'l'], 'obool': ['o0', 'b', 'o1', 'l']}
+{'hoed': ['h', 'u1', 't'], 'heet': ['h', 'e1', 't']}
+{'welven': ['w', 'E1', 'l', 'v', '@0'], 'wolvee': ['w', 'O1', 'l', 'v', 'e0']}
+{'struise': ['s', 't', 'r', 'L1', 's', '@0'], 'satyrs': ['s', 'a1', 't', 'i0', 'r', 's']}
+{'chaotischt': ['x', 'a0', 'o1', 't', 'i0', 's', 't'], 'gidsten': ['x', 'I1', 't', 's', 't', '@0']}
+{'feestten': ['f', 'e1', 's', 't', '@0'], 'afsta': ['A1', 'f', 's', 't', 'a0']}
+{'oppep': ['O1', 'p', 'E0', 'p'], 'pappen': ['p', 'A1', 'p', '@0']}
+{'lik': ['l', 'I1', 'k'], 'leuke': ['l', '|1', 'k', '@0']}
+{'funds': ['f', '}1', 'n', 't', 's'], 'fonds': ['f', 'O1', 'n', 't', 's']}
+{'bijten': ['b', 'K1', 't', '@0'], 'bood': ['b', 'o1', 't']}
+{'doorreisd': ['d', 'o0', 'r', 'K1', 's', 't'], 'drieste': ['d', 'r', 'i1', 's', 't', '@0']}
+{'genius': ['x', 'e1', 'n', 'i0', 'j', '}0', 's'], 'gienjes': ['x', 'i1', 'n', 'j', '@0', 's']}
+{'malie': ['m', 'a1', 'l', 'i0'], 'mollen': ['m', 'O1', 'l', '@0']}
+{'errata': ['E0', 'r', 'a1', 't', 'a0'], 'redt': ['r', 'E1', 't']}
+{'onecht': ['O0', 'n', 'E1', 'x', 't'], 'naoogt': ['n', 'a1', 'o0', 'x', 't']}
+{'leidsel': ['l', 'K1', 't', 's', '@0', 'l'], 'lotuszuil': ['l', 'o1', 't', '}0', 's', 'L0', 'l']}
+{'fietsen': ['f', 'i1', 't', 's', '@0'], 'fatisch': ['f', 'a1', 't', 'i0', 's']}
+{'brij': ['b', 'r', 'K1'], 'bourree': ['b', 'u0', 'r', 'e1']}
+{'avond': ['a1', 'v', 'O0', 'n', 't'], 'vanuit': ['v', 'A0', 'n', 'L1', 't']}
+{'aaszak': ['a1', 's', 'A0', 'k'], 'skie': ['s', 'k', 'i1']}
+{'rose': ['r', 'o0', 'z', 'e1'], 'ruzie': ['r', 'y1', 'z', 'i0']}
+{'aantreed': ['a1', 'n', 't', 'r', 'e0', 't'], 'intrad': ['I1', 'n', 't', 'r', 'A0', 't']}
+{'cheffinnen': ['S', 'E0', 'f', 'I1', 'n', '@0'], 'chiffon': ['S', 'i0', 'f', 'O1', 'n']}
+{'micro': ['m', 'i0', 'k', 'r', 'o1'], 'omkeren': ['O1', 'm', 'k', 'e0', 'r', '@0']}
+{'immanent': ['I0', 'm', 'a0', 'n', 'E1', 'n', 't'], 'menend': ['m', 'e1', 'n', '@0', 'n', 't']}
+{'feilt': ['f', 'K1', 'l', 't'], 'flute': ['f', 'l', 'y1', 't']}
+{'curator': ['k', 'y0', 'r', 'a1', 't', 'O0', 'r'], 'karteer': ['k', 'A0', 'r', 't', 'e1', 'r']}
+{'radeer': ['r', 'a0', 'd', 'e1', 'r'], 'roder': ['r', 'o1', 'd', '@0', 'r']}
+{'buren': ['b', 'y1', 'r', '@0'], 'brij': ['b', 'r', 'K1']}
+{'luchtten': ['l', '}1', 'x', 't', '@0'], 'laagt': ['l', 'a1', 'x', 't']}
+{'waak': ['w', 'a1', 'k'], 'wakken': ['w', 'A1', 'k', '@0']}
+{'duurde': ['d', 'y1', 'r', 'd', '@0'], 'doordoe': ['d', 'o1', 'r', 'd', 'u0']}
+{'apparaat': ['A0', 'p', 'a0', 'r', 'a1', 't'], 'oprijdt': ['O1', 'p', 'r', 'K0', 't']}
+{'rook': ['r', 'o1', 'k'], 'rik': ['r', 'I1', 'k']}
+{'accuraatst': ['A0', 'k', 'y0', 'r', 'a1', 't', 's', 't'], 'kortste': ['k', 'O1', 'r', 't', 's', 't', '@0']}
+{'ijselijkheid': ['K1', 's', '@0', 'l', '@0', 'k', 'h', 'K0', 't'], 'slikhout': ['s', 'l', 'I1', 'k', 'h', 'M0', 't']}
+{'dubt': ['d', '}1', 'p', 't'], 'adept': ['a0', 'd', 'E1', 'p', 't']}
+{'contouren': ['k', 'O0', 'n', 't', 'u1', 'r', '@0'], 'country': ['k', 'M1', 'n', 't', 'r', 'i0']}
+{'flepten': ['f', 'l', 'E1', 'p', 't', '@0'], 'flopt': ['f', 'l', 'O1', 'p', 't']}
+{'kun': ['k', '}1', 'n'], 'kenau': ['k', 'e1', 'n', 'M0']}

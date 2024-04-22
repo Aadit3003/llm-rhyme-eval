@@ -1,11 +1,12 @@
 #!/bin/bash
-#SBATCH --job-name=double
-#SBATCH --output=logs/llama3/double.out
-#SBATCH --error=logs/llama3/double.err
-#SBATCH --partition=general
-#SBATCH --nodes=1
-#SBATCH --gres=gpu:v100:2
-#SBATCH --time 08:00:00 
+#SBATCH --job-name=ol_double
+#SBATCH --output=logs/olmo/double.out
+#SBATCH --error=logs/olmo/double.err
+#SBATCH -N 1
+#SBATCH -p shire-general
+#SBATCH --gres=gpu:A100_80GB:2
+#SBATCH --mem=32G
+#SBATCH --time=0-08:00:00 
 
 echo "LOADING THE ENVIRONMENT"
 source ~/.bashrc
@@ -18,8 +19,8 @@ echo "Starting"
 
 
 
-python eval.py "llama3" "doublePerfect" "title"
-python eval.py "llama3" "doublePerfect" "description"
+python eval.py "olmo" "doublePerfect" "title"
+python eval.py "olmo" "doublePerfect" "description"
 echo "DOUBLE PERFECT DONE!!"
 
 

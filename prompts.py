@@ -52,6 +52,7 @@ def get_prompt(model_family, prompt_type, rhyme_type, word1, word2):
 
 
         prompt = prompt_prefix + RHYME_PROMPTS[prompt_type][rhyme_type] + f"{word1}-{word2}" + prompt_suffix
+        return prompt
     
     else: # For Llama3 and Olmo, we use tokenizer.apply_chat_template!
 

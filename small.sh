@@ -1,7 +1,7 @@
 #!/bin/bash
 #SBATCH --job-name=small
-#SBATCH --output=logs/llama3/small.out
-#SBATCH --error=logs/llama3/small.err
+#SBATCH --output=logs/olmo/small.out
+#SBATCH --error=logs/olmo/small.err
 #SBATCH --partition=general
 #SBATCH --nodes=1
 #SBATCH --gres=gpu:v100:1
@@ -18,8 +18,8 @@ echo "Starting"
 
 # python ol.py
 
-python eval_small.py "llama3" "singlePerfect" "title"
-python eval_small.py "llama3" "singlePerfect" "description"
+python eval_small.py "olmo" "singlePerfect" "title"
+python eval_small.py "olmo" "singlePerfect" "description"
 echo "SINGLE PERFECT DONE!!"
 
 

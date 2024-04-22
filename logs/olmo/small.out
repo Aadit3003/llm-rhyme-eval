@@ -1,0 +1,16 @@
+LOADING THE ENVIRONMENT
+Starting
+Token will not been saved to git credential helper. Pass `add_to_git_credential=True` if you want to set the git credential as well.
+Token is valid (permission: write).
+Your token has been saved to /home/aaditd/.cache/huggingface/token
+Login successful
+(0, 1, 1, 1, 0, 0, 0, 1, 0, 1)
+[('luck', 'jam'), ('klich', 'tritch'), ('unaware', 'blair'), ('gisclair', 'prepare'), ('bourne', 'locatelli'), ('sued', 'guyton'), ('cod', 'girten'), ('courville', 'drill'), ('game', 'contusion'), ('freels', 'beales')]
+Token will not been saved to git credential helper. Pass `add_to_git_credential=True` if you want to set the git credential as well.
+Token is valid (permission: write).
+Your token has been saved to /home/aaditd/.cache/huggingface/token
+Login successful
+(0, 1, 1, 1, 0, 0, 0, 1, 1, 0)
+[('shirlee', 'zeal'), ('gisclair', 'prepare'), ('unaware', 'blair'), ('klich', 'tritch'), ('sawdey', 'lockers'), ('oecd', 'gautney'), ("o'kane", 'primeaux'), ('freels', 'beales'), ('courville', 'drill'), ('saudi', 'bryna')]
+SINGLE PERFECT DONE!!
+ALL DONE!!

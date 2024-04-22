@@ -68,7 +68,7 @@ function ConvertBrackets(String)
                }
         }
      } else {
-        gsub("\]\[","-",OldString);
+        gsub(/\]\[/,"-",OldString);
         gsub(/\[|\]/,"",OldString);
 	String = OldString;
      }

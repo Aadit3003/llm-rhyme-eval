@@ -219,14 +219,10 @@ if __name__ == "__main__":
     elif model_family in "olmo":
         generator_model = AutoModelForCausalLM.from_pretrained(generator_model_name, 
                                                           cache_dir = cache_path,
-                                                          trust_remote_code=True,
-                                                          torch_dtype=torch.float16, 
-                                                          load_in_8bit=True)
+                                                          trust_remote_code=True)
         generator_tokenizer = AutoTokenizer.from_pretrained(generator_model_name, 
                                                        cache_dir = cache_path,
                                                        trust_remote_code=True)
-
-
 
     evaluate(
              model=generator_model,

@@ -1,8 +1,22 @@
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:54<00:54, 54.57s/it]Loading checkpoint shards: 100%|██████████| 2/2 [01:12<00:00, 32.90s/it]Loading checkpoint shards: 100%|██████████| 2/2 [01:12<00:00, 36.15s/it]
 Traceback (most recent call last):
-  File "/home/aaditd/3_Rhyming/llm-rhyme/eval.py", line 182, in <module>
-    model=generator_model,
-NameError: name 'generator_model' is not defined
+  File "/home/aaditd/3_Rhyming/llm-rhyme/eval.py", line 229, in <module>
+    evaluate(
+  File "/home/aaditd/3_Rhyming/llm-rhyme/eval.py", line 131, in evaluate
+    ans = text_generate(model_family, prompt, model, tokenizer)
+  File "/home/aaditd/3_Rhyming/llm-rhyme/eval.py", line 93, in text_generate
+    return olmo_generate(prompt, model, tokenizer)
+  File "/home/aaditd/3_Rhyming/llm-rhyme/eval.py", line 80, in olmo_generate
+    response = model.generate(input_ids=inputs.input_ids.to(model.device), max_new_tokens=100, do_sample=True, top_k=50, top_p=0.95)
+AttributeError: 'Tensor' object has no attribute 'input_ids'
+Loading checkpoint shards:   0%|          | 0/2 [00:00<?, ?it/s]Loading checkpoint shards:  50%|█████     | 1/2 [00:04<00:04,  4.80s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  3.00s/it]Loading checkpoint shards: 100%|██████████| 2/2 [00:06<00:00,  3.27s/it]
 Traceback (most recent call last):
-  File "/home/aaditd/3_Rhyming/llm-rhyme/eval.py", line 182, in <module>
-    model=generator_model,
-NameError: name 'generator_model' is not defined
+  File "/home/aaditd/3_Rhyming/llm-rhyme/eval.py", line 229, in <module>
+    evaluate(
+  File "/home/aaditd/3_Rhyming/llm-rhyme/eval.py", line 131, in evaluate
+    ans = text_generate(model_family, prompt, model, tokenizer)
+  File "/home/aaditd/3_Rhyming/llm-rhyme/eval.py", line 93, in text_generate
+    return olmo_generate(prompt, model, tokenizer)
+  File "/home/aaditd/3_Rhyming/llm-rhyme/eval.py", line 80, in olmo_generate
+    response = model.generate(input_ids=inputs.input_ids.to(model.device), max_new_tokens=100, do_sample=True, top_k=50, top_p=0.95)
+AttributeError: 'Tensor' object has no attribute 'input_ids'

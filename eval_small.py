@@ -82,8 +82,8 @@ def olmo_generate(prompt, model, tokenizer):
     prompt = tokenizer.apply_chat_template(chat, tokenize=False, add_generation_prompt=True)
     inputs = tokenizer.encode(prompt, add_special_tokens=False, return_tensors="pt")
     # optional verifying cuda
-    # inputs = {k: v.to('cuda') for k,v in inputs.items()}
-    response = model.generate(input_ids=inputs.to(model.device), max_new_tokens=100, do_sample=True, top_k=50, top_p=0.95)
+    inputs = {k: v.to('cuda') for k,v in inputs.items()}
+    response = model.generate(input_ids=inputs.input_ids.to('cuda'), max_new_tokens=100, do_sample=True, top_k=50, top_p=0.95)
     
     return tokenizer.batch_decode(response, skip_special_tokens=True)[0]
 
@@ -220,9 +220,7 @@ if __name__ == "__main__":
     elif model_family in "olmo":
         generator_model = AutoModelForCausalLM.from_pretrained(generator_model_name, 
                                                           cache_dir = cache_path,
-                                                          trust_remote_code=True,
-                                                          torch_dtype=torch.float16, 
-                                                          load_in_8bit=True)
+                                                          trust_remote_code=True, torch_dtype=torch.float16, load_in_8bit=True)
         generator_tokenizer = AutoTokenizer.from_pretrained(generator_model_name, 
                                                        cache_dir = cache_path,
                                                        trust_remote_code=True)
