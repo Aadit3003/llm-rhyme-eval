@@ -1,0 +1,1000 @@
+{'vlieren': ['v', 'l', 'i1', 'r', '@0'], 'begieren': ['b', '@0', 'G', 'i1', 'r', '@0']}
+{'chocolaatjes': ['S', 'o0', 'k', 'o0', 'l', 'a1', 't', 'j', '@0', 's'], "h'tjes": ['h', 'a1', 't', 'j', '@0', 's']}
+{'spieren': ['s', 'p', 'i1', 'r', '@0'], 'pluvieren': ['p', 'l', 'y0', 'v', 'i1', 'r', '@0']}
+{'associeren': ['A0', 's', 'o0', 'S', 'e1', 'r', '@0'], 'intensifieren': ['I0', 'n', 't', 'E0', 'n', 's', 'i0', 'f', 'j', 'e1', 'r', '@0']}
+{'zwijntjes': ['z', 'w', 'K1', 'n', 't', 'j', '@0', 's'], 'kwatrijntjes': ['k', 'w', 'A0', 't', 'r', 'K1', 'n', 't', 'j', '@0', 's']}
+{'staffieren': ['s', 't', 'A0', 'f', 'i1', 'r', '@0'], 'begieren': ['b', '@0', 'G', 'i1', 'r', '@0']}
+{'tierelierend': ['t', 'i0', 'r', '@0', 'l', 'i1', 'r', '@0', 'n', 't'], 'bankierend': ['b', 'A0', 'N', 'k', 'i1', 'r', '@0', 'n', 't']}
+{'irreguliere': ['I0', 'r', 'e0', 'G', 'y0', 'l', 'i1', 'r', '@0'], 'pionieren': ['p', 'i0', 'j', 'o0', 'n', 'i1', 'r', '@0']}
+{'slieren': ['s', 'l', 'i1', 'r', '@0'], 'pieren': ['p', 'i1', 'r', '@0']}
+{'blesseerden': ['b', 'l', 'E0', 's', 'e1', 'r', 'd', '@0'], 'palissadeerden': ['p', 'a0', 'l', 'i0', 's', 'a0', 'd', 'e1', 'r', 'd', '@0']}
+{'fauteuiltjes': ['f', 'o0', 't', 'L1', 't', 'j', '@0', 's'], 'buitjes': ['b', 'L1', 't', 'j', '@0', 's']}
+{'verbreiden': ['v', '@0', 'r', 'b', 'r', 'K1', 'd', '@0'], 'verweidden': ['v', '@0', 'r', 'w', 'K1', 'd', '@0']}
+{'schapulieren': ['s', 'x', 'a0', 'p', 'y0', 'l', 'i1', 'r', '@0'], 'bestieren': ['b', '@0', 's', 't', 'i1', 'r', '@0']}
+{'repliceren': ['r', 'e0', 'p', 'l', 'i0', 's', 'e1', 'r', '@0'], 'sferen': ['s', 'f', 'e1', 'r', '@0']}
+{'pieren': ['p', 'i1', 'r', '@0'], 'brevieren': ['b', 'r', '@0', 'v', 'i1', 'r', '@0']}
+{'brevieren': ['b', 'r', '@0', 'v', 'i1', 'r', '@0'], 'staffieren': ['s', 't', 'A0', 'f', 'i1', 'r', '@0']}
+{'narcotiseren': ['n', 'A0', 'r', 'k', 'o0', 't', 'i0', 'z', 'e1', 'r', '@0'], 'flocculeren': ['f', 'l', 'O0', 'k', 'y0', 'l', 'e1', 'r', '@0']}
+{'associeren': ['A0', 's', 'o0', 'S', 'e1', 'r', '@0'], 'trieren': ['t', 'r', 'i0', 'j', 'e1', 'r', '@0']}
+{'prevenierend': ['p', 'r', 'e0', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'distantierend': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'convenierend': ['k', 'O0', 'n', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'distantierend': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'essaaierend': ['E0', 's', 'a0', 'j', 'e1', 'r', '@0', 'n', 't'], 'discussierend': ['d', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'vaatjes': ['v', 'a1', 't', 'j', '@0', 's'], 'traatjes': ['t', 'r', 'a1', 't', 'j', '@0', 's']}
+{'salarierend': ['s', 'a0', 'l', 'a0', 'r', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'europeaniserend': ['|0', 'r', 'o0', 'p', 'e0', 'j', 'a0', 'n', 'i0', 'z', 'e1', 'r', '@0', 'n', 't']}
+{'desavoueren': ['d', 'E0', 's', 'a0', 'v', 'u0', 'w', 'e1', 'r', '@0'], 'marchanderen': ['m', 'A0', 'r', 'S', 'A0', 'n', 'd', 'e1', 'r', '@0']}
+{'schapulieren': ['s', 'x', 'a0', 'p', 'y0', 'l', 'i1', 'r', '@0'], 'plevieren': ['p', 'l', '@0', 'v', 'i1', 'r', '@0']}
+{'contravenierend': ['k', 'O0', 'n', 't', 'r', 'a0', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'sanctifierend': ['s', 'A0', 'N', 'k', 't', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'bediscussierend': ['b', '@0', 'd', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'scharnieren': ['s', 'x', 'A0', 'r', 'n', 'i1', 'r', '@0'], 'ontsieren': ['O0', 'n', 't', 's', 'i1', 'r', '@0']}
+{'weetjes': ['w', 'e1', 't', 'j', '@0', 's'], 'instantaneetjes': ['I0', 'n', 's', 't', 'A0', 'n', 't', 'a0', 'n', 'e1', 't', 'j', '@0', 's']}
+{'ontsieren': ['O0', 'n', 't', 's', 'i1', 'r', '@0'], 'pluvieren': ['p', 'l', 'y0', 'v', 'i1', 'r', '@0']}
+{'refuterend': ['r', 'e0', 'f', 'y0', 't', 'e1', 'r', '@0', 'n', 't'], 'beconcurrerend': ['b', '@0', 'k', 'O0', 'N', 'k', 'y0', 'r', 'e1', 'r', '@0', 'n', 't']}
+{'europeaniserend': ['|0', 'r', 'o0', 'p', 'e0', 'j', 'a0', 'n', 'i0', 'z', 'e1', 'r', '@0', 'n', 't'], 'proclamerend': ['p', 'r', 'o0', 'k', 'l', 'a0', 'm', 'e1', 'r', '@0', 'n', 't']}
+{'kaartjes': ['k', 'a1', 'r', 't', 'j', '@0', 's'], 'laartjes': ['l', 'a1', 'r', 't', 'j', '@0', 's']}
+{'koloniseerde': ['k', 'o0', 'l', 'o0', 'n', 'i0', 'z', 'e1', 'r', 'd', '@0'], 'geinspecteerde': ['x', '@0', 'I0', 'n', 's', 'p', 'E0', 'k', 't', 'e1', 'r', 'd', '@0']}
+{'intensiveerden': ['I0', 'n', 't', 'E0', 'n', 'z', 'i0', 'v', 'e1', 'r', 'd', '@0'], 'confronteerden': ['k', 'O0', 'n', 'f', 'r', 'O0', 'n', 't', 'e1', 'r', 'd', '@0']}
+{'refreintjes': ['r', '@0', 'f', 'r', 'K1', 'n', 't', 'j', '@0', 's'], 'harlekijntjes': ['h', 'A0', 'r', 'l', '@0', 'k', 'K1', 'n', 't', 'j', '@0', 's']}
+{'karekieten': ['k', 'A0', 'r', '@0', 'k', 'i1', 't', '@0'], 'entomolieten': ['E0', 'n', 't', 'o0', 'm', 'o0', 'l', 'i1', 't', '@0']}
+{'distantieren': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0'], 'expedieren': ['E0', 'k', 's', 'p', 'e0', 'd', 'i0', 'j', 'e1', 'r', '@0']}
+{'gecollecteerde': ['x', '@0', 'k', 'O0', 'l', 'E0', 'k', 't', 'e1', 'r', 'd', '@0'], 'embarkeerde': ['E0', 'm', 'b', 'A0', 'r', 'k', 'e1', 'r', 'd', '@0']}
+{'tribunaaltjes': ['t', 'r', 'i0', 'b', 'y0', 'n', 'a1', 'l', 't', 'j', '@0', 's'], 'provinciaaltjes': ['p', 'r', 'o0', 'v', 'I0', 'n', 'S', 'a1', 'l', 't', 'j', '@0', 's']}
+{'perforeerden': ['p', 'E0', 'r', 'f', 'o0', 'r', 'e1', 'r', 'd', '@0'], 'specialiseerden': ['s', 'p', 'e0', 'S', 'a0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'kratjes': ['k', 'r', 'A1', 't', 'j', '@0', 's'], 'platjes': ['p', 'l', 'A1', 't', 'j', '@0', 's']}
+{'larderend': ['l', 'A0', 'r', 'd', 'e1', 'r', '@0', 'n', 't'], 'savourerend': ['s', 'a0', 'v', 'u0', 'r', 'e1', 'r', '@0', 'n', 't']}
+{'blesseerden': ['b', 'l', 'E0', 's', 'e1', 'r', 'd', '@0'], 'catalogiseerden': ['k', 'A0', 't', 'a0', 'l', 'o0', 'G', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'slamieren': ['s', 'l', 'a0', 'm', 'i1', 'r', '@0'], 'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0']}
+{'verteerden': ['v', '@0', 'r', 't', 'e1', 'r', 'd', '@0'], 'distingeerden': ['d', 'I0', 's', 't', 'I0', 'N', 'G', 'e1', 'r', 'd', '@0']}
+{'dispenseerden': ['d', 'I0', 's', 'p', 'E0', 'n', 'z', 'e1', 'r', 'd', '@0'], 'assisteerde': ['A0', 's', 'i0', 's', 't', 'e1', 'r', 'd', '@0']}
+{'rapieren': ['r', 'a0', 'p', 'i1', 'r', '@0'], 'begieren': ['b', '@0', 'G', 'i1', 'r', '@0']}
+{'zwijntjes': ['z', 'w', 'K1', 'n', 't', 'j', '@0', 's'], 'strapontijntjes': ['s', 't', 'r', 'a0', 'p', 'O0', 'n', 't', 'K1', 'n', 't', 'j', '@0', 's']}
+{'asfyxieren': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0'], 'intensifieren': ['I0', 'n', 't', 'E0', 'n', 's', 'i0', 'f', 'j', 'e1', 'r', '@0']}
+{'abeeltjes': ['a0', 'b', 'e1', 'l', 't', 'j', '@0', 's'], 'smeeltjes': ['s', 'm', 'e1', 'l', 't', 'j', '@0', 's']}
+{'harmonierend': ['h', 'A0', 'r', 'm', 'o0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'prejudicierend': ['p', 'r', 'e0', 'j', 'y0', 'd', 'i0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'tirailleren': ['t', 'i0', 'r', 'A0', 'j', 'e1', 'r', '@0'], 'resisteren': ['r', 'e0', 's', 'i0', 's', 't', 'e1', 'r', '@0']}
+{'kwartieren': ['k', 'w', 'A0', 'r', 't', 'i1', 'r', '@0'], 'slamieren': ['s', 'l', 'a0', 'm', 'i1', 'r', '@0']}
+{'fanaaltjes': ['f', 'a0', 'n', 'a1', 'l', 't', 'j', '@0', 's'], 'provinciaaltjes': ['p', 'r', 'o0', 'v', 'I0', 'n', 'S', 'a1', 'l', 't', 'j', '@0', 's']}
+{'wiste': ['w', 'I1', 's', 't', '@0'], 'humoristen': ['h', 'y0', 'm', 'o0', 'r', 'I1', 's', 't', '@0']}
+{'getectyleerde': ['x', '@0', 't', 'E0', 'k', 't', 'i0', 'l', 'e1', 'r', 'd', '@0'], 'retireerden': ['r', 'e0', 't', 'i0', 'r', 'e1', 'r', 'd', '@0']}
+{'voertjes': ['v', 'u1', 'r', 't', 'j', '@0', 's'], 'snoertjes': ['s', 'n', 'u1', 'r', 't', 'j', '@0', 's']}
+{'tieren': ['t', 'i1', 'r', '@0'], 'passagieren': ['p', 'A0', 's', 'a0', 'Z', 'i1', 'r', '@0']}
+{'kopieren': ['k', 'o0', 'p', 'i0', 'j', 'e1', 'r', '@0'], 'prejudicieren': ['p', 'r', 'e0', 'j', 'y0', 'd', 'i0', 'S', 'e1', 'r', '@0']}
+{'plevieren': ['p', 'l', '@0', 'v', 'i1', 'r', '@0'], 'tempelieren': ['t', 'E0', 'm', 'p', '@0', 'l', 'i1', 'r', '@0']}
+{'slieren': ['s', 'l', 'i1', 'r', '@0'], 'pionieren': ['p', 'i0', 'j', 'o0', 'n', 'i1', 'r', '@0']}
+{'tierelieren': ['t', 'i0', 'r', '@0', 'l', 'i1', 'r', '@0'], 'slamieren': ['s', 'l', 'a0', 'm', 'i1', 'r', '@0']}
+{'konvooieren': ['k', 'O0', 'n', 'v', 'o0', 'j', 'e1', 'r', '@0'], 'distantieren': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0']}
+{'gereciproceerde': ['x', '@0', 'r', 'e0', 's', 'i0', 'p', 'r', 'o0', 's', 'e1', 'r', 'd', '@0'], 'macadamiseerde': ['m', 'a0', 'k', 'a0', 'd', 'a0', 'm', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'gerendeerden': ['x', '@0', 'r', 'E0', 'n', 'd', 'e1', 'r', 'd', '@0'], 'gepikeerde': ['x', '@0', 'p', 'i0', 'k', 'e1', 'r', 'd', '@0']}
+{'mortieren': ['m', 'O0', 'r', 't', 'i1', 'r', '@0'], 'schapulieren': ['s', 'x', 'a0', 'p', 'y0', 'l', 'i1', 'r', '@0']}
+{'nieren': ['n', 'i1', 'r', '@0'], 'brevieren': ['b', 'r', '@0', 'v', 'i1', 'r', '@0']}
+{'renvooieren': ['r', 'A0', 'n', 'v', 'o0', 'j', 'e1', 'r', '@0'], 'prejudicieren': ['p', 'r', 'e0', 'j', 'y0', 'd', 'i0', 'S', 'e1', 'r', '@0']}
+{'kohieren': ['k', 'o0', 'h', 'i1', 'r', '@0'], 'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0']}
+{'nieren': ['n', 'i1', 'r', '@0'], 'tierelieren': ['t', 'i0', 'r', '@0', 'l', 'i1', 'r', '@0']}
+{'supplieren': ['s', '}0', 'p', 'l', 'i0', 'j', 'e1', 'r', '@0'], 'distantieren': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0']}
+{'vieren': ['v', 'i1', 'r', '@0'], 'begieren': ['b', '@0', 'G', 'i1', 'r', '@0']}
+{'distantieren': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0'], 'disharmonieren': ['d', 'I0', 's', 'h', 'A0', 'r', 'm', 'o0', 'n', 'i0', 'j', 'e1', 'r', '@0']}
+{'seksualiseerde': ['s', 'E0', 'k', 's', 'y0', 'w', 'a0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0'], 'trasseerden': ['t', 'r', 'A0', 's', 'e1', 'r', 'd', '@0']}
+{'heertjes': ['h', 'e1', 'r', 't', 'j', '@0', 's'], 'schorseneertjes': ['s', 'x', 'O0', 'r', 's', '@0', 'n', 'e1', 'r', 't', 'j', '@0', 's']}
+{'missioneerde': ['m', 'I0', 'S', 'o0', 'n', 'e1', 'r', 'd', '@0'], 'assisteerde': ['A0', 's', 'i0', 's', 't', 'e1', 'r', 'd', '@0']}
+{'kopieren': ['k', 'o0', 'p', 'i0', 'j', 'e1', 'r', '@0'], 'asfyxieren': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0']}
+{'gereciproceerde': ['x', '@0', 'r', 'e0', 's', 'i0', 'p', 'r', 'o0', 's', 'e1', 'r', 'd', '@0'], 'mythologiseerde': ['m', 'i0', 't', 'o0', 'l', 'o0', 'G', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'schuitjes': ['s', 'x', 'L1', 't', 'j', '@0', 's'], 'puitjes': ['p', 'L1', 't', 'j', '@0', 's']}
+{'renvooieren': ['r', 'A0', 'n', 'v', 'o0', 'j', 'e1', 'r', '@0'], 'negotieren': ['n', 'e0', 'G', 'o0', 'S', 'e1', 'r', '@0']}
+{'verzwierend': ['v', '@0', 'r', 'z', 'w', 'i1', 'r', '@0', 'n', 't'], 'tierend': ['t', 'i1', 'r', '@0', 'n', 't']}
+{'scharnieren': ['s', 'x', 'A0', 'r', 'n', 'i1', 'r', '@0'], 'anjelieren': ['A0', 'n', 'j', '@0', 'l', 'i1', 'r', '@0']}
+{'bankierend': ['b', 'A0', 'N', 'k', 'i1', 'r', '@0', 'n', 't'], 'mierend': ['m', 'i1', 'r', '@0', 'n', 't']}
+{'bardeerde': ['b', 'A0', 'r', 'd', 'e1', 'r', 'd', '@0'], 'embarkeerde': ['E0', 'm', 'b', 'A0', 'r', 'k', 'e1', 'r', 'd', '@0']}
+{'hyperboliseerden': ['h', 'i0', 'p', '@0', 'r', 'b', 'o0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0'], 'suggereerde': ['s', '}0', 'G', '@0', 'r', 'e1', 'r', 'd', '@0']}
+{'plevieren': ['p', 'l', '@0', 'v', 'i1', 'r', '@0'], 'staffieren': ['s', 't', 'A0', 'f', 'i1', 'r', '@0']}
+{'passagieren': ['p', 'A0', 's', 'a0', 'Z', 'i1', 'r', '@0'], 'plevieren': ['p', 'l', '@0', 'v', 'i1', 'r', '@0']}
+{'salarierend': ['s', 'a0', 'l', 'a0', 'r', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'refuterend': ['r', 'e0', 'f', 'y0', 't', 'e1', 'r', '@0', 'n', 't']}
+{'spolierend': ['s', 'p', 'o0', 'l', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'distantierend': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'lootjes': ['l', 'o1', 't', 'j', '@0', 's'], 'nootjes': ['n', 'o1', 't', 'j', '@0', 's']}
+{'associeren': ['A0', 's', 'o0', 'S', 'e1', 'r', '@0'], 'supplieren': ['s', '}0', 'p', 'l', 'i0', 'j', 'e1', 'r', '@0']}
+{'panaceetjes': ['p', 'a0', 'n', 'a0', 's', 'e1', 't', 'j', '@0', 's'], 'gleetjes': ['x', 'l', 'e1', 't', 'j', '@0', 's']}
+{'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't'], 'renvooierend': ['r', 'A0', 'n', 'v', 'o0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'prejudicieren': ['p', 'r', 'e0', 'j', 'y0', 'd', 'i0', 'S', 'e1', 'r', '@0'], 'ambieren': ['A0', 'm', 'b', 'i0', 'j', 'e1', 'r', '@0']}
+{'rapieren': ['r', 'a0', 'p', 'i1', 'r', '@0'], 'spalieren': ['s', 'p', 'a0', 'l', 'i1', 'r', '@0']}
+{'negotierend': ['n', 'e0', 'G', 'o0', 'S', 'e1', 'r', '@0', 'n', 't'], 'purifierend': ['p', 'y0', 'r', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'concilieren': ['k', 'O0', 'n', 's', 'i0', 'l', 'i0', 'j', 'e1', 'r', '@0'], 'ontmagnetiseren': ['O0', 'n', 't', 'm', 'A0', 'G', 'n', 'e0', 't', 'i0', 'z', 'e1', 'r', '@0']}
+{'vliertjes': ['v', 'l', 'i1', 'r', 't', 'j', '@0', 's'], 'kwartiertjes': ['k', 'w', 'A0', 'r', 't', 'i1', 'r', 't', 'j', '@0', 's']}
+{'essaaierend': ['E0', 's', 'a0', 'j', 'e1', 'r', '@0', 'n', 't'], 'distantierend': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'discussieren': ['d', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0'], 'unieren': ['y0', 'n', 'i0', 'j', 'e1', 'r', '@0']}
+{'rapieren': ['r', 'a0', 'p', 'i1', 'r', '@0'], 'bestieren': ['b', '@0', 's', 't', 'i1', 'r', '@0']}
+{'snoeperijtjes': ['s', 'n', 'u0', 'p', '@0', 'r', 'K1', 't', 'j', '@0', 's'], 'jokkernijtjes': ['j', 'O0', 'k', '@0', 'r', 'n', 'K1', 't', 'j', '@0', 's']}
+{'passagieren': ['p', 'A0', 's', 'a0', 'Z', 'i1', 'r', '@0'], 'tierelieren': ['t', 'i0', 'r', '@0', 'l', 'i1', 'r', '@0']}
+{'fauteuiltjes': ['f', 'o0', 't', 'L1', 't', 'j', '@0', 's'], 'beschuitjes': ['b', '@0', 's', 'x', 'L1', 't', 'j', '@0', 's']}
+{'ontsieren': ['O0', 'n', 't', 's', 'i1', 'r', '@0'], 'scharnieren': ['s', 'x', 'A0', 'r', 'n', 'i1', 'r', '@0']}
+{'tempelieren': ['t', 'E0', 'm', 'p', '@0', 'l', 'i1', 'r', '@0'], 'slamieren': ['s', 'l', 'a0', 'm', 'i1', 'r', '@0']}
+{'diere': ['d', 'i1', 'r', '@0'], 'pluvieren': ['p', 'l', 'y0', 'v', 'i1', 'r', '@0']}
+{'resisterend': ['r', 'e0', 's', 'i0', 's', 't', 'e1', 'r', '@0', 'n', 't'], 'remarquerend': ['r', 'e0', 'm', 'A0', 'r', 'k', 'e1', 'r', '@0', 'n', 't']}
+{'geargumenteerde': ['x', '@0', 'A0', 'r', 'G', 'y0', 'm', 'E0', 'n', 't', 'e1', 'r', 'd', '@0'], 'geindexeerde': ['x', '@0', 'I0', 'n', 'd', 'E0', 'k', 's', 'e1', 'r', 'd', '@0']}
+{"abc'tjes": ['a0', 'b', 'e0', 's', 'e1', 't', 'j', '@0', 's'], 'resumeetjes': ['r', 'e0', 's', 'y0', 'm', 'e1', 't', 'j', '@0', 's']}
+{'linguisten': ['l', 'I0', 'N', 'g', 'w', 'I1', 's', 't', '@0'], 'telefonisten': ['t', 'e0', 'l', '@0', 'f', 'o0', 'n', 'I1', 's', 't', '@0']}
+{'desavoueren': ['d', 'E0', 's', 'a0', 'v', 'u0', 'w', 'e1', 'r', '@0'], 'essayeren': ['E0', 's', 'e0', 'j', 'e1', 'r', '@0']}
+{'resisterend': ['r', 'e0', 's', 'i0', 's', 't', 'e1', 'r', '@0', 'n', 't'], 'regulerend': ['r', 'e0', 'G', 'y0', 'l', 'e1', 'r', '@0', 'n', 't']}
+{'kohieren': ['k', 'o0', 'h', 'i1', 'r', '@0'], 'schapulieren': ['s', 'x', 'a0', 'p', 'y0', 'l', 'i1', 'r', '@0']}
+{'respireerde': ['r', 'E0', 's', 'p', 'i0', 'r', 'e1', 'r', 'd', '@0'], 'gebonificeerde': ['x', '@0', 'b', 'o0', 'n', 'i0', 'f', 'i0', 's', 'e1', 'r', 'd', '@0']}
+{'beneficieren': ['b', 'e0', 'n', '@0', 'f', 'i0', 'S', 'e1', 'r', '@0'], 'octrooieren': ['O0', 'k', 't', 'r', 'o0', 'j', 'e1', 'r', '@0']}
+{'janplezieren': ['j', 'A0', 'm', 'p', 'l', 'e0', 'z', 'i1', 'r', '@0'], 'portieren': ['p', 'O0', 'r', 't', 'i1', 'r', '@0']}
+{'passagieren': ['p', 'A0', 's', 'a0', 'Z', 'i1', 'r', '@0'], 'saffieren': ['s', 'A0', 'f', 'i1', 'r', '@0']}
+{'ontsieren': ['O0', 'n', 't', 's', 'i1', 'r', '@0'], 'scholieren': ['s', 'x', 'o0', 'l', 'i1', 'r', '@0']}
+{'asfyxieren': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0'], 'glorieren': ['x', 'l', 'o0', 'r', 'i0', 'j', 'e1', 'r', '@0']}
+{'prejudicieren': ['p', 'r', 'e0', 'j', 'y0', 'd', 'i0', 'S', 'e1', 'r', '@0'], 'supplieren': ['s', '}0', 'p', 'l', 'i0', 'j', 'e1', 'r', '@0']}
+{'spieren': ['s', 'p', 'i1', 'r', '@0'], 'passagieren': ['p', 'A0', 's', 'a0', 'Z', 'i1', 'r', '@0']}
+{'diere': ['d', 'i1', 'r', '@0'], 'vlieren': ['v', 'l', 'i1', 'r', '@0']}
+{'presumerend': ['p', 'r', 'e0', 's', 'y0', 'm', 'e1', 'r', '@0', 'n', 't'], 'melerend': ['m', 'E0', 'l', 'e1', 'r', '@0', 'n', 't']}
+{'katalyseerden': ['k', 'A0', 't', 'a0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0'], 'gradeerden': ['x', 'r', 'a0', 'd', 'e1', 'r', 'd', '@0']}
+{'dieren': ['d', 'i1', 'r', '@0'], 'tierelieren': ['t', 'i0', 'r', '@0', 'l', 'i1', 'r', '@0']}
+{'scholieren': ['s', 'x', 'o0', 'l', 'i1', 'r', '@0'], 'saffieren': ['s', 'A0', 'f', 'i1', 'r', '@0']}
+{'schapulieren': ['s', 'x', 'a0', 'p', 'y0', 'l', 'i1', 'r', '@0'], 'pionieren': ['p', 'i0', 'j', 'o0', 'n', 'i1', 'r', '@0']}
+{'gratieren': ['x', 'r', 'a0', 't', 'S', 'e1', 'r', '@0'], 'contrarieren': ['k', 'O0', 'n', 't', 'r', 'a0', 'r', 'i0', 'j', 'e1', 'r', '@0']}
+{'narcotiseren': ['n', 'A0', 'r', 'k', 'o0', 't', 'i0', 'z', 'e1', 'r', '@0'], 'concilieren': ['k', 'O0', 'n', 's', 'i0', 'l', 'i0', 'j', 'e1', 'r', '@0']}
+{'contravenierend': ['k', 'O0', 'n', 't', 'r', 'a0', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'plevieren': ['p', 'l', '@0', 'v', 'i1', 'r', '@0'], 'schapulieren': ['s', 'x', 'a0', 'p', 'y0', 'l', 'i1', 'r', '@0']}
+{'vieren': ['v', 'i1', 'r', '@0'], 'bestieren': ['b', '@0', 's', 't', 'i1', 'r', '@0']}
+{'toucherend': ['t', 'u0', 'S', 'e1', 'r', '@0', 'n', 't'], 'stationerend': ['s', 't', 'A0', 't', 'S', 'o0', 'n', 'e1', 'r', '@0', 'n', 't']}
+{'harmonierend': ['h', 'A0', 'r', 'm', 'o0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'solfegierend': ['s', 'O0', 'l', 'f', 'E0', 'Z', 'e1', 'r', '@0', 'n', 't']}
+{'ontsieren': ['O0', 'n', 't', 's', 'i1', 'r', '@0'], 'portieren': ['p', 'O0', 'r', 't', 'i1', 'r', '@0']}
+{'saffieren': ['s', 'A0', 'f', 'i1', 'r', '@0'], 'bestieren': ['b', '@0', 's', 't', 'i1', 'r', '@0']}
+{'dolfijntjes': ['d', 'O0', 'l', 'f', 'K1', 'n', 't', 'j', '@0', 's'], 'strapontijntjes': ['s', 't', 'r', 'a0', 'p', 'O0', 'n', 't', 'K1', 'n', 't', 'j', '@0', 's']}
+{'larderend': ['l', 'A0', 'r', 'd', 'e1', 'r', '@0', 'n', 't'], 'diskwalificerend': ['d', 'I0', 's', 'k', 'w', 'a0', 'l', 'i0', 'f', 'i0', 's', 'e1', 'r', '@0', 'n', 't']}
+{'diere': ['d', 'i1', 'r', '@0'], 'begieren': ['b', '@0', 'G', 'i1', 'r', '@0']}
+{'mortieren': ['m', 'O0', 'r', 't', 'i1', 'r', '@0'], 'scharnieren': ['s', 'x', 'A0', 'r', 'n', 'i1', 'r', '@0']}
+{'fauteuiltjes': ['f', 'o0', 't', 'L1', 't', 'j', '@0', 's'], 'jan-boerenfluitjes': ['j', 'A0', 'm', 'b', 'u0', 'r', '@0', 'f', 'l', 'L1', 't', 'j', '@0', 's']}
+{'schapulieren': ['s', 'x', 'a0', 'p', 'y0', 'l', 'i1', 'r', '@0'], 'begieren': ['b', '@0', 'G', 'i1', 'r', '@0']}
+{'provenierend': ['p', 'r', 'o0', 'v', '@0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'differentierend': ['d', 'I0', 'f', '@0', 'r', 'E0', 'n', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'passagieren': ['p', 'A0', 's', 'a0', 'Z', 'i1', 'r', '@0'], 'janplezieren': ['j', 'A0', 'm', 'p', 'l', 'e0', 'z', 'i1', 'r', '@0']}
+{'diversifieren': ['d', 'i0', 'v', 'E0', 'r', 's', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0'], 'distantieren': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0']}
+{'kwartieren': ['k', 'w', 'A0', 'r', 't', 'i1', 'r', '@0'], 'saffieren': ['s', 'A0', 'f', 'i1', 'r', '@0']}
+{'essaaierend': ['E0', 's', 'a0', 'j', 'e1', 'r', '@0', 'n', 't'], 'solfegierend': ['s', 'O0', 'l', 'f', 'E0', 'Z', 'e1', 'r', '@0', 'n', 't']}
+{'passagieren': ['p', 'A0', 's', 'a0', 'Z', 'i1', 'r', '@0'], 'begieren': ['b', '@0', 'G', 'i1', 'r', '@0']}
+{'tuinierend': ['t', 'L0', 'n', 'i1', 'r', '@0', 'n', 't'], 'verzwierend': ['v', '@0', 'r', 'z', 'w', 'i1', 'r', '@0', 'n', 't']}
+{'prejudicierend': ['p', 'r', 'e0', 'j', 'y0', 'd', 'i0', 'S', 'e1', 'r', '@0', 'n', 't'], 'kopierend': ['k', 'o0', 'p', 'i0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'scharnieren': ['s', 'x', 'A0', 'r', 'n', 'i1', 'r', '@0'], 'bestieren': ['b', '@0', 's', 't', 'i1', 'r', '@0']}
+{'tieren': ['t', 'i1', 'r', '@0'], 'brevieren': ['b', 'r', '@0', 'v', 'i1', 'r', '@0']}
+{'dieren': ['d', 'i1', 'r', '@0'], 'schapulieren': ['s', 'x', 'a0', 'p', 'y0', 'l', 'i1', 'r', '@0']}
+{'unieren': ['y0', 'n', 'i0', 'j', 'e1', 'r', '@0'], 'denuncieren': ['d', 'e0', 'n', '}0', 'n', 'S', 'e1', 'r', '@0']}
+{'embarkeerde': ['E0', 'm', 'b', 'A0', 'r', 'k', 'e1', 'r', 'd', '@0'], 'getrasseerde': ['x', '@0', 't', 'r', 'A0', 's', 'e1', 'r', 'd', '@0']}
+{'provenierend': ['p', 'r', 'o0', 'v', '@0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'solfegierend': ['s', 'O0', 'l', 'f', 'E0', 'Z', 'e1', 'r', '@0', 'n', 't']}
+{'negotierend': ['n', 'e0', 'G', 'o0', 'S', 'e1', 'r', '@0', 'n', 't'], 'disharmonierend': ['d', 'I0', 's', 'h', 'A0', 'r', 'm', 'o0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'Papoetjes': ['p', 'a0', 'p', 'u1', 't', 'j', '@0', 's'], 'doetjes': ['d', 'u1', 't', 'j', '@0', 's']}
+{'devieren': ['d', 'e0', 'v', 'i0', 'j', 'e1', 'r', '@0'], 'beneficieren': ['b', 'e0', 'n', '@0', 'f', 'i0', 'S', 'e1', 'r', '@0']}
+{'concilieren': ['k', 'O0', 'n', 's', 'i0', 'l', 'i0', 'j', 'e1', 'r', '@0'], 'resisteren': ['r', 'e0', 's', 'i0', 's', 't', 'e1', 'r', '@0']}
+{'janplezieren': ['j', 'A0', 'm', 'p', 'l', 'e0', 'z', 'i1', 'r', '@0'], 'scholieren': ['s', 'x', 'o0', 'l', 'i1', 'r', '@0']}
+{'nieren': ['n', 'i1', 'r', '@0'], 'mortieren': ['m', 'O0', 'r', 't', 'i1', 'r', '@0']}
+{'missioneerde': ['m', 'I0', 'S', 'o0', 'n', 'e1', 'r', 'd', '@0'], 'hyperboliseerden': ['h', 'i0', 'p', '@0', 'r', 'b', 'o0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'irreguliere': ['I0', 'r', 'e0', 'G', 'y0', 'l', 'i1', 'r', '@0'], 'tieren': ['t', 'i1', 'r', '@0']}
+{'psalmodierend': ['p', 's', 'A0', 'l', 'm', 'o0', 'd', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'bediscussierend': ['b', '@0', 'd', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'pionieren': ['p', 'i0', 'j', 'o0', 'n', 'i1', 'r', '@0'], 'bestieren': ['b', '@0', 's', 't', 'i1', 'r', '@0']}
+{'resisterend': ['r', 'e0', 's', 'i0', 's', 't', 'e1', 'r', '@0', 'n', 't'], 'beconcurrerend': ['b', '@0', 'k', 'O0', 'N', 'k', 'y0', 'r', 'e1', 'r', '@0', 'n', 't']}
+{'progressisten': ['p', 'r', 'o0', 'G', 'r', 'E0', 's', 'I1', 's', 't', '@0'], 'telefonisten': ['t', 'e0', 'l', '@0', 'f', 'o0', 'n', 'I1', 's', 't', '@0']}
+{'spieren': ['s', 'p', 'i1', 'r', '@0'], 'saffieren': ['s', 'A0', 'f', 'i1', 'r', '@0']}
+{'jaartjes': ['j', 'a1', 'r', 't', 'j', '@0', 's'], 'bazaartjes': ['b', 'a0', 'z', 'a1', 'r', 't', 'j', '@0', 's']}
+{'associeren': ['A0', 's', 'o0', 'S', 'e1', 'r', '@0'], 'disharmonieren': ['d', 'I0', 's', 'h', 'A0', 'r', 'm', 'o0', 'n', 'i0', 'j', 'e1', 'r', '@0']}
+{'ontsieren': ['O0', 'n', 't', 's', 'i1', 'r', '@0'], 'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0']}
+{'introduceetjes': ['I0', 'n', 't', 'r', 'o0', 'd', 'y0', 's', 'e1', 't', 'j', '@0', 's'], 'reetjes': ['r', 'e1', 't', 'j', '@0', 's']}
+{'konvooieren': ['k', 'O0', 'n', 'v', 'o0', 'j', 'e1', 'r', '@0'], 'gratieren': ['x', 'r', 'a0', 't', 'S', 'e1', 'r', '@0']}
+{'schaverdijntjes': ['s', 'x', 'a0', 'v', '@0', 'r', 'd', 'K1', 'n', 't', 'j', '@0', 's'], 'harlekijntjes': ['h', 'A0', 'r', 'l', '@0', 'k', 'K1', 'n', 't', 'j', '@0', 's']}
+{'atrofierend': ['a0', 't', 'r', 'o0', 'f', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'differentierend': ['d', 'I0', 'f', '@0', 'r', 'E0', 'n', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'renvooieren': ['r', 'A0', 'n', 'v', 'o0', 'j', 'e1', 'r', '@0'], 'gratieren': ['x', 'r', 'a0', 't', 'S', 'e1', 'r', '@0']}
+{'decoupeerden': ['d', 'e0', 'k', 'u0', 'p', 'e1', 'r', 'd', '@0'], 'geevoqueerde': ['x', '@0', 'e0', 'v', 'o0', 'k', 'e1', 'r', 'd', '@0']}
+{'refreintjes': ['r', '@0', 'f', 'r', 'K1', 'n', 't', 'j', '@0', 's'], 'strapontijntjes': ['s', 't', 'r', 'a0', 'p', 'O0', 'n', 't', 'K1', 'n', 't', 'j', '@0', 's']}
+{'gerendeerden': ['x', '@0', 'r', 'E0', 'n', 'd', 'e1', 'r', 'd', '@0'], 'gerescribeerde': ['x', '@0', 'r', 'e0', 's', 'k', 'r', 'i0', 'b', 'e1', 'r', 'd', '@0']}
+{'geinactiveerde': ['x', '@0', 'I0', 'n', 'A0', 'k', 't', 'i0', 'v', 'e1', 'r', 'd', '@0'], 'expliceerden': ['E0', 'k', 's', 'p', 'l', 'i0', 's', 'e1', 'r', 'd', '@0']}
+{'gehydrateerde': ['x', '@0', 'h', 'i0', 'd', 'r', 'a0', 't', 'e1', 'r', 'd', '@0'], 'gerendeerden': ['x', '@0', 'r', 'E0', 'n', 'd', 'e1', 'r', 'd', '@0']}
+{'perforeerden': ['p', 'E0', 'r', 'f', 'o0', 'r', 'e1', 'r', 'd', '@0'], 'mythologiseerde': ['m', 'i0', 't', 'o0', 'l', 'o0', 'G', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'colloiden': ['k', 'O0', 'l', 'o0', 'w', 'i1', 'd', '@0'], 'gebieden': ['x', '@0', 'b', 'i1', 'd', '@0']}
+{'voteren': ['v', 'o0', 't', 'e1', 'r', '@0'], 'desorganiseren': ['d', 'E0', 's', 'O0', 'r', 'G', 'a0', 'n', 'i0', 'z', 'e1', 'r', '@0']}
+{'pleviertjes': ['p', 'l', '@0', 'v', 'i1', 'r', 't', 'j', '@0', 's'], 'kiertjes': ['k', 'i1', 'r', 't', 'j', '@0', 's']}
+{'convenierend': ['k', 'O0', 'n', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'solfegierend': ['s', 'O0', 'l', 'f', 'E0', 'Z', 'e1', 'r', '@0', 'n', 't']}
+{'amplificeren': ['A0', 'm', 'p', 'l', 'i0', 'f', 'i0', 's', 'e1', 'r', '@0'], 'rationaliseren': ['r', 'A0', 't', 'S', 'o0', 'n', 'a0', 'l', 'i0', 'z', 'e1', 'r', '@0']}
+{'prejudicieren': ['p', 'r', 'e0', 'j', 'y0', 'd', 'i0', 'S', 'e1', 'r', '@0'], 'humilieren': ['h', 'y0', 'm', 'i0', 'l', 'i0', 'j', 'e1', 'r', '@0']}
+{'geaccapareerde': ['x', '@0', 'A0', 'k', 'a0', 'p', 'a0', 'r', 'e1', 'r', 'd', '@0'], 'gepikeerde': ['x', '@0', 'p', 'i0', 'k', 'e1', 'r', 'd', '@0']}
+{'laartjes': ['l', 'a1', 'r', 't', 'j', '@0', 's'], 'reservoirtjes': ['r', 'e0', 'z', '@0', 'r', 'v', 'w', 'a1', 'r', 't', 'j', '@0', 's']}
+{'incrusteerden': ['I0', 'N', 'k', 'r', '}0', 's', 't', 'e1', 'r', 'd', '@0'], 'getrasseerde': ['x', '@0', 't', 'r', 'A0', 's', 'e1', 'r', 'd', '@0']}
+{'europeaniserend': ['|0', 'r', 'o0', 'p', 'e0', 'j', 'a0', 'n', 'i0', 'z', 'e1', 'r', '@0', 'n', 't'], 'contrarierend': ['k', 'O0', 'n', 't', 'r', 'a0', 'r', 'i0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'kwartieren': ['k', 'w', 'A0', 'r', 't', 'i1', 'r', '@0'], 'spieren': ['s', 'p', 'i1', 'r', '@0']}
+{'rentenieren': ['r', 'E0', 'n', 't', '@0', 'n', 'i1', 'r', '@0'], 'slieren': ['s', 'l', 'i1', 'r', '@0']}
+{'geitereerde': ['x', '@0', 'i0', 't', '@0', 'r', 'e1', 'r', 'd', '@0'], 'deprivatiseerde': ['d', 'e0', 'p', 'r', 'i0', 'v', 'a0', 't', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'palissadeerden': ['p', 'a0', 'l', 'i0', 's', 'a0', 'd', 'e1', 'r', 'd', '@0'], 'assisteerde': ['A0', 's', 'i0', 's', 't', 'e1', 'r', 'd', '@0']}
+{'contrarierend': ['k', 'O0', 'n', 't', 'r', 'a0', 'r', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'polemiserend': ['p', 'o0', 'l', 'e0', 'm', 'i0', 'z', 'e1', 'r', '@0', 'n', 't']}
+{'asfyxieren': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0'], 'notifieren': ['n', 'o0', 't', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0']}
+{'seculieren': ['s', 'e0', 'k', 'y0', 'l', 'i1', 'r', '@0'], 'pluvieren': ['p', 'l', 'y0', 'v', 'i1', 'r', '@0']}
+{'prevenierend': ['p', 'r', 'e0', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'faveurtjes': ['f', 'a0', 'v', '|1', 'r', 't', 'j', '@0', 's'], 'malheurtjes': ['m', 'A0', 'l', '|1', 'r', 't', 'j', '@0', 's']}
+{'kwartieren': ['k', 'w', 'A0', 'r', 't', 'i1', 'r', '@0'], 'diere': ['d', 'i1', 'r', '@0']}
+{'gratieren': ['x', 'r', 'a0', 't', 'S', 'e1', 'r', '@0'], 'disharmonieren': ['d', 'I0', 's', 'h', 'A0', 'r', 'm', 'o0', 'n', 'i0', 'j', 'e1', 'r', '@0']}
+{'proclamerend': ['p', 'r', 'o0', 'k', 'l', 'a0', 'm', 'e1', 'r', '@0', 'n', 't'], 'hoererend': ['h', 'u0', 'r', 'e1', 'r', '@0', 'n', 't']}
+{'varieren': ['v', 'a0', 'r', 'i0', 'j', 'e1', 'r', '@0'], 'negotieren': ['n', 'e0', 'G', 'o0', 'S', 'e1', 'r', '@0']}
+{'provenierend': ['p', 'r', 'o0', 'v', '@0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'bediscussierend': ['b', '@0', 'd', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'schapulieren': ['s', 'x', 'a0', 'p', 'y0', 'l', 'i1', 'r', '@0'], 'pieren': ['p', 'i1', 'r', '@0']}
+{'recipierend': ['r', 'e0', 's', 'i0', 'p', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'distantierend': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'pionieren': ['p', 'i0', 'j', 'o0', 'n', 'i1', 'r', '@0'], 'brevieren': ['b', 'r', '@0', 'v', 'i1', 'r', '@0']}
+{'incrusteerden': ['I0', 'N', 'k', 'r', '}0', 's', 't', 'e1', 'r', 'd', '@0'], 'embarkeerde': ['E0', 'm', 'b', 'A0', 'r', 'k', 'e1', 'r', 'd', '@0']}
+{'pardoentjes': ['p', 'A0', 'r', 'd', 'u1', 'n', 't', 'j', '@0', 's'], 'seizoentjes': ['s', 'K0', 'z', 'u1', 'n', 't', 'j', '@0', 's']}
+{'prejudicieren': ['p', 'r', 'e0', 'j', 'y0', 'd', 'i0', 'S', 'e1', 'r', '@0'], 'convenieren': ['k', 'O0', 'n', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0']}
+{'contrarierend': ['k', 'O0', 'n', 't', 'r', 'a0', 'r', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'remarquerend': ['r', 'e0', 'm', 'A0', 'r', 'k', 'e1', 'r', '@0', 'n', 't']}
+{'incrusteerden': ['I0', 'N', 'k', 'r', '}0', 's', 't', 'e1', 'r', 'd', '@0'], 'hyperboliseerden': ['h', 'i0', 'p', '@0', 'r', 'b', 'o0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'discussieren': ['d', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0'], 'convenieren': ['k', 'O0', 'n', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0']}
+{'multiplierend': ['m', '}0', 'l', 't', 'i0', 'p', 'l', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'crediterend': ['k', 'r', 'e0', 'd', 'i0', 't', 'e1', 'r', '@0', 'n', 't'], 'proclamerend': ['p', 'r', 'o0', 'k', 'l', 'a0', 'm', 'e1', 'r', '@0', 'n', 't']}
+{'kwartieren': ['k', 'w', 'A0', 'r', 't', 'i1', 'r', '@0'], 'pionieren': ['p', 'i0', 'j', 'o0', 'n', 'i1', 'r', '@0']}
+{'ontsieren': ['O0', 'n', 't', 's', 'i1', 'r', '@0'], 'schapulieren': ['s', 'x', 'a0', 'p', 'y0', 'l', 'i1', 'r', '@0']}
+{'bardeerde': ['b', 'A0', 'r', 'd', 'e1', 'r', 'd', '@0'], 'gecollecteerde': ['x', '@0', 'k', 'O0', 'l', 'E0', 'k', 't', 'e1', 'r', 'd', '@0']}
+{'scharnieren': ['s', 'x', 'A0', 'r', 'n', 'i1', 'r', '@0'], 'pluvieren': ['p', 'l', 'y0', 'v', 'i1', 'r', '@0']}
+{'gefortuneerden': ['x', '@0', 'f', 'O0', 'r', 't', 'y0', 'n', 'e1', 'r', 'd', '@0'], 'geimplementeerde': ['x', '@0', 'I0', 'm', 'p', 'l', '@0', 'm', 'E0', 'n', 't', 'e1', 'r', 'd', '@0']}
+{'ontsieren': ['O0', 'n', 't', 's', 'i1', 'r', '@0'], 'vlieren': ['v', 'l', 'i1', 'r', '@0']}
+{'distantierend': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0', 'n', 't'], 'renvooierend': ['r', 'A0', 'n', 'v', 'o0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'resisteren': ['r', 'e0', 's', 'i0', 's', 't', 'e1', 'r', '@0'], 'flocculeren': ['f', 'l', 'O0', 'k', 'y0', 'l', 'e1', 'r', '@0']}
+{'gradeerden': ['x', 'r', 'a0', 'd', 'e1', 'r', 'd', '@0'], 'respireerden': ['r', 'E0', 's', 'p', 'i0', 'r', 'e1', 'r', 'd', '@0']}
+{'palperen': ['p', 'A0', 'l', 'p', 'e1', 'r', '@0'], 'oudeheren': ['M0', 'd', '@0', 'h', 'e1', 'r', '@0']}
+{'salarierend': ['s', 'a0', 'l', 'a0', 'r', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'remarquerend': ['r', 'e0', 'm', 'A0', 'r', 'k', 'e1', 'r', '@0', 'n', 't']}
+{'asfyxieren': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0'], 'ambieren': ['A0', 'm', 'b', 'i0', 'j', 'e1', 'r', '@0']}
+{'tierelierend': ['t', 'i0', 'r', '@0', 'l', 'i1', 'r', '@0', 'n', 't'], 'zwierend': ['z', 'w', 'i1', 'r', '@0', 'n', 't']}
+{'schuurtjes': ['s', 'x', 'y1', 'r', 't', 'j', '@0', 's'], 'kwetsuurtjes': ['k', 'w', 'E0', 't', 's', 'y1', 'r', 't', 'j', '@0', 's']}
+{'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0'], 'portieren': ['p', 'O0', 'r', 't', 'i1', 'r', '@0']}
+{'denoncerend': ['d', 'e0', 'n', 'O0', 'n', 's', 'e1', 'r', '@0', 'n', 't'], 'proclamerend': ['p', 'r', 'o0', 'k', 'l', 'a0', 'm', 'e1', 'r', '@0', 'n', 't']}
+{'neomisten': ['n', 'e0', 'j', 'o0', 'm', 'I1', 's', 't', '@0'], 'vernisten': ['v', '@0', 'r', 'n', 'I1', 's', 't', '@0']}
+{'regulerend': ['r', 'e0', 'G', 'y0', 'l', 'e1', 'r', '@0', 'n', 't'], 'denoncerend': ['d', 'e0', 'n', 'O0', 'n', 's', 'e1', 'r', '@0', 'n', 't']}
+{'hyperboliseerden': ['h', 'i0', 'p', '@0', 'r', 'b', 'o0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0'], 'getrasseerde': ['x', '@0', 't', 'r', 'A0', 's', 'e1', 'r', 'd', '@0']}
+{'gecollecteerde': ['x', '@0', 'k', 'O0', 'l', 'E0', 'k', 't', 'e1', 'r', 'd', '@0'], 'getrasseerde': ['x', '@0', 't', 'r', 'A0', 's', 'e1', 'r', 'd', '@0']}
+{'distantieren': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0'], 'convenieren': ['k', 'O0', 'n', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0']}
+{'hyperinflatie': ['h', 'i0', 'p', '@0', 'r', 'I0', 'n', 'f', 'l', 'a1', 't', 's', 'i0'], 'delegatie': ['d', 'e0', 'l', '@0', 'G', 'a1', 't', 's', 'i0']}
+{'passagieren': ['p', 'A0', 's', 'a0', 'Z', 'i1', 'r', '@0'], 'tempelieren': ['t', 'E0', 'm', 'p', '@0', 'l', 'i1', 'r', '@0']}
+{'associeren': ['A0', 's', 'o0', 'S', 'e1', 'r', '@0'], 'affilieren': ['A0', 'f', 'i0', 'l', 'i0', 'j', 'e1', 'r', '@0']}
+{'geinspecteerde': ['x', '@0', 'I0', 'n', 's', 'p', 'E0', 'k', 't', 'e1', 'r', 'd', '@0'], 'trasseerden': ['t', 'r', 'A0', 's', 'e1', 'r', 'd', '@0']}
+{'recreeerden': ['r', 'e0', 'k', 'r', 'e0', 'j', 'e1', 'r', 'd', '@0'], 'deprivatiseerde': ['d', 'e0', 'p', 'r', 'i0', 'v', 'a0', 't', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'palissadeerden': ['p', 'a0', 'l', 'i0', 's', 'a0', 'd', 'e1', 'r', 'd', '@0'], 'hybridiseerden': ['h', 'i0', 'b', 'r', 'i0', 'd', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'spuitjes': ['s', 'p', 'L1', 't', 'j', '@0', 's'], 'schuitjes': ['s', 'x', 'L1', 't', 'j', '@0', 's']}
+{'repliceren': ['r', 'e0', 'p', 'l', 'i0', 's', 'e1', 'r', '@0'], 'declareren': ['d', 'e0', 'k', 'l', 'a0', 'r', 'e1', 'r', '@0']}
+{'composteerden': ['k', 'O0', 'm', 'p', 'O0', 's', 't', 'e1', 'r', 'd', '@0'], 'collaboreerden': ['k', 'O0', 'l', 'a0', 'b', 'o0', 'r', 'e1', 'r', 'd', '@0']}
+{'perforeerden': ['p', 'E0', 'r', 'f', 'o0', 'r', 'e1', 'r', 'd', '@0'], 'infantiliseerden': ['I0', 'n', 'f', 'A0', 'n', 't', 'i0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'scholieren': ['s', 'x', 'o0', 'l', 'i1', 'r', '@0'], 'scharnieren': ['s', 'x', 'A0', 'r', 'n', 'i1', 'r', '@0']}
+{'kopieren': ['k', 'o0', 'p', 'i0', 'j', 'e1', 'r', '@0'], 'associeren': ['A0', 's', 'o0', 'S', 'e1', 'r', '@0']}
+{'associeren': ['A0', 's', 'o0', 'S', 'e1', 'r', '@0'], 'expedieren': ['E0', 'k', 's', 'p', 'e0', 'd', 'i0', 'j', 'e1', 'r', '@0']}
+{'gereglementeerde': ['x', '@0', 'r', 'e0', 'G', 'l', '@0', 'm', 'E0', 'n', 't', 'e1', 'r', 'd', '@0'], 'proletariseerden': ['p', 'r', 'o0', 'l', '@0', 't', 'a0', 'r', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'parasiterend': ['p', 'a0', 'r', 'a0', 's', 'i0', 't', 'e1', 'r', '@0', 'n', 't'], 'exclamerend': ['E0', 'k', 's', 'k', 'l', 'a0', 'm', 'e1', 'r', '@0', 'n', 't']}
+{'composteerden': ['k', 'O0', 'm', 'p', 'O0', 's', 't', 'e1', 'r', 'd', '@0'], 'katalyseerden': ['k', 'A0', 't', 'a0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'boerenfluitjes': ['b', 'u0', 'r', '@0', 'f', 'l', 'L1', 't', 'j', '@0', 's'], 'puitjes': ['p', 'L1', 't', 'j', '@0', 's']}
+{'puitjes': ['p', 'L1', 't', 'j', '@0', 's'], 'jan-boerenfluitjes': ['j', 'A0', 'm', 'b', 'u0', 'r', '@0', 'f', 'l', 'L1', 't', 'j', '@0', 's']}
+{'instantaneetjes': ['I0', 'n', 's', 't', 'A0', 'n', 't', 'a0', 'n', 'e1', 't', 'j', '@0', 's'], 'panaceetjes': ['p', 'a0', 'n', 'a0', 's', 'e1', 't', 'j', '@0', 's']}
+{'spalieren': ['s', 'p', 'a0', 'l', 'i1', 'r', '@0'], 'brevieren': ['b', 'r', '@0', 'v', 'i1', 'r', '@0']}
+{'seculieren': ['s', 'e0', 'k', 'y0', 'l', 'i1', 'r', '@0'], 'saffieren': ['s', 'A0', 'f', 'i1', 'r', '@0']}
+{'mythologiseerde': ['m', 'i0', 't', 'o0', 'l', 'o0', 'G', 'i0', 'z', 'e1', 'r', 'd', '@0'], 'convoceerden': ['k', 'O0', 'n', 'v', 'o0', 's', 'e1', 'r', 'd', '@0']}
+{'instrumenteren': ['I0', 'n', 's', 't', 'r', 'y0', 'm', 'E0', 'n', 't', 'e1', 'r', '@0'], 'repliceren': ['r', 'e0', 'p', 'l', 'i0', 's', 'e1', 'r', '@0']}
+{'negotierend': ['n', 'e0', 'G', 'o0', 'S', 'e1', 'r', '@0', 'n', 't'], 'intervenierend': ['I0', 'n', 't', '@0', 'r', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'ontsieren': ['O0', 'n', 't', 's', 'i1', 'r', '@0'], 'mortieren': ['m', 'O0', 'r', 't', 'i1', 'r', '@0']}
+{'prejudicierend': ['p', 'r', 'e0', 'j', 'y0', 'd', 'i0', 'S', 'e1', 'r', '@0', 'n', 't'], 'intervenierend': ['I0', 'n', 't', '@0', 'r', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'Batavieren': ['b', 'a0', 't', 'a0', 'v', 'i1', 'r', '@0'], 'vlieren': ['v', 'l', 'i1', 'r', '@0']}
+{"abc'tjes": ['a0', 'b', 'e0', 's', 'e1', 't', 'j', '@0', 's'], 'instantaneetjes': ['I0', 'n', 's', 't', 'A0', 'n', 't', 'a0', 'n', 'e1', 't', 'j', '@0', 's']}
+{'tweetjes': ['t', 'w', 'e1', 't', 'j', '@0', 's'], 'varieteetjes': ['v', 'a0', 'r', 'i0', 'j', 'e0', 't', 'e1', 't', 'j', '@0', 's']}
+{'discussieren': ['d', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0'], 'humilieren': ['h', 'y0', 'm', 'i0', 'l', 'i0', 'j', 'e1', 'r', '@0']}
+{'psalmodieren': ['p', 's', 'A0', 'l', 'm', 'o0', 'd', 'i0', 'j', 'e1', 'r', '@0'], 'beneficieren': ['b', 'e0', 'n', '@0', 'f', 'i0', 'S', 'e1', 'r', '@0']}
+{'associeren': ['A0', 's', 'o0', 'S', 'e1', 'r', '@0'], 'convenieren': ['k', 'O0', 'n', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0']}
+{'essayeren': ['E0', 's', 'e0', 'j', 'e1', 'r', '@0'], 'marchanderen': ['m', 'A0', 'r', 'S', 'A0', 'n', 'd', 'e1', 'r', '@0']}
+{'tirailleren': ['t', 'i0', 'r', 'A0', 'j', 'e1', 'r', '@0'], 'flocculeren': ['f', 'l', 'O0', 'k', 'y0', 'l', 'e1', 'r', '@0']}
+{'kwartieren': ['k', 'w', 'A0', 'r', 't', 'i1', 'r', '@0'], 'schapulieren': ['s', 'x', 'a0', 'p', 'y0', 'l', 'i1', 'r', '@0']}
+{'discussieren': ['d', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0'], 'petrifieren': ['p', 'e0', 't', 'r', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0']}
+{'Batavieren': ['b', 'a0', 't', 'a0', 'v', 'i1', 'r', '@0'], 'scholieren': ['s', 'x', 'o0', 'l', 'i1', 'r', '@0']}
+{'suggereerde': ['s', '}0', 'G', '@0', 'r', 'e1', 'r', 'd', '@0'], 'gepedaleerde': ['x', '@0', 'p', 'e0', 'd', 'a0', 'l', 'e1', 'r', 'd', '@0']}
+{'janplezieren': ['j', 'A0', 'm', 'p', 'l', 'e0', 'z', 'i1', 'r', '@0'], 'bestieren': ['b', '@0', 's', 't', 'i1', 'r', '@0']}
+{'associeren': ['A0', 's', 'o0', 'S', 'e1', 'r', '@0'], 'petrifieren': ['p', 'e0', 't', 'r', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0']}
+{'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0'], 'pieren': ['p', 'i1', 'r', '@0']}
+{'gebanderolleerde': ['x', '@0', 'b', 'A0', 'n', 'd', '@0', 'r', 'O0', 'l', 'e1', 'r', 'd', '@0'], 'geaggregeerden': ['x', '@0', 'A0', 'x', 'r', '@0', 'G', 'e1', 'r', 'd', '@0']}
+{'harmonierend': ['h', 'A0', 'r', 'm', 'o0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'interlinierend': ['I0', 'n', 't', '@0', 'r', 'l', 'i0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'differentierend': ['d', 'I0', 'f', '@0', 'r', 'E0', 'n', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'gratifierend': ['x', 'r', 'a0', 't', 'i0', 'f', 'j', 'e1', 'r', '@0', 'n', 't'], 'bediscussierend': ['b', '@0', 'd', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'narcotiseren': ['n', 'A0', 'r', 'k', 'o0', 't', 'i0', 'z', 'e1', 'r', '@0'], 'annexeren': ['A0', 'n', 'E0', 'k', 's', 'e1', 'r', '@0']}
+{'ontsieren': ['O0', 'n', 't', 's', 'i1', 'r', '@0'], 'pieren': ['p', 'i1', 'r', '@0']}
+{'diere': ['d', 'i1', 'r', '@0'], 'slamieren': ['s', 'l', 'a0', 'm', 'i1', 'r', '@0']}
+{'instrumenteren': ['I0', 'n', 's', 't', 'r', 'y0', 'm', 'E0', 'n', 't', 'e1', 'r', '@0'], 'declareren': ['d', 'e0', 'k', 'l', 'a0', 'r', 'e1', 'r', '@0']}
+{'nieren': ['n', 'i1', 'r', '@0'], 'bestieren': ['b', '@0', 's', 't', 'i1', 'r', '@0']}
+{'geadministreerde': ['x', '@0', 'A0', 'd', 'm', 'i0', 'n', 'i0', 's', 't', 'r', 'e1', 'r', 'd', '@0'], 'decimeerde': ['d', 'e0', 's', 'i0', 'm', 'e1', 'r', 'd', '@0']}
+{'kopieren': ['k', 'o0', 'p', 'i0', 'j', 'e1', 'r', '@0'], 'beneficieren': ['b', 'e0', 'n', '@0', 'f', 'i0', 'S', 'e1', 'r', '@0']}
+{'spieren': ['s', 'p', 'i1', 'r', '@0'], 'vieren': ['v', 'i1', 'r', '@0']}
+{'contrarierend': ['k', 'O0', 'n', 't', 'r', 'a0', 'r', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'proclamerend': ['p', 'r', 'o0', 'k', 'l', 'a0', 'm', 'e1', 'r', '@0', 'n', 't']}
+{'tierend': ['t', 'i1', 'r', '@0', 'n', 't'], 'spierend': ['s', 'p', 'i1', 'r', '@0', 'n', 't']}
+{'psalmodierend': ['p', 's', 'A0', 'l', 'm', 'o0', 'd', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'differentierend': ['d', 'I0', 'f', '@0', 'r', 'E0', 'n', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'polariserend': ['p', 'o0', 'l', 'a0', 'r', 'i0', 'z', 'e1', 'r', '@0', 'n', 't'], 'toucherend': ['t', 'u0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'spieren': ['s', 'p', 'i1', 'r', '@0'], 'scharnieren': ['s', 'x', 'A0', 'r', 'n', 'i1', 'r', '@0']}
+{'tempelieren': ['t', 'E0', 'm', 'p', '@0', 'l', 'i1', 'r', '@0'], 'vieren': ['v', 'i1', 'r', '@0']}
+{'pieren': ['p', 'i1', 'r', '@0'], 'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0']}
+{'presumerend': ['p', 'r', 'e0', 's', 'y0', 'm', 'e1', 'r', '@0', 'n', 't'], 'pasporterend': ['p', 'A0', 's', 'p', 'O0', 'r', 't', 'e1', 'r', '@0', 'n', 't']}
+{'intervenieren': ['I0', 'n', 't', '@0', 'r', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0'], 'negotieren': ['n', 'e0', 'G', 'o0', 'S', 'e1', 'r', '@0']}
+{'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0'], 'bestieren': ['b', '@0', 's', 't', 'i1', 'r', '@0']}
+{'bardeerde': ['b', 'A0', 'r', 'd', 'e1', 'r', 'd', '@0'], 'hyperboliseerden': ['h', 'i0', 'p', '@0', 'r', 'b', 'o0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'spolierend': ['s', 'p', 'o0', 'l', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'bankierend': ['b', 'A0', 'N', 'k', 'i1', 'r', '@0', 'n', 't'], 'slierend': ['s', 'l', 'i1', 'r', '@0', 'n', 't']}
+{'solmierend': ['s', 'O0', 'l', 'm', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'discussierend': ['d', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'katalyseerden': ['k', 'A0', 't', 'a0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0'], 'gereglementeerde': ['x', '@0', 'r', 'e0', 'G', 'l', '@0', 'm', 'E0', 'n', 't', 'e1', 'r', 'd', '@0']}
+{'multiplierend': ['m', '}0', 'l', 't', 'i0', 'p', 'l', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'prejudicierend': ['p', 'r', 'e0', 'j', 'y0', 'd', 'i0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'purifierend': ['p', 'y0', 'r', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'differentierend': ['d', 'I0', 'f', '@0', 'r', 'E0', 'n', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'associeren': ['A0', 's', 'o0', 'S', 'e1', 'r', '@0'], 'reconcilieren': ['r', 'e0', 'k', 'O0', 'n', 's', 'i0', 'l', 'i0', 'j', 'e1', 'r', '@0']}
+{'kohieren': ['k', 'o0', 'h', 'i1', 'r', '@0'], 'tierelieren': ['t', 'i0', 'r', '@0', 'l', 'i1', 'r', '@0']}
+{'Batavieren': ['b', 'a0', 't', 'a0', 'v', 'i1', 'r', '@0'], 'scharnieren': ['s', 'x', 'A0', 'r', 'n', 'i1', 'r', '@0']}
+{'bardeerde': ['b', 'A0', 'r', 'd', 'e1', 'r', 'd', '@0'], 'getrasseerde': ['x', '@0', 't', 'r', 'A0', 's', 'e1', 'r', 'd', '@0']}
+{'repatrierend': ['r', 'e0', 'p', 'A0', 't', 'r', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'bediscussierend': ['b', '@0', 'd', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'jaartjes': ['j', 'a1', 'r', 't', 'j', '@0', 's'], 'pilaartjes': ['p', 'i0', 'l', 'a1', 'r', 't', 'j', '@0', 's']}
+{'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0'], 'vlieren': ['v', 'l', 'i1', 'r', '@0']}
+{'sortietjes': ['s', 'O0', 'r', 't', 'i1', 't', 'j', '@0', 's'], 'bougietjes': ['b', 'u0', 'Z', 'i1', 't', 'j', '@0', 's']}
+{'gradeerden': ['x', 'r', 'a0', 'd', 'e1', 'r', 'd', '@0'], 'skeletteerden': ['s', 'k', '@0', 'l', 'E0', 't', 'e1', 'r', 'd', '@0']}
+{'schapulieren': ['s', 'x', 'a0', 'p', 'y0', 'l', 'i1', 'r', '@0'], 'staffieren': ['s', 't', 'A0', 'f', 'i1', 'r', '@0']}
+{'denoncerend': ['d', 'e0', 'n', 'O0', 'n', 's', 'e1', 'r', '@0', 'n', 't'], 'hoererend': ['h', 'u0', 'r', 'e1', 'r', '@0', 'n', 't']}
+{'discussieren': ['d', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0'], 'notifieren': ['n', 'o0', 't', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0']}
+{'contrarierend': ['k', 'O0', 'n', 't', 'r', 'a0', 'r', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'bediscussierend': ['b', '@0', 'd', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'glanduleuze': ['x', 'l', 'A0', 'n', 'd', 'y0', 'l', '|1', 'z', '@0'], 'volumineuze': ['v', 'o0', 'l', 'y0', 'm', 'i0', 'n', '|1', 'z', '@0']}
+{'psalmodieren': ['p', 's', 'A0', 'l', 'm', 'o0', 'd', 'i0', 'j', 'e1', 'r', '@0'], 'denuncieren': ['d', 'e0', 'n', '}0', 'n', 'S', 'e1', 'r', '@0']}
+{'slamieren': ['s', 'l', 'a0', 'm', 'i1', 'r', '@0'], 'Batavieren': ['b', 'a0', 't', 'a0', 'v', 'i1', 'r', '@0']}
+{'spolierend': ['s', 'p', 'o0', 'l', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'certifierend': ['s', 'E0', 'r', 't', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'solfegierend': ['s', 'O0', 'l', 'f', 'E0', 'Z', 'e1', 'r', '@0', 'n', 't']}
+{'trasseerden': ['t', 'r', 'A0', 's', 'e1', 'r', 'd', '@0'], 'hybridiseerden': ['h', 'i0', 'b', 'r', 'i0', 'd', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'tieren': ['t', 'i1', 'r', '@0'], 'brevieren': ['b', 'r', '@0', 'v', 'i1', 'r', '@0']}
+{'jageressen': ['j', 'a0', 'G', '@0', 'r', 'E1', 's', '@0'], 'delicatessen': ['d', 'e0', 'l', 'i0', 'k', 'a0', 't', 'E1', 's', '@0']}
+{'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't'], 'certifierend': ['s', 'E0', 'r', 't', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'tierelieren': ['t', 'i0', 'r', '@0', 'l', 'i1', 'r', '@0'], 'janplezieren': ['j', 'A0', 'm', 'p', 'l', 'e0', 'z', 'i1', 'r', '@0']}
+{'affilieren': ['A0', 'f', 'i0', 'l', 'i0', 'j', 'e1', 'r', '@0'], 'discussieren': ['d', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0']}
+{'discussieren': ['d', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0'], 'disharmonieren': ['d', 'I0', 's', 'h', 'A0', 'r', 'm', 'o0', 'n', 'i0', 'j', 'e1', 'r', '@0']}
+{'ontsieren': ['O0', 'n', 't', 's', 'i1', 'r', '@0'], 'scharnieren': ['s', 'x', 'A0', 'r', 'n', 'i1', 'r', '@0']}
+{'regulerend': ['r', 'e0', 'G', 'y0', 'l', 'e1', 'r', '@0', 'n', 't'], 'remarquerend': ['r', 'e0', 'm', 'A0', 'r', 'k', 'e1', 'r', '@0', 'n', 't']}
+{'gereciproceerde': ['x', '@0', 'r', 'e0', 's', 'i0', 'p', 'r', 'o0', 's', 'e1', 'r', 'd', '@0'], 'perforeerden': ['p', 'E0', 'r', 'f', 'o0', 'r', 'e1', 'r', 'd', '@0']}
+{'slieren': ['s', 'l', 'i1', 'r', '@0'], 'staffieren': ['s', 't', 'A0', 'f', 'i1', 'r', '@0']}
+{'salarierend': ['s', 'a0', 'l', 'a0', 'r', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'denoncerend': ['d', 'e0', 'n', 'O0', 'n', 's', 'e1', 'r', '@0', 'n', 't']}
+{'refreintjes': ['r', '@0', 'f', 'r', 'K1', 'n', 't', 'j', '@0', 's'], 'zwijntjes': ['z', 'w', 'K1', 'n', 't', 'j', '@0', 's']}
+{'koloniseerde': ['k', 'o0', 'l', 'o0', 'n', 'i0', 'z', 'e1', 'r', 'd', '@0'], 'palissadeerden': ['p', 'a0', 'l', 'i0', 's', 'a0', 'd', 'e1', 'r', 'd', '@0']}
+{'recreeerden': ['r', 'e0', 'k', 'r', 'e0', 'j', 'e1', 'r', 'd', '@0'], 'macadamiseerde': ['m', 'a0', 'k', 'a0', 'd', 'a0', 'm', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'spalieren': ['s', 'p', 'a0', 'l', 'i1', 'r', '@0'], 'plevieren': ['p', 'l', '@0', 'v', 'i1', 'r', '@0']}
+{'anjelieren': ['A0', 'n', 'j', '@0', 'l', 'i1', 'r', '@0'], 'saffieren': ['s', 'A0', 'f', 'i1', 'r', '@0']}
+{'annexeren': ['A0', 'n', 'E0', 'k', 's', 'e1', 'r', '@0'], 'resisteren': ['r', 'e0', 's', 'i0', 's', 't', 'e1', 'r', '@0']}
+{'tierelierend': ['t', 'i0', 'r', '@0', 'l', 'i1', 'r', '@0', 'n', 't'], 'tierend': ['t', 'i1', 'r', '@0', 'n', 't']}
+{'devieren': ['d', 'e0', 'v', 'i0', 'j', 'e1', 'r', '@0'], 'discussieren': ['d', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0']}
+{'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0'], 'saffieren': ['s', 'A0', 'f', 'i1', 'r', '@0']}
+{'respireerde': ['r', 'E0', 's', 'p', 'i0', 'r', 'e1', 'r', 'd', '@0'], 'intensiveerden': ['I0', 'n', 't', 'E0', 'n', 'z', 'i0', 'v', 'e1', 'r', 'd', '@0']}
+{'traatjes': ['t', 'r', 'a1', 't', 'j', '@0', 's'], 'maatjes': ['m', 'a1', 't', 'j', '@0', 's']}
+{'gecollecteerde': ['x', '@0', 'k', 'O0', 'l', 'E0', 'k', 't', 'e1', 'r', 'd', '@0'], 'hyperboliseerden': ['h', 'i0', 'p', '@0', 'r', 'b', 'o0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'boerenfluitjes': ['b', 'u0', 'r', '@0', 'f', 'l', 'L1', 't', 'j', '@0', 's'], 'fauteuiltjes': ['f', 'o0', 't', 'L1', 't', 'j', '@0', 's']}
+{'retourtjes': ['r', '@0', 't', 'u1', 'r', 't', 'j', '@0', 's'], 'voertjes': ['v', 'u1', 'r', 't', 'j', '@0', 's']}
+{"abc'tjes": ['a0', 'b', 'e0', 's', 'e1', 't', 'j', '@0', 's'], 'tweetjes': ['t', 'w', 'e1', 't', 'j', '@0', 's']}
+{'negotierend': ['n', 'e0', 'G', 'o0', 'S', 'e1', 'r', '@0', 'n', 't'], 'petrifierend': ['p', 'e0', 't', 'r', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'vlieren': ['v', 'l', 'i1', 'r', '@0'], 'passagieren': ['p', 'A0', 's', 'a0', 'Z', 'i1', 'r', '@0']}
+{'amplificeren': ['A0', 'm', 'p', 'l', 'i0', 'f', 'i0', 's', 'e1', 'r', '@0'], 'tirailleren': ['t', 'i0', 'r', 'A0', 'j', 'e1', 'r', '@0']}
+{'tieren': ['t', 'i1', 'r', '@0'], 'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0']}
+{'oudeheren': ['M0', 'd', '@0', 'h', 'e1', 'r', '@0'], 'debuteren': ['d', 'e0', 'b', 'y0', 't', 'e1', 'r', '@0']}
+{'tempelieren': ['t', 'E0', 'm', 'p', '@0', 'l', 'i1', 'r', '@0'], 'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0']}
+{'schapulieren': ['s', 'x', 'a0', 'p', 'y0', 'l', 'i1', 'r', '@0'], 'janplezieren': ['j', 'A0', 'm', 'p', 'l', 'e0', 'z', 'i1', 'r', '@0']}
+{'harmonierend': ['h', 'A0', 'r', 'm', 'o0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'distantierend': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'embarkeerde': ['E0', 'm', 'b', 'A0', 'r', 'k', 'e1', 'r', 'd', '@0'], 'retireerden': ['r', 'e0', 't', 'i0', 'r', 'e1', 'r', 'd', '@0']}
+{'gleetjes': ['x', 'l', 'e1', 't', 'j', '@0', 's'], 'varieteetjes': ['v', 'a0', 'r', 'i0', 'j', 'e0', 't', 'e1', 't', 'j', '@0', 's']}
+{'amplificeren': ['A0', 'm', 'p', 'l', 'i0', 'f', 'i0', 's', 'e1', 'r', '@0'], 'concilieren': ['k', 'O0', 'n', 's', 'i0', 'l', 'i0', 'j', 'e1', 'r', '@0']}
+{'knietjes': ['k', 'n', 'i1', 't', 'j', '@0', 's'], 'bandietjes': ['b', 'A0', 'n', 'd', 'i1', 't', 'j', '@0', 's']}
+{'trepaneerden': ['t', 'r', 'e0', 'p', 'a0', 'n', 'e1', 'r', 'd', '@0'], 'gebrutaliseerde': ['x', '@0', 'b', 'r', 'y0', 't', 'a0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'janplezieren': ['j', 'A0', 'm', 'p', 'l', 'e0', 'z', 'i1', 'r', '@0'], 'brevieren': ['b', 'r', '@0', 'v', 'i1', 'r', '@0']}
+{'regulerend': ['r', 'e0', 'G', 'y0', 'l', 'e1', 'r', '@0', 'n', 't'], 'beconcurrerend': ['b', '@0', 'k', 'O0', 'N', 'k', 'y0', 'r', 'e1', 'r', '@0', 'n', 't']}
+{'europeaniserend': ['|0', 'r', 'o0', 'p', 'e0', 'j', 'a0', 'n', 'i0', 'z', 'e1', 'r', '@0', 'n', 't'], 'regulerend': ['r', 'e0', 'G', 'y0', 'l', 'e1', 'r', '@0', 'n', 't']}
+{'composteerden': ['k', 'O0', 'm', 'p', 'O0', 's', 't', 'e1', 'r', 'd', '@0'], 'gradeerden': ['x', 'r', 'a0', 'd', 'e1', 'r', 'd', '@0']}
+{'kasseitjes': ['k', 'A0', 's', 'K1', 't', 'j', '@0', 's'], 'jokkernijtjes': ['j', 'O0', 'k', '@0', 'r', 'n', 'K1', 't', 'j', '@0', 's']}
+{'negotierend': ['n', 'e0', 'G', 'o0', 'S', 'e1', 'r', '@0', 'n', 't'], 'atrofierend': ['a0', 't', 'r', 'o0', 'f', 'i0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'spalieren': ['s', 'p', 'a0', 'l', 'i1', 'r', '@0'], 'tieren': ['t', 'i1', 'r', '@0']}
+{'gratieren': ['x', 'r', 'a0', 't', 'S', 'e1', 'r', '@0'], 'convenieren': ['k', 'O0', 'n', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0']}
+{'tatoeerend': ['t', 'A0', 't', 'u0', 'w', 'e1', 'r', '@0', 'n', 't'], 'supponerend': ['s', '}0', 'p', 'o0', 'n', 'e1', 'r', '@0', 'n', 't']}
+{'rapieren': ['r', 'a0', 'p', 'i1', 'r', '@0'], 'mortieren': ['m', 'O0', 'r', 't', 'i1', 'r', '@0']}
+{'portieren': ['p', 'O0', 'r', 't', 'i1', 'r', '@0'], 'schapulieren': ['s', 'x', 'a0', 'p', 'y0', 'l', 'i1', 'r', '@0']}
+{'contravenierend': ['k', 'O0', 'n', 't', 'r', 'a0', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'distantierend': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'resisterend': ['r', 'e0', 's', 'i0', 's', 't', 'e1', 'r', '@0', 'n', 't'], 'polemiserend': ['p', 'o0', 'l', 'e0', 'm', 'i0', 'z', 'e1', 'r', '@0', 'n', 't']}
+{'dissimilaties': ['d', 'I0', 's', 'i0', 'm', 'i0', 'l', 'a1', 't', 's', 'i0', 's'], 'illuminaties': ['I0', 'l', 'y0', 'm', 'i0', 'n', 'a1', 't', 's', 'i0', 's']}
+{'onteren': ['O0', 'n', 't', 'e1', 'r', '@0'], 'rationaliseren': ['r', 'A0', 't', 'S', 'o0', 'n', 'a0', 'l', 'i0', 'z', 'e1', 'r', '@0']}
+{'tieren': ['t', 'i1', 'r', '@0'], 'plevieren': ['p', 'l', '@0', 'v', 'i1', 'r', '@0']}
+{'slieren': ['s', 'l', 'i1', 'r', '@0'], 'bestieren': ['b', '@0', 's', 't', 'i1', 'r', '@0']}
+{'schavotjes': ['s', 'x', 'a0', 'v', 'O1', 't', 'j', '@0', 's'], 'vlotjes': ['v', 'l', 'O1', 't', 'j', '@0', 's']}
+{'crediterend': ['k', 'r', 'e0', 'd', 'i0', 't', 'e1', 'r', '@0', 'n', 't'], 'denoncerend': ['d', 'e0', 'n', 'O0', 'n', 's', 'e1', 'r', '@0', 'n', 't']}
+{'blesseerden': ['b', 'l', 'E0', 's', 'e1', 'r', 'd', '@0'], 'missioneerde': ['m', 'I0', 'S', 'o0', 'n', 'e1', 'r', 'd', '@0']}
+{'pieren': ['p', 'i1', 'r', '@0'], 'begieren': ['b', '@0', 'G', 'i1', 'r', '@0']}
+{'beneficieren': ['b', 'e0', 'n', '@0', 'f', 'i0', 'S', 'e1', 'r', '@0'], 'notifieren': ['n', 'o0', 't', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0']}
+{'boerenfluitjes': ['b', 'u0', 'r', '@0', 'f', 'l', 'L1', 't', 'j', '@0', 's'], 'schuitjes': ['s', 'x', 'L1', 't', 'j', '@0', 's']}
+{'tempelieren': ['t', 'E0', 'm', 'p', '@0', 'l', 'i1', 'r', '@0'], 'portieren': ['p', 'O0', 'r', 't', 'i1', 'r', '@0']}
+{'masturbeerden': ['m', 'A0', 's', 't', '}0', 'r', 'b', 'e1', 'r', 'd', '@0'], 'militariseerde': ['m', 'i0', 'l', 'i0', 't', 'a0', 'r', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'vaatjes': ['v', 'a1', 't', 'j', '@0', 's'], "h'tjes": ['h', 'a1', 't', 'j', '@0', 's']}
+{'distingeerden': ['d', 'I0', 's', 't', 'I0', 'N', 'G', 'e1', 'r', 'd', '@0'], 'proletariseerden': ['p', 'r', 'o0', 'l', '@0', 't', 'a0', 'r', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'spalieren': ['s', 'p', 'a0', 'l', 'i1', 'r', '@0'], 'spieren': ['s', 'p', 'i1', 'r', '@0']}
+{'slieren': ['s', 'l', 'i1', 'r', '@0'], 'passagieren': ['p', 'A0', 's', 'a0', 'Z', 'i1', 'r', '@0']}
+{'anjelieren': ['A0', 'n', 'j', '@0', 'l', 'i1', 'r', '@0'], 'vieren': ['v', 'i1', 'r', '@0']}
+{'kohieren': ['k', 'o0', 'h', 'i1', 'r', '@0'], 'dieren': ['d', 'i1', 'r', '@0']}
+{'diere': ['d', 'i1', 'r', '@0'], 'bestieren': ['b', '@0', 's', 't', 'i1', 'r', '@0']}
+{'decentraliserend': ['d', 'e0', 's', 'E0', 'n', 't', 'r', 'a0', 'l', 'i0', 'z', 'e1', 'r', '@0', 'n', 't'], 'indicerend': ['I0', 'n', 'd', 'i0', 's', 'e1', 'r', '@0', 'n', 't']}
+{'concilieren': ['k', 'O0', 'n', 's', 'i0', 'l', 'i0', 'j', 'e1', 'r', '@0'], 'rationaliseren': ['r', 'A0', 't', 'S', 'o0', 'n', 'a0', 'l', 'i0', 'z', 'e1', 'r', '@0']}
+{'kohieren': ['k', 'o0', 'h', 'i1', 'r', '@0'], 'plevieren': ['p', 'l', '@0', 'v', 'i1', 'r', '@0']}
+{'supplieren': ['s', '}0', 'p', 'l', 'i0', 'j', 'e1', 'r', '@0'], 'discussieren': ['d', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0']}
+{'passagieren': ['p', 'A0', 's', 'a0', 'Z', 'i1', 'r', '@0'], 'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0']}
+{'reconcilieren': ['r', 'e0', 'k', 'O0', 'n', 's', 'i0', 'l', 'i0', 'j', 'e1', 'r', '@0'], 'beneficieren': ['b', 'e0', 'n', '@0', 'f', 'i0', 'S', 'e1', 'r', '@0']}
+{'schmierden': ['S', 'm', 'i1', 'r', 'd', '@0'], 'begierden': ['b', '@0', 'G', 'i1', 'r', 'd', '@0']}
+{'pionieren': ['p', 'i0', 'j', 'o0', 'n', 'i1', 'r', '@0'], 'vieren': ['v', 'i1', 'r', '@0']}
+{'kwartieren': ['k', 'w', 'A0', 'r', 't', 'i1', 'r', '@0'], 'tierelieren': ['t', 'i0', 'r', '@0', 'l', 'i1', 'r', '@0']}
+{'harmonierend': ['h', 'A0', 'r', 'm', 'o0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'discussierend': ['d', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'percipieren': ['p', 'E0', 'r', 's', 'i0', 'p', 'i0', 'j', 'e1', 'r', '@0'], 'distantieren': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0']}
+{'gefortuneerden': ['x', '@0', 'f', 'O0', 'r', 't', 'y0', 'n', 'e1', 'r', 'd', '@0'], 'gerendeerden': ['x', '@0', 'r', 'E0', 'n', 'd', 'e1', 'r', 'd', '@0']}
+{'janplezieren': ['j', 'A0', 'm', 'p', 'l', 'e0', 'z', 'i1', 'r', '@0'], 'schapulieren': ['s', 'x', 'a0', 'p', 'y0', 'l', 'i1', 'r', '@0']}
+{'rapieren': ['r', 'a0', 'p', 'i1', 'r', '@0'], 'janplezieren': ['j', 'A0', 'm', 'p', 'l', 'e0', 'z', 'i1', 'r', '@0']}
+{'kohieren': ['k', 'o0', 'h', 'i1', 'r', '@0'], 'vlieren': ['v', 'l', 'i1', 'r', '@0']}
+{'diskwalificerend': ['d', 'I0', 's', 'k', 'w', 'a0', 'l', 'i0', 'f', 'i0', 's', 'e1', 'r', '@0', 'n', 't'], 'objectiverend': ['O0', 'b', 'j', 'E0', 'k', 't', 'i0', 'v', 'e1', 'r', '@0', 'n', 't']}
+{'puitjes': ['p', 'L1', 't', 'j', '@0', 's'], 'beschuitjes': ['b', '@0', 's', 'x', 'L1', 't', 'j', '@0', 's']}
+{'kohieren': ['k', 'o0', 'h', 'i1', 'r', '@0'], 'scharnieren': ['s', 'x', 'A0', 'r', 'n', 'i1', 'r', '@0']}
+{'tieren': ['t', 'i1', 'r', '@0'], 'slamieren': ['s', 'l', 'a0', 'm', 'i1', 'r', '@0']}
+{'jaartjes': ['j', 'a1', 'r', 't', 'j', '@0', 's'], 'laartjes': ['l', 'a1', 'r', 't', 'j', '@0', 's']}
+{'beneficieren': ['b', 'e0', 'n', '@0', 'f', 'i0', 'S', 'e1', 'r', '@0'], 'convenieren': ['k', 'O0', 'n', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0']}
+{'spieren': ['s', 'p', 'i1', 'r', '@0'], 'slieren': ['s', 'l', 'i1', 'r', '@0']}
+{'distantieren': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0'], 'octrooieren': ['O0', 'k', 't', 'r', 'o0', 'j', 'e1', 'r', '@0']}
+{'gebanderolleerde': ['x', '@0', 'b', 'A0', 'n', 'd', '@0', 'r', 'O0', 'l', 'e1', 'r', 'd', '@0'], 'decimeerde': ['d', 'e0', 's', 'i0', 'm', 'e1', 'r', 'd', '@0']}
+{'perforeerden': ['p', 'E0', 'r', 'f', 'o0', 'r', 'e1', 'r', 'd', '@0'], 'trepaneerden': ['t', 'r', 'e0', 'p', 'a0', 'n', 'e1', 'r', 'd', '@0']}
+{'seculieren': ['s', 'e0', 'k', 'y0', 'l', 'i1', 'r', '@0'], 'begieren': ['b', '@0', 'G', 'i1', 'r', '@0']}
+{'spalieren': ['s', 'p', 'a0', 'l', 'i1', 'r', '@0'], 'ontsieren': ['O0', 'n', 't', 's', 'i1', 'r', '@0']}
+{'staffieren': ['s', 't', 'A0', 'f', 'i1', 'r', '@0'], 'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0']}
+{'mythologiseerde': ['m', 'i0', 't', 'o0', 'l', 'o0', 'G', 'i0', 'z', 'e1', 'r', 'd', '@0'], 'geitereerde': ['x', '@0', 'i0', 't', '@0', 'r', 'e1', 'r', 'd', '@0']}
+{'incrusteerden': ['I0', 'N', 'k', 'r', '}0', 's', 't', 'e1', 'r', 'd', '@0'], 'suggereerde': ['s', '}0', 'G', '@0', 'r', 'e1', 'r', 'd', '@0']}
+{'portieren': ['p', 'O0', 'r', 't', 'i1', 'r', '@0'], 'scholieren': ['s', 'x', 'o0', 'l', 'i1', 'r', '@0']}
+{'rapieren': ['r', 'a0', 'p', 'i1', 'r', '@0'], 'seculieren': ['s', 'e0', 'k', 'y0', 'l', 'i1', 'r', '@0']}
+{'scharnieren': ['s', 'x', 'A0', 'r', 'n', 'i1', 'r', '@0'], 'slieren': ['s', 'l', 'i1', 'r', '@0']}
+{'expedieren': ['E0', 'k', 's', 'p', 'e0', 'd', 'i0', 'j', 'e1', 'r', '@0'], 'negotieren': ['n', 'e0', 'G', 'o0', 'S', 'e1', 'r', '@0']}
+{'prevenierend': ['p', 'r', 'e0', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'spieren': ['s', 'p', 'i1', 'r', '@0'], 'Batavieren': ['b', 'a0', 't', 'a0', 'v', 'i1', 'r', '@0']}
+{'psalmodierend': ['p', 's', 'A0', 'l', 'm', 'o0', 'd', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'prejudicierend': ['p', 'r', 'e0', 'j', 'y0', 'd', 'i0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'dieren': ['d', 'i1', 'r', '@0'], 'passagieren': ['p', 'A0', 's', 'a0', 'Z', 'i1', 'r', '@0']}
+{'associeren': ['A0', 's', 'o0', 'S', 'e1', 'r', '@0'], 'varieren': ['v', 'a0', 'r', 'i0', 'j', 'e1', 'r', '@0']}
+{'harmonierend': ['h', 'A0', 'r', 'm', 'o0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'reconcilierend': ['r', 'e0', 'k', 'O0', 'n', 's', 'i0', 'l', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'distantierend': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'passagieren': ['p', 'A0', 's', 'a0', 'Z', 'i1', 'r', '@0'], 'brevieren': ['b', 'r', '@0', 'v', 'i1', 'r', '@0']}
+{'geevoqueerde': ['x', '@0', 'e0', 'v', 'o0', 'k', 'e1', 'r', 'd', '@0'], 'glaceerden': ['x', 'l', 'a0', 's', 'e1', 'r', 'd', '@0']}
+{'passagieren': ['p', 'A0', 's', 'a0', 'Z', 'i1', 'r', '@0'], 'pionieren': ['p', 'i0', 'j', 'o0', 'n', 'i1', 'r', '@0']}
+{'verbreiden': ['v', '@0', 'r', 'b', 'r', 'K1', 'd', '@0'], 'zijden': ['z', 'K1', 'd', '@0']}
+{"abc'tjes": ['a0', 'b', 'e0', 's', 'e1', 't', 'j', '@0', 's'], 'reetjes': ['r', 'e1', 't', 'j', '@0', 's']}
+{'vliertjes': ['v', 'l', 'i1', 'r', 't', 'j', '@0', 's'], 'kiertjes': ['k', 'i1', 'r', 't', 'j', '@0', 's']}
+{'gratieren': ['x', 'r', 'a0', 't', 'S', 'e1', 'r', '@0'], 'inconvenieren': ['I0', 'N', 'k', 'O0', 'n', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0']}
+{'recreeerden': ['r', 'e0', 'k', 'r', 'e0', 'j', 'e1', 'r', 'd', '@0'], 'convoceerden': ['k', 'O0', 'n', 'v', 'o0', 's', 'e1', 'r', 'd', '@0']}
+{'purifierend': ['p', 'y0', 'r', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'prejudicierend': ['p', 'r', 'e0', 'j', 'y0', 'd', 'i0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'recreeerden': ['r', 'e0', 'k', 'r', 'e0', 'j', 'e1', 'r', 'd', '@0'], 'specialiseerden': ['s', 'p', 'e0', 'S', 'a0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'recreeerden': ['r', 'e0', 'k', 'r', 'e0', 'j', 'e1', 'r', 'd', '@0'], 'geitereerde': ['x', '@0', 'i0', 't', '@0', 'r', 'e1', 'r', 'd', '@0']}
+{'pieren': ['p', 'i1', 'r', '@0'], 'bestieren': ['b', '@0', 's', 't', 'i1', 'r', '@0']}
+{'distingeerden': ['d', 'I0', 's', 't', 'I0', 'N', 'G', 'e1', 'r', 'd', '@0'], 'respireerden': ['r', 'E0', 's', 'p', 'i0', 'r', 'e1', 'r', 'd', '@0']}
+{'spalieren': ['s', 'p', 'a0', 'l', 'i1', 'r', '@0'], 'bestieren': ['b', '@0', 's', 't', 'i1', 'r', '@0']}
+{'rentenieren': ['r', 'E0', 'n', 't', '@0', 'n', 'i1', 'r', '@0'], 'brevieren': ['b', 'r', '@0', 'v', 'i1', 'r', '@0']}
+{'resisterend': ['r', 'e0', 's', 'i0', 's', 't', 'e1', 'r', '@0', 'n', 't'], 'contrarierend': ['k', 'O0', 'n', 't', 'r', 'a0', 'r', 'i0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'voertjes': ['v', 'u1', 'r', 't', 'j', '@0', 's'], 'broertjes': ['b', 'r', 'u1', 'r', 't', 'j', '@0', 's']}
+{'theologiserend': ['t', 'e0', 'j', 'o0', 'l', 'o0', 'G', 'i0', 'z', 'e1', 'r', '@0', 'n', 't'], 'paginerend': ['p', 'a0', 'G', 'i0', 'n', 'e1', 'r', '@0', 'n', 't']}
+{'geillusioneerde': ['x', '@0', 'I0', 'l', 'y0', 'Z', 'o0', 'n', 'e1', 'r', 'd', '@0'], 'gebonificeerde': ['x', '@0', 'b', 'o0', 'n', 'i0', 'f', 'i0', 's', 'e1', 'r', 'd', '@0']}
+{'Batavieren': ['b', 'a0', 't', 'a0', 'v', 'i1', 'r', '@0'], 'portieren': ['p', 'O0', 'r', 't', 'i1', 'r', '@0']}
+{'kohieren': ['k', 'o0', 'h', 'i1', 'r', '@0'], 'ontsieren': ['O0', 'n', 't', 's', 'i1', 'r', '@0']}
+{'paviljoentjes': ['p', 'A0', 'v', 'I0', 'l', 'j', 'u1', 'n', 't', 'j', '@0', 's'], 'kapoentjes': ['k', 'a0', 'p', 'u1', 'n', 't', 'j', '@0', 's']}
+{'geadministreerde': ['x', '@0', 'A0', 'd', 'm', 'i0', 'n', 'i0', 's', 't', 'r', 'e1', 'r', 'd', '@0'], 'gebanderolleerde': ['x', '@0', 'b', 'A0', 'n', 'd', '@0', 'r', 'O0', 'l', 'e1', 'r', 'd', '@0']}
+{'seksualiseerde': ['s', 'E0', 'k', 's', 'y0', 'w', 'a0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0'], 'palissadeerden': ['p', 'a0', 'l', 'i0', 's', 'a0', 'd', 'e1', 'r', 'd', '@0']}
+{'sortietjes': ['s', 'O0', 'r', 't', 'i1', 't', 'j', '@0', 's'], 'bandietjes': ['b', 'A0', 'n', 'd', 'i1', 't', 'j', '@0', 's']}
+{'spalieren': ['s', 'p', 'a0', 'l', 'i1', 'r', '@0'], 'brevieren': ['b', 'r', '@0', 'v', 'i1', 'r', '@0']}
+{'psalmodierend': ['p', 's', 'A0', 'l', 'm', 'o0', 'd', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'distantierend': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'crediterend': ['k', 'r', 'e0', 'd', 'i0', 't', 'e1', 'r', '@0', 'n', 't'], 'polemiserend': ['p', 'o0', 'l', 'e0', 'm', 'i0', 'z', 'e1', 'r', '@0', 'n', 't']}
+{'saffieren': ['s', 'A0', 'f', 'i1', 'r', '@0'], 'brevieren': ['b', 'r', '@0', 'v', 'i1', 'r', '@0']}
+{'asfyxieren': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0'], 'trieren': ['t', 'r', 'i0', 'j', 'e1', 'r', '@0']}
+{'dislocatie': ['d', 'I0', 's', 'l', 'o0', 'k', 'a1', 't', 's', 'i0'], 'perturbatie': ['p', 'E0', 'r', 't', '}0', 'r', 'b', 'a1', 't', 's', 'i0']}
+{'tempelieren': ['t', 'E0', 'm', 'p', '@0', 'l', 'i1', 'r', '@0'], 'brevieren': ['b', 'r', '@0', 'v', 'i1', 'r', '@0']}
+{'slamieren': ['s', 'l', 'a0', 'm', 'i1', 'r', '@0'], 'staffieren': ['s', 't', 'A0', 'f', 'i1', 'r', '@0']}
+{'petrifierend': ['p', 'e0', 't', 'r', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'discussierend': ['d', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'tierend': ['t', 'i1', 'r', '@0', 'n', 't'], 'zwierend': ['z', 'w', 'i1', 'r', '@0', 'n', 't']}
+{"abc'tjes": ['a0', 'b', 'e0', 's', 'e1', 't', 'j', '@0', 's'], 'varieteetjes': ['v', 'a0', 'r', 'i0', 'j', 'e0', 't', 'e1', 't', 'j', '@0', 's']}
+{'dieren': ['d', 'i1', 'r', '@0'], 'nieren': ['n', 'i1', 'r', '@0']}
+{'kohieren': ['k', 'o0', 'h', 'i1', 'r', '@0'], 'ontsieren': ['O0', 'n', 't', 's', 'i1', 'r', '@0']}
+{'vlieren': ['v', 'l', 'i1', 'r', '@0'], 'vieren': ['v', 'i1', 'r', '@0']}
+{'beneficieren': ['b', 'e0', 'n', '@0', 'f', 'i0', 'S', 'e1', 'r', '@0'], 'contrarieren': ['k', 'O0', 'n', 't', 'r', 'a0', 'r', 'i0', 'j', 'e1', 'r', '@0']}
+{'geadministreerde': ['x', '@0', 'A0', 'd', 'm', 'i0', 'n', 'i0', 's', 't', 'r', 'e1', 'r', 'd', '@0'], 'fulmineerden': ['f', '}0', 'l', 'm', 'i0', 'n', 'e1', 'r', 'd', '@0']}
+{'geitereerde': ['x', '@0', 'i0', 't', '@0', 'r', 'e1', 'r', 'd', '@0'], 'macadamiseerde': ['m', 'a0', 'k', 'a0', 'd', 'a0', 'm', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'rentenieren': ['r', 'E0', 'n', 't', '@0', 'n', 'i1', 'r', '@0'], 'brevieren': ['b', 'r', '@0', 'v', 'i1', 'r', '@0']}
+{'rapieren': ['r', 'a0', 'p', 'i1', 'r', '@0'], 'anjelieren': ['A0', 'n', 'j', '@0', 'l', 'i1', 'r', '@0']}
+{'tierelierend': ['t', 'i0', 'r', '@0', 'l', 'i1', 'r', '@0', 'n', 't'], 'verzwierend': ['v', '@0', 'r', 'z', 'w', 'i1', 'r', '@0', 'n', 't']}
+{'passagieren': ['p', 'A0', 's', 'a0', 'Z', 'i1', 'r', '@0'], 'scharnieren': ['s', 'x', 'A0', 'r', 'n', 'i1', 'r', '@0']}
+{'rentenieren': ['r', 'E0', 'n', 't', '@0', 'n', 'i1', 'r', '@0'], 'kwartieren': ['k', 'w', 'A0', 'r', 't', 'i1', 'r', '@0']}
+{'geitereerde': ['x', '@0', 'i0', 't', '@0', 'r', 'e1', 'r', 'd', '@0'], 'gerecipieerde': ['x', '@0', 'r', 'e0', 's', 'i0', 'p', 'i0', 'j', 'e1', 'r', 'd', '@0']}
+{'irreguliere': ['I0', 'r', 'e0', 'G', 'y0', 'l', 'i1', 'r', '@0'], 'begieren': ['b', '@0', 'G', 'i1', 'r', '@0']}
+{'perforeerden': ['p', 'E0', 'r', 'f', 'o0', 'r', 'e1', 'r', 'd', '@0'], 'gebrutaliseerde': ['x', '@0', 'b', 'r', 'y0', 't', 'a0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'kohieren': ['k', 'o0', 'h', 'i1', 'r', '@0'], 'begieren': ['b', '@0', 'G', 'i1', 'r', '@0']}
+{'boerenfluitjes': ['b', 'u0', 'r', '@0', 'f', 'l', 'L1', 't', 'j', '@0', 's'], 'spuitjes': ['s', 'p', 'L1', 't', 'j', '@0', 's']}
+{'larderend': ['l', 'A0', 'r', 'd', 'e1', 'r', '@0', 'n', 't'], 'objectiverend': ['O0', 'b', 'j', 'E0', 'k', 't', 'i0', 'v', 'e1', 'r', '@0', 'n', 't']}
+{'grietjes': ['x', 'r', 'i1', 't', 'j', '@0', 's'], 'bougietjes': ['b', 'u0', 'Z', 'i1', 't', 'j', '@0', 's']}
+{'rentenieren': ['r', 'E0', 'n', 't', '@0', 'n', 'i1', 'r', '@0'], 'dieren': ['d', 'i1', 'r', '@0']}
+{'asfyxieren': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0'], 'diversifieren': ['d', 'i0', 'v', 'E0', 'r', 's', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0']}
+{'stipendierend': ['s', 't', 'i0', 'p', 'E0', 'n', 'd', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'remarquerend': ['r', 'e0', 'm', 'A0', 'r', 'k', 'e1', 'r', '@0', 'n', 't'], 'hoererend': ['h', 'u0', 'r', 'e1', 'r', '@0', 'n', 't']}
+{'skeletteerden': ['s', 'k', '@0', 'l', 'E0', 't', 'e1', 'r', 'd', '@0'], 'proletariseerden': ['p', 'r', 'o0', 'l', '@0', 't', 'a0', 'r', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'rapieren': ['r', 'a0', 'p', 'i1', 'r', '@0'], 'pluvieren': ['p', 'l', 'y0', 'v', 'i1', 'r', '@0']}
+{'tieren': ['t', 'i1', 'r', '@0'], 'tierelieren': ['t', 'i0', 'r', '@0', 'l', 'i1', 'r', '@0']}
+{'weetjes': ['w', 'e1', 't', 'j', '@0', 's'], 'panaceetjes': ['p', 'a0', 'n', 'a0', 's', 'e1', 't', 'j', '@0', 's']}
+{'kwartieren': ['k', 'w', 'A0', 'r', 't', 'i1', 'r', '@0'], 'pluvieren': ['p', 'l', 'y0', 'v', 'i1', 'r', '@0']}
+{'hyperboliseerden': ['h', 'i0', 'p', '@0', 'r', 'b', 'o0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0'], 'gepedaleerde': ['x', '@0', 'p', 'e0', 'd', 'a0', 'l', 'e1', 'r', 'd', '@0']}
+{'tierelierend': ['t', 'i0', 'r', '@0', 'l', 'i1', 'r', '@0', 'n', 't'], 'tuinierend': ['t', 'L0', 'n', 'i1', 'r', '@0', 'n', 't']}
+{'onteren': ['O0', 'n', 't', 'e1', 'r', '@0'], 'annexeren': ['A0', 'n', 'E0', 'k', 's', 'e1', 'r', '@0']}
+{'congresseerde': ['k', 'O0', 'N', 'G', 'r', 'E0', 's', 'e1', 'r', 'd', '@0'], 'decimeerde': ['d', 'e0', 's', 'i0', 'm', 'e1', 'r', 'd', '@0']}
+{'recreeerden': ['r', 'e0', 'k', 'r', 'e0', 'j', 'e1', 'r', 'd', '@0'], 'trepaneerden': ['t', 'r', 'e0', 'p', 'a0', 'n', 'e1', 'r', 'd', '@0']}
+{'spierend': ['s', 'p', 'i1', 'r', '@0', 'n', 't'], 'zwierend': ['z', 'w', 'i1', 'r', '@0', 'n', 't']}
+{'schapulieren': ['s', 'x', 'a0', 'p', 'y0', 'l', 'i1', 'r', '@0'], 'portieren': ['p', 'O0', 'r', 't', 'i1', 'r', '@0']}
+{'congresseerde': ['k', 'O0', 'N', 'G', 'r', 'E0', 's', 'e1', 'r', 'd', '@0'], 'geaggregeerden': ['x', '@0', 'A0', 'x', 'r', '@0', 'G', 'e1', 'r', 'd', '@0']}
+{'distingeerden': ['d', 'I0', 's', 't', 'I0', 'N', 'G', 'e1', 'r', 'd', '@0'], 'skeletteerden': ['s', 'k', '@0', 'l', 'E0', 't', 'e1', 'r', 'd', '@0']}
+{'interlinierend': ['I0', 'n', 't', '@0', 'r', 'l', 'i0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'penose': ['p', 'e0', 'n', 'o1', 'z', '@0'], 'distomatosen': ['d', 'I0', 's', 't', 'o0', 'm', 'a0', 't', 'o1', 'z', '@0']}
+{'notifieren': ['n', 'o0', 't', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0'], 'negotieren': ['n', 'e0', 'G', 'o0', 'S', 'e1', 'r', '@0']}
+{'gerendeerden': ['x', '@0', 'r', 'E0', 'n', 'd', 'e1', 'r', 'd', '@0'], 'militariseerde': ['m', 'i0', 'l', 'i0', 't', 'a0', 'r', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'rapieren': ['r', 'a0', 'p', 'i1', 'r', '@0'], 'staffieren': ['s', 't', 'A0', 'f', 'i1', 'r', '@0']}
+{'slieren': ['s', 'l', 'i1', 'r', '@0'], 'slamieren': ['s', 'l', 'a0', 'm', 'i1', 'r', '@0']}
+{'tierelierend': ['t', 'i0', 'r', '@0', 'l', 'i1', 'r', '@0', 'n', 't'], 'verzwierend': ['v', '@0', 'r', 'z', 'w', 'i1', 'r', '@0', 'n', 't']}
+{'ontsieren': ['O0', 'n', 't', 's', 'i1', 'r', '@0'], 'bestieren': ['b', '@0', 's', 't', 'i1', 'r', '@0']}
+{'strapontijntjes': ['s', 't', 'r', 'a0', 'p', 'O0', 'n', 't', 'K1', 'n', 't', 'j', '@0', 's'], 'harlekijntjes': ['h', 'A0', 'r', 'l', '@0', 'k', 'K1', 'n', 't', 'j', '@0', 's']}
+{'dieren': ['d', 'i1', 'r', '@0'], 'bestieren': ['b', '@0', 's', 't', 'i1', 'r', '@0']}
+{'passagieren': ['p', 'A0', 's', 'a0', 'Z', 'i1', 'r', '@0'], 'pluvieren': ['p', 'l', 'y0', 'v', 'i1', 'r', '@0']}
+{'anjelieren': ['A0', 'n', 'j', '@0', 'l', 'i1', 'r', '@0'], 'begieren': ['b', '@0', 'G', 'i1', 'r', '@0']}
+{'sanctifierend': ['s', 'A0', 'N', 'k', 't', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'panaceetjes': ['p', 'a0', 'n', 'a0', 's', 'e1', 't', 'j', '@0', 's'], 'reetjes': ['r', 'e1', 't', 'j', '@0', 's']}
+{'resisterend': ['r', 'e0', 's', 'i0', 's', 't', 'e1', 'r', '@0', 'n', 't'], 'proclamerend': ['p', 'r', 'o0', 'k', 'l', 'a0', 'm', 'e1', 'r', '@0', 'n', 't']}
+{'irreguliere': ['I0', 'r', 'e0', 'G', 'y0', 'l', 'i1', 'r', '@0'], 'rentenieren': ['r', 'E0', 'n', 't', '@0', 'n', 'i1', 'r', '@0']}
+{'getectyleerde': ['x', '@0', 't', 'E0', 'k', 't', 'i0', 'l', 'e1', 'r', 'd', '@0'], 'suggereerde': ['s', '}0', 'G', '@0', 'r', 'e1', 'r', 'd', '@0']}
+{'irreguliere': ['I0', 'r', 'e0', 'G', 'y0', 'l', 'i1', 'r', '@0'], 'staffieren': ['s', 't', 'A0', 'f', 'i1', 'r', '@0']}
+{'knietjes': ['k', 'n', 'i1', 't', 'j', '@0', 's'], 'bougietjes': ['b', 'u0', 'Z', 'i1', 't', 'j', '@0', 's']}
+{'mierend': ['m', 'i1', 'r', '@0', 'n', 't'], 'verzwierend': ['v', '@0', 'r', 'z', 'w', 'i1', 'r', '@0', 'n', 't']}
+{'spalieren': ['s', 'p', 'a0', 'l', 'i1', 'r', '@0'], 'kwartieren': ['k', 'w', 'A0', 'r', 't', 'i1', 'r', '@0']}
+{'hyperboliseerden': ['h', 'i0', 'p', '@0', 'r', 'b', 'o0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0'], 'retireerden': ['r', 'e0', 't', 'i0', 'r', 'e1', 'r', 'd', '@0']}
+{'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't'], 'provenierend': ['p', 'r', 'o0', 'v', '@0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'varieren': ['v', 'a0', 'r', 'i0', 'j', 'e1', 'r', '@0'], 'denuncieren': ['d', 'e0', 'n', '}0', 'n', 'S', 'e1', 'r', '@0']}
+{'tierelieren': ['t', 'i0', 'r', '@0', 'l', 'i1', 'r', '@0'], 'saffieren': ['s', 'A0', 'f', 'i1', 'r', '@0']}
+{'mistten': ['m', 'I1', 's', 't', '@0'], 'humoristen': ['h', 'y0', 'm', 'o0', 'r', 'I1', 's', 't', '@0']}
+{'silhouetjes': ['s', 'i0', 'l', 'u0', 'w', 'E1', 't', 'j', '@0', 's'], 'operetjes': ['o0', 'p', '@0', 'r', 'E1', 't', 'j', '@0', 's']}
+{'concilieren': ['k', 'O0', 'n', 's', 'i0', 'l', 'i0', 'j', 'e1', 'r', '@0'], 'flocculeren': ['f', 'l', 'O0', 'k', 'y0', 'l', 'e1', 'r', '@0']}
+{'distingeerden': ['d', 'I0', 's', 't', 'I0', 'N', 'G', 'e1', 'r', 'd', '@0'], 'katalyseerden': ['k', 'A0', 't', 'a0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'instantaneetjes': ['I0', 'n', 's', 't', 'A0', 'n', 't', 'a0', 'n', 'e1', 't', 'j', '@0', 's'], 'reetjes': ['r', 'e1', 't', 'j', '@0', 's']}
+{'domicilierend': ['d', 'o0', 'm', 'i0', 's', 'i0', 'l', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'mortieren': ['m', 'O0', 'r', 't', 'i1', 'r', '@0'], 'anjelieren': ['A0', 'n', 'j', '@0', 'l', 'i1', 'r', '@0']}
+{'rapieren': ['r', 'a0', 'p', 'i1', 'r', '@0'], 'rentenieren': ['r', 'E0', 'n', 't', '@0', 'n', 'i1', 'r', '@0']}
+{'beneficieren': ['b', 'e0', 'n', '@0', 'f', 'i0', 'S', 'e1', 'r', '@0'], 'humilieren': ['h', 'y0', 'm', 'i0', 'l', 'i0', 'j', 'e1', 'r', '@0']}
+{'reetjes': ['r', 'e1', 't', 'j', '@0', 's'], 'gleetjes': ['x', 'l', 'e1', 't', 'j', '@0', 's']}
+{'grietjes': ['x', 'r', 'i1', 't', 'j', '@0', 's'], 'knietjes': ['k', 'n', 'i1', 't', 'j', '@0', 's']}
+{'repatrierend': ['r', 'e0', 'p', 'A0', 't', 'r', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'negotierend': ['n', 'e0', 'G', 'o0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'koloniseerde': ['k', 'o0', 'l', 'o0', 'n', 'i0', 'z', 'e1', 'r', 'd', '@0'], 'assisteerde': ['A0', 's', 'i0', 's', 't', 'e1', 'r', 'd', '@0']}
+{'resumeetjes': ['r', 'e0', 's', 'y0', 'm', 'e1', 't', 'j', '@0', 's'], 'reetjes': ['r', 'e1', 't', 'j', '@0', 's']}
+{'tierelierend': ['t', 'i0', 'r', '@0', 'l', 'i1', 'r', '@0', 'n', 't'], 'passagierend': ['p', 'A0', 's', 'a0', 'Z', 'i1', 'r', '@0', 'n', 't']}
+{'pionieren': ['p', 'i0', 'j', 'o0', 'n', 'i1', 'r', '@0'], 'Batavieren': ['b', 'a0', 't', 'a0', 'v', 'i1', 'r', '@0']}
+{'plevieren': ['p', 'l', '@0', 'v', 'i1', 'r', '@0'], 'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0']}
+{'gratifieren': ['x', 'r', 'a0', 't', 'i0', 'f', 'j', 'e1', 'r', '@0'], 'asfyxieren': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0']}
+{'tierelierend': ['t', 'i0', 'r', '@0', 'l', 'i1', 'r', '@0', 'n', 't'], 'tierend': ['t', 'i1', 'r', '@0', 'n', 't']}
+{'spalieren': ['s', 'p', 'a0', 'l', 'i1', 'r', '@0'], 'mortieren': ['m', 'O0', 'r', 't', 'i1', 'r', '@0']}
+{'diere': ['d', 'i1', 'r', '@0'], 'pionieren': ['p', 'i0', 'j', 'o0', 'n', 'i1', 'r', '@0']}
+{'dieren': ['d', 'i1', 'r', '@0'], 'schapulieren': ['s', 'x', 'a0', 'p', 'y0', 'l', 'i1', 'r', '@0']}
+{'scharnieren': ['s', 'x', 'A0', 'r', 'n', 'i1', 'r', '@0'], 'schapulieren': ['s', 'x', 'a0', 'p', 'y0', 'l', 'i1', 'r', '@0']}
+{'getectyleerde': ['x', '@0', 't', 'E0', 'k', 't', 'i0', 'l', 'e1', 'r', 'd', '@0'], 'embarkeerde': ['E0', 'm', 'b', 'A0', 'r', 'k', 'e1', 'r', 'd', '@0']}
+{'hoeraatjes': ['h', 'u0', 'r', 'a1', 't', 'j', '@0', 's'], 'maatjes': ['m', 'a1', 't', 'j', '@0', 's']}
+{'geillusioneerde': ['x', '@0', 'I0', 'l', 'y0', 'Z', 'o0', 'n', 'e1', 'r', 'd', '@0'], 'intensiveerden': ['I0', 'n', 't', 'E0', 'n', 'z', 'i0', 'v', 'e1', 'r', 'd', '@0']}
+{'katalyseerden': ['k', 'A0', 't', 'a0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0'], 'respireerden': ['r', 'E0', 's', 'p', 'i0', 'r', 'e1', 'r', 'd', '@0']}
+{'convoceerden': ['k', 'O0', 'n', 'v', 'o0', 's', 'e1', 'r', 'd', '@0'], 'deprivatiseerde': ['d', 'e0', 'p', 'r', 'i0', 'v', 'a0', 't', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'kopieren': ['k', 'o0', 'p', 'i0', 'j', 'e1', 'r', '@0'], 'discussieren': ['d', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0']}
+{'onteren': ['O0', 'n', 't', 'e1', 'r', '@0'], 'ontmagnetiseren': ['O0', 'n', 't', 'm', 'A0', 'G', 'n', 'e0', 't', 'i0', 'z', 'e1', 'r', '@0']}
+{'pionieren': ['p', 'i0', 'j', 'o0', 'n', 'i1', 'r', '@0'], 'anjelieren': ['A0', 'n', 'j', '@0', 'l', 'i1', 'r', '@0']}
+{'irreguliere': ['I0', 'r', 'e0', 'G', 'y0', 'l', 'i1', 'r', '@0'], 'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0']}
+{'konvooieren': ['k', 'O0', 'n', 'v', 'o0', 'j', 'e1', 'r', '@0'], 'negotieren': ['n', 'e0', 'G', 'o0', 'S', 'e1', 'r', '@0']}
+{'begieren': ['b', '@0', 'G', 'i1', 'r', '@0'], 'bestieren': ['b', '@0', 's', 't', 'i1', 'r', '@0']}
+{'skeletteerden': ['s', 'k', '@0', 'l', 'E0', 't', 'e1', 'r', 'd', '@0'], 'collaboreerden': ['k', 'O0', 'l', 'a0', 'b', 'o0', 'r', 'e1', 'r', 'd', '@0']}
+{'kwartieren': ['k', 'w', 'A0', 'r', 't', 'i1', 'r', '@0'], 'anjelieren': ['A0', 'n', 'j', '@0', 'l', 'i1', 'r', '@0']}
+{'renvooieren': ['r', 'A0', 'n', 'v', 'o0', 'j', 'e1', 'r', '@0'], 'denuncieren': ['d', 'e0', 'n', '}0', 'n', 'S', 'e1', 'r', '@0']}
+{'passagieren': ['p', 'A0', 's', 'a0', 'Z', 'i1', 'r', '@0'], 'anjelieren': ['A0', 'n', 'j', '@0', 'l', 'i1', 'r', '@0']}
+{'vlieren': ['v', 'l', 'i1', 'r', '@0'], 'begieren': ['b', '@0', 'G', 'i1', 'r', '@0']}
+{'janplezieren': ['j', 'A0', 'm', 'p', 'l', 'e0', 'z', 'i1', 'r', '@0'], 'pieren': ['p', 'i1', 'r', '@0']}
+{'anjelieren': ['A0', 'n', 'j', '@0', 'l', 'i1', 'r', '@0'], 'scharnieren': ['s', 'x', 'A0', 'r', 'n', 'i1', 'r', '@0']}
+{'spolierend': ['s', 'p', 'o0', 'l', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'solfegierend': ['s', 'O0', 'l', 'f', 'E0', 'Z', 'e1', 'r', '@0', 'n', 't']}
+{'nieren': ['n', 'i1', 'r', '@0'], 'saffieren': ['s', 'A0', 'f', 'i1', 'r', '@0']}
+{'scharnieren': ['s', 'x', 'A0', 'r', 'n', 'i1', 'r', '@0'], 'schapulieren': ['s', 'x', 'a0', 'p', 'y0', 'l', 'i1', 'r', '@0']}
+{'petrifierend': ['p', 'e0', 't', 'r', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'bediscussierend': ['b', '@0', 'd', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'kraantjes': ['k', 'r', 'a1', 'n', 't', 'j', '@0', 's'], 'parochiaantjes': ['p', 'a0', 'r', 'O0', 'x', 'i0', 'j', 'a1', 'n', 't', 'j', '@0', 's']}
+{'intensifieren': ['I0', 'n', 't', 'E0', 'n', 's', 'i0', 'f', 'j', 'e1', 'r', '@0'], 'beneficieren': ['b', 'e0', 'n', '@0', 'f', 'i0', 'S', 'e1', 'r', '@0']}
+{'convoceerden': ['k', 'O0', 'n', 'v', 'o0', 's', 'e1', 'r', 'd', '@0'], 'macadamiseerde': ['m', 'a0', 'k', 'a0', 'd', 'a0', 'm', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'silhouetjes': ['s', 'i0', 'l', 'u0', 'w', 'E1', 't', 'j', '@0', 's'], 'koteletjes': ['k', 'o0', 't', '@0', 'l', 'E1', 't', 'j', '@0', 's']}
+{'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't'], 'atrofierend': ['a0', 't', 'r', 'o0', 'f', 'i0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'repatrierend': ['r', 'e0', 'p', 'A0', 't', 'r', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'solfegierend': ['s', 'O0', 'l', 'f', 'E0', 'Z', 'e1', 'r', '@0', 'n', 't']}
+{'harmonierend': ['h', 'A0', 'r', 'm', 'o0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'bediscussierend': ['b', '@0', 'd', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'nieren': ['n', 'i1', 'r', '@0'], 'seculieren': ['s', 'e0', 'k', 'y0', 'l', 'i1', 'r', '@0']}
+{'intervenierend': ['I0', 'n', 't', '@0', 'r', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'decoupeerden': ['d', 'e0', 'k', 'u0', 'p', 'e1', 'r', 'd', '@0'], 'geplastificeerde': ['x', '@0', 'p', 'l', 'A0', 's', 't', 'i0', 'f', 'i0', 's', 'e1', 'r', 'd', '@0']}
+{'spieren': ['s', 'p', 'i1', 'r', '@0'], 'portieren': ['p', 'O0', 'r', 't', 'i1', 'r', '@0']}
+{'contrarierend': ['k', 'O0', 'n', 't', 'r', 'a0', 'r', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'catalogiseerden': ['k', 'A0', 't', 'a0', 'l', 'o0', 'G', 'i0', 'z', 'e1', 'r', 'd', '@0'], 'assisteerde': ['A0', 's', 'i0', 's', 't', 'e1', 'r', 'd', '@0']}
+{'verteerden': ['v', '@0', 'r', 't', 'e1', 'r', 'd', '@0'], 'katalyseerden': ['k', 'A0', 't', 'a0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'rentenieren': ['r', 'E0', 'n', 't', '@0', 'n', 'i1', 'r', '@0'], 'saffieren': ['s', 'A0', 'f', 'i1', 'r', '@0']}
+{'crediterend': ['k', 'r', 'e0', 'd', 'i0', 't', 'e1', 'r', '@0', 'n', 't'], 'contrarierend': ['k', 'O0', 'n', 't', 'r', 'a0', 'r', 'i0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'scholieren': ['s', 'x', 'o0', 'l', 'i1', 'r', '@0'], 'bestieren': ['b', '@0', 's', 't', 'i1', 'r', '@0']}
+{'resumeetjes': ['r', 'e0', 's', 'y0', 'm', 'e1', 't', 'j', '@0', 's'], 'gleetjes': ['x', 'l', 'e1', 't', 'j', '@0', 's']}
+{'kohieren': ['k', 'o0', 'h', 'i1', 'r', '@0'], 'vieren': ['v', 'i1', 'r', '@0']}
+{'geplastificeerde': ['x', '@0', 'p', 'l', 'A0', 's', 't', 'i0', 'f', 'i0', 's', 'e1', 'r', 'd', '@0'], 'gecamoufleerde': ['x', '@0', 'k', 'a0', 'm', 'u0', 'f', 'l', 'e1', 'r', 'd', '@0']}
+{'multiplierend': ['m', '}0', 'l', 't', 'i0', 'p', 'l', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'bediscussierend': ['b', '@0', 'd', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'convoceerden': ['k', 'O0', 'n', 'v', 'o0', 's', 'e1', 'r', 'd', '@0'], 'gerepatrieerden': ['x', '@0', 'r', 'e0', 'p', 'A0', 't', 'r', 'i0', 'j', 'e1', 'r', 'd', '@0']}
+{'Batavieren': ['b', 'a0', 't', 'a0', 'v', 'i1', 'r', '@0'], 'anjelieren': ['A0', 'n', 'j', '@0', 'l', 'i1', 'r', '@0']}
+{'irreguliere': ['I0', 'r', 'e0', 'G', 'y0', 'l', 'i1', 'r', '@0'], 'Batavieren': ['b', 'a0', 't', 'a0', 'v', 'i1', 'r', '@0']}
+{'janplezieren': ['j', 'A0', 'm', 'p', 'l', 'e0', 'z', 'i1', 'r', '@0'], 'vieren': ['v', 'i1', 'r', '@0']}
+{'glorieren': ['x', 'l', 'o0', 'r', 'i0', 'j', 'e1', 'r', '@0'], 'associeren': ['A0', 's', 'o0', 'S', 'e1', 'r', '@0']}
+{'gehydrateerde': ['x', '@0', 'h', 'i0', 'd', 'r', 'a0', 't', 'e1', 'r', 'd', '@0'], 'gefortuneerden': ['x', '@0', 'f', 'O0', 'r', 't', 'y0', 'n', 'e1', 'r', 'd', '@0']}
+{'geplastificeerde': ['x', '@0', 'p', 'l', 'A0', 's', 't', 'i0', 'f', 'i0', 's', 'e1', 'r', 'd', '@0'], 'geevoqueerde': ['x', '@0', 'e0', 'v', 'o0', 'k', 'e1', 'r', 'd', '@0']}
+{'affilieren': ['A0', 'f', 'i0', 'l', 'i0', 'j', 'e1', 'r', '@0'], 'distantieren': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0']}
+{'beneficieren': ['b', 'e0', 'n', '@0', 'f', 'i0', 'S', 'e1', 'r', '@0'], 'inconvenieren': ['I0', 'N', 'k', 'O0', 'n', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0']}
+{'vlieren': ['v', 'l', 'i1', 'r', '@0'], 'brevieren': ['b', 'r', '@0', 'v', 'i1', 'r', '@0']}
+{'hoeraatjes': ['h', 'u0', 'r', 'a1', 't', 'j', '@0', 's'], "h'tjes": ['h', 'a1', 't', 'j', '@0', 's']}
+{'disharmonierend': ['d', 'I0', 's', 'h', 'A0', 'r', 'm', 'o0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'differentierend': ['d', 'I0', 'f', '@0', 'r', 'E0', 'n', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'convoceerden': ['k', 'O0', 'n', 'v', 'o0', 's', 'e1', 'r', 'd', '@0'], 'geitereerde': ['x', '@0', 'i0', 't', '@0', 'r', 'e1', 'r', 'd', '@0']}
+{'tribunaaltjes': ['t', 'r', 'i0', 'b', 'y0', 'n', 'a1', 'l', 't', 'j', '@0', 's'], 'kraaltjes': ['k', 'r', 'a1', 'l', 't', 'j', '@0', 's']}
+{'spieren': ['s', 'p', 'i1', 'r', '@0'], 'plevieren': ['p', 'l', '@0', 'v', 'i1', 'r', '@0']}
+{'tempelieren': ['t', 'E0', 'm', 'p', '@0', 'l', 'i1', 'r', '@0'], 'brevieren': ['b', 'r', '@0', 'v', 'i1', 'r', '@0']}
+{'gereglementeerde': ['x', '@0', 'r', 'e0', 'G', 'l', '@0', 'm', 'E0', 'n', 't', 'e1', 'r', 'd', '@0'], 'collaboreerden': ['k', 'O0', 'l', 'a0', 'b', 'o0', 'r', 'e1', 'r', 'd', '@0']}
+{'blesseerden': ['b', 'l', 'E0', 's', 'e1', 'r', 'd', '@0'], 'seksualiseerde': ['s', 'E0', 'k', 's', 'y0', 'w', 'a0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'gefortuneerden': ['x', '@0', 'f', 'O0', 'r', 't', 'y0', 'n', 'e1', 'r', 'd', '@0'], 'gerescribeerde': ['x', '@0', 'r', 'e0', 's', 'k', 'r', 'i0', 'b', 'e1', 'r', 'd', '@0']}
+{'kohieren': ['k', 'o0', 'h', 'i1', 'r', '@0'], 'tieren': ['t', 'i1', 'r', '@0']}
+{'kohieren': ['k', 'o0', 'h', 'i1', 'r', '@0'], 'spalieren': ['s', 'p', 'a0', 'l', 'i1', 'r', '@0']}
+{'stabilisering': ['s', 't', 'a0', 'b', 'i0', 'l', 'i0', 'z', 'e1', 'r', 'I0', 'N'], 'fundering': ['f', '}0', 'n', 'd', 'e1', 'r', 'I0', 'N']}
+{'janplezieren': ['j', 'A0', 'm', 'p', 'l', 'e0', 'z', 'i1', 'r', '@0'], 'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0']}
+{'getectyleerde': ['x', '@0', 't', 'E0', 'k', 't', 'i0', 'l', 'e1', 'r', 'd', '@0'], 'getrasseerde': ['x', '@0', 't', 'r', 'A0', 's', 'e1', 'r', 'd', '@0']}
+{'gratifieren': ['x', 'r', 'a0', 't', 'i0', 'f', 'j', 'e1', 'r', '@0'], 'distantieren': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0']}
+{'negotierend': ['n', 'e0', 'G', 'o0', 'S', 'e1', 'r', '@0', 'n', 't'], 'solfegierend': ['s', 'O0', 'l', 'f', 'E0', 'Z', 'e1', 'r', '@0', 'n', 't']}
+{'atrofierend': ['a0', 't', 'r', 'o0', 'f', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'distantierend': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0', 'n', 't'], 'contrarierend': ['k', 'O0', 'n', 't', 'r', 'a0', 'r', 'i0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'spolierend': ['s', 'p', 'o0', 'l', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'prejudicierend': ['p', 'r', 'e0', 'j', 'y0', 'd', 'i0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'dolfijntjes': ['d', 'O0', 'l', 'f', 'K1', 'n', 't', 'j', '@0', 's'], 'zwijntjes': ['z', 'w', 'K1', 'n', 't', 'j', '@0', 's']}
+{'chocolaatjes': ['S', 'o0', 'k', 'o0', 'l', 'a1', 't', 'j', '@0', 's'], 'tomaatjes': ['t', 'o0', 'm', 'a1', 't', 'j', '@0', 's']}
+{'scharnieren': ['s', 'x', 'A0', 'r', 'n', 'i1', 'r', '@0'], 'seculieren': ['s', 'e0', 'k', 'y0', 'l', 'i1', 'r', '@0']}
+{'annexeren': ['A0', 'n', 'E0', 'k', 's', 'e1', 'r', '@0'], 'rationaliseren': ['r', 'A0', 't', 'S', 'o0', 'n', 'a0', 'l', 'i0', 'z', 'e1', 'r', '@0']}
+{'refuterend': ['r', 'e0', 'f', 'y0', 't', 'e1', 'r', '@0', 'n', 't'], 'remarquerend': ['r', 'e0', 'm', 'A0', 'r', 'k', 'e1', 'r', '@0', 'n', 't']}
+{'vlieren': ['v', 'l', 'i1', 'r', '@0'], 'bestieren': ['b', '@0', 's', 't', 'i1', 'r', '@0']}
+{'fragmentjes': ['f', 'r', 'A0', 'G', 'm', 'E1', 'n', 't', 'j', '@0', 's'], 'ventjes': ['v', 'E1', 'n', 't', 'j', '@0', 's']}
+{'pluvieren': ['p', 'l', 'y0', 'v', 'i1', 'r', '@0'], 'anjelieren': ['A0', 'n', 'j', '@0', 'l', 'i1', 'r', '@0']}
+{'plagierend': ['p', 'l', 'a0', 'G', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'distantierend': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'spieren': ['s', 'p', 'i1', 'r', '@0'], 'ontsieren': ['O0', 'n', 't', 's', 'i1', 'r', '@0']}
+{'rentenieren': ['r', 'E0', 'n', 't', '@0', 'n', 'i1', 'r', '@0'], 'slamieren': ['s', 'l', 'a0', 'm', 'i1', 'r', '@0']}
+{'glaceerden': ['x', 'l', 'a0', 's', 'e1', 'r', 'd', '@0'], 'gecamoufleerde': ['x', '@0', 'k', 'a0', 'm', 'u0', 'f', 'l', 'e1', 'r', 'd', '@0']}
+{'geargumenteerde': ['x', '@0', 'A0', 'r', 'G', 'y0', 'm', 'E0', 'n', 't', 'e1', 'r', 'd', '@0'], 'gebanderolleerde': ['x', '@0', 'b', 'A0', 'n', 'd', '@0', 'r', 'O0', 'l', 'e1', 'r', 'd', '@0']}
+{'hydraterend': ['h', 'i0', 'd', 'r', 'a0', 't', 'e1', 'r', '@0', 'n', 't'], 'melerend': ['m', 'E0', 'l', 'e1', 'r', '@0', 'n', 't']}
+{'specialiseerden': ['s', 'p', 'e0', 'S', 'a0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0'], 'gerecipieerde': ['x', '@0', 'r', 'e0', 's', 'i0', 'p', 'i0', 'j', 'e1', 'r', 'd', '@0']}
+{'amplificeren': ['A0', 'm', 'p', 'l', 'i0', 'f', 'i0', 's', 'e1', 'r', '@0'], 'ontmagnetiseren': ['O0', 'n', 't', 'm', 'A0', 'G', 'n', 'e0', 't', 'i0', 'z', 'e1', 'r', '@0']}
+{'parasiterend': ['p', 'a0', 'r', 'a0', 's', 'i0', 't', 'e1', 'r', '@0', 'n', 't'], 'adresserend': ['A0', 'd', 'r', 'E0', 's', 'e1', 'r', '@0', 'n', 't']}
+{'rentenieren': ['r', 'E0', 'n', 't', '@0', 'n', 'i1', 'r', '@0'], 'seculieren': ['s', 'e0', 'k', 'y0', 'l', 'i1', 'r', '@0']}
+{'tempelieren': ['t', 'E0', 'm', 'p', '@0', 'l', 'i1', 'r', '@0'], 'bestieren': ['b', '@0', 's', 't', 'i1', 'r', '@0']}
+{'rapieren': ['r', 'a0', 'p', 'i1', 'r', '@0'], 'vlieren': ['v', 'l', 'i1', 'r', '@0']}
+{'ontsieren': ['O0', 'n', 't', 's', 'i1', 'r', '@0'], 'pieren': ['p', 'i1', 'r', '@0']}
+{'prejudicierend': ['p', 'r', 'e0', 'j', 'y0', 'd', 'i0', 'S', 'e1', 'r', '@0', 'n', 't'], 'solfegierend': ['s', 'O0', 'l', 'f', 'E0', 'Z', 'e1', 'r', '@0', 'n', 't']}
+{'refuterend': ['r', 'e0', 'f', 'y0', 't', 'e1', 'r', '@0', 'n', 't'], 'denoncerend': ['d', 'e0', 'n', 'O0', 'n', 's', 'e1', 'r', '@0', 'n', 't']}
+{'associeren': ['A0', 's', 'o0', 'S', 'e1', 'r', '@0'], 'diversifieren': ['d', 'i0', 'v', 'E0', 'r', 's', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0']}
+{'retourtjes': ['r', '@0', 't', 'u1', 'r', 't', 'j', '@0', 's'], 'snoertjes': ['s', 'n', 'u1', 'r', 't', 'j', '@0', 's']}
+{'geargumenteerde': ['x', '@0', 'A0', 'r', 'G', 'y0', 'm', 'E0', 'n', 't', 'e1', 'r', 'd', '@0'], 'geaggregeerden': ['x', '@0', 'A0', 'x', 'r', '@0', 'G', 'e1', 'r', 'd', '@0']}
+{'polariserend': ['p', 'o0', 'l', 'a0', 'r', 'i0', 'z', 'e1', 'r', '@0', 'n', 't'], 'stationerend': ['s', 't', 'A0', 't', 'S', 'o0', 'n', 'e1', 'r', '@0', 'n', 't']}
+{'ontsieren': ['O0', 'n', 't', 's', 'i1', 'r', '@0'], 'Batavieren': ['b', 'a0', 't', 'a0', 'v', 'i1', 'r', '@0']}
+{'tieren': ['t', 'i1', 'r', '@0'], 'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0']}
+{'slamieren': ['s', 'l', 'a0', 'm', 'i1', 'r', '@0'], 'pieren': ['p', 'i1', 'r', '@0']}
+{'suggereerde': ['s', '}0', 'G', '@0', 'r', 'e1', 'r', 'd', '@0'], 'getrasseerde': ['x', '@0', 't', 'r', 'A0', 's', 'e1', 'r', 'd', '@0']}
+{'negotierend': ['n', 'e0', 'G', 'o0', 'S', 'e1', 'r', '@0', 'n', 't'], 'recipierend': ['r', 'e0', 's', 'i0', 'p', 'i0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'scharnieren': ['s', 'x', 'A0', 'r', 'n', 'i1', 'r', '@0'], 'diere': ['d', 'i1', 'r', '@0']}
+{'toucherend': ['t', 'u0', 'S', 'e1', 'r', '@0', 'n', 't'], 'doctorerend': ['d', 'O0', 'k', 't', 'o0', 'r', 'e1', 'r', '@0', 'n', 't']}
+{'boerenfluitjes': ['b', 'u0', 'r', '@0', 'f', 'l', 'L1', 't', 'j', '@0', 's'], 'buitjes': ['b', 'L1', 't', 'j', '@0', 's']}
+{'ontsieren': ['O0', 'n', 't', 's', 'i1', 'r', '@0'], 'plevieren': ['p', 'l', '@0', 'v', 'i1', 'r', '@0']}
+{'misduide': ['m', 'I0', 'z', 'd', 'L1', 'd', '@0'], 'verbruiden': ['v', '@0', 'r', 'b', 'r', 'L1', 'd', '@0']}
+{'intervenieren': ['I0', 'n', 't', '@0', 'r', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0'], 'denuncieren': ['d', 'e0', 'n', '}0', 'n', 'S', 'e1', 'r', '@0']}
+{'missioneerde': ['m', 'I0', 'S', 'o0', 'n', 'e1', 'r', 'd', '@0'], 'acclimatiseerde': ['A0', 'k', 'l', 'i0', 'm', 'a0', 't', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'ontsieren': ['O0', 'n', 't', 's', 'i1', 'r', '@0'], 'passagieren': ['p', 'A0', 's', 'a0', 'Z', 'i1', 'r', '@0']}
+{'dieren': ['d', 'i1', 'r', '@0'], 'slieren': ['s', 'l', 'i1', 'r', '@0']}
+{'fauteuiltjes': ['f', 'o0', 't', 'L1', 't', 'j', '@0', 's'], 'spuitjes': ['s', 'p', 'L1', 't', 'j', '@0', 's']}
+{'geaccapareerde': ['x', '@0', 'A0', 'k', 'a0', 'p', 'a0', 'r', 'e1', 'r', 'd', '@0'], 'geimplementeerde': ['x', '@0', 'I0', 'm', 'p', 'l', '@0', 'm', 'E0', 'n', 't', 'e1', 'r', 'd', '@0']}
+{'harmonierend': ['h', 'A0', 'r', 'm', 'o0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'bediscussierend': ['b', '@0', 'd', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'beneficieren': ['b', 'e0', 'n', '@0', 'f', 'i0', 'S', 'e1', 'r', '@0'], 'expatrieren': ['E0', 'k', 's', 'p', 'a0', 't', 'r', 'i0', 'j', 'e1', 'r', '@0']}
+{'gereciproceerde': ['x', '@0', 'r', 'e0', 's', 'i0', 'p', 'r', 'o0', 's', 'e1', 'r', 'd', '@0'], 'trepaneerden': ['t', 'r', 'e0', 'p', 'a0', 'n', 'e1', 'r', 'd', '@0']}
+{'rapieren': ['r', 'a0', 'p', 'i1', 'r', '@0'], 'plevieren': ['p', 'l', '@0', 'v', 'i1', 'r', '@0']}
+{'disharmonierend': ['d', 'I0', 's', 'h', 'A0', 'r', 'm', 'o0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'distantierend': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'rapieren': ['r', 'a0', 'p', 'i1', 'r', '@0'], 'scharnieren': ['s', 'x', 'A0', 'r', 'n', 'i1', 'r', '@0']}
+{'bankierend': ['b', 'A0', 'N', 'k', 'i1', 'r', '@0', 'n', 't'], 'tierelierend': ['t', 'i0', 'r', '@0', 'l', 'i1', 'r', '@0', 'n', 't']}
+{'dieren': ['d', 'i1', 'r', '@0'], 'seculieren': ['s', 'e0', 'k', 'y0', 'l', 'i1', 'r', '@0']}
+{'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0'], 'scholieren': ['s', 'x', 'o0', 'l', 'i1', 'r', '@0']}
+{'refreintjes': ['r', '@0', 'f', 'r', 'K1', 'n', 't', 'j', '@0', 's'], 'schaverdijntjes': ['s', 'x', 'a0', 'v', '@0', 'r', 'd', 'K1', 'n', 't', 'j', '@0', 's']}
+{'janplezieren': ['j', 'A0', 'm', 'p', 'l', 'e0', 'z', 'i1', 'r', '@0'], 'mortieren': ['m', 'O0', 'r', 't', 'i1', 'r', '@0']}
+{'kwartieren': ['k', 'w', 'A0', 'r', 't', 'i1', 'r', '@0'], 'vlieren': ['v', 'l', 'i1', 'r', '@0']}
+{'provenierend': ['p', 'r', 'o0', 'v', '@0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'discussierend': ['d', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'palperen': ['p', 'A0', 'l', 'p', 'e1', 'r', '@0'], 'desorganiseren': ['d', 'E0', 's', 'O0', 'r', 'G', 'a0', 'n', 'i0', 'z', 'e1', 'r', '@0']}
+{'pionieren': ['p', 'i0', 'j', 'o0', 'n', 'i1', 'r', '@0'], 'saffieren': ['s', 'A0', 'f', 'i1', 'r', '@0']}
+{'mierend': ['m', 'i1', 'r', '@0', 'n', 't'], 'zwierend': ['z', 'w', 'i1', 'r', '@0', 'n', 't']}
+{'prejudicieren': ['p', 'r', 'e0', 'j', 'y0', 'd', 'i0', 'S', 'e1', 'r', '@0'], 'purifieren': ['p', 'y0', 'r', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0']}
+{'tierelieren': ['t', 'i0', 'r', '@0', 'l', 'i1', 'r', '@0'], 'brevieren': ['b', 'r', '@0', 'v', 'i1', 'r', '@0']}
+{'trepaneerden': ['t', 'r', 'e0', 'p', 'a0', 'n', 'e1', 'r', 'd', '@0'], 'deprivatiseerde': ['d', 'e0', 'p', 'r', 'i0', 'v', 'a0', 't', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'getectyleerde': ['x', '@0', 't', 'E0', 'k', 't', 'i0', 'l', 'e1', 'r', 'd', '@0'], 'hyperboliseerden': ['h', 'i0', 'p', '@0', 'r', 'b', 'o0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'trieren': ['t', 'r', 'i0', 'j', 'e1', 'r', '@0'], 'gratieren': ['x', 'r', 'a0', 't', 'S', 'e1', 'r', '@0']}
+{'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't'], 'contrarierend': ['k', 'O0', 'n', 't', 'r', 'a0', 'r', 'i0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'tuinierend': ['t', 'L0', 'n', 'i1', 'r', '@0', 'n', 't'], 'tierend': ['t', 'i1', 'r', '@0', 'n', 't']}
+{'diere': ['d', 'i1', 'r', '@0'], 'tempelieren': ['t', 'E0', 'm', 'p', '@0', 'l', 'i1', 'r', '@0']}
+{'tieren': ['t', 'i1', 'r', '@0'], 'pieren': ['p', 'i1', 'r', '@0']}
+{'janplezieren': ['j', 'A0', 'm', 'p', 'l', 'e0', 'z', 'i1', 'r', '@0'], 'seculieren': ['s', 'e0', 'k', 'y0', 'l', 'i1', 'r', '@0']}
+{'karveeltjes': ['k', 'A0', 'r', 'v', 'e1', 'l', 't', 'j', '@0', 's'], 'paneeltjes': ['p', 'a0', 'n', 'e1', 'l', 't', 'j', '@0', 's']}
+{'refuterend': ['r', 'e0', 'f', 'y0', 't', 'e1', 'r', '@0', 'n', 't'], 'hoererend': ['h', 'u0', 'r', 'e1', 'r', '@0', 'n', 't']}
+{'mortieren': ['m', 'O0', 'r', 't', 'i1', 'r', '@0'], 'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0']}
+{'passagieren': ['p', 'A0', 's', 'a0', 'Z', 'i1', 'r', '@0'], 'pieren': ['p', 'i1', 'r', '@0']}
+{'unieren': ['y0', 'n', 'i0', 'j', 'e1', 'r', '@0'], 'distantieren': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0']}
+{'vlieren': ['v', 'l', 'i1', 'r', '@0'], 'portieren': ['p', 'O0', 'r', 't', 'i1', 'r', '@0']}
+{'wiste': ['w', 'I1', 's', 't', '@0'], 'mistten': ['m', 'I1', 's', 't', '@0']}
+{'scharnieren': ['s', 'x', 'A0', 'r', 'n', 'i1', 'r', '@0'], 'slamieren': ['s', 'l', 'a0', 'm', 'i1', 'r', '@0']}
+{'negotierend': ['n', 'e0', 'G', 'o0', 'S', 'e1', 'r', '@0', 'n', 't'], 'sanctifierend': ['s', 'A0', 'N', 'k', 't', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'dieren': ['d', 'i1', 'r', '@0'], 'staffieren': ['s', 't', 'A0', 'f', 'i1', 'r', '@0']}
+{'gerescribeerde': ['x', '@0', 'r', 'e0', 's', 'k', 'r', 'i0', 'b', 'e1', 'r', 'd', '@0'], 'geimplementeerde': ['x', '@0', 'I0', 'm', 'p', 'l', '@0', 'm', 'E0', 'n', 't', 'e1', 'r', 'd', '@0']}
+{'kohieren': ['k', 'o0', 'h', 'i1', 'r', '@0'], 'brevieren': ['b', 'r', '@0', 'v', 'i1', 'r', '@0']}
+{'blesseerden': ['b', 'l', 'E0', 's', 'e1', 'r', 'd', '@0'], 'koloniseerde': ['k', 'o0', 'l', 'o0', 'n', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'geinspecteerde': ['x', '@0', 'I0', 'n', 's', 'p', 'E0', 'k', 't', 'e1', 'r', 'd', '@0'], 'dispenseerden': ['d', 'I0', 's', 'p', 'E0', 'n', 'z', 'e1', 'r', 'd', '@0']}
+{'beconcurrerend': ['b', '@0', 'k', 'O0', 'N', 'k', 'y0', 'r', 'e1', 'r', '@0', 'n', 't'], 'remarquerend': ['r', 'e0', 'm', 'A0', 'r', 'k', 'e1', 'r', '@0', 'n', 't']}
+{'supplieren': ['s', '}0', 'p', 'l', 'i0', 'j', 'e1', 'r', '@0'], 'gratieren': ['x', 'r', 'a0', 't', 'S', 'e1', 'r', '@0']}
+{'gratieren': ['x', 'r', 'a0', 't', 'S', 'e1', 'r', '@0'], 'varieren': ['v', 'a0', 'r', 'i0', 'j', 'e1', 'r', '@0']}
+{'geinspecteerde': ['x', '@0', 'I0', 'n', 's', 'p', 'E0', 'k', 't', 'e1', 'r', 'd', '@0'], 'hybridiseerden': ['h', 'i0', 'b', 'r', 'i0', 'd', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'darwinisten': ['d', 'A0', 'r', 'w', 'i0', 'n', 'I1', 's', 't', '@0'], 'progressisten': ['p', 'r', 'o0', 'G', 'r', 'E0', 's', 'I1', 's', 't', '@0']}
+{'schuitjes': ['s', 'x', 'L1', 't', 'j', '@0', 's'], 'jan-boerenfluitjes': ['j', 'A0', 'm', 'b', 'u0', 'r', '@0', 'f', 'l', 'L1', 't', 'j', '@0', 's']}
+{'beneficieren': ['b', 'e0', 'n', '@0', 'f', 'i0', 'S', 'e1', 'r', '@0'], 'varieren': ['v', 'a0', 'r', 'i0', 'j', 'e1', 'r', '@0']}
+{'decoupeerden': ['d', 'e0', 'k', 'u0', 'p', 'e1', 'r', 'd', '@0'], 'glaceerden': ['x', 'l', 'a0', 's', 'e1', 'r', 'd', '@0']}
+{'scharnieren': ['s', 'x', 'A0', 'r', 'n', 'i1', 'r', '@0'], 'vieren': ['v', 'i1', 'r', '@0']}
+{'kohieren': ['k', 'o0', 'h', 'i1', 'r', '@0'], 'saffieren': ['s', 'A0', 'f', 'i1', 'r', '@0']}
+{'gehydrateerde': ['x', '@0', 'h', 'i0', 'd', 'r', 'a0', 't', 'e1', 'r', 'd', '@0'], 'masturbeerden': ['m', 'A0', 's', 't', '}0', 'r', 'b', 'e1', 'r', 'd', '@0']}
+{'geaggregeerden': ['x', '@0', 'A0', 'x', 'r', '@0', 'G', 'e1', 'r', 'd', '@0'], 'decimeerde': ['d', 'e0', 's', 'i0', 'm', 'e1', 'r', 'd', '@0']}
+{'moralisering': ['m', 'o0', 'r', 'a0', 'l', 'i0', 'z', 'e1', 'r', 'I0', 'N'], 'trotsering': ['t', 'r', 'O0', 't', 's', 'e1', 'r', 'I0', 'N']}
+{'tieren': ['t', 'i1', 'r', '@0'], 'vlieren': ['v', 'l', 'i1', 'r', '@0']}
+{'gereciproceerde': ['x', '@0', 'r', 'e0', 's', 'i0', 'p', 'r', 'o0', 's', 'e1', 'r', 'd', '@0'], 'specialiseerden': ['s', 'p', 'e0', 'S', 'a0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'discussierend': ['d', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0', 'n', 't'], 'renvooierend': ['r', 'A0', 'n', 'v', 'o0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'discussieren': ['d', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0'], 'convenieren': ['k', 'O0', 'n', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0']}
+{'certifierend': ['s', 'E0', 'r', 't', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'differentierend': ['d', 'I0', 'f', '@0', 'r', 'E0', 'n', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'convenieren': ['k', 'O0', 'n', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0'], 'negotieren': ['n', 'e0', 'G', 'o0', 'S', 'e1', 'r', '@0']}
+{'negotierend': ['n', 'e0', 'G', 'o0', 'S', 'e1', 'r', '@0', 'n', 't'], 'gratifierend': ['x', 'r', 'a0', 't', 'i0', 'f', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'spolierend': ['s', 'p', 'o0', 'l', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'bediscussierend': ['b', '@0', 'd', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'kanalen': ['k', 'a0', 'n', 'a1', 'l', '@0'], 'curiale': ['k', 'y0', 'r', 'i0', 'j', 'a1', 'l', '@0']}
+{'expedieren': ['E0', 'k', 's', 'p', 'e0', 'd', 'i0', 'j', 'e1', 'r', '@0'], 'denuncieren': ['d', 'e0', 'n', '}0', 'n', 'S', 'e1', 'r', '@0']}
+{'rapieren': ['r', 'a0', 'p', 'i1', 'r', '@0'], 'brevieren': ['b', 'r', '@0', 'v', 'i1', 'r', '@0']}
+{'trotsering': ['t', 'r', 'O0', 't', 's', 'e1', 'r', 'I0', 'N'], 'accentuering': ['A0', 'k', 's', 'E0', 'n', 't', 'y0', 'w', 'e1', 'r', 'I0', 'N']}
+{'harmonierend': ['h', 'A0', 'r', 'm', 'o0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'discussierend': ['d', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'slierend': ['s', 'l', 'i1', 'r', '@0', 'n', 't'], 'verzwierend': ['v', '@0', 'r', 'z', 'w', 'i1', 'r', '@0', 'n', 't']}
+{'resumeetjes': ['r', 'e0', 's', 'y0', 'm', 'e1', 't', 'j', '@0', 's'], 'tweetjes': ['t', 'w', 'e1', 't', 'j', '@0', 's']}
+{'rapieren': ['r', 'a0', 'p', 'i1', 'r', '@0'], 'Batavieren': ['b', 'a0', 't', 'a0', 'v', 'i1', 'r', '@0']}
+{'passagierend': ['p', 'A0', 's', 'a0', 'Z', 'i1', 'r', '@0', 'n', 't'], 'spierend': ['s', 'p', 'i1', 'r', '@0', 'n', 't']}
+{'vlieren': ['v', 'l', 'i1', 'r', '@0'], 'pieren': ['p', 'i1', 'r', '@0']}
+{'geindexeerde': ['x', '@0', 'I0', 'n', 'd', 'E0', 'k', 's', 'e1', 'r', 'd', '@0'], 'fulmineerden': ['f', '}0', 'l', 'm', 'i0', 'n', 'e1', 'r', 'd', '@0']}
+{'pieren': ['p', 'i1', 'r', '@0'], 'saffieren': ['s', 'A0', 'f', 'i1', 'r', '@0']}
+{'solmierend': ['s', 'O0', 'l', 'm', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'solfegierend': ['s', 'O0', 'l', 'f', 'E0', 'Z', 'e1', 'r', '@0', 'n', 't']}
+{'asfyxieren': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0'], 'reconcilieren': ['r', 'e0', 'k', 'O0', 'n', 's', 'i0', 'l', 'i0', 'j', 'e1', 'r', '@0']}
+{'concilieren': ['k', 'O0', 'n', 's', 'i0', 'l', 'i0', 'j', 'e1', 'r', '@0'], 'negotieren': ['n', 'e0', 'G', 'o0', 'S', 'e1', 'r', '@0']}
+{'nieren': ['n', 'i1', 'r', '@0'], 'janplezieren': ['j', 'A0', 'm', 'p', 'l', 'e0', 'z', 'i1', 'r', '@0']}
+{'instrumenteren': ['I0', 'n', 's', 't', 'r', 'y0', 'm', 'E0', 'n', 't', 'e1', 'r', '@0'], 'karikaturiseren': ['k', 'A0', 'r', 'i0', 'k', 'a0', 't', 'y0', 'r', 'i0', 'z', 'e1', 'r', '@0']}
+{'asfyxieren': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0'], 'varieren': ['v', 'a0', 'r', 'i0', 'j', 'e1', 'r', '@0']}
+{'plagierend': ['p', 'l', 'a0', 'G', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'solfegierend': ['s', 'O0', 'l', 'f', 'E0', 'Z', 'e1', 'r', '@0', 'n', 't']}
+{'vlieren': ['v', 'l', 'i1', 'r', '@0'], 'pieren': ['p', 'i1', 'r', '@0']}
+{'bandietjes': ['b', 'A0', 'n', 'd', 'i1', 't', 'j', '@0', 's'], 'bougietjes': ['b', 'u0', 'Z', 'i1', 't', 'j', '@0', 's']}
+{'fotokopierend': ['f', 'o0', 't', 'o0', 'k', 'o0', 'p', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'solfegierend': ['s', 'O0', 'l', 'f', 'E0', 'Z', 'e1', 'r', '@0', 'n', 't']}
+{'glorieren': ['x', 'l', 'o0', 'r', 'i0', 'j', 'e1', 'r', '@0'], 'denuncieren': ['d', 'e0', 'n', '}0', 'n', 'S', 'e1', 'r', '@0']}
+{'geargumenteerde': ['x', '@0', 'A0', 'r', 'G', 'y0', 'm', 'E0', 'n', 't', 'e1', 'r', 'd', '@0'], 'decimeerde': ['d', 'e0', 's', 'i0', 'm', 'e1', 'r', 'd', '@0']}
+{'gierend': ['x', 'i1', 'r', '@0', 'n', 't'], 'zwierend': ['z', 'w', 'i1', 'r', '@0', 'n', 't']}
+{'kwartieren': ['k', 'w', 'A0', 'r', 't', 'i1', 'r', '@0'], 'passagieren': ['p', 'A0', 's', 'a0', 'Z', 'i1', 'r', '@0']}
+{'plagierend': ['p', 'l', 'a0', 'G', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'bediscussierend': ['b', '@0', 'd', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'prejudicieren': ['p', 'r', 'e0', 'j', 'y0', 'd', 'i0', 'S', 'e1', 'r', '@0'], 'affilieren': ['A0', 'f', 'i0', 'l', 'i0', 'j', 'e1', 'r', '@0']}
+{'traatjes': ['t', 'r', 'a1', 't', 'j', '@0', 's'], "h'tjes": ['h', 'a1', 't', 'j', '@0', 's']}
+{'kwatrijntjes': ['k', 'w', 'A0', 't', 'r', 'K1', 'n', 't', 'j', '@0', 's'], 'schaverdijntjes': ['s', 'x', 'a0', 'v', '@0', 'r', 'd', 'K1', 'n', 't', 'j', '@0', 's']}
+{'contravenierend': ['k', 'O0', 'n', 't', 'r', 'a0', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'prejudicierend': ['p', 'r', 'e0', 'j', 'y0', 'd', 'i0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'irreguliere': ['I0', 'r', 'e0', 'G', 'y0', 'l', 'i1', 'r', '@0'], 'ontsieren': ['O0', 'n', 't', 's', 'i1', 'r', '@0']}
+{'congresseerde': ['k', 'O0', 'N', 'G', 'r', 'E0', 's', 'e1', 'r', 'd', '@0'], 'geadministreerde': ['x', '@0', 'A0', 'd', 'm', 'i0', 'n', 'i0', 's', 't', 'r', 'e1', 'r', 'd', '@0']}
+{'contrarierend': ['k', 'O0', 'n', 't', 'r', 'a0', 'r', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'regulerend': ['r', 'e0', 'G', 'y0', 'l', 'e1', 'r', '@0', 'n', 't']}
+{'spieren': ['s', 'p', 'i1', 'r', '@0'], 'pionieren': ['p', 'i0', 'j', 'o0', 'n', 'i1', 'r', '@0']}
+{'amplificeren': ['A0', 'm', 'p', 'l', 'i0', 'f', 'i0', 's', 'e1', 'r', '@0'], 'flocculeren': ['f', 'l', 'O0', 'k', 'y0', 'l', 'e1', 'r', '@0']}
+{'narcotiseren': ['n', 'A0', 'r', 'k', 'o0', 't', 'i0', 'z', 'e1', 'r', '@0'], 'onteren': ['O0', 'n', 't', 'e1', 'r', '@0']}
+{'bankierend': ['b', 'A0', 'N', 'k', 'i1', 'r', '@0', 'n', 't'], 'spierend': ['s', 'p', 'i1', 'r', '@0', 'n', 't']}
+{'mathematiseren': ['m', 'a0', 't', 'e0', 'm', 'a0', 't', 'i0', 'z', 'e1', 'r', '@0'], 'copuleren': ['k', 'o0', 'p', 'y0', 'l', 'e1', 'r', '@0']}
+{'psalmodieren': ['p', 's', 'A0', 'l', 'm', 'o0', 'd', 'i0', 'j', 'e1', 'r', '@0'], 'associeren': ['A0', 's', 'o0', 'S', 'e1', 'r', '@0']}
+{'schapulieren': ['s', 'x', 'a0', 'p', 'y0', 'l', 'i1', 'r', '@0'], 'tieren': ['t', 'i1', 'r', '@0']}
+{'pluvieren': ['p', 'l', 'y0', 'v', 'i1', 'r', '@0'], 'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0']}
+{'geidentificeerde': ['x', '@0', 'i0', 'd', 'E0', 'n', 't', 'i0', 'f', 'i0', 's', 'e1', 'r', 'd', '@0'], 'fusilleerde': ['f', 'y0', 's', 'i0', 'j', 'e1', 'r', 'd', '@0']}
+{'vlieren': ['v', 'l', 'i1', 'r', '@0'], 'saffieren': ['s', 'A0', 'f', 'i1', 'r', '@0']}
+{'refuterend': ['r', 'e0', 'f', 'y0', 't', 'e1', 'r', '@0', 'n', 't'], 'proclamerend': ['p', 'r', 'o0', 'k', 'l', 'a0', 'm', 'e1', 'r', '@0', 'n', 't']}
+{'gerepatrieerden': ['x', '@0', 'r', 'e0', 'p', 'A0', 't', 'r', 'i0', 'j', 'e1', 'r', 'd', '@0'], 'gebrutaliseerde': ['x', '@0', 'b', 'r', 'y0', 't', 'a0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'congresseerde': ['k', 'O0', 'N', 'G', 'r', 'E0', 's', 'e1', 'r', 'd', '@0'], 'geargumenteerde': ['x', '@0', 'A0', 'r', 'G', 'y0', 'm', 'E0', 'n', 't', 'e1', 'r', 'd', '@0']}
+{'passagierend': ['p', 'A0', 's', 'a0', 'Z', 'i1', 'r', '@0', 'n', 't'], 'zwierend': ['z', 'w', 'i1', 'r', '@0', 'n', 't']}
+{'multiplieren': ['m', '}0', 'l', 't', 'i0', 'p', 'l', 'i0', 'j', 'e1', 'r', '@0'], 'distantieren': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0']}
+{'irreguliere': ['I0', 'r', 'e0', 'G', 'y0', 'l', 'i1', 'r', '@0'], 'diere': ['d', 'i1', 'r', '@0']}
+{'getrasseerde': ['x', '@0', 't', 'r', 'A0', 's', 'e1', 'r', 'd', '@0'], 'gepedaleerde': ['x', '@0', 'p', 'e0', 'd', 'a0', 'l', 'e1', 'r', 'd', '@0']}
+{'nieren': ['n', 'i1', 'r', '@0'], 'anjelieren': ['A0', 'n', 'j', '@0', 'l', 'i1', 'r', '@0']}
+{'purifierend': ['p', 'y0', 'r', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'solfegierend': ['s', 'O0', 'l', 'f', 'E0', 'Z', 'e1', 'r', '@0', 'n', 't']}
+{'ontsieren': ['O0', 'n', 't', 's', 'i1', 'r', '@0'], 'seculieren': ['s', 'e0', 'k', 'y0', 'l', 'i1', 'r', '@0']}
+{'tieren': ['t', 'i1', 'r', '@0'], 'begieren': ['b', '@0', 'G', 'i1', 'r', '@0']}
+{'ontsieren': ['O0', 'n', 't', 's', 'i1', 'r', '@0'], 'nieren': ['n', 'i1', 'r', '@0']}
+{'gepikeerde': ['x', '@0', 'p', 'i0', 'k', 'e1', 'r', 'd', '@0'], 'geimplementeerde': ['x', '@0', 'I0', 'm', 'p', 'l', '@0', 'm', 'E0', 'n', 't', 'e1', 'r', 'd', '@0']}
+{'essaaierend': ['E0', 's', 'a0', 'j', 'e1', 'r', '@0', 'n', 't'], 'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'geargumenteerde': ['x', '@0', 'A0', 'r', 'G', 'y0', 'm', 'E0', 'n', 't', 'e1', 'r', 'd', '@0'], 'fulmineerden': ['f', '}0', 'l', 'm', 'i0', 'n', 'e1', 'r', 'd', '@0']}
+{'contravenierend': ['k', 'O0', 'n', 't', 'r', 'a0', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'bediscussierend': ['b', '@0', 'd', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'jokkernijtjes': ['j', 'O0', 'k', '@0', 'r', 'n', 'K1', 't', 'j', '@0', 's'], 'nesterijtjes': ['n', 'E0', 's', 't', '@0', 'r', 'K1', 't', 'j', '@0', 's']}
+{'rentenieren': ['r', 'E0', 'n', 't', '@0', 'n', 'i1', 'r', '@0'], 'staffieren': ['s', 't', 'A0', 'f', 'i1', 'r', '@0']}
+{'dieren': ['d', 'i1', 'r', '@0'], 'Batavieren': ['b', 'a0', 't', 'a0', 'v', 'i1', 'r', '@0']}
+{'irreguliere': ['I0', 'r', 'e0', 'G', 'y0', 'l', 'i1', 'r', '@0'], 'mortieren': ['m', 'O0', 'r', 't', 'i1', 'r', '@0']}
+{'geadministreerde': ['x', '@0', 'A0', 'd', 'm', 'i0', 'n', 'i0', 's', 't', 'r', 'e1', 'r', 'd', '@0'], 'geargumenteerde': ['x', '@0', 'A0', 'r', 'G', 'y0', 'm', 'E0', 'n', 't', 'e1', 'r', 'd', '@0']}
+{'prejudicieren': ['p', 'r', 'e0', 'j', 'y0', 'd', 'i0', 'S', 'e1', 'r', '@0'], 'convenieren': ['k', 'O0', 'n', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0']}
+{'negotierend': ['n', 'e0', 'G', 'o0', 'S', 'e1', 'r', '@0', 'n', 't'], 'fotokopierend': ['f', 'o0', 't', 'o0', 'k', 'o0', 'p', 'i0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'verteerden': ['v', '@0', 'r', 't', 'e1', 'r', 'd', '@0'], 'gradeerden': ['x', 'r', 'a0', 'd', 'e1', 'r', 'd', '@0']}
+{'weetjes': ['w', 'e1', 't', 'j', '@0', 's'], 'varieteetjes': ['v', 'a0', 'r', 'i0', 'j', 'e0', 't', 'e1', 't', 'j', '@0', 's']}
+{'kwartieren': ['k', 'w', 'A0', 'r', 't', 'i1', 'r', '@0'], 'brevieren': ['b', 'r', '@0', 'v', 'i1', 'r', '@0']}
+{'salarierend': ['s', 'a0', 'l', 'a0', 'r', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'beconcurrerend': ['b', '@0', 'k', 'O0', 'N', 'k', 'y0', 'r', 'e1', 'r', '@0', 'n', 't']}
+{'rapieren': ['r', 'a0', 'p', 'i1', 'r', '@0'], 'nieren': ['n', 'i1', 'r', '@0']}
+{'resumeetjes': ['r', 'e0', 's', 'y0', 'm', 'e1', 't', 'j', '@0', 's'], 'varieteetjes': ['v', 'a0', 'r', 'i0', 'j', 'e0', 't', 'e1', 't', 'j', '@0', 's']}
+{'gefortuneerden': ['x', '@0', 'f', 'O0', 'r', 't', 'y0', 'n', 'e1', 'r', 'd', '@0'], 'militariseerde': ['m', 'i0', 'l', 'i0', 't', 'a0', 'r', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'blesseerden': ['b', 'l', 'E0', 's', 'e1', 'r', 'd', '@0'], 'hybridiseerden': ['h', 'i0', 'b', 'r', 'i0', 'd', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'geplastificeerde': ['x', '@0', 'p', 'l', 'A0', 's', 't', 'i0', 'f', 'i0', 's', 'e1', 'r', 'd', '@0'], 'congrueerde': ['k', 'O0', 'N', 'G', 'r', 'y0', 'w', 'e1', 'r', 'd', '@0']}
+{'composteerden': ['k', 'O0', 'm', 'p', 'O0', 's', 't', 'e1', 'r', 'd', '@0'], 'distingeerden': ['d', 'I0', 's', 't', 'I0', 'N', 'G', 'e1', 'r', 'd', '@0']}
+{'purifierend': ['p', 'y0', 'r', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'discussierend': ['d', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'passagieren': ['p', 'A0', 's', 'a0', 'Z', 'i1', 'r', '@0'], 'brevieren': ['b', 'r', '@0', 'v', 'i1', 'r', '@0']}
+{'kwatrijntjes': ['k', 'w', 'A0', 't', 'r', 'K1', 'n', 't', 'j', '@0', 's'], 'harlekijntjes': ['h', 'A0', 'r', 'l', '@0', 'k', 'K1', 'n', 't', 'j', '@0', 's']}
+{'negotieren': ['n', 'e0', 'G', 'o0', 'S', 'e1', 'r', '@0'], 'octrooieren': ['O0', 'k', 't', 'r', 'o0', 'j', 'e1', 'r', '@0']}
+{'portieren': ['p', 'O0', 'r', 't', 'i1', 'r', '@0'], 'scharnieren': ['s', 'x', 'A0', 'r', 'n', 'i1', 'r', '@0']}
+{'resumeetjes': ['r', 'e0', 's', 'y0', 'm', 'e1', 't', 'j', '@0', 's'], 'panaceetjes': ['p', 'a0', 'n', 'a0', 's', 'e1', 't', 'j', '@0', 's']}
+{'gierend': ['x', 'i1', 'r', '@0', 'n', 't'], 'passagierend': ['p', 'A0', 's', 'a0', 'Z', 'i1', 'r', '@0', 'n', 't']}
+{'negotierend': ['n', 'e0', 'G', 'o0', 'S', 'e1', 'r', '@0', 'n', 't'], 'essaaierend': ['E0', 's', 'a0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'slieren': ['s', 'l', 'i1', 'r', '@0'], 'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0']}
+{'rationaliseren': ['r', 'A0', 't', 'S', 'o0', 'n', 'a0', 'l', 'i0', 'z', 'e1', 'r', '@0'], 'tirailleren': ['t', 'i0', 'r', 'A0', 'j', 'e1', 'r', '@0']}
+{'polariserend': ['p', 'o0', 'l', 'a0', 'r', 'i0', 'z', 'e1', 'r', '@0', 'n', 't'], 'doctorerend': ['d', 'O0', 'k', 't', 'o0', 'r', 'e1', 'r', '@0', 'n', 't']}
+{'mortieren': ['m', 'O0', 'r', 't', 'i1', 'r', '@0'], 'saffieren': ['s', 'A0', 'f', 'i1', 'r', '@0']}
+{'konvooieren': ['k', 'O0', 'n', 'v', 'o0', 'j', 'e1', 'r', '@0'], 'denuncieren': ['d', 'e0', 'n', '}0', 'n', 'S', 'e1', 'r', '@0']}
+{'gratieren': ['x', 'r', 'a0', 't', 'S', 'e1', 'r', '@0'], 'unieren': ['y0', 'n', 'i0', 'j', 'e1', 'r', '@0']}
+{'domicilierend': ['d', 'o0', 'm', 'i0', 's', 'i0', 'l', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'solfegierend': ['s', 'O0', 'l', 'f', 'E0', 'Z', 'e1', 'r', '@0', 'n', 't']}
+{'petrifierend': ['p', 'e0', 't', 'r', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'differentierend': ['d', 'I0', 'f', '@0', 'r', 'E0', 'n', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'prevenierend': ['p', 'r', 'e0', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'prejudicierend': ['p', 'r', 'e0', 'j', 'y0', 'd', 'i0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'prejudicieren': ['p', 'r', 'e0', 'j', 'y0', 'd', 'i0', 'S', 'e1', 'r', '@0'], 'glorieren': ['x', 'l', 'o0', 'r', 'i0', 'j', 'e1', 'r', '@0']}
+{'assisteerde': ['A0', 's', 'i0', 's', 't', 'e1', 'r', 'd', '@0'], 'hyperboliseerden': ['h', 'i0', 'p', '@0', 'r', 'b', 'o0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'watjes': ['w', 'A1', 't', 'j', '@0', 's'], 'patatjes': ['p', 'a0', 't', 'A1', 't', 'j', '@0', 's']}
+{'pionieren': ['p', 'i0', 'j', 'o0', 'n', 'i1', 'r', '@0'], 'begieren': ['b', '@0', 'G', 'i1', 'r', '@0']}
+{'strapontijntjes': ['s', 't', 'r', 'a0', 'p', 'O0', 'n', 't', 'K1', 'n', 't', 'j', '@0', 's'], 'kwatrijntjes': ['k', 'w', 'A0', 't', 'r', 'K1', 'n', 't', 'j', '@0', 's']}
+{'resisterend': ['r', 'e0', 's', 'i0', 's', 't', 'e1', 'r', '@0', 'n', 't'], 'europeaniserend': ['|0', 'r', 'o0', 'p', 'e0', 'j', 'a0', 'n', 'i0', 'z', 'e1', 'r', '@0', 'n', 't']}
+{'mortieren': ['m', 'O0', 'r', 't', 'i1', 'r', '@0'], 'vieren': ['v', 'i1', 'r', '@0']}
+{'appellanten': ['A0', 'p', '@0', 'l', 'A1', 'n', 't', '@0'], 'rekestranten': ['r', 'e0', 'k', 'E0', 's', 't', 'r', 'A1', 'n', 't', '@0']}
+{'weetjes': ['w', 'e1', 't', 'j', '@0', 's'], 'reetjes': ['r', 'e1', 't', 'j', '@0', 's']}
+{'kohieren': ['k', 'o0', 'h', 'i1', 'r', '@0'], 'brevieren': ['b', 'r', '@0', 'v', 'i1', 'r', '@0']}
+{'spieren': ['s', 'p', 'i1', 'r', '@0'], 'dieren': ['d', 'i1', 'r', '@0']}
+{'gereciproceerde': ['x', '@0', 'r', 'e0', 's', 'i0', 'p', 'r', 'o0', 's', 'e1', 'r', 'd', '@0'], 'gebrutaliseerde': ['x', '@0', 'b', 'r', 'y0', 't', 'a0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'trepaneerden': ['t', 'r', 'e0', 'p', 'a0', 'n', 'e1', 'r', 'd', '@0'], 'geitereerde': ['x', '@0', 'i0', 't', '@0', 'r', 'e1', 'r', 'd', '@0']}
+{'saffieren': ['s', 'A0', 'f', 'i1', 'r', '@0'], 'vieren': ['v', 'i1', 'r', '@0']}
+{'nieren': ['n', 'i1', 'r', '@0'], 'schapulieren': ['s', 'x', 'a0', 'p', 'y0', 'l', 'i1', 'r', '@0']}
+{'reconvalescente': ['r', 'e0', 'k', 'O0', 'n', 'v', 'a0', 'l', 'E0', 's', 'E1', 'n', 't', '@0'], 'kakementen': ['k', 'a0', 'k', '@0', 'm', 'E1', 'n', 't', '@0']}
+{'diere': ['d', 'i1', 'r', '@0'], 'brevieren': ['b', 'r', '@0', 'v', 'i1', 'r', '@0']}
+{'multiplierend': ['m', '}0', 'l', 't', 'i0', 'p', 'l', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'differentierend': ['d', 'I0', 'f', '@0', 'r', 'E0', 'n', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'presumerend': ['p', 'r', 'e0', 's', 'y0', 'm', 'e1', 'r', '@0', 'n', 't'], 'hydraterend': ['h', 'i0', 'd', 'r', 'a0', 't', 'e1', 'r', '@0', 'n', 't']}
+{'recreeren': ['r', 'e0', 'k', 'r', 'e0', 'j', 'e1', 'r', '@0'], 'ontmagnetiseren': ['O0', 'n', 't', 'm', 'A0', 'G', 'n', 'e0', 't', 'i0', 'z', 'e1', 'r', '@0']}
+{'tuinierend': ['t', 'L0', 'n', 'i1', 'r', '@0', 'n', 't'], 'mierend': ['m', 'i1', 'r', '@0', 'n', 't']}
+{'polemiserend': ['p', 'o0', 'l', 'e0', 'm', 'i0', 'z', 'e1', 'r', '@0', 'n', 't'], 'denoncerend': ['d', 'e0', 'n', 'O0', 'n', 's', 'e1', 'r', '@0', 'n', 't']}
+{'instantaneetjes': ['I0', 'n', 's', 't', 'A0', 'n', 't', 'a0', 'n', 'e1', 't', 'j', '@0', 's'], 'varieteetjes': ['v', 'a0', 'r', 'i0', 'j', 'e0', 't', 'e1', 't', 'j', '@0', 's']}
+{'vlieren': ['v', 'l', 'i1', 'r', '@0'], 'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0']}
+{'nieren': ['n', 'i1', 'r', '@0'], 'slamieren': ['s', 'l', 'a0', 'm', 'i1', 'r', '@0']}
+{'pasporterend': ['p', 'A0', 's', 'p', 'O0', 'r', 't', 'e1', 'r', '@0', 'n', 't'], 'melerend': ['m', 'E0', 'l', 'e1', 'r', '@0', 'n', 't']}
+{'congresseerde': ['k', 'O0', 'N', 'G', 'r', 'E0', 's', 'e1', 'r', 'd', '@0'], 'fulmineerden': ['f', '}0', 'l', 'm', 'i0', 'n', 'e1', 'r', 'd', '@0']}
+{'catalogiseerden': ['k', 'A0', 't', 'a0', 'l', 'o0', 'G', 'i0', 'z', 'e1', 'r', 'd', '@0'], 'geinspecteerde': ['x', '@0', 'I0', 'n', 's', 'p', 'E0', 'k', 't', 'e1', 'r', 'd', '@0']}
+{'psalmodierend': ['p', 's', 'A0', 'l', 'm', 'o0', 'd', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'discussierend': ['d', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'deprivatiseerde': ['d', 'e0', 'p', 'r', 'i0', 'v', 'a0', 't', 'i0', 'z', 'e1', 'r', 'd', '@0'], 'gerecipieerde': ['x', '@0', 'r', 'e0', 's', 'i0', 'p', 'i0', 'j', 'e1', 'r', 'd', '@0']}
+{'pieren': ['p', 'i1', 'r', '@0'], 'anjelieren': ['A0', 'n', 'j', '@0', 'l', 'i1', 'r', '@0']}
+{'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't'], 'petrifierend': ['p', 'e0', 't', 'r', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'janplezieren': ['j', 'A0', 'm', 'p', 'l', 'e0', 'z', 'i1', 'r', '@0'], 'vlieren': ['v', 'l', 'i1', 'r', '@0']}
+{'palissadeerden': ['p', 'a0', 'l', 'i0', 's', 'a0', 'd', 'e1', 'r', 'd', '@0'], 'hyperboliseerden': ['h', 'i0', 'p', '@0', 'r', 'b', 'o0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'dieren': ['d', 'i1', 'r', '@0'], 'ontsieren': ['O0', 'n', 't', 's', 'i1', 'r', '@0']}
+{'asfyxieren': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0'], 'affilieren': ['A0', 'f', 'i0', 'l', 'i0', 'j', 'e1', 'r', '@0']}
+{'perforeerden': ['p', 'E0', 'r', 'f', 'o0', 'r', 'e1', 'r', 'd', '@0'], 'gerepatrieerden': ['x', '@0', 'r', 'e0', 'p', 'A0', 't', 'r', 'i0', 'j', 'e1', 'r', 'd', '@0']}
+{'fusilleerde': ['f', 'y0', 's', 'i0', 'j', 'e1', 'r', 'd', '@0'], 'expliceerden': ['E0', 'k', 's', 'p', 'l', 'i0', 's', 'e1', 'r', 'd', '@0']}
+{'rapieren': ['r', 'a0', 'p', 'i1', 'r', '@0'], 'passagieren': ['p', 'A0', 's', 'a0', 'Z', 'i1', 'r', '@0']}
+{'asfyxieren': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0'], 'octrooieren': ['O0', 'k', 't', 'r', 'o0', 'j', 'e1', 'r', '@0']}
+{'geinspecteerde': ['x', '@0', 'I0', 'n', 's', 'p', 'E0', 'k', 't', 'e1', 'r', 'd', '@0'], 'palissadeerden': ['p', 'a0', 'l', 'i0', 's', 'a0', 'd', 'e1', 'r', 'd', '@0']}
+{'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0'], 'schapulieren': ['s', 'x', 'a0', 'p', 'y0', 'l', 'i1', 'r', '@0']}
+{'percipieren': ['p', 'E0', 'r', 's', 'i0', 'p', 'i0', 'j', 'e1', 'r', '@0'], 'denuncieren': ['d', 'e0', 'n', '}0', 'n', 'S', 'e1', 'r', '@0']}
+{'kohieren': ['k', 'o0', 'h', 'i1', 'r', '@0'], 'mortieren': ['m', 'O0', 'r', 't', 'i1', 'r', '@0']}
+{'muterend': ['m', 'y0', 't', 'e1', 'r', '@0', 'n', 't'], 'adresserend': ['A0', 'd', 'r', 'E0', 's', 'e1', 'r', '@0', 'n', 't']}
+{'zwijmden': ['z', 'w', 'K1', 'm', 'd', '@0'], 'berijmde': ['b', '@0', 'r', 'K1', 'm', 'd', '@0']}
+{'kwartieren': ['k', 'w', 'A0', 'r', 't', 'i1', 'r', '@0'], 'ontsieren': ['O0', 'n', 't', 's', 'i1', 'r', '@0']}
+{'spieren': ['s', 'p', 'i1', 'r', '@0'], 'tempelieren': ['t', 'E0', 'm', 'p', '@0', 'l', 'i1', 'r', '@0']}
+{'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0'], 'vieren': ['v', 'i1', 'r', '@0']}
+{'slieren': ['s', 'l', 'i1', 'r', '@0'], 'begieren': ['b', '@0', 'G', 'i1', 'r', '@0']}
+{'gierend': ['x', 'i1', 'r', '@0', 'n', 't'], 'kierend': ['k', 'i1', 'r', '@0', 'n', 't']}
+{'diversifieren': ['d', 'i0', 'v', 'E0', 'r', 's', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0'], 'denuncieren': ['d', 'e0', 'n', '}0', 'n', 'S', 'e1', 'r', '@0']}
+{'tempelieren': ['t', 'E0', 'm', 'p', '@0', 'l', 'i1', 'r', '@0'], 'begieren': ['b', '@0', 'G', 'i1', 'r', '@0']}
+{'beschuitjes': ['b', '@0', 's', 'x', 'L1', 't', 'j', '@0', 's'], 'buitjes': ['b', 'L1', 't', 'j', '@0', 's']}
+{'mortieren': ['m', 'O0', 'r', 't', 'i1', 'r', '@0'], 'begieren': ['b', '@0', 'G', 'i1', 'r', '@0']}
+{'reconcilieren': ['r', 'e0', 'k', 'O0', 'n', 's', 'i0', 'l', 'i0', 'j', 'e1', 'r', '@0'], 'discussieren': ['d', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0']}
+{'onteren': ['O0', 'n', 't', 'e1', 'r', '@0'], 'recreeren': ['r', 'e0', 'k', 'r', 'e0', 'j', 'e1', 'r', '@0']}
+{'solmierend': ['s', 'O0', 'l', 'm', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'differentierend': ['d', 'I0', 'f', '@0', 'r', 'E0', 'n', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'asfyxieren': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0'], 'petrifieren': ['p', 'e0', 't', 'r', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0']}
+{'pionieren': ['p', 'i0', 'j', 'o0', 'n', 'i1', 'r', '@0'], 'vlieren': ['v', 'l', 'i1', 'r', '@0']}
+{'vlieren': ['v', 'l', 'i1', 'r', '@0'], 'ontsieren': ['O0', 'n', 't', 's', 'i1', 'r', '@0']}
+{'interlinierend': ['I0', 'n', 't', '@0', 'r', 'l', 'i0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'bediscussierend': ['b', '@0', 'd', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'petrifierend': ['p', 'e0', 't', 'r', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'solfegierend': ['s', 'O0', 'l', 'f', 'E0', 'Z', 'e1', 'r', '@0', 'n', 't']}
+{'ontmagnetiseren': ['O0', 'n', 't', 'm', 'A0', 'G', 'n', 'e0', 't', 'i0', 'z', 'e1', 'r', '@0'], 'resisteren': ['r', 'e0', 's', 'i0', 's', 't', 'e1', 'r', '@0']}
+{'vlieren': ['v', 'l', 'i1', 'r', '@0'], 'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0']}
+{'Batavieren': ['b', 'a0', 't', 'a0', 'v', 'i1', 'r', '@0'], 'pieren': ['p', 'i1', 'r', '@0']}
+{'larderend': ['l', 'A0', 'r', 'd', 'e1', 'r', '@0', 'n', 't'], 'respirerend': ['r', 'E0', 's', 'p', 'i0', 'r', 'e1', 'r', '@0', 'n', 't']}
+{'schrieltjes': ['s', 'x', 'r', 'i1', 'l', 't', 'j', '@0', 's'], 'profieltjes': ['p', 'r', 'o0', 'f', 'i1', 'l', 't', 'j', '@0', 's']}
+{'progressisten': ['p', 'r', 'o0', 'G', 'r', 'E0', 's', 'I1', 's', 't', '@0'], 'linguisten': ['l', 'I0', 'N', 'g', 'w', 'I1', 's', 't', '@0']}
+{'intervenieren': ['I0', 'n', 't', '@0', 'r', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0'], 'beneficieren': ['b', 'e0', 'n', '@0', 'f', 'i0', 'S', 'e1', 'r', '@0']}
+{'spalieren': ['s', 'p', 'a0', 'l', 'i1', 'r', '@0'], 'portieren': ['p', 'O0', 'r', 't', 'i1', 'r', '@0']}
+{'spieren': ['s', 'p', 'i1', 'r', '@0'], 'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0']}
+{'discussieren': ['d', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0'], 'multiplieren': ['m', '}0', 'l', 't', 'i0', 'p', 'l', 'i0', 'j', 'e1', 'r', '@0']}
+{'dieren': ['d', 'i1', 'r', '@0'], 'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0']}
+{'distantierend': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0', 'n', 't'], 'petrifierend': ['p', 'e0', 't', 'r', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'amplificeren': ['A0', 'm', 'p', 'l', 'i0', 'f', 'i0', 's', 'e1', 'r', '@0'], 'onteren': ['O0', 'n', 't', 'e1', 'r', '@0']}
+{'kwartieren': ['k', 'w', 'A0', 'r', 't', 'i1', 'r', '@0'], 'begieren': ['b', '@0', 'G', 'i1', 'r', '@0']}
+{'prejudicierend': ['p', 'r', 'e0', 'j', 'y0', 'd', 'i0', 'S', 'e1', 'r', '@0', 'n', 't'], 'petrifierend': ['p', 'e0', 't', 'r', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'zwijntjes': ['z', 'w', 'K1', 'n', 't', 'j', '@0', 's'], 'schaverdijntjes': ['s', 'x', 'a0', 'v', '@0', 'r', 'd', 'K1', 'n', 't', 'j', '@0', 's']}
+{'gratieren': ['x', 'r', 'a0', 't', 'S', 'e1', 'r', '@0'], 'expatrieren': ['E0', 'k', 's', 'p', 'a0', 't', 'r', 'i0', 'j', 'e1', 'r', '@0']}
+{'bankierend': ['b', 'A0', 'N', 'k', 'i1', 'r', '@0', 'n', 't'], 'tierend': ['t', 'i1', 'r', '@0', 'n', 't']}
+{'petrifierend': ['p', 'e0', 't', 'r', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'prejudicierend': ['p', 'r', 'e0', 'j', 'y0', 'd', 'i0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'diere': ['d', 'i1', 'r', '@0'], 'pieren': ['p', 'i1', 'r', '@0']}
+{'seculieren': ['s', 'e0', 'k', 'y0', 'l', 'i1', 'r', '@0'], 'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0']}
+{'kwetsuurtjes': ['k', 'w', 'E0', 't', 's', 'y1', 'r', 't', 'j', '@0', 's'], 'twaalfuurtjes': ['t', 'w', 'a0', 'l', 'f', 'y1', 'r', 't', 'j', '@0', 's']}
+{'watjes': ['w', 'A1', 't', 'j', '@0', 's'], 'platjes': ['p', 'l', 'A1', 't', 'j', '@0', 's']}
+{'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't'], 'unierend': ['y0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'slamieren': ['s', 'l', 'a0', 'm', 'i1', 'r', '@0'], 'portieren': ['p', 'O0', 'r', 't', 'i1', 'r', '@0']}
+{'verbreiden': ['v', '@0', 'r', 'b', 'r', 'K1', 'd', '@0'], 'verheiden': ['v', '@0', 'r', 'h', 'K1', 'd', '@0']}
+{'maatjes': ['m', 'a1', 't', 'j', '@0', 's'], "h'tjes": ['h', 'a1', 't', 'j', '@0', 's']}
+{'tieren': ['t', 'i1', 'r', '@0'], 'seculieren': ['s', 'e0', 'k', 'y0', 'l', 'i1', 'r', '@0']}
+{'tierelierend': ['t', 'i0', 'r', '@0', 'l', 'i1', 'r', '@0', 'n', 't'], 'zwierend': ['z', 'w', 'i1', 'r', '@0', 'n', 't']}
+{'kaartjes': ['k', 'a1', 'r', 't', 'j', '@0', 's'], 'pilaartjes': ['p', 'i0', 'l', 'a1', 'r', 't', 'j', '@0', 's']}
+{'purifierend': ['p', 'y0', 'r', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'provenierend': ['p', 'r', 'o0', 'v', '@0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'mortieren': ['m', 'O0', 'r', 't', 'i1', 'r', '@0'], 'brevieren': ['b', 'r', '@0', 'v', 'i1', 'r', '@0']}
+{'schapulieren': ['s', 'x', 'a0', 'p', 'y0', 'l', 'i1', 'r', '@0'], 'begieren': ['b', '@0', 'G', 'i1', 'r', '@0']}
+{'instantaneetjes': ['I0', 'n', 's', 't', 'A0', 'n', 't', 'a0', 'n', 'e1', 't', 'j', '@0', 's'], 'gleetjes': ['x', 'l', 'e1', 't', 'j', '@0', 's']}
+{'purifierend': ['p', 'y0', 'r', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'solmierend': ['s', 'O0', 'l', 'm', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'prejudicieren': ['p', 'r', 'e0', 'j', 'y0', 'd', 'i0', 'S', 'e1', 'r', '@0'], 'expedieren': ['E0', 'k', 's', 'p', 'e0', 'd', 'i0', 'j', 'e1', 'r', '@0']}
+{'tierelieren': ['t', 'i0', 'r', '@0', 'l', 'i1', 'r', '@0'], 'portieren': ['p', 'O0', 'r', 't', 'i1', 'r', '@0']}
+{'rentenieren': ['r', 'E0', 'n', 't', '@0', 'n', 'i1', 'r', '@0'], 'anjelieren': ['A0', 'n', 'j', '@0', 'l', 'i1', 'r', '@0']}
+{'narcotiseren': ['n', 'A0', 'r', 'k', 'o0', 't', 'i0', 'z', 'e1', 'r', '@0'], 'tirailleren': ['t', 'i0', 'r', 'A0', 'j', 'e1', 'r', '@0']}
+{'reservoirtjes': ['r', 'e0', 'z', '@0', 'r', 'v', 'w', 'a1', 'r', 't', 'j', '@0', 's'], 'bazaartjes': ['b', 'a0', 'z', 'a1', 'r', 't', 'j', '@0', 's']}
+{'intervenierend': ['I0', 'n', 't', '@0', 'r', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'bediscussierend': ['b', '@0', 'd', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'disharmonieren': ['d', 'I0', 's', 'h', 'A0', 'r', 'm', 'o0', 'n', 'i0', 'j', 'e1', 'r', '@0'], 'denuncieren': ['d', 'e0', 'n', '}0', 'n', 'S', 'e1', 'r', '@0']}
+{'vlieren': ['v', 'l', 'i1', 'r', '@0'], 'scharnieren': ['s', 'x', 'A0', 'r', 'n', 'i1', 'r', '@0']}
+{'pieren': ['p', 'i1', 'r', '@0'], 'vieren': ['v', 'i1', 'r', '@0']}
+{'renvooierend': ['r', 'A0', 'n', 'v', 'o0', 'j', 'e1', 'r', '@0', 'n', 't'], 'solfegierend': ['s', 'O0', 'l', 'f', 'E0', 'Z', 'e1', 'r', '@0', 'n', 't']}
+{'broertjes': ['b', 'r', 'u1', 'r', 't', 'j', '@0', 's'], 'snoertjes': ['s', 'n', 'u1', 'r', 't', 'j', '@0', 's']}
+{'gerendeerden': ['x', '@0', 'r', 'E0', 'n', 'd', 'e1', 'r', 'd', '@0'], 'geimplementeerde': ['x', '@0', 'I0', 'm', 'p', 'l', '@0', 'm', 'E0', 'n', 't', 'e1', 'r', 'd', '@0']}
+{'contrarierend': ['k', 'O0', 'n', 't', 'r', 'a0', 'r', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'hoererend': ['h', 'u0', 'r', 'e1', 'r', '@0', 'n', 't']}
+{'differentierend': ['d', 'I0', 'f', '@0', 'r', 'E0', 'n', 'S', 'e1', 'r', '@0', 'n', 't'], 'intervenierend': ['I0', 'n', 't', '@0', 'r', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'stipendierend': ['s', 't', 'i0', 'p', 'E0', 'n', 'd', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'prejudicierend': ['p', 'r', 'e0', 'j', 'y0', 'd', 'i0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'distantierend': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0', 'n', 't'], 'intervenierend': ['I0', 'n', 't', '@0', 'r', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'verteerden': ['v', '@0', 'r', 't', 'e1', 'r', 'd', '@0'], 'proletariseerden': ['p', 'r', 'o0', 'l', '@0', 't', 'a0', 'r', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'composteerden': ['k', 'O0', 'm', 'p', 'O0', 's', 't', 'e1', 'r', 'd', '@0'], 'respireerden': ['r', 'E0', 's', 'p', 'i0', 'r', 'e1', 'r', 'd', '@0']}
+{'presumerend': ['p', 'r', 'e0', 's', 'y0', 'm', 'e1', 'r', '@0', 'n', 't'], 'assimilerend': ['A0', 's', 'i0', 'm', 'i0', 'l', 'e1', 'r', '@0', 'n', 't']}
+{'dolfijntjes': ['d', 'O0', 'l', 'f', 'K1', 'n', 't', 'j', '@0', 's'], 'kwatrijntjes': ['k', 'w', 'A0', 't', 'r', 'K1', 'n', 't', 'j', '@0', 's']}
+{'purifieren': ['p', 'y0', 'r', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0'], 'discussieren': ['d', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0']}
+{'slieren': ['s', 'l', 'i1', 'r', '@0'], 'portieren': ['p', 'O0', 'r', 't', 'i1', 'r', '@0']}
+{'kaartjes': ['k', 'a1', 'r', 't', 'j', '@0', 's'], 'jaartjes': ['j', 'a1', 'r', 't', 'j', '@0', 's']}
+{'rentenieren': ['r', 'E0', 'n', 't', '@0', 'n', 'i1', 'r', '@0'], 'bestieren': ['b', '@0', 's', 't', 'i1', 'r', '@0']}
+{'decorticatie': ['d', 'e0', 'k', 'O0', 'r', 't', 'i0', 'k', 'a1', 't', 's', 'i0'], 'galvanisatie': ['x', 'A0', 'l', 'v', 'a0', 'n', 'i0', 'z', 'a1', 't', 's', 'i0']}
+{'psalmodieren': ['p', 's', 'A0', 'l', 'm', 'o0', 'd', 'i0', 'j', 'e1', 'r', '@0'], 'discussieren': ['d', 'I0', 's', 'k', '}0', 'S', 'e1', 'r', '@0']}
+{'atrofierend': ['a0', 't', 'r', 'o0', 'f', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'differentierend': ['d', 'I0', 'f', '@0', 'r', 'E0', 'n', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'slieren': ['s', 'l', 'i1', 'r', '@0'], 'vieren': ['v', 'i1', 'r', '@0']}
+{'convenierend': ['k', 'O0', 'n', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'pionieren': ['p', 'i0', 'j', 'o0', 'n', 'i1', 'r', '@0'], 'portieren': ['p', 'O0', 'r', 't', 'i1', 'r', '@0']}
+{'oudeheren': ['M0', 'd', '@0', 'h', 'e1', 'r', '@0'], 'appelleren': ['A0', 'p', '@0', 'l', 'e1', 'r', '@0']}
+{'panaceetjes': ['p', 'a0', 'n', 'a0', 's', 'e1', 't', 'j', '@0', 's'], 'tweetjes': ['t', 'w', 'e1', 't', 'j', '@0', 's']}
+{'distantieren': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0'], 'inconvenieren': ['I0', 'N', 'k', 'O0', 'n', 'v', 'e0', 'n', 'i0', 'j', 'e1', 'r', '@0']}
+{'mortieren': ['m', 'O0', 'r', 't', 'i1', 'r', '@0'], 'Batavieren': ['b', 'a0', 't', 'a0', 'v', 'i1', 'r', '@0']}
+{'recreeerden': ['r', 'e0', 'k', 'r', 'e0', 'j', 'e1', 'r', 'd', '@0'], 'gebrutaliseerde': ['x', '@0', 'b', 'r', 'y0', 't', 'a0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'europeaniserend': ['|0', 'r', 'o0', 'p', 'e0', 'j', 'a0', 'n', 'i0', 'z', 'e1', 'r', '@0', 'n', 't'], 'refuterend': ['r', 'e0', 'f', 'y0', 't', 'e1', 'r', '@0', 'n', 't']}
+{'dolfijntjes': ['d', 'O0', 'l', 'f', 'K1', 'n', 't', 'j', '@0', 's'], 'schaverdijntjes': ['s', 'x', 'a0', 'v', '@0', 'r', 'd', 'K1', 'n', 't', 'j', '@0', 's']}
+{'kopieren': ['k', 'o0', 'p', 'i0', 'j', 'e1', 'r', '@0'], 'distantieren': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0']}
+{'nieren': ['n', 'i1', 'r', '@0'], 'vieren': ['v', 'i1', 'r', '@0']}
+{'mortieren': ['m', 'O0', 'r', 't', 'i1', 'r', '@0'], 'vlieren': ['v', 'l', 'i1', 'r', '@0']}
+{'saffieren': ['s', 'A0', 'f', 'i1', 'r', '@0'], 'schapulieren': ['s', 'x', 'a0', 'p', 'y0', 'l', 'i1', 'r', '@0']}
+{'gratifieren': ['x', 'r', 'a0', 't', 'i0', 'f', 'j', 'e1', 'r', '@0'], 'denuncieren': ['d', 'e0', 'n', '}0', 'n', 'S', 'e1', 'r', '@0']}
+{'negotierend': ['n', 'e0', 'G', 'o0', 'S', 'e1', 'r', '@0', 'n', 't'], 'lierend': ['l', 'i0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'dentiste': ['d', 'E0', 'n', 't', 'I1', 's', 't', '@0'], 'socialisten': ['s', 'o0', 'S', 'a0', 'l', 'I1', 's', 't', '@0']}
+{'stoffering': ['s', 't', 'O0', 'f', 'e1', 'r', 'I0', 'N'], 'acclimatisering': ['A0', 'k', 'l', 'i0', 'm', 'a0', 't', 'i0', 'z', 'e1', 'r', 'I0', 'N']}
+{'skeletteerden': ['s', 'k', '@0', 'l', 'E0', 't', 'e1', 'r', 'd', '@0'], 'respireerden': ['r', 'E0', 's', 'p', 'i0', 'r', 'e1', 'r', 'd', '@0']}
+{'manieren': ['m', 'a0', 'n', 'i1', 'r', '@0'], 'bestieren': ['b', '@0', 's', 't', 'i1', 'r', '@0']}
+{'gerescribeerde': ['x', '@0', 'r', 'e0', 's', 'k', 'r', 'i0', 'b', 'e1', 'r', 'd', '@0'], 'militariseerde': ['m', 'i0', 'l', 'i0', 't', 'a0', 'r', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'prejudicieren': ['p', 'r', 'e0', 'j', 'y0', 'd', 'i0', 'S', 'e1', 'r', '@0'], 'diversifieren': ['d', 'i0', 'v', 'E0', 'r', 's', 'i0', 'f', 'i0', 'j', 'e1', 'r', '@0']}
+{'watjes': ['w', 'A1', 't', 'j', '@0', 's'], 'kratjes': ['k', 'r', 'A1', 't', 'j', '@0', 's']}
+{'denuncieren': ['d', 'e0', 'n', '}0', 'n', 'S', 'e1', 'r', '@0'], 'octrooieren': ['O0', 'k', 't', 'r', 'o0', 'j', 'e1', 'r', '@0']}
+{'distantierend': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', '@0', 'n', 't'], 'kopierend': ['k', 'o0', 'p', 'i0', 'j', 'e1', 'r', '@0', 'n', 't']}
+{'sprotjes': ['s', 'p', 'r', 'O1', 't', 'j', '@0', 's'], 'vlotjes': ['v', 'l', 'O1', 't', 'j', '@0', 's']}
+{'strapontijntjes': ['s', 't', 'r', 'a0', 'p', 'O0', 'n', 't', 'K1', 'n', 't', 'j', '@0', 's'], 'schaverdijntjes': ['s', 'x', 'a0', 'v', '@0', 'r', 'd', 'K1', 'n', 't', 'j', '@0', 's']}
+{'snoeperijtjes': ['s', 'n', 'u0', 'p', '@0', 'r', 'K1', 't', 'j', '@0', 's'], 'kasseitjes': ['k', 'A0', 's', 'K1', 't', 'j', '@0', 's']}
+{'kwartieren': ['k', 'w', 'A0', 'r', 't', 'i1', 'r', '@0'], 'plevieren': ['p', 'l', '@0', 'v', 'i1', 'r', '@0']}
+{'lierend': ['l', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'prejudicierend': ['p', 'r', 'e0', 'j', 'y0', 'd', 'i0', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'mythologiseerde': ['m', 'i0', 't', 'o0', 'l', 'o0', 'G', 'i0', 'z', 'e1', 'r', 'd', '@0'], 'trepaneerden': ['t', 'r', 'e0', 'p', 'a0', 'n', 'e1', 'r', 'd', '@0']}
+{'gratieren': ['x', 'r', 'a0', 't', 'S', 'e1', 'r', '@0'], 'humilieren': ['h', 'y0', 'm', 'i0', 'l', 'i0', 'j', 'e1', 'r', '@0']}
+{'specialiseerden': ['s', 'p', 'e0', 'S', 'a0', 'l', 'i0', 'z', 'e1', 'r', 'd', '@0'], 'trepaneerden': ['t', 'r', 'e0', 'p', 'a0', 'n', 'e1', 'r', 'd', '@0']}
+{'lierend': ['l', 'i0', 'j', 'e1', 'r', '@0', 'n', 't'], 'asfyxierend': ['A0', 's', 'f', 'I0', 'k', 'S', 'e1', 'r', '@0', 'n', 't']}
+{'mierend': ['m', 'i1', 'r', '@0', 'n', 't'], 'tierend': ['t', 'i1', 'r', '@0', 'n', 't']}
+{'tomaatjes': ['t', 'o0', 'm', 'a1', 't', 'j', '@0', 's'], "h'tjes": ['h', 'a1', 't', 'j', '@0', 's']}
+{'blesseerden': ['b', 'l', 'E0', 's', 'e1', 'r', 'd', '@0'], 'geinspecteerde': ['x', '@0', 'I0', 'n', 's', 'p', 'E0', 'k', 't', 'e1', 'r', 'd', '@0']}
+{'slierend': ['s', 'l', 'i1', 'r', '@0', 'n', 't'], 'mierend': ['m', 'i1', 'r', '@0', 'n', 't']}
+{'blesseerden': ['b', 'l', 'E0', 's', 'e1', 'r', 'd', '@0'], 'dispenseerden': ['d', 'I0', 's', 'p', 'E0', 'n', 'z', 'e1', 'r', 'd', '@0']}
+{'collaboreerden': ['k', 'O0', 'l', 'a0', 'b', 'o0', 'r', 'e1', 'r', 'd', '@0'], 'proletariseerden': ['p', 'r', 'o0', 'l', '@0', 't', 'a0', 'r', 'i0', 'z', 'e1', 'r', 'd', '@0']}
+{'acclimatiseerde': ['A0', 'k', 'l', 'i0', 'm', 'a0', 't', 'i0', 'z', 'e1', 'r', 'd', '@0'], 'trasseerden': ['t', 'r', 'A0', 's', 'e1', 'r', 'd', '@0']}

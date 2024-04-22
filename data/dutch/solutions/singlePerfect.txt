@@ -1,0 +1,1000 @@
+{'bestaand': ['b', '@0', 's', 't', 'a1', 'n', 't'], 'misgaand': ['m', 'I0', 's', 'x', 'a1', 'n', 't']}
+{'palissadeert': ['p', 'a0', 'l', 'i0', 's', 'a0', 'd', 'e1', 'r', 't'], 'seksualiseert': ['s', 'E0', 'k', 's', 'y0', 'w', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't']}
+{'bestand': ['b', '@0', 's', 't', 'A1', 'n', 't'], 'rekestrant': ['r', 'e0', 'k', 'E0', 's', 't', 'r', 'A1', 'n', 't']}
+{'gerebelleerd': ['x', '@0', 'r', '@0', 'b', 'E0', 'l', 'e1', 'r', 't'], 'presseert': ['p', 'r', 'E0', 's', 'e1', 'r', 't']}
+{'constant': ['k', 'O0', 'n', 's', 't', 'A1', 'n', 't'], 'fondant': ['f', 'O0', 'n', 'd', 'A1', 'n', 't']}
+{'gedesavoueerd': ['x', '@0', 'd', 'E0', 's', 'a0', 'v', 'u0', 'w', 'e1', 'r', 't'], 'geopponeerd': ['x', '@0', 'O0', 'p', 'o0', 'n', 'e1', 'r', 't']}
+{'joop': ['j', 'o1', 'p'], 'caleidoscoop': ['k', 'a0', 'l', 'K0', 'd', 'o0', 's', 'k', 'o1', 'p']}
+{'mant': ['m', 'A1', 'n', 't'], 'convenant': ['k', 'O0', 'n', 'v', '@0', 'n', 'A1', 'n', 't']}
+{'constant': ['k', 'O0', 'n', 's', 't', 'A1', 'n', 't'], 'bacchant': ['b', 'A0', 'x', 'A1', 'n', 't']}
+{'toppenant': ['t', 'O0', 'p', '@0', 'n', 'A1', 'n', 't'], 'fondant': ['f', 'O0', 'n', 'd', 'A1', 'n', 't']}
+{'toppenant': ['t', 'O0', 'p', '@0', 'n', 'A1', 'n', 't'], 'gebrand': ['x', '@0', 'b', 'r', 'A1', 'n', 't']}
+{'platteband': ['p', 'l', 'A0', 't', '@0', 'b', 'A1', 'n', 't'], 'chrysant': ['x', 'r', 'i0', 's', 'A1', 'n', 't']}
+{'gecarboniseerd': ['x', '@0', 'k', 'A0', 'r', 'b', 'o0', 'n', 'i0', 'z', 'e1', 'r', 't'], 'gestationeerd': ['x', '@0', 's', 't', 'A0', 't', 'S', 'o0', 'n', 'e1', 'r', 't']}
+{'deposant': ['d', 'e0', 'p', 'o0', 'Z', 'A1', 'n', 't'], 'toppenant': ['t', 'O0', 'p', '@0', 'n', 'A1', 'n', 't']}
+{'gezand': ['x', '@0', 'z', 'A1', 'n', 't'], 'variant': ['v', 'a0', 'r', 'i0', 'j', 'A1', 'n', 't']}
+{'fazant': ['f', 'a0', 'z', 'A1', 'n', 't'], 'mant': ['m', 'A1', 'n', 't']}
+{'fluidiseert': ['f', 'l', 'y0', 'w', 'i0', 'd', 'i0', 'z', 'e1', 'r', 't'], 'gefalsificeerd': ['x', '@0', 'f', 'A0', 'l', 's', 'i0', 'f', 'i0', 's', 'e1', 'r', 't']}
+{'gecarboniseerd': ['x', '@0', 'k', 'A0', 'r', 'b', 'o0', 'n', 'i0', 'z', 'e1', 'r', 't'], 'gepivoteerd': ['x', '@0', 'p', 'i0', 'v', 'o0', 't', 'e1', 'r', 't']}
+{'vergaloppeert': ['v', '@0', 'r', 'G', 'a0', 'l', 'O0', 'p', 'e1', 'r', 't'], 'gefosforesceerd': ['x', '@0', 'f', 'O0', 's', 'f', 'O0', 'r', 'E0', 's', 'e1', 'r', 't']}
+{'kosmogonie': ['k', 'O0', 's', 'm', 'o0', 'G', 'o0', 'n', 'i1'], 'antropologie': ['A0', 'n', 't', 'r', 'o0', 'p', 'o0', 'l', 'o0', 'G', 'i1']}
+{'overspant': ['o0', 'v', '@0', 'r', 's', 'p', 'A1', 'n', 't'], 'convenant': ['k', 'O0', 'n', 'v', '@0', 'n', 'A1', 'n', 't']}
+{'geblancheerd': ['x', '@0', 'b', 'l', 'A0', 'n', 'S', 'e1', 'r', 't'], 'gefosforesceerd': ['x', '@0', 'f', 'O0', 's', 'f', 'O0', 'r', 'E0', 's', 'e1', 'r', 't']}
+{'negeert': ['n', '@0', 'G', 'e1', 'r', 't'], 'gedesavoueerd': ['x', '@0', 'd', 'E0', 's', 'a0', 'v', 'u0', 'w', 'e1', 'r', 't']}
+{'platteband': ['p', 'l', 'A0', 't', '@0', 'b', 'A1', 'n', 't'], 'gebrand': ['x', '@0', 'b', 'r', 'A1', 'n', 't']}
+{'gedisponeerd': ['x', '@0', 'd', 'I0', 's', 'p', 'o0', 'n', 'e1', 'r', 't'], 'geinfereerd': ['x', '@0', 'I0', 'n', 'f', '@0', 'r', 'e1', 'r', 't']}
+{'geneert': ['Z', '@0', 'n', 'e1', 'r', 't'], 'geciseleerd': ['x', '@0', 's', 'i0', 'z', '@0', 'l', 'e1', 'r', 't']}
+{'agiteert': ['a0', 'G', 'i0', 't', 'e1', 'r', 't'], 'gesubsidieerd': ['x', '@0', 's', '}0', 'p', 's', 'i0', 'd', 'i0', 'j', 'e1', 'r', 't']}
+{'gekalibreerd': ['x', '@0', 'k', 'a0', 'l', 'i0', 'b', 'r', 'e1', 'r', 't'], 'mediatiseert': ['m', 'e0', 'd', 'i0', 'j', 'a0', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'gerebelleerd': ['x', '@0', 'r', '@0', 'b', 'E0', 'l', 'e1', 'r', 't'], 'gedemagnetiseerd': ['x', '@0', 'd', 'e0', 'm', 'A0', 'G', 'n', 'e0', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'presseert': ['p', 'r', 'E0', 's', 'e1', 'r', 't'], 'gedemagnetiseerd': ['x', '@0', 'd', 'e0', 'm', 'A0', 'G', 'n', 'e0', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'eclipseert': ['e0', 'k', 'l', 'I0', 'p', 's', 'e1', 'r', 't'], 'mediatiseert': ['m', 'e0', 'd', 'i0', 'j', 'a0', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'structureer': ['s', 't', 'r', '}0', 'k', 't', 'y0', 'r', 'e1', 'r'], 'valoriseer': ['v', 'a0', 'l', 'o0', 'r', 'i0', 'z', 'e1', 'r']}
+{'geneert': ['Z', '@0', 'n', 'e1', 'r', 't'], 'imputeert': ['I0', 'm', 'p', 'y0', 't', 'e1', 'r', 't']}
+{'hanteert': ['h', 'A0', 'n', 't', 'e1', 'r', 't'], 'substantiveert': ['s', '}0', 'p', 's', 't', 'A0', 'n', 't', 'i0', 'v', 'e1', 'r', 't']}
+{'alieneert': ['a0', 'l', 'i0', 'j', 'e0', 'n', 'e1', 'r', 't'], 'repareert': ['r', 'e0', 'p', 'a0', 'r', 'e1', 'r', 't']}
+{'staand': ['s', 't', 'a1', 'n', 't'], 'beslaand': ['b', '@0', 's', 'l', 'a1', 'n', 't']}
+{'briljantst': ['b', 'r', 'I0', 'l', 'j', 'A1', 'n', 't', 's', 't'], 'abondantst': ['a0', 'b', 'O0', 'n', 'd', 'A1', 'n', 't', 's', 't']}
+{'embarkeert': ['E0', 'm', 'b', 'A0', 'r', 'k', 'e1', 'r', 't'], 'arroseert': ['A0', 'r', 'o0', 'z', 'e1', 'r', 't']}
+{'gerebelleerd': ['x', '@0', 'r', '@0', 'b', 'E0', 'l', 'e1', 'r', 't'], 'fluidiseert': ['f', 'l', 'y0', 'w', 'i0', 'd', 'i0', 'z', 'e1', 'r', 't']}
+{'geobjectiveerd': ['x', '@0', 'O0', 'b', 'j', 'E0', 'k', 't', 'i0', 'v', 'e1', 'r', 't'], 'agiteert': ['a0', 'G', 'i0', 't', 'e1', 'r', 't']}
+{'gecarboniseerd': ['x', '@0', 'k', 'A0', 'r', 'b', 'o0', 'n', 'i0', 'z', 'e1', 'r', 't'], 'pirouetteert': ['p', 'i0', 'r', 'u0', 'w', 'E0', 't', 'e1', 'r', 't']}
+{'mant': ['m', 'A1', 'n', 't'], 'extravagant': ['E0', 'k', 's', 't', 'r', 'a0', 'v', 'a0', 'G', 'A1', 'n', 't']}
+{'vergaloppeert': ['v', '@0', 'r', 'G', 'a0', 'l', 'O0', 'p', 'e1', 'r', 't'], 'musiceert': ['m', 'y0', 'z', 'i0', 's', 'e1', 'r', 't']}
+{'vergaloppeert': ['v', '@0', 'r', 'G', 'a0', 'l', 'O0', 'p', 'e1', 'r', 't'], 'gefalsificeerd': ['x', '@0', 'f', 'A0', 'l', 's', 'i0', 'f', 'i0', 's', 'e1', 'r', 't']}
+{'deposant': ['d', 'e0', 'p', 'o0', 'Z', 'A1', 'n', 't'], 'gebrand': ['x', '@0', 'b', 'r', 'A1', 'n', 't']}
+{'debitant': ['d', 'e0', 'b', 'i0', 't', 'A1', 'n', 't'], 'extravagant': ['E0', 'k', 's', 't', 'r', 'a0', 'v', 'a0', 'G', 'A1', 'n', 't']}
+{'volant': ['v', 'o0', 'l', 'A1', 'n', 't'], 'debitant': ['d', 'e0', 'b', 'i0', 't', 'A1', 'n', 't']}
+{'cyclotrons': ['s', 'i0', 'k', 'l', 'o0', 't', 'r', 'O1', 'n', 's'], 'bidons': ['b', 'i0', 'd', 'O1', 'n', 's']}
+{'acceptant': ['A0', 'k', 's', 'E0', 'p', 't', 'A1', 'n', 't'], 'extravagant': ['E0', 'k', 's', 't', 'r', 'a0', 'v', 'a0', 'G', 'A1', 'n', 't']}
+{'gecollabeerd': ['x', '@0', 'k', 'O0', 'l', 'a0', 'b', 'e1', 'r', 't'], 'mediatiseert': ['m', 'e0', 'd', 'i0', 'j', 'a0', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'gekant': ['x', '@0', 'k', 'A1', 'n', 't'], 'convenant': ['k', 'O0', 'n', 'v', '@0', 'n', 'A1', 'n', 't']}
+{'saboteert': ['s', 'A0', 'b', 'o0', 't', 'e1', 'r', 't'], 'monoftongeert': ['m', 'o0', 'n', 'O0', 'f', 't', 'O0', 'N', 'G', 'e1', 'r', 't']}
+{'conglutineert': ['k', 'O0', 'N', 'G', 'l', 'y0', 't', 'i0', 'n', 'e1', 'r', 't'], 'reformeert': ['r', 'e0', 'f', 'O0', 'r', 'm', 'e1', 'r', 't']}
+{'zweit': ['z', 'w', 'K1', 't'], 'luciditeit': ['l', 'y0', 's', 'i0', 'd', 'i0', 't', 'K1', 't']}
+{'geobjectiveerd': ['x', '@0', 'O0', 'b', 'j', 'E0', 'k', 't', 'i0', 'v', 'e1', 'r', 't'], 'gerebelleerd': ['x', '@0', 'r', '@0', 'b', 'E0', 'l', 'e1', 'r', 't']}
+{'pantheist': ['p', 'A0', 'n', 't', 'e0', 'j', 'I1', 's', 't'], 'antimilitarist': ['A0', 'n', 't', 'i0', 'm', 'i0', 'l', 'i0', 't', 'a0', 'r', 'I1', 's', 't']}
+{'acceptant': ['A0', 'k', 's', 'E0', 'p', 't', 'A1', 'n', 't'], 'variant': ['v', 'a0', 'r', 'i0', 'j', 'A1', 'n', 't']}
+{'digitaliseert': ['d', 'i0', 'G', 'i0', 't', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't'], 'geaccrediteerd': ['x', '@0', 'A0', 'k', 'r', 'e0', 'd', 'i0', 't', 'e1', 'r', 't']}
+{'palissadeert': ['p', 'a0', 'l', 'i0', 's', 'a0', 'd', 'e1', 'r', 't'], 'geinfereerd': ['x', '@0', 'I0', 'n', 'f', '@0', 'r', 'e1', 'r', 't']}
+{'geblancheerd': ['x', '@0', 'b', 'l', 'A0', 'n', 'S', 'e1', 'r', 't'], 'gedemagnetiseerd': ['x', '@0', 'd', 'e0', 'm', 'A0', 'G', 'n', 'e0', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'piment': ['p', 'i0', 'm', 'E1', 'n', 't'], 'miskent': ['m', 'I0', 's', 'k', 'E1', 'n', 't']}
+{'convenant': ['k', 'O0', 'n', 'v', '@0', 'n', 'A1', 'n', 't'], 'chrysant': ['x', 'r', 'i0', 's', 'A1', 'n', 't']}
+{'volant': ['v', 'o0', 'l', 'A1', 'n', 't'], 'overspant': ['o0', 'v', '@0', 'r', 's', 'p', 'A1', 'n', 't']}
+{'meert': ['m', 'e1', 'r', 't'], 'presseert': ['p', 'r', 'E0', 's', 'e1', 'r', 't']}
+{'melancholie': ['m', 'e0', 'l', 'A0', 'N', 'x', 'o0', 'l', 'i1'], 'psychotherapie': ['p', 's', 'i0', 'x', 'o0', 't', 'e0', 'r', 'a0', 'p', 'i1']}
+{'distantieert': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', 't'], 'getierceerd': ['x', '@0', 't', 'i0', 'j', 'E0', 'r', 's', 'e1', 'r', 't']}
+{'prominent': ['p', 'r', 'o0', 'm', 'i0', 'n', 'E1', 'n', 't'], 'transcendent': ['t', 'r', 'A0', 'n', 's', 'E0', 'n', 'd', 'E1', 'n', 't']}
+{'negeert': ['n', '@0', 'G', 'e1', 'r', 't'], 'tarifeert': ['t', 'a0', 'r', 'i0', 'f', 'e1', 'r', 't']}
+{'saboteert': ['s', 'A0', 'b', 'o0', 't', 'e1', 'r', 't'], 'geinfereerd': ['x', '@0', 'I0', 'n', 'f', '@0', 'r', 'e1', 'r', 't']}
+{'riskantst': ['r', 'I0', 's', 'k', 'A1', 'n', 't', 's', 't'], 'intrigantst': ['I0', 'n', 't', 'r', 'i0', 'G', 'A1', 'n', 't', 's', 't']}
+{'longimetrie': ['l', 'O0', 'N', 'G', 'i0', 'm', 'e0', 't', 'r', 'i1'], 'psychotherapie': ['p', 's', 'i0', 'x', 'o0', 't', 'e0', 'r', 'a0', 'p', 'i1']}
+{'stoot': ['s', 't', 'o1', 't'], 'galjoot': ['x', 'A0', 'l', 'j', 'o1', 't']}
+{'geamortiseerd': ['x', '@0', 'a0', 'm', 'O0', 'r', 't', 'i0', 'z', 'e1', 'r', 't'], 'gemineerd': ['x', '@0', 'm', 'i0', 'n', 'e1', 'r', 't']}
+{'vergaloppeert': ['v', '@0', 'r', 'G', 'a0', 'l', 'O0', 'p', 'e1', 'r', 't'], 'consacreert': ['k', 'O0', 'n', 's', 'a0', 'k', 'r', 'e1', 'r', 't']}
+{'riskantst': ['r', 'I0', 's', 'k', 'A1', 'n', 't', 's', 't'], 'briljantst': ['b', 'r', 'I0', 'l', 'j', 'A1', 'n', 't', 's', 't']}
+{'geamortiseerd': ['x', '@0', 'a0', 'm', 'O0', 'r', 't', 'i0', 'z', 'e1', 'r', 't'], 'gepivoteerd': ['x', '@0', 'p', 'i0', 'v', 'o0', 't', 'e1', 'r', 't']}
+{'gecreosoteerd': ['x', '@0', 'k', 'r', 'e0', 'j', 'o0', 's', 'o0', 't', 'e1', 'r', 't'], 'seksualiseert': ['s', 'E0', 'k', 's', 'y0', 'w', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't']}
+{'digitaliseert': ['d', 'i0', 'G', 'i0', 't', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't'], 'gewaardeerd': ['x', '@0', 'w', 'a0', 'r', 'd', 'e1', 'r', 't']}
+{'flagrantst': ['f', 'l', 'A0', 'G', 'r', 'A1', 'n', 't', 's', 't'], 'abundantst': ['a0', 'b', '}0', 'n', 'd', 'A1', 'n', 't', 's', 't']}
+{'geblancheerd': ['x', '@0', 'b', 'l', 'A0', 'n', 'S', 'e1', 'r', 't'], 'piketteert': ['p', 'i0', 'k', 'E0', 't', 'e1', 'r', 't']}
+{'ontbeerd': ['O0', 'n', 'd', 'b', 'e1', 'r', 't'], 'eclipseert': ['e0', 'k', 'l', 'I0', 'p', 's', 'e1', 'r', 't']}
+{'volant': ['v', 'o0', 'l', 'A1', 'n', 't'], 'constant': ['k', 'O0', 'n', 's', 't', 'A1', 'n', 't']}
+{'receptionist': ['r', '@0', 's', 'E0', 'p', 'S', 'o0', 'n', 'I1', 's', 't'], 'separatist': ['s', 'e0', 'p', 'a0', 'r', 'a0', 't', 'I1', 's', 't']}
+{'gekant': ['x', '@0', 'k', 'A1', 'n', 't'], 'bacchant': ['b', 'A0', 'x', 'A1', 'n', 't']}
+{'geneert': ['Z', '@0', 'n', 'e1', 'r', 't'], 'geitalianiseerd': ['x', '@0', 'i0', 't', 'a0', 'l', 'i0', 'j', 'a0', 'n', 'i0', 'z', 'e1', 'r', 't']}
+{'multipliceer': ['m', '}0', 'l', 't', 'i0', 'p', 'l', 'i0', 's', 'e1', 'r'], 'keer': ['k', 'e1', 'r']}
+{'fazant': ['f', 'a0', 'z', 'A1', 'n', 't'], 'fondant': ['f', 'O0', 'n', 'd', 'A1', 'n', 't']}
+{'meert': ['m', 'e1', 'r', 't'], 'agiteert': ['a0', 'G', 'i0', 't', 'e1', 'r', 't']}
+{'ontbeerd': ['O0', 'n', 'd', 'b', 'e1', 'r', 't'], 'marineert': ['m', 'a0', 'r', 'i0', 'n', 'e1', 'r', 't']}
+{'gireert': ['x', 'i0', 'r', 'e1', 'r', 't'], 'gefosforesceerd': ['x', '@0', 'f', 'O0', 's', 'f', 'O0', 'r', 'E0', 's', 'e1', 'r', 't']}
+{'gedisponeerd': ['x', '@0', 'd', 'I0', 's', 'p', 'o0', 'n', 'e1', 'r', 't'], 'gecarboniseerd': ['x', '@0', 'k', 'A0', 'r', 'b', 'o0', 'n', 'i0', 'z', 'e1', 'r', 't']}
+{'piketteert': ['p', 'i0', 'k', 'E0', 't', 'e1', 'r', 't'], 'gefosforesceerd': ['x', '@0', 'f', 'O0', 's', 'f', 'O0', 'r', 'E0', 's', 'e1', 'r', 't']}
+{'multipliceer': ['m', '}0', 'l', 't', 'i0', 'p', 'l', 'i0', 's', 'e1', 'r'], 'falsifieer': ['f', 'A0', 'l', 's', 'i0', 'f', 'i0', 'j', 'e1', 'r']}
+{'gepousseerd': ['x', '@0', 'p', 'u0', 's', 'e1', 'r', 't'], 'soupeert': ['s', 'u0', 'p', 'e1', 'r', 't']}
+{'monogamie': ['m', 'o0', 'n', 'o0', 'G', 'a0', 'm', 'i1'], 'histopathologie': ['h', 'I0', 's', 't', 'o0', 'p', 'A0', 't', 'o0', 'l', 'o0', 'G', 'i1']}
+{'meert': ['m', 'e1', 'r', 't'], 'fluidiseert': ['f', 'l', 'y0', 'w', 'i0', 'd', 'i0', 'z', 'e1', 'r', 't']}
+{'constant': ['k', 'O0', 'n', 's', 't', 'A1', 'n', 't'], 'plant': ['p', 'l', 'A1', 'n', 't']}
+{'geblancheerd': ['x', '@0', 'b', 'l', 'A0', 'n', 'S', 'e1', 'r', 't'], 'consacreert': ['k', 'O0', 'n', 's', 'a0', 'k', 'r', 'e1', 'r', 't']}
+{'fondant': ['f', 'O0', 'n', 'd', 'A1', 'n', 't'], 'bestand': ['b', '@0', 's', 't', 'A1', 'n', 't']}
+{'getantaliseerd': ['x', '@0', 't', 'A0', 'n', 't', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't'], 'getierceerd': ['x', '@0', 't', 'i0', 'j', 'E0', 'r', 's', 'e1', 'r', 't']}
+{'palissadeert': ['p', 'a0', 'l', 'i0', 's', 'a0', 'd', 'e1', 'r', 't'], 'geamortiseerd': ['x', '@0', 'a0', 'm', 'O0', 'r', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'hydroplaan': ['h', 'i0', 'd', 'r', 'o0', 'p', 'l', 'a1', 'n'], 'kleptomaan': ['k', 'l', 'E0', 'p', 't', 'o0', 'm', 'a1', 'n']}
+{'gecontamineerd': ['x', '@0', 'k', 'O0', 'n', 't', 'a0', 'm', 'i0', 'n', 'e1', 'r', 't'], 'vergaloppeert': ['v', '@0', 'r', 'G', 'a0', 'l', 'O0', 'p', 'e1', 'r', 't']}
+{'acceptant': ['A0', 'k', 's', 'E0', 'p', 't', 'A1', 'n', 't'], 'ontbrand': ['O0', 'n', 'd', 'b', 'r', 'A1', 'n', 't']}
+{'anatomiseert': ['a0', 'n', 'a0', 't', 'o0', 'm', 'i0', 'z', 'e1', 'r', 't'], 'marineert': ['m', 'a0', 'r', 'i0', 'n', 'e1', 'r', 't']}
+{'gehanteerd': ['x', '@0', 'h', 'A0', 'n', 't', 'e1', 'r', 't'], 'substantiveert': ['s', '}0', 'p', 's', 't', 'A0', 'n', 't', 'i0', 'v', 'e1', 'r', 't']}
+{'geciseleerd': ['x', '@0', 's', 'i0', 'z', '@0', 'l', 'e1', 'r', 't'], 'imputeert': ['I0', 'm', 'p', 'y0', 't', 'e1', 'r', 't']}
+{'gecarboniseerd': ['x', '@0', 'k', 'A0', 'r', 'b', 'o0', 'n', 'i0', 'z', 'e1', 'r', 't'], 'geextensiveerd': ['x', '@0', 'E0', 'k', 's', 't', 'E0', 'n', 'z', 'i0', 'v', 'e1', 'r', 't']}
+{'presseert': ['p', 'r', 'E0', 's', 'e1', 'r', 't'], 'consacreert': ['k', 'O0', 'n', 's', 'a0', 'k', 'r', 'e1', 'r', 't']}
+{'triomfant': ['t', 'r', 'i0', 'j', 'O0', 'm', 'f', 'A1', 'n', 't'], 'toppenant': ['t', 'O0', 'p', '@0', 'n', 'A1', 'n', 't']}
+{'piketteert': ['p', 'i0', 'k', 'E0', 't', 'e1', 'r', 't'], 'fluidiseert': ['f', 'l', 'y0', 'w', 'i0', 'd', 'i0', 'z', 'e1', 'r', 't']}
+{'geobjectiveerd': ['x', '@0', 'O0', 'b', 'j', 'E0', 'k', 't', 'i0', 'v', 'e1', 'r', 't'], 'geblancheerd': ['x', '@0', 'b', 'l', 'A0', 'n', 'S', 'e1', 'r', 't']}
+{'deposant': ['d', 'e0', 'p', 'o0', 'Z', 'A1', 'n', 't'], 'bacchant': ['b', 'A0', 'x', 'A1', 'n', 't']}
+{'alumiseert': ['a0', 'l', 'y0', 'm', 'i0', 'z', 'e1', 'r', 't'], 'geremitteerd': ['x', '@0', 'r', 'e0', 'm', 'I0', 't', 'e1', 'r', 't']}
+{'confirmeert': ['k', 'O0', 'n', 'f', 'I0', 'r', 'm', 'e1', 'r', 't'], 'illusioneert': ['I0', 'l', 'y0', 'Z', 'o0', 'n', 'e1', 'r', 't']}
+{'rekwestrant': ['r', 'e0', 'k', 'w', 'E0', 's', 't', 'r', 'A1', 'n', 't'], 'fazant': ['f', 'a0', 'z', 'A1', 'n', 't']}
+{'gepsalmodieerd': ['x', '@0', 'p', 's', 'A0', 'l', 'm', 'o0', 'd', 'i0', 'j', 'e1', 'r', 't'], 'geobjectiveerd': ['x', '@0', 'O0', 'b', 'j', 'E0', 'k', 't', 'i0', 'v', 'e1', 'r', 't']}
+{'meert': ['m', 'e1', 'r', 't'], 'gefosforesceerd': ['x', '@0', 'f', 'O0', 's', 'f', 'O0', 'r', 'E0', 's', 'e1', 'r', 't']}
+{'platteband': ['p', 'l', 'A0', 't', '@0', 'b', 'A1', 'n', 't'], 'plant': ['p', 'l', 'A1', 'n', 't']}
+{'gekant': ['x', '@0', 'k', 'A1', 'n', 't'], 'chrysant': ['x', 'r', 'i0', 's', 'A1', 'n', 't']}
+{'piketteert': ['p', 'i0', 'k', 'E0', 't', 'e1', 'r', 't'], 'gesubsidieerd': ['x', '@0', 's', '}0', 'p', 's', 'i0', 'd', 'i0', 'j', 'e1', 'r', 't']}
+{'verhoog': ['v', '@0', 'r', 'h', 'o1', 'x'], 'pedagoog': ['p', 'e0', 'd', 'a0', 'G', 'o1', 'x']}
+{'bestand': ['b', '@0', 's', 't', 'A1', 'n', 't'], 'convenant': ['k', 'O0', 'n', 'v', '@0', 'n', 'A1', 'n', 't']}
+{'biometrie': ['b', 'i0', 'j', 'o0', 'm', 'e0', 't', 'r', 'i1'], 'lymfografie': ['l', 'I0', 'm', 'f', 'o0', 'G', 'r', 'a0', 'f', 'i1']}
+{'gasteer': ['x', 'A0', 's', 't', 'e1', 'r'], 'charmeer': ['S', 'A0', 'r', 'm', 'e1', 'r']}
+{'debitant': ['d', 'e0', 'b', 'i0', 't', 'A1', 'n', 't'], 'bacchant': ['b', 'A0', 'x', 'A1', 'n', 't']}
+{'pirouetteert': ['p', 'i0', 'r', 'u0', 'w', 'E0', 't', 'e1', 'r', 't'], 'seksualiseert': ['s', 'E0', 'k', 's', 'y0', 'w', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't']}
+{'mant': ['m', 'A1', 'n', 't'], 'ontbrand': ['O0', 'n', 'd', 'b', 'r', 'A1', 'n', 't']}
+{'geoculeerd': ['x', '@0', 'o0', 'k', 'y0', 'l', 'e1', 'r', 't'], 'conglutineert': ['k', 'O0', 'N', 'G', 'l', 'y0', 't', 'i0', 'n', 'e1', 'r', 't']}
+{'geitereerd': ['x', '@0', 'i0', 't', '@0', 'r', 'e1', 'r', 't'], 'hydrateert': ['h', 'i0', 'd', 'r', 'a0', 't', 'e1', 'r', 't']}
+{'rekestrant': ['r', 'e0', 'k', 'E0', 's', 't', 'r', 'A1', 'n', 't'], 'extravagant': ['E0', 'k', 's', 't', 'r', 'a0', 'v', 'a0', 'G', 'A1', 'n', 't']}
+{'geitereerd': ['x', '@0', 'i0', 't', '@0', 'r', 'e1', 'r', 't'], 'arroseert': ['A0', 'r', 'o0', 'z', 'e1', 'r', 't']}
+{'negeert': ['n', '@0', 'G', 'e1', 'r', 't'], 'plombeert': ['p', 'l', 'O0', 'm', 'b', 'e1', 'r', 't']}
+{'gecontamineerd': ['x', '@0', 'k', 'O0', 'n', 't', 'a0', 'm', 'i0', 'n', 'e1', 'r', 't'], 'musiceert': ['m', 'y0', 'z', 'i0', 's', 'e1', 'r', 't']}
+{'mant': ['m', 'A1', 'n', 't'], 'chrysant': ['x', 'r', 'i0', 's', 'A1', 'n', 't']}
+{'pirouetteert': ['p', 'i0', 'r', 'u0', 'w', 'E0', 't', 'e1', 'r', 't'], 'gemineerd': ['x', '@0', 'm', 'i0', 'n', 'e1', 'r', 't']}
+{'gedisponeerd': ['x', '@0', 'd', 'I0', 's', 'p', 'o0', 'n', 'e1', 'r', 't'], 'geextensiveerd': ['x', '@0', 'E0', 'k', 's', 't', 'E0', 'n', 'z', 'i0', 'v', 'e1', 'r', 't']}
+{'gebrand': ['x', '@0', 'b', 'r', 'A1', 'n', 't'], 'contribuant': ['k', 'O0', 'n', 't', 'r', 'i0', 'b', 'y0', 'w', 'A1', 'n', 't']}
+{'palissadeert': ['p', 'a0', 'l', 'i0', 's', 'a0', 'd', 'e1', 'r', 't'], 'individualiseert': ['I0', 'n', 'd', 'i0', 'v', 'i0', 'd', 'y0', 'w', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't']}
+{'gecontamineerd': ['x', '@0', 'k', 'O0', 'n', 't', 'a0', 'm', 'i0', 'n', 'e1', 'r', 't'], 'presseert': ['p', 'r', 'E0', 's', 'e1', 'r', 't']}
+{'implementeer': ['I0', 'm', 'p', 'l', '@0', 'm', 'E0', 'n', 't', 'e1', 'r'], 'dupliceer': ['d', 'y0', 'p', 'l', 'i0', 's', 'e1', 'r']}
+{'palissadeert': ['p', 'a0', 'l', 'i0', 's', 'a0', 'd', 'e1', 'r', 't'], 'gepivoteerd': ['x', '@0', 'p', 'i0', 'v', 'o0', 't', 'e1', 'r', 't']}
+{'saboteer': ['s', 'A0', 'b', 'o0', 't', 'e1', 'r'], 'troposfeer': ['t', 'r', 'o0', 'p', 'O0', 's', 'f', 'e1', 'r']}
+{'geneert': ['Z', '@0', 'n', 'e1', 'r', 't'], 'geparenteerd': ['x', '@0', 'p', 'a0', 'r', 'E0', 'n', 't', 'e1', 'r', 't']}
+{'fondant': ['f', 'O0', 'n', 'd', 'A1', 'n', 't'], 'bacchant': ['b', 'A0', 'x', 'A1', 'n', 't']}
+{'confirmeert': ['k', 'O0', 'n', 'f', 'I0', 'r', 'm', 'e1', 'r', 't'], 'conglutineert': ['k', 'O0', 'N', 'G', 'l', 'y0', 't', 'i0', 'n', 'e1', 'r', 't']}
+{'deposant': ['d', 'e0', 'p', 'o0', 'Z', 'A1', 'n', 't'], 'variant': ['v', 'a0', 'r', 'i0', 'j', 'A1', 'n', 't']}
+{'veenderij': ['v', 'e0', 'n', 'd', '@0', 'r', 'K1'], 'slavernij': ['s', 'l', 'a0', 'v', '@0', 'r', 'n', 'K1']}
+{'vercommercialiseer': ['v', '@0', 'r', 'k', 'O0', 'm', '@0', 'r', 'S', 'a0', 'l', 'i0', 'z', 'e1', 'r'], 'ruineer': ['r', 'y0', 'w', 'i0', 'n', 'e1', 'r']}
+{'solemniseer': ['s', 'o0', 'l', 'E0', 'm', 'n', 'i0', 'z', 'e1', 'r'], 'reincarneer': ['r', 'e0', 'j', 'I0', 'N', 'k', 'A0', 'r', 'n', 'e1', 'r']}
+{'debitant': ['d', 'e0', 'b', 'i0', 't', 'A1', 'n', 't'], 'sympathisant': ['s', 'I0', 'm', 'p', 'a0', 't', 'i0', 's', 'A1', 'n', 't']}
+{'toppenant': ['t', 'O0', 'p', '@0', 'n', 'A1', 'n', 't'], 'constant': ['k', 'O0', 'n', 's', 't', 'A1', 'n', 't']}
+{'escamoteert': ['E0', 's', 'k', 'a0', 'm', 'o0', 't', 'e1', 'r', 't'], 'alieneert': ['a0', 'l', 'i0', 'j', 'e0', 'n', 'e1', 'r', 't']}
+{'platteband': ['p', 'l', 'A0', 't', '@0', 'b', 'A1', 'n', 't'], 'bacchant': ['b', 'A0', 'x', 'A1', 'n', 't']}
+{'gekwadreerd': ['x', '@0', 'k', 'w', 'A0', 'd', 'r', 'e1', 'r', 't'], 'musiceert': ['m', 'y0', 'z', 'i0', 's', 'e1', 'r', 't']}
+{'constant': ['k', 'O0', 'n', 's', 't', 'A1', 'n', 't'], 'variant': ['v', 'a0', 'r', 'i0', 'j', 'A1', 'n', 't']}
+{'desorganiseert': ['d', 'E0', 's', 'O0', 'r', 'G', 'a0', 'n', 'i0', 'z', 'e1', 'r', 't'], 'transmuteert': ['t', 'r', 'A0', 'n', 's', 'm', 'y0', 't', 'e1', 'r', 't']}
+{'polymerie': ['p', 'o0', 'l', 'i0', 'm', 'e0', 'r', 'i1'], 'antropologie': ['A0', 'n', 't', 'r', 'o0', 'p', 'o0', 'l', 'o0', 'G', 'i1']}
+{'fluidiseert': ['f', 'l', 'y0', 'w', 'i0', 'd', 'i0', 'z', 'e1', 'r', 't'], 'gesubsidieerd': ['x', '@0', 's', '}0', 'p', 's', 'i0', 'd', 'i0', 'j', 'e1', 'r', 't']}
+{'gekalibreerd': ['x', '@0', 'k', 'a0', 'l', 'i0', 'b', 'r', 'e1', 'r', 't'], 'marineert': ['m', 'a0', 'r', 'i0', 'n', 'e1', 'r', 't']}
+{'presseert': ['p', 'r', 'E0', 's', 'e1', 'r', 't'], 'gekwadreerd': ['x', '@0', 'k', 'w', 'A0', 'd', 'r', 'e1', 'r', 't']}
+{'implementeer': ['I0', 'm', 'p', 'l', '@0', 'm', 'E0', 'n', 't', 'e1', 'r'], 'pelletiseer': ['p', 'E0', 'l', '@0', 't', 'i0', 'z', 'e1', 'r']}
+{'orkest': ['O0', 'r', 'k', 'E1', 's', 't'], 'noordwest': ['n', 'o0', 'r', 'd', 'w', 'E1', 's', 't']}
+{'longimetrie': ['l', 'O0', 'N', 'G', 'i0', 'm', 'e0', 't', 'r', 'i1'], 'melancholie': ['m', 'e0', 'l', 'A0', 'N', 'x', 'o0', 'l', 'i1']}
+{'confirmeert': ['k', 'O0', 'n', 'f', 'I0', 'r', 'm', 'e1', 'r', 't'], 'geoculeerd': ['x', '@0', 'o0', 'k', 'y0', 'l', 'e1', 'r', 't']}
+{'dupliceer': ['d', 'y0', 'p', 'l', 'i0', 's', 'e1', 'r'], 'incorporeer': ['I0', 'N', 'k', 'O0', 'r', 'p', 'o0', 'r', 'e1', 'r']}
+{'piketteert': ['p', 'i0', 'k', 'E0', 't', 'e1', 'r', 't'], 'presseert': ['p', 'r', 'E0', 's', 'e1', 'r', 't']}
+{'fondant': ['f', 'O0', 'n', 'd', 'A1', 'n', 't'], 'chrysant': ['x', 'r', 'i0', 's', 'A1', 'n', 't']}
+{'gireert': ['x', 'i0', 'r', 'e1', 'r', 't'], 'gefalsificeerd': ['x', '@0', 'f', 'A0', 'l', 's', 'i0', 'f', 'i0', 's', 'e1', 'r', 't']}
+{'variant': ['v', 'a0', 'r', 'i0', 'j', 'A1', 'n', 't'], 'gebrand': ['x', '@0', 'b', 'r', 'A1', 'n', 't']}
+{'variant': ['v', 'a0', 'r', 'i0', 'j', 'A1', 'n', 't'], 'bacchant': ['b', 'A0', 'x', 'A1', 'n', 't']}
+{'gecreosoteerd': ['x', '@0', 'k', 'r', 'e0', 'j', 'o0', 's', 'o0', 't', 'e1', 'r', 't'], 'gestationeerd': ['x', '@0', 's', 't', 'A0', 't', 'S', 'o0', 'n', 'e1', 'r', 't']}
+{'pikantst': ['p', 'i0', 'k', 'A1', 'n', 't', 's', 't'], 'briljantst': ['b', 'r', 'I0', 'l', 'j', 'A1', 'n', 't', 's', 't']}
+{'gebrand': ['x', '@0', 'b', 'r', 'A1', 'n', 't'], 'chrysant': ['x', 'r', 'i0', 's', 'A1', 'n', 't']}
+{'gepivoteerd': ['x', '@0', 'p', 'i0', 'v', 'o0', 't', 'e1', 'r', 't'], 'gemineerd': ['x', '@0', 'm', 'i0', 'n', 'e1', 'r', 't']}
+{'toppenant': ['t', 'O0', 'p', '@0', 'n', 'A1', 'n', 't'], 'platteband': ['p', 'l', 'A0', 't', '@0', 'b', 'A1', 'n', 't']}
+{'gemaand': ['x', '@0', 'm', 'a1', 'n', 't'], 'bestaand': ['b', '@0', 's', 't', 'a1', 'n', 't']}
+{'fondant': ['f', 'O0', 'n', 'd', 'A1', 'n', 't'], 'contribuant': ['k', 'O0', 'n', 't', 'r', 'i0', 'b', 'y0', 'w', 'A1', 'n', 't']}
+{'gedisponeerd': ['x', '@0', 'd', 'I0', 's', 'p', 'o0', 'n', 'e1', 'r', 't'], 'gepivoteerd': ['x', '@0', 'p', 'i0', 'v', 'o0', 't', 'e1', 'r', 't']}
+{'gecontamineerd': ['x', '@0', 'k', 'O0', 'n', 't', 'a0', 'm', 'i0', 'n', 'e1', 'r', 't'], 'geobjectiveerd': ['x', '@0', 'O0', 'b', 'j', 'E0', 'k', 't', 'i0', 'v', 'e1', 'r', 't']}
+{'triomfant': ['t', 'r', 'i0', 'j', 'O0', 'm', 'f', 'A1', 'n', 't'], 'luitenant-adjudant': ['l', 'L0', 't', '@0', 'n', 'A1', 'n', 't', 'A0', 't', 'j', 'y0', 'd', 'A1', 'n', 't']}
+{'stipendiaat': ['s', 't', 'i0', 'p', 'E0', 'n', 'd', 'i0', 'j', 'a1', 't'], 'directoraat': ['d', 'i0', 'r', 'E0', 'k', 't', 'o0', 'r', 'a1', 't']}
+{'polymerie': ['p', 'o0', 'l', 'i0', 'm', 'e0', 'r', 'i1'], 'kosmogonie': ['k', 'O0', 's', 'm', 'o0', 'G', 'o0', 'n', 'i1']}
+{'saboteert': ['s', 'A0', 'b', 'o0', 't', 'e1', 'r', 't'], 'gemineerd': ['x', '@0', 'm', 'i0', 'n', 'e1', 'r', 't']}
+{'entomografie': ['E0', 'n', 't', 'o0', 'm', 'o0', 'G', 'r', 'a0', 'f', 'i1'], 'psychotherapie': ['p', 's', 'i0', 'x', 'o0', 't', 'e0', 'r', 'a0', 'p', 'i1']}
+{'geparenteerd': ['x', '@0', 'p', 'a0', 'r', 'E0', 'n', 't', 'e1', 'r', 't'], 'geciseleerd': ['x', '@0', 's', 'i0', 'z', '@0', 'l', 'e1', 'r', 't']}
+{'verdisconteer': ['v', '@0', 'r', 'd', 'I0', 's', 'k', 'O0', 'n', 't', 'e1', 'r'], 'troposfeer': ['t', 'r', 'o0', 'p', 'O0', 's', 'f', 'e1', 'r']}
+{'deposant': ['d', 'e0', 'p', 'o0', 'Z', 'A1', 'n', 't'], 'fondant': ['f', 'O0', 'n', 'd', 'A1', 'n', 't']}
+{'criant': ['k', 'r', 'i0', 'j', 'A1', 'n', 't'], 'geplant': ['x', '@0', 'p', 'l', 'A1', 'n', 't']}
+{'gecreosoteerd': ['x', '@0', 'k', 'r', 'e0', 'j', 'o0', 's', 'o0', 't', 'e1', 'r', 't'], 'jubileert': ['j', 'y0', 'b', 'i0', 'l', 'e1', 'r', 't']}
+{'triomfant': ['t', 'r', 'i0', 'j', 'O0', 'm', 'f', 'A1', 'n', 't'], 'mant': ['m', 'A1', 'n', 't']}
+{'gireert': ['x', 'i0', 'r', 'e1', 'r', 't'], 'gedemagnetiseerd': ['x', '@0', 'd', 'e0', 'm', 'A0', 'G', 'n', 'e0', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'toppenant': ['t', 'O0', 'p', '@0', 'n', 'A1', 'n', 't'], 'gezand': ['x', '@0', 'z', 'A1', 'n', 't']}
+{'pikantst': ['p', 'i0', 'k', 'A1', 'n', 't', 's', 't'], 'abondantst': ['a0', 'b', 'O0', 'n', 'd', 'A1', 'n', 't', 's', 't']}
+{'geembeteerd': ['x', '@0', 'A0', 'm', 'b', 'E0', 't', 'e1', 'r', 't'], 'negeert': ['n', '@0', 'G', 'e1', 'r', 't']}
+{'orthografie': ['O0', 'r', 't', 'o0', 'G', 'r', 'a0', 'f', 'i1'], 'histopathologie': ['h', 'I0', 's', 't', 'o0', 'p', 'A0', 't', 'o0', 'l', 'o0', 'G', 'i1']}
+{'intrigantst': ['I0', 'n', 't', 'r', 'i0', 'G', 'A1', 'n', 't', 's', 't'], 'flagrantst': ['f', 'l', 'A0', 'G', 'r', 'A1', 'n', 't', 's', 't']}
+{'hypnotiseert': ['h', 'i0', 'p', 'n', 'o0', 't', 'i0', 'z', 'e1', 'r', 't'], 'ongeclausuleerd': ['O0', 'N', 'G', '@0', 'k', 'l', 'M0', 'z', 'y0', 'l', 'e1', 'r', 't']}
+{'beslaand': ['b', '@0', 's', 'l', 'a1', 'n', 't'], 'misgaand': ['m', 'I0', 's', 'x', 'a1', 'n', 't']}
+{'deposant': ['d', 'e0', 'p', 'o0', 'Z', 'A1', 'n', 't'], 'overspant': ['o0', 'v', '@0', 'r', 's', 'p', 'A1', 'n', 't']}
+{'geblancheerd': ['x', '@0', 'b', 'l', 'A0', 'n', 'S', 'e1', 'r', 't'], 'gesubsidieerd': ['x', '@0', 's', '}0', 'p', 's', 'i0', 'd', 'i0', 'j', 'e1', 'r', 't']}
+{'gezand': ['x', '@0', 'z', 'A1', 'n', 't'], 'bacchant': ['b', 'A0', 'x', 'A1', 'n', 't']}
+{'hypertrofie': ['h', 'i0', 'p', '@0', 'r', 't', 'r', 'o0', 'f', 'i1'], 'exogamie': ['E0', 'k', 's', 'o0', 'G', 'a0', 'm', 'i1']}
+{'tarifeert': ['t', 'a0', 'r', 'i0', 'f', 'e1', 'r', 't'], 'plombeert': ['p', 'l', 'O0', 'm', 'b', 'e1', 'r', 't']}
+{'retracteer': ['r', 'e0', 't', 'r', 'A0', 'k', 't', 'e1', 'r'], 'patroneer': ['p', 'A0', 't', 'r', 'o0', 'n', 'e1', 'r']}
+{'digitaliseert': ['d', 'i0', 'G', 'i0', 't', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't'], 'gecollabeerd': ['x', '@0', 'k', 'O0', 'l', 'a0', 'b', 'e1', 'r', 't']}
+{'saboteer': ['s', 'A0', 'b', 'o0', 't', 'e1', 'r'], 'structureer': ['s', 't', 'r', '}0', 'k', 't', 'y0', 'r', 'e1', 'r']}
+{'debitant': ['d', 'e0', 'b', 'i0', 't', 'A1', 'n', 't'], 'gebrand': ['x', '@0', 'b', 'r', 'A1', 'n', 't']}
+{'gezand': ['x', '@0', 'z', 'A1', 'n', 't'], 'convenant': ['k', 'O0', 'n', 'v', '@0', 'n', 'A1', 'n', 't']}
+{'gezand': ['x', '@0', 'z', 'A1', 'n', 't'], 'chrysant': ['x', 'r', 'i0', 's', 'A1', 'n', 't']}
+{'convenant': ['k', 'O0', 'n', 'v', '@0', 'n', 'A1', 'n', 't'], 'plant': ['p', 'l', 'A1', 'n', 't']}
+{'gestagneerd': ['x', '@0', 's', 't', 'A0', 'G', 'n', 'e1', 'r', 't'], 'mediatiseert': ['m', 'e0', 'd', 'i0', 'j', 'a0', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'culmineert': ['k', '}0', 'l', 'm', 'i0', 'n', 'e1', 'r', 't'], 'mediatiseert': ['m', 'e0', 'd', 'i0', 'j', 'a0', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'rekestrant': ['r', 'e0', 'k', 'E0', 's', 't', 'r', 'A1', 'n', 't'], 'convenant': ['k', 'O0', 'n', 'v', '@0', 'n', 'A1', 'n', 't']}
+{'gedisponeerd': ['x', '@0', 'd', 'I0', 's', 'p', 'o0', 'n', 'e1', 'r', 't'], 'pirouetteert': ['p', 'i0', 'r', 'u0', 'w', 'E0', 't', 'e1', 'r', 't']}
+{'gepsalmodieerd': ['x', '@0', 'p', 's', 'A0', 'l', 'm', 'o0', 'd', 'i0', 'j', 'e1', 'r', 't'], 'presseert': ['p', 'r', 'E0', 's', 'e1', 'r', 't']}
+{'fossiliseer': ['f', 'O0', 's', 'i0', 'l', 'i0', 'z', 'e1', 'r'], 'multipliceer': ['m', '}0', 'l', 't', 'i0', 'p', 'l', 'i0', 's', 'e1', 'r']}
+{'verdisconteer': ['v', '@0', 'r', 'd', 'I0', 's', 'k', 'O0', 'n', 't', 'e1', 'r'], 'pelletiseer': ['p', 'E0', 'l', '@0', 't', 'i0', 'z', 'e1', 'r']}
+{'fazant': ['f', 'a0', 'z', 'A1', 'n', 't'], 'variant': ['v', 'a0', 'r', 'i0', 'j', 'A1', 'n', 't']}
+{'grand-seigneur': ['g', 'r', 'A0', 'n', 's', 'E0', 'n', 'j', '|1', 'r'], 'aspirateur': ['A0', 's', 'p', 'i0', 'r', 'a0', 't', '|1', 'r']}
+{'triomfant': ['t', 'r', 'i0', 'j', 'O0', 'm', 'f', 'A1', 'n', 't'], 'constant': ['k', 'O0', 'n', 's', 't', 'A1', 'n', 't']}
+{'volant': ['v', 'o0', 'l', 'A1', 'n', 't'], 'acceptant': ['A0', 'k', 's', 'E0', 'p', 't', 'A1', 'n', 't']}
+{'geinfereerd': ['x', '@0', 'I0', 'n', 'f', '@0', 'r', 'e1', 'r', 't'], 'gemineerd': ['x', '@0', 'm', 'i0', 'n', 'e1', 'r', 't']}
+{'fondant': ['f', 'O0', 'n', 'd', 'A1', 'n', 't'], 'rekestrant': ['r', 'e0', 'k', 'E0', 's', 't', 'r', 'A1', 'n', 't']}
+{'verdijt': ['v', '@0', 'r', 'd', 'K1', 't'], 'sonoriteit': ['s', 'o0', 'n', 'o0', 'r', 'i0', 't', 'K1', 't']}
+{'exhibeert': ['E0', 'k', 's', 'i0', 'b', 'e1', 'r', 't'], 'marineert': ['m', 'a0', 'r', 'i0', 'n', 'e1', 'r', 't']}
+{'fondant': ['f', 'O0', 'n', 'd', 'A1', 'n', 't'], 'sympathisant': ['s', 'I0', 'm', 'p', 'a0', 't', 'i0', 's', 'A1', 'n', 't']}
+{'triomfant': ['t', 'r', 'i0', 'j', 'O0', 'm', 'f', 'A1', 'n', 't'], 'bacchant': ['b', 'A0', 'x', 'A1', 'n', 't']}
+{'hydrateert': ['h', 'i0', 'd', 'r', 'a0', 't', 'e1', 'r', 't'], 'amplificeert': ['A0', 'm', 'p', 'l', 'i0', 'f', 'i0', 's', 'e1', 'r', 't']}
+{'sympathisant': ['s', 'I0', 'm', 'p', 'a0', 't', 'i0', 's', 'A1', 'n', 't'], 'contribuant': ['k', 'O0', 'n', 't', 'r', 'i0', 'b', 'y0', 'w', 'A1', 'n', 't']}
+{'volant': ['v', 'o0', 'l', 'A1', 'n', 't'], 'rekwestrant': ['r', 'e0', 'k', 'w', 'E0', 's', 't', 'r', 'A1', 'n', 't']}
+{'bezeer': ['b', '@0', 'z', 'e1', 'r'], 'kandideer': ['k', 'A0', 'n', 'd', 'i0', 'd', 'e1', 'r']}
+{'plant': ['p', 'l', 'A1', 'n', 't'], 'ontbrand': ['O0', 'n', 'd', 'b', 'r', 'A1', 'n', 't']}
+{'piketteer': ['p', 'i0', 'k', 'E0', 't', 'e1', 'r'], 'charmeer': ['S', 'A0', 'r', 'm', 'e1', 'r']}
+{'semasiologie': ['s', 'e0', 'm', 'a0', 'S', 'o0', 'l', 'o0', 'G', 'i1'], 'sociocratie': ['s', 'o0', 'S', 'o0', 'k', 'r', 'a0', 't', 's', 'i1']}
+{'gebrand': ['x', '@0', 'b', 'r', 'A1', 'n', 't'], 'sympathisant': ['s', 'I0', 'm', 'p', 'a0', 't', 'i0', 's', 'A1', 'n', 't']}
+{'contribuant': ['k', 'O0', 'n', 't', 'r', 'i0', 'b', 'y0', 'w', 'A1', 'n', 't'], 'ontbrand': ['O0', 'n', 'd', 'b', 'r', 'A1', 'n', 't']}
+{'cyclamaat': ['s', 'i0', 'k', 'l', 'a0', 'm', 'a1', 't'], 'bepraat': ['b', '@0', 'p', 'r', 'a1', 't']}
+{'gepousseerd': ['x', '@0', 'p', 'u0', 's', 'e1', 'r', 't'], 'geembeteerd': ['x', '@0', 'A0', 'm', 'b', 'E0', 't', 'e1', 'r', 't']}
+{'deposant': ['d', 'e0', 'p', 'o0', 'Z', 'A1', 'n', 't'], 'gezand': ['x', '@0', 'z', 'A1', 'n', 't']}
+{'geblancheerd': ['x', '@0', 'b', 'l', 'A0', 'n', 'S', 'e1', 'r', 't'], 'musiceert': ['m', 'y0', 'z', 'i0', 's', 'e1', 'r', 't']}
+{'dupliceer': ['d', 'y0', 'p', 'l', 'i0', 's', 'e1', 'r'], 'saboteer': ['s', 'A0', 'b', 'o0', 't', 'e1', 'r']}
+{'verdisconteer': ['v', '@0', 'r', 'd', 'I0', 's', 'k', 'O0', 'n', 't', 'e1', 'r'], 'incorporeer': ['I0', 'N', 'k', 'O0', 'r', 'p', 'o0', 'r', 'e1', 'r']}
+{'individualiseert': ['I0', 'n', 'd', 'i0', 'v', 'i0', 'd', 'y0', 'w', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't'], 'monoftongeert': ['m', 'o0', 'n', 'O0', 'f', 't', 'O0', 'N', 'G', 'e1', 'r', 't']}
+{'saboteer': ['s', 'A0', 'b', 'o0', 't', 'e1', 'r'], 'pelletiseer': ['p', 'E0', 'l', '@0', 't', 'i0', 'z', 'e1', 'r']}
+{'acceptant': ['A0', 'k', 's', 'E0', 'p', 't', 'A1', 'n', 't'], 'rekestrant': ['r', 'e0', 'k', 'E0', 's', 't', 'r', 'A1', 'n', 't']}
+{'mant': ['m', 'A1', 'n', 't'], 'gebrand': ['x', '@0', 'b', 'r', 'A1', 'n', 't']}
+{'overspant': ['o0', 'v', '@0', 'r', 's', 'p', 'A1', 'n', 't'], 'bacchant': ['b', 'A0', 'x', 'A1', 'n', 't']}
+{'kristalliseert': ['k', 'r', 'I0', 's', 't', 'A0', 'l', 'i0', 'z', 'e1', 'r', 't'], 'ongeclausuleerd': ['O0', 'N', 'G', '@0', 'k', 'l', 'M0', 'z', 'y0', 'l', 'e1', 'r', 't']}
+{'bombardeurs': ['b', 'O0', 'm', 'b', 'A0', 'r', 'd', '|1', 'r', 's'], 'modelleurs': ['m', 'o0', 'd', 'E0', 'l', '|1', 'r', 's']}
+{'rekwestrant': ['r', 'e0', 'k', 'w', 'E0', 's', 't', 'r', 'A1', 'n', 't'], 'convenant': ['k', 'O0', 'n', 'v', '@0', 'n', 'A1', 'n', 't']}
+{'jubileert': ['j', 'y0', 'b', 'i0', 'l', 'e1', 'r', 't'], 'gepivoteerd': ['x', '@0', 'p', 'i0', 'v', 'o0', 't', 'e1', 'r', 't']}
+{'gekalibreerd': ['x', '@0', 'k', 'a0', 'l', 'i0', 'b', 'r', 'e1', 'r', 't'], 'ontbeerd': ['O0', 'n', 'd', 'b', 'e1', 'r', 't']}
+{'gecreosoteerd': ['x', '@0', 'k', 'r', 'e0', 'j', 'o0', 's', 'o0', 't', 'e1', 'r', 't'], 'monoftongeert': ['m', 'o0', 'n', 'O0', 'f', 't', 'O0', 'N', 'G', 'e1', 'r', 't']}
+{'ontbeerd': ['O0', 'n', 'd', 'b', 'e1', 'r', 't'], 'gestagneerd': ['x', '@0', 's', 't', 'A0', 'G', 'n', 'e1', 'r', 't']}
+{'gekant': ['x', '@0', 'k', 'A1', 'n', 't'], 'mant': ['m', 'A1', 'n', 't']}
+{'deposant': ['d', 'e0', 'p', 'o0', 'Z', 'A1', 'n', 't'], 'contribuant': ['k', 'O0', 'n', 't', 'r', 'i0', 'b', 'y0', 'w', 'A1', 'n', 't']}
+{'meert': ['m', 'e1', 'r', 't'], 'gireert': ['x', 'i0', 'r', 'e1', 'r', 't']}
+{'arroseert': ['A0', 'r', 'o0', 'z', 'e1', 'r', 't'], 'epateert': ['e0', 'p', 'a0', 't', 'e1', 'r', 't']}
+{'pantheist': ['p', 'A0', 'n', 't', 'e0', 'j', 'I1', 's', 't'], 'avantgardist': ['a0', 'v', 'A0', 'N', 'g', 'A0', 'r', 'd', 'I1', 's', 't']}
+{'debitant': ['d', 'e0', 'b', 'i0', 't', 'A1', 'n', 't'], 'rekwestrant': ['r', 'e0', 'k', 'w', 'E0', 's', 't', 'r', 'A1', 'n', 't']}
+{'gesloot': ['x', '@0', 's', 'l', 'o1', 't'], 'entrecote': ['A0', 'n', 't', 'r', '@0', 'k', 'o1', 't']}
+{'geitereerd': ['x', '@0', 'i0', 't', '@0', 'r', 'e1', 'r', 't'], 'transmuteert': ['t', 'r', 'A0', 'n', 's', 'm', 'y0', 't', 'e1', 'r', 't']}
+{'geobjectiveerd': ['x', '@0', 'O0', 'b', 'j', 'E0', 'k', 't', 'i0', 'v', 'e1', 'r', 't'], 'piketteert': ['p', 'i0', 'k', 'E0', 't', 'e1', 'r', 't']}
+{'bacchant': ['b', 'A0', 'x', 'A1', 'n', 't'], 'plant': ['p', 'l', 'A1', 'n', 't']}
+{'bacchant': ['b', 'A0', 'x', 'A1', 'n', 't'], 'chrysant': ['x', 'r', 'i0', 's', 'A1', 'n', 't']}
+{'bestand': ['b', '@0', 's', 't', 'A1', 'n', 't'], 'overspant': ['o0', 'v', '@0', 'r', 's', 'p', 'A1', 'n', 't']}
+{'tabuleert': ['t', 'a0', 'b', 'y0', 'l', 'e1', 'r', 't'], 'geparenteerd': ['x', '@0', 'p', 'a0', 'r', 'E0', 'n', 't', 'e1', 'r', 't']}
+{'gecontamineerd': ['x', '@0', 'k', 'O0', 'n', 't', 'a0', 'm', 'i0', 'n', 'e1', 'r', 't'], 'gefalsificeerd': ['x', '@0', 'f', 'A0', 'l', 's', 'i0', 'f', 'i0', 's', 'e1', 'r', 't']}
+{'antimilitarist': ['A0', 'n', 't', 'i0', 'm', 'i0', 'l', 'i0', 't', 'a0', 'r', 'I1', 's', 't'], 'antipapist': ['A0', 'n', 't', 'i0', 'p', 'a0', 'p', 'I1', 's', 't']}
+{'constant': ['k', 'O0', 'n', 's', 't', 'A1', 'n', 't'], 'chrysant': ['x', 'r', 'i0', 's', 'A1', 'n', 't']}
+{'gezand': ['x', '@0', 'z', 'A1', 'n', 't'], 'overspant': ['o0', 'v', '@0', 'r', 's', 'p', 'A1', 'n', 't']}
+{'geobjectiveerd': ['x', '@0', 'O0', 'b', 'j', 'E0', 'k', 't', 'i0', 'v', 'e1', 'r', 't'], 'presseert': ['p', 'r', 'E0', 's', 'e1', 'r', 't']}
+{'arroseert': ['A0', 'r', 'o0', 'z', 'e1', 'r', 't'], 'transmuteert': ['t', 'r', 'A0', 'n', 's', 'm', 'y0', 't', 'e1', 'r', 't']}
+{'patroneer': ['p', 'A0', 't', 'r', 'o0', 'n', 'e1', 'r'], 'gasteer': ['x', 'A0', 's', 't', 'e1', 'r']}
+{'escamoteert': ['E0', 's', 'k', 'a0', 'm', 'o0', 't', 'e1', 'r', 't'], 'comprimeert': ['k', 'O0', 'm', 'p', 'r', 'i0', 'm', 'e1', 'r', 't']}
+{'geplaand': ['x', '@0', 'p', 'l', 'a1', 'n', 't'], 'gaand': ['x', 'a1', 'n', 't']}
+{'toppenant': ['t', 'O0', 'p', '@0', 'n', 'A1', 'n', 't'], 'rekestrant': ['r', 'e0', 'k', 'E0', 's', 't', 'r', 'A1', 'n', 't']}
+{'gecontamineerd': ['x', '@0', 'k', 'O0', 'n', 't', 'a0', 'm', 'i0', 'n', 'e1', 'r', 't'], 'gerebelleerd': ['x', '@0', 'r', '@0', 'b', 'E0', 'l', 'e1', 'r', 't']}
+{'gepousseerd': ['x', '@0', 'p', 'u0', 's', 'e1', 'r', 't'], 'gedesavoueerd': ['x', '@0', 'd', 'E0', 's', 'a0', 'v', 'u0', 'w', 'e1', 'r', 't']}
+{'rekwestrant': ['r', 'e0', 'k', 'w', 'E0', 's', 't', 'r', 'A1', 'n', 't'], 'platteband': ['p', 'l', 'A0', 't', '@0', 'b', 'A1', 'n', 't']}
+{'geitalianiseerd': ['x', '@0', 'i0', 't', 'a0', 'l', 'i0', 'j', 'a0', 'n', 'i0', 'z', 'e1', 'r', 't'], 'geparenteerd': ['x', '@0', 'p', 'a0', 'r', 'E0', 'n', 't', 'e1', 'r', 't']}
+{'gekant': ['x', '@0', 'k', 'A1', 'n', 't'], 'variant': ['v', 'a0', 'r', 'i0', 'j', 'A1', 'n', 't']}
+{'consolideert': ['k', 'O0', 'n', 's', 'o0', 'l', 'i0', 'd', 'e1', 'r', 't'], 'geremitteerd': ['x', '@0', 'r', 'e0', 'm', 'I0', 't', 'e1', 'r', 't']}
+{'bestand': ['b', '@0', 's', 't', 'A1', 'n', 't'], 'bacchant': ['b', 'A0', 'x', 'A1', 'n', 't']}
+{'variant': ['v', 'a0', 'r', 'i0', 'j', 'A1', 'n', 't'], 'sympathisant': ['s', 'I0', 'm', 'p', 'a0', 't', 'i0', 's', 'A1', 'n', 't']}
+{'jubileert': ['j', 'y0', 'b', 'i0', 'l', 'e1', 'r', 't'], 'seksualiseert': ['s', 'E0', 'k', 's', 'y0', 'w', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't']}
+{'gekalibreerd': ['x', '@0', 'k', 'a0', 'l', 'i0', 'b', 'r', 'e1', 'r', 't'], 'eclipseert': ['e0', 'k', 'l', 'I0', 'p', 's', 'e1', 'r', 't']}
+{'catalepsie': ['k', 'A0', 't', 'a0', 'l', 'E0', 'p', 's', 'i1'], 'thaumatologie': ['t', 'M0', 'm', 'a0', 't', 'o0', 'l', 'o0', 'G', 'i1']}
+{'rekwestrant': ['r', 'e0', 'k', 'w', 'E0', 's', 't', 'r', 'A1', 'n', 't'], 'bestand': ['b', '@0', 's', 't', 'A1', 'n', 't']}
+{'pikantst': ['p', 'i0', 'k', 'A1', 'n', 't', 's', 't'], 'flagrantst': ['f', 'l', 'A0', 'G', 'r', 'A1', 'n', 't', 's', 't']}
+{'gepousseerd': ['x', '@0', 'p', 'u0', 's', 'e1', 'r', 't'], 'geopponeerd': ['x', '@0', 'O0', 'p', 'o0', 'n', 'e1', 'r', 't']}
+{'pikantst': ['p', 'i0', 'k', 'A1', 'n', 't', 's', 't'], 'abundantst': ['a0', 'b', '}0', 'n', 'd', 'A1', 'n', 't', 's', 't']}
+{'overspant': ['o0', 'v', '@0', 'r', 's', 'p', 'A1', 'n', 't'], 'extravagant': ['E0', 'k', 's', 't', 'r', 'a0', 'v', 'a0', 'G', 'A1', 'n', 't']}
+{'fazant': ['f', 'a0', 'z', 'A1', 'n', 't'], 'plant': ['p', 'l', 'A1', 'n', 't']}
+{'geroutineerd': ['x', '@0', 'r', 'u0', 't', 'i0', 'n', 'e1', 'r', 't'], 'embarkeert': ['E0', 'm', 'b', 'A0', 'r', 'k', 'e1', 'r', 't']}
+{'platteband': ['p', 'l', 'A0', 't', '@0', 'b', 'A1', 'n', 't'], 'rekestrant': ['r', 'e0', 'k', 'E0', 's', 't', 'r', 'A1', 'n', 't']}
+{'gekant': ['x', '@0', 'k', 'A1', 'n', 't'], 'luitenant-adjudant': ['l', 'L0', 't', '@0', 'n', 'A1', 'n', 't', 'A0', 't', 'j', 'y0', 'd', 'A1', 'n', 't']}
+{'variant': ['v', 'a0', 'r', 'i0', 'j', 'A1', 'n', 't'], 'contribuant': ['k', 'O0', 'n', 't', 'r', 'i0', 'b', 'y0', 'w', 'A1', 'n', 't']}
+{'toppenant': ['t', 'O0', 'p', '@0', 'n', 'A1', 'n', 't'], 'plant': ['p', 'l', 'A1', 'n', 't']}
+{'gedisponeerd': ['x', '@0', 'd', 'I0', 's', 'p', 'o0', 'n', 'e1', 'r', 't'], 'palissadeert': ['p', 'a0', 'l', 'i0', 's', 'a0', 'd', 'e1', 'r', 't']}
+{'fazant': ['f', 'a0', 'z', 'A1', 'n', 't'], 'ontbrand': ['O0', 'n', 'd', 'b', 'r', 'A1', 'n', 't']}
+{'gepsalmodieerd': ['x', '@0', 'p', 's', 'A0', 'l', 'm', 'o0', 'd', 'i0', 'j', 'e1', 'r', 't'], 'gefalsificeerd': ['x', '@0', 'f', 'A0', 'l', 's', 'i0', 'f', 'i0', 's', 'e1', 'r', 't']}
+{'pirouetteert': ['p', 'i0', 'r', 'u0', 'w', 'E0', 't', 'e1', 'r', 't'], 'individualiseert': ['I0', 'n', 'd', 'i0', 'v', 'i0', 'd', 'y0', 'w', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't']}
+{'irrelevantst': ['I0', 'r', 'e0', 'l', '@0', 'v', 'A1', 'n', 't', 's', 't'], 'abundantst': ['a0', 'b', '}0', 'n', 'd', 'A1', 'n', 't', 's', 't']}
+{'ongeemancipeerd': ['O0', 'N', 'G', '@0', 'e0', 'm', 'A0', 'n', 's', 'i0', 'p', 'e1', 'r', 't'], 'alumiseert': ['a0', 'l', 'y0', 'm', 'i0', 'z', 'e1', 'r', 't']}
+{'constant': ['k', 'O0', 'n', 's', 't', 'A1', 'n', 't'], 'ontbrand': ['O0', 'n', 'd', 'b', 'r', 'A1', 'n', 't']}
+{'triomfant': ['t', 'r', 'i0', 'j', 'O0', 'm', 'f', 'A1', 'n', 't'], 'rekestrant': ['r', 'e0', 'k', 'E0', 's', 't', 'r', 'A1', 'n', 't']}
+{'riskantst': ['r', 'I0', 's', 'k', 'A1', 'n', 't', 's', 't'], 'irrelevantst': ['I0', 'r', 'e0', 'l', '@0', 'v', 'A1', 'n', 't', 's', 't']}
+{'tarifeert': ['t', 'a0', 'r', 'i0', 'f', 'e1', 'r', 't'], 'geopponeerd': ['x', '@0', 'O0', 'p', 'o0', 'n', 'e1', 'r', 't']}
+{'fluidiseert': ['f', 'l', 'y0', 'w', 'i0', 'd', 'i0', 'z', 'e1', 'r', 't'], 'consacreert': ['k', 'O0', 'n', 's', 'a0', 'k', 'r', 'e1', 'r', 't']}
+{'pirouetteert': ['p', 'i0', 'r', 'u0', 'w', 'E0', 't', 'e1', 'r', 't'], 'gestationeerd': ['x', '@0', 's', 't', 'A0', 't', 'S', 'o0', 'n', 'e1', 'r', 't']}
+{'gewaardeerd': ['x', '@0', 'w', 'a0', 'r', 'd', 'e1', 'r', 't'], 'anatomiseert': ['a0', 'n', 'a0', 't', 'o0', 'm', 'i0', 'z', 'e1', 'r', 't']}
+{'jubileert': ['j', 'y0', 'b', 'i0', 'l', 'e1', 'r', 't'], 'gemineerd': ['x', '@0', 'm', 'i0', 'n', 'e1', 'r', 't']}
+{'plant': ['p', 'l', 'A1', 'n', 't'], 'contribuant': ['k', 'O0', 'n', 't', 'r', 'i0', 'b', 'y0', 'w', 'A1', 'n', 't']}
+{'beloer': ['b', '@0', 'l', 'u1', 'r'], 'paarlemoer': ['p', 'a0', 'r', 'l', '@0', 'm', 'u1', 'r']}
+{'kwakzalverij': ['k', 'w', 'A0', 'k', 's', 'A0', 'l', 'v', '@0', 'r', 'K1'], 'slavernij': ['s', 'l', 'a0', 'v', '@0', 'r', 'n', 'K1']}
+{'exhibeert': ['E0', 'k', 's', 'i0', 'b', 'e1', 'r', 't'], 'culmineert': ['k', '}0', 'l', 'm', 'i0', 'n', 'e1', 'r', 't']}
+{'gekant': ['x', '@0', 'k', 'A1', 'n', 't'], 'rekwestrant': ['r', 'e0', 'k', 'w', 'E0', 's', 't', 'r', 'A1', 'n', 't']}
+{'alieneert': ['a0', 'l', 'i0', 'j', 'e0', 'n', 'e1', 'r', 't'], 'europeaniseert': ['|0', 'r', 'o0', 'p', 'e0', 'j', 'a0', 'n', 'i0', 'z', 'e1', 'r', 't']}
+{'distantieert': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', 't'], 'getantaliseerd': ['x', '@0', 't', 'A0', 'n', 't', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't']}
+{'distantieert': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', 't'], 'nielleert': ['n', 'i0', 'j', 'E0', 'l', 'e1', 'r', 't']}
+{'palissadeert': ['p', 'a0', 'l', 'i0', 's', 'a0', 'd', 'e1', 'r', 't'], 'monoftongeert': ['m', 'o0', 'n', 'O0', 'f', 't', 'O0', 'N', 'G', 'e1', 'r', 't']}
+{'gerebelleerd': ['x', '@0', 'r', '@0', 'b', 'E0', 'l', 'e1', 'r', 't'], 'vergaloppeert': ['v', '@0', 'r', 'G', 'a0', 'l', 'O0', 'p', 'e1', 'r', 't']}
+{'gekalibreerd': ['x', '@0', 'k', 'a0', 'l', 'i0', 'b', 'r', 'e1', 'r', 't'], 'geaccrediteerd': ['x', '@0', 'A0', 'k', 'r', 'e0', 'd', 'i0', 't', 'e1', 'r', 't']}
+{'bacchant': ['b', 'A0', 'x', 'A1', 'n', 't'], 'sympathisant': ['s', 'I0', 'm', 'p', 'a0', 't', 'i0', 's', 'A1', 'n', 't']}
+{'gerebelleerd': ['x', '@0', 'r', '@0', 'b', 'E0', 'l', 'e1', 'r', 't'], 'gesubsidieerd': ['x', '@0', 's', '}0', 'p', 's', 'i0', 'd', 'i0', 'j', 'e1', 'r', 't']}
+{'overspant': ['o0', 'v', '@0', 'r', 's', 'p', 'A1', 'n', 't'], 'sympathisant': ['s', 'I0', 'm', 'p', 'a0', 't', 'i0', 's', 'A1', 'n', 't']}
+{'rekwestrant': ['r', 'e0', 'k', 'w', 'E0', 's', 't', 'r', 'A1', 'n', 't'], 'fondant': ['f', 'O0', 'n', 'd', 'A1', 'n', 't']}
+{'deposant': ['d', 'e0', 'p', 'o0', 'Z', 'A1', 'n', 't'], 'sympathisant': ['s', 'I0', 'm', 'p', 'a0', 't', 'i0', 's', 'A1', 'n', 't']}
+{'verordonneerd': ['v', '@0', 'r', 'O0', 'r', 'd', 'O0', 'n', 'e1', 'r', 't'], 'radeert': ['r', 'a0', 'd', 'e1', 'r', 't']}
+{'gewaardeerd': ['x', '@0', 'w', 'a0', 'r', 'd', 'e1', 'r', 't'], 'marineert': ['m', 'a0', 'r', 'i0', 'n', 'e1', 'r', 't']}
+{'arroseert': ['A0', 'r', 'o0', 'z', 'e1', 'r', 't'], 'amplificeert': ['A0', 'm', 'p', 'l', 'i0', 'f', 'i0', 's', 'e1', 'r', 't']}
+{'escamoteert': ['E0', 's', 'k', 'a0', 'm', 'o0', 't', 'e1', 'r', 't'], 'ongeclausuleerd': ['O0', 'N', 'G', '@0', 'k', 'l', 'M0', 'z', 'y0', 'l', 'e1', 'r', 't']}
+{'dupliceer': ['d', 'y0', 'p', 'l', 'i0', 's', 'e1', 'r'], 'troposfeer': ['t', 'r', 'o0', 'p', 'O0', 's', 'f', 'e1', 'r']}
+{'desorganiseert': ['d', 'E0', 's', 'O0', 'r', 'G', 'a0', 'n', 'i0', 'z', 'e1', 'r', 't'], 'amplificeert': ['A0', 'm', 'p', 'l', 'i0', 'f', 'i0', 's', 'e1', 'r', 't']}
+{'piketteert': ['p', 'i0', 'k', 'E0', 't', 'e1', 'r', 't'], 'consacreert': ['k', 'O0', 'n', 's', 'a0', 'k', 'r', 'e1', 'r', 't']}
+{'arroseert': ['A0', 'r', 'o0', 'z', 'e1', 'r', 't'], 'communiceert': ['k', 'O0', 'm', 'y0', 'n', 'i0', 's', 'e1', 'r', 't']}
+{'exhibeert': ['E0', 'k', 's', 'i0', 'b', 'e1', 'r', 't'], 'eclipseert': ['e0', 'k', 'l', 'I0', 'p', 's', 'e1', 'r', 't']}
+{'sympathisant': ['s', 'I0', 'm', 'p', 'a0', 't', 'i0', 's', 'A1', 'n', 't'], 'extravagant': ['E0', 'k', 's', 't', 'r', 'a0', 'v', 'a0', 'G', 'A1', 'n', 't']}
+{'hartenboer': ['h', 'A0', 'r', 't', '@0', 'b', 'u1', 'r'], 'paarlemoer': ['p', 'a0', 'r', 'l', '@0', 'm', 'u1', 'r']}
+{'debitant': ['d', 'e0', 'b', 'i0', 't', 'A1', 'n', 't'], 'contribuant': ['k', 'O0', 'n', 't', 'r', 'i0', 'b', 'y0', 'w', 'A1', 'n', 't']}
+{'gekalibreerd': ['x', '@0', 'k', 'a0', 'l', 'i0', 'b', 'r', 'e1', 'r', 't'], 'gecollabeerd': ['x', '@0', 'k', 'O0', 'l', 'a0', 'b', 'e1', 'r', 't']}
+{'variant': ['v', 'a0', 'r', 'i0', 'j', 'A1', 'n', 't'], 'ontbrand': ['O0', 'n', 'd', 'b', 'r', 'A1', 'n', 't']}
+{'chiropodist': ['x', 'i0', 'r', 'o0', 'p', 'o0', 'd', 'I1', 's', 't'], 'psychometrist': ['p', 's', 'i0', 'x', 'o0', 'm', 'e0', 't', 'r', 'I1', 's', 't']}
+{'geroutineerd': ['x', '@0', 'r', 'u0', 't', 'i0', 'n', 'e1', 'r', 't'], 'epateert': ['e0', 'p', 'a0', 't', 'e1', 'r', 't']}
+{'triomfant': ['t', 'r', 'i0', 'j', 'O0', 'm', 'f', 'A1', 'n', 't'], 'bestand': ['b', '@0', 's', 't', 'A1', 'n', 't']}
+{'monoftongeert': ['m', 'o0', 'n', 'O0', 'f', 't', 'O0', 'N', 'G', 'e1', 'r', 't'], 'seksualiseert': ['s', 'E0', 'k', 's', 'y0', 'w', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't']}
+{'plombeert': ['p', 'l', 'O0', 'm', 'b', 'e1', 'r', 't'], 'soupeert': ['s', 'u0', 'p', 'e1', 'r', 't']}
+{'ontbeer': ['O0', 'n', 'd', 'b', 'e1', 'r'], 'kandideer': ['k', 'A0', 'n', 'd', 'i0', 'd', 'e1', 'r']}
+{'toppenant': ['t', 'O0', 'p', '@0', 'n', 'A1', 'n', 't'], 'chrysant': ['x', 'r', 'i0', 's', 'A1', 'n', 't']}
+{'triomfant': ['t', 'r', 'i0', 'j', 'O0', 'm', 'f', 'A1', 'n', 't'], 'sympathisant': ['s', 'I0', 'm', 'p', 'a0', 't', 'i0', 's', 'A1', 'n', 't']}
+{'hygienist': ['h', 'i0', 'G', 'i0', 'j', 'e0', 'n', 'I1', 's', 't'], 'psychometrist': ['p', 's', 'i0', 'x', 'o0', 'm', 'e0', 't', 'r', 'I1', 's', 't']}
+{'gekant': ['x', '@0', 'k', 'A1', 'n', 't'], 'gezand': ['x', '@0', 'z', 'A1', 'n', 't']}
+{'idee': ['i0', 'd', 'e1'], 'macrame': ['m', 'a0', 'k', 'r', 'a0', 'm', 'e1']}
+{'mandateert': ['m', 'A0', 'n', 'd', 'a0', 't', 'e1', 'r', 't'], 'substantiveert': ['s', '}0', 'p', 's', 't', 'A0', 'n', 't', 'i0', 'v', 'e1', 'r', 't']}
+{'palissadeert': ['p', 'a0', 'l', 'i0', 's', 'a0', 'd', 'e1', 'r', 't'], 'fusioneert': ['f', 'y0', 'Z', 'o0', 'n', 'e1', 'r', 't']}
+{'geblancheerd': ['x', '@0', 'b', 'l', 'A0', 'n', 'S', 'e1', 'r', 't'], 'gireert': ['x', 'i0', 'r', 'e1', 'r', 't']}
+{'flagrantst': ['f', 'l', 'A0', 'G', 'r', 'A1', 'n', 't', 's', 't'], 'abondantst': ['a0', 'b', 'O0', 'n', 'd', 'A1', 'n', 't', 's', 't']}
+{'variant': ['v', 'a0', 'r', 'i0', 'j', 'A1', 'n', 't'], 'luitenant-adjudant': ['l', 'L0', 't', '@0', 'n', 'A1', 'n', 't', 'A0', 't', 'j', 'y0', 'd', 'A1', 'n', 't']}
+{'geencadreerd': ['x', '@0', 'E0', 'N', 'k', 'a0', 'd', 'r', 'e1', 'r', 't'], 'radeert': ['r', 'a0', 'd', 'e1', 'r', 't']}
+{'geembeteerd': ['x', '@0', 'A0', 'm', 'b', 'E0', 't', 'e1', 'r', 't'], 'geopponeerd': ['x', '@0', 'O0', 'p', 'o0', 'n', 'e1', 'r', 't']}
+{'digitaliseert': ['d', 'i0', 'G', 'i0', 't', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't'], 'marineert': ['m', 'a0', 'r', 'i0', 'n', 'e1', 'r', 't']}
+{'antedateert': ['A0', 'n', 't', '@0', 'd', 'a0', 't', 'e1', 'r', 't'], 'substantiveert': ['s', '}0', 'p', 's', 't', 'A0', 'n', 't', 'i0', 'v', 'e1', 'r', 't']}
+{'vergaloppeert': ['v', '@0', 'r', 'G', 'a0', 'l', 'O0', 'p', 'e1', 'r', 't'], 'gedemagnetiseerd': ['x', '@0', 'd', 'e0', 'm', 'A0', 'G', 'n', 'e0', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'gerebelleerd': ['x', '@0', 'r', '@0', 'b', 'E0', 'l', 'e1', 'r', 't'], 'gefalsificeerd': ['x', '@0', 'f', 'A0', 'l', 's', 'i0', 'f', 'i0', 's', 'e1', 'r', 't']}
+{'gepivoteerd': ['x', '@0', 'p', 'i0', 'v', 'o0', 't', 'e1', 'r', 't'], 'gestationeerd': ['x', '@0', 's', 't', 'A0', 't', 'S', 'o0', 'n', 'e1', 'r', 't']}
+{'constant': ['k', 'O0', 'n', 's', 't', 'A1', 'n', 't'], 'gebrand': ['x', '@0', 'b', 'r', 'A1', 'n', 't']}
+{'rekwestrant': ['r', 'e0', 'k', 'w', 'E0', 's', 't', 'r', 'A1', 'n', 't'], 'gezand': ['x', '@0', 'z', 'A1', 'n', 't']}
+{'gefosforesceerd': ['x', '@0', 'f', 'O0', 's', 'f', 'O0', 'r', 'E0', 's', 'e1', 'r', 't'], 'gekwadreerd': ['x', '@0', 'k', 'w', 'A0', 'd', 'r', 'e1', 'r', 't']}
+{'agiteert': ['a0', 'G', 'i0', 't', 'e1', 'r', 't'], 'gefosforesceerd': ['x', '@0', 'f', 'O0', 's', 'f', 'O0', 'r', 'E0', 's', 'e1', 'r', 't']}
+{'geobjectiveerd': ['x', '@0', 'O0', 'b', 'j', 'E0', 'k', 't', 'i0', 'v', 'e1', 'r', 't'], 'gedemagnetiseerd': ['x', '@0', 'd', 'e0', 'm', 'A0', 'G', 'n', 'e0', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'monoftongeert': ['m', 'o0', 'n', 'O0', 'f', 't', 'O0', 'N', 'G', 'e1', 'r', 't'], 'gestationeerd': ['x', '@0', 's', 't', 'A0', 't', 'S', 'o0', 'n', 'e1', 'r', 't']}
+{'fazant': ['f', 'a0', 'z', 'A1', 'n', 't'], 'bestand': ['b', '@0', 's', 't', 'A1', 'n', 't']}
+{'passeer': ['p', 'A0', 's', 'e1', 'r'], 'solemniseer': ['s', 'o0', 'l', 'E0', 'm', 'n', 'i0', 'z', 'e1', 'r']}
+{'stenocardie': ['s', 't', 'e0', 'n', 'o0', 'k', 'A0', 'r', 'd', 'i1'], 'hypertrofie': ['h', 'i0', 'p', '@0', 'r', 't', 'r', 'o0', 'f', 'i1']}
+{'hotsikidee': ['h', 'O0', 't', 's', 'i0', 'k', 'i0', 'd', 'e1'], 'communique': ['k', 'O0', 'm', 'y0', 'n', 'i0', 'k', 'e1']}
+{'gem': ['x', 'E1', 'm'], 'overstem': ['o0', 'v', '@0', 'r', 's', 't', 'E1', 'm']}
+{'gefosforesceerd': ['x', '@0', 'f', 'O0', 's', 'f', 'O0', 'r', 'E0', 's', 'e1', 'r', 't'], 'gesubsidieerd': ['x', '@0', 's', '}0', 'p', 's', 'i0', 'd', 'i0', 'j', 'e1', 'r', 't']}
+{'gepsalmodieerd': ['x', '@0', 'p', 's', 'A0', 'l', 'm', 'o0', 'd', 'i0', 'j', 'e1', 'r', 't'], 'agiteert': ['a0', 'G', 'i0', 't', 'e1', 'r', 't']}
+{'presseert': ['p', 'r', 'E0', 's', 'e1', 'r', 't'], 'gesubsidieerd': ['x', '@0', 's', '}0', 'p', 's', 'i0', 'd', 'i0', 'j', 'e1', 'r', 't']}
+{'epateert': ['e0', 'p', 'a0', 't', 'e1', 'r', 't'], 'communiceert': ['k', 'O0', 'm', 'y0', 'n', 'i0', 's', 'e1', 'r', 't']}
+{'chrysant': ['x', 'r', 'i0', 's', 'A1', 'n', 't'], 'ontbrand': ['O0', 'n', 'd', 'b', 'r', 'A1', 'n', 't']}
+{'volant': ['v', 'o0', 'l', 'A1', 'n', 't'], 'chrysant': ['x', 'r', 'i0', 's', 'A1', 'n', 't']}
+{'gecontamineerd': ['x', '@0', 'k', 'O0', 'n', 't', 'a0', 'm', 'i0', 'n', 'e1', 'r', 't'], 'gesubsidieerd': ['x', '@0', 's', '}0', 'p', 's', 'i0', 'd', 'i0', 'j', 'e1', 'r', 't']}
+{'luitenant-adjudant': ['l', 'L0', 't', '@0', 'n', 'A1', 'n', 't', 'A0', 't', 'j', 'y0', 'd', 'A1', 'n', 't'], 'ontbrand': ['O0', 'n', 'd', 'b', 'r', 'A1', 'n', 't']}
+{'bombardeurs': ['b', 'O0', 'm', 'b', 'A0', 'r', 'd', '|1', 'r', 's'], 'sappeurs': ['s', 'A0', 'p', '|1', 'r', 's']}
+{'bestand': ['b', '@0', 's', 't', 'A1', 'n', 't'], 'variant': ['v', 'a0', 'r', 'i0', 'j', 'A1', 'n', 't']}
+{'geplaand': ['x', '@0', 'p', 'l', 'a1', 'n', 't'], 'misgaand': ['m', 'I0', 's', 'x', 'a1', 'n', 't']}
+{'geinfereerd': ['x', '@0', 'I0', 'n', 'f', '@0', 'r', 'e1', 'r', 't'], 'gestationeerd': ['x', '@0', 's', 't', 'A0', 't', 'S', 'o0', 'n', 'e1', 'r', 't']}
+{'fluidiseert': ['f', 'l', 'y0', 'w', 'i0', 'd', 'i0', 'z', 'e1', 'r', 't'], 'presseert': ['p', 'r', 'E0', 's', 'e1', 'r', 't']}
+{'gekant': ['x', '@0', 'k', 'A1', 'n', 't'], 'ontbrand': ['O0', 'n', 'd', 'b', 'r', 'A1', 'n', 't']}
+{'gepsalmodieerd': ['x', '@0', 'p', 's', 'A0', 'l', 'm', 'o0', 'd', 'i0', 'j', 'e1', 'r', 't'], 'fluidiseert': ['f', 'l', 'y0', 'w', 'i0', 'd', 'i0', 'z', 'e1', 'r', 't']}
+{'eclipseert': ['e0', 'k', 'l', 'I0', 'p', 's', 'e1', 'r', 't'], 'anatomiseert': ['a0', 'n', 'a0', 't', 'o0', 'm', 'i0', 'z', 'e1', 'r', 't']}
+{'longimetrie': ['l', 'O0', 'N', 'G', 'i0', 'm', 'e0', 't', 'r', 'i1'], 'entomografie': ['E0', 'n', 't', 'o0', 'm', 'o0', 'G', 'r', 'a0', 'f', 'i1']}
+{'structureer': ['s', 't', 'r', '}0', 'k', 't', 'y0', 'r', 'e1', 'r'], 'troposfeer': ['t', 'r', 'o0', 'p', 'O0', 's', 'f', 'e1', 'r']}
+{'eclipseert': ['e0', 'k', 'l', 'I0', 'p', 's', 'e1', 'r', 't'], 'gestagneerd': ['x', '@0', 's', 't', 'A0', 'G', 'n', 'e1', 'r', 't']}
+{'biometrie': ['b', 'i0', 'j', 'o0', 'm', 'e0', 't', 'r', 'i1'], 'acrobatie': ['A0', 'k', 'r', 'o0', 'b', 'a0', 't', 's', 'i1']}
+{'dupliceer': ['d', 'y0', 'p', 'l', 'i0', 's', 'e1', 'r'], 'pelletiseer': ['p', 'E0', 'l', '@0', 't', 'i0', 'z', 'e1', 'r']}
+{'modelleurs': ['m', 'o0', 'd', 'E0', 'l', '|1', 'r', 's'], 'sappeurs': ['s', 'A0', 'p', '|1', 'r', 's']}
+{'arroseert': ['A0', 'r', 'o0', 'z', 'e1', 'r', 't'], 'hydrateert': ['h', 'i0', 'd', 'r', 'a0', 't', 'e1', 'r', 't']}
+{'regionalist': ['r', 'e0', 'G', 'i0', 'j', 'o0', 'n', 'a0', 'l', 'I1', 's', 't'], 'componist': ['k', 'O0', 'm', 'p', 'o0', 'n', 'I1', 's', 't']}
+{'gekant': ['x', '@0', 'k', 'A1', 'n', 't'], 'bestand': ['b', '@0', 's', 't', 'A1', 'n', 't']}
+{'kristallografie': ['k', 'r', 'I0', 's', 't', 'A0', 'l', 'o0', 'G', 'r', 'a0', 'f', 'i1'], 'monogamie': ['m', 'o0', 'n', 'o0', 'G', 'a0', 'm', 'i1']}
+{'douaniers': ['d', 'u0', 'w', 'a0', 'n', 'i1', 'r', 's'], 'eglantiers': ['e0', 'G', 'l', 'A0', 'n', 't', 'i1', 'r', 's']}
+{'toppenant': ['t', 'O0', 'p', '@0', 'n', 'A1', 'n', 't'], 'acceptant': ['A0', 'k', 's', 'E0', 'p', 't', 'A1', 'n', 't']}
+{'ontstaand': ['O0', 'n', 't', 's', 't', 'a1', 'n', 't'], 'gemaand': ['x', '@0', 'm', 'a1', 'n', 't']}
+{'rekestrant': ['r', 'e0', 'k', 'E0', 's', 't', 'r', 'A1', 'n', 't'], 'luitenant-adjudant': ['l', 'L0', 't', '@0', 'n', 'A1', 'n', 't', 'A0', 't', 'j', 'y0', 'd', 'A1', 'n', 't']}
+{'toppenant': ['t', 'O0', 'p', '@0', 'n', 'A1', 'n', 't'], 'overspant': ['o0', 'v', '@0', 'r', 's', 'p', 'A1', 'n', 't']}
+{'volant': ['v', 'o0', 'l', 'A1', 'n', 't'], 'platteband': ['p', 'l', 'A0', 't', '@0', 'b', 'A1', 'n', 't']}
+{'constant': ['k', 'O0', 'n', 's', 't', 'A1', 'n', 't'], 'mant': ['m', 'A1', 'n', 't']}
+{'gestagneerd': ['x', '@0', 's', 't', 'A0', 'G', 'n', 'e1', 'r', 't'], 'gecollabeerd': ['x', '@0', 'k', 'O0', 'l', 'a0', 'b', 'e1', 'r', 't']}
+{'consacreert': ['k', 'O0', 'n', 's', 'a0', 'k', 'r', 'e1', 'r', 't'], 'gedemagnetiseerd': ['x', '@0', 'd', 'e0', 'm', 'A0', 'G', 'n', 'e0', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'deposant': ['d', 'e0', 'p', 'o0', 'Z', 'A1', 'n', 't'], 'fazant': ['f', 'a0', 'z', 'A1', 'n', 't']}
+{'rekwestrant': ['r', 'e0', 'k', 'w', 'E0', 's', 't', 'r', 'A1', 'n', 't'], 'contribuant': ['k', 'O0', 'n', 't', 'r', 'i0', 'b', 'y0', 'w', 'A1', 'n', 't']}
+{'ontbeerd': ['O0', 'n', 'd', 'b', 'e1', 'r', 't'], 'mediatiseert': ['m', 'e0', 'd', 'i0', 'j', 'a0', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'gekant': ['x', '@0', 'k', 'A1', 'n', 't'], 'rekestrant': ['r', 'e0', 'k', 'E0', 's', 't', 'r', 'A1', 'n', 't']}
+{'plombeert': ['p', 'l', 'O0', 'm', 'b', 'e1', 'r', 't'], 'geopponeerd': ['x', '@0', 'O0', 'p', 'o0', 'n', 'e1', 'r', 't']}
+{'toppenant': ['t', 'O0', 'p', '@0', 'n', 'A1', 'n', 't'], 'extravagant': ['E0', 'k', 's', 't', 'r', 'a0', 'v', 'a0', 'G', 'A1', 'n', 't']}
+{'enthousiasmeer': ['E0', 'n', 't', 'u0', 'Z', 'A0', 's', 'm', 'e1', 'r'], 'isoleer': ['i0', 's', 'o0', 'l', 'e1', 'r']}
+{'comprimeert': ['k', 'O0', 'm', 'p', 'r', 'i0', 'm', 'e1', 'r', 't'], 'alieneert': ['a0', 'l', 'i0', 'j', 'e0', 'n', 'e1', 'r', 't']}
+{'rekwestrant': ['r', 'e0', 'k', 'w', 'E0', 's', 't', 'r', 'A1', 'n', 't'], 'chrysant': ['x', 'r', 'i0', 's', 'A1', 'n', 't']}
+{'gefosforesceerd': ['x', '@0', 'f', 'O0', 's', 'f', 'O0', 'r', 'E0', 's', 'e1', 'r', 't'], 'consacreert': ['k', 'O0', 'n', 's', 'a0', 'k', 'r', 'e1', 'r', 't']}
+{'marineert': ['m', 'a0', 'r', 'i0', 'n', 'e1', 'r', 't'], 'mediatiseert': ['m', 'e0', 'd', 'i0', 'j', 'a0', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'commandeer': ['k', 'O0', 'm', 'A0', 'n', 'd', 'e1', 'r'], 'antidateer': ['A0', 'n', 't', 'i0', 'd', 'a0', 't', 'e1', 'r']}
+{'fondant': ['f', 'O0', 'n', 'd', 'A1', 'n', 't'], 'convenant': ['k', 'O0', 'n', 'v', '@0', 'n', 'A1', 'n', 't']}
+{'verklankt': ['v', '@0', 'r', 'k', 'l', 'A1', 'N', 'k', 't'], 'dankt': ['d', 'A1', 'N', 'k', 't']}
+{'gedisponeerd': ['x', '@0', 'd', 'I0', 's', 'p', 'o0', 'n', 'e1', 'r', 't'], 'seksualiseert': ['s', 'E0', 'k', 's', 'y0', 'w', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't']}
+{'denatureert': ['d', 'e0', 'n', 'a0', 't', 'y0', 'r', 'e1', 'r', 't'], 'nielleert': ['n', 'i0', 'j', 'E0', 'l', 'e1', 'r', 't']}
+{'gemaand': ['x', '@0', 'm', 'a1', 'n', 't'], 'beslaand': ['b', '@0', 's', 'l', 'a1', 'n', 't']}
+{'gepivoteerd': ['x', '@0', 'p', 'i0', 'v', 'o0', 't', 'e1', 'r', 't'], 'seksualiseert': ['s', 'E0', 'k', 's', 'y0', 'w', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't']}
+{'bestand': ['b', '@0', 's', 't', 'A1', 'n', 't'], 'plant': ['p', 'l', 'A1', 'n', 't']}
+{'overspant': ['o0', 'v', '@0', 'r', 's', 'p', 'A1', 'n', 't'], 'luitenant-adjudant': ['l', 'L0', 't', '@0', 'n', 'A1', 'n', 't', 'A0', 't', 'j', 'y0', 'd', 'A1', 'n', 't']}
+{'repareert': ['r', 'e0', 'p', 'a0', 'r', 'e1', 'r', 't'], 'europeaniseert': ['|0', 'r', 'o0', 'p', 'e0', 'j', 'a0', 'n', 'i0', 'z', 'e1', 'r', 't']}
+{'rekestrant': ['r', 'e0', 'k', 'E0', 's', 't', 'r', 'A1', 'n', 't'], 'chrysant': ['x', 'r', 'i0', 's', 'A1', 'n', 't']}
+{'geobjectiveerd': ['x', '@0', 'O0', 'b', 'j', 'E0', 'k', 't', 'i0', 'v', 'e1', 'r', 't'], 'gesubsidieerd': ['x', '@0', 's', '}0', 'p', 's', 'i0', 'd', 'i0', 'j', 'e1', 'r', 't']}
+{'repareert': ['r', 'e0', 'p', 'a0', 'r', 'e1', 'r', 't'], 'ongeclausuleerd': ['O0', 'N', 'G', '@0', 'k', 'l', 'M0', 'z', 'y0', 'l', 'e1', 'r', 't']}
+{'debitant': ['d', 'e0', 'b', 'i0', 't', 'A1', 'n', 't'], 'convenant': ['k', 'O0', 'n', 'v', '@0', 'n', 'A1', 'n', 't']}
+{'catalepsie': ['k', 'A0', 't', 'a0', 'l', 'E0', 'p', 's', 'i1'], 'lymfografie': ['l', 'I0', 'm', 'f', 'o0', 'G', 'r', 'a0', 'f', 'i1']}
+{'pikantst': ['p', 'i0', 'k', 'A1', 'n', 't', 's', 't'], 'irrelevantst': ['I0', 'r', 'e0', 'l', '@0', 'v', 'A1', 'n', 't', 's', 't']}
+{'gemokt': ['x', '@0', 'm', 'O1', 'k', 't'], 'nokt': ['n', 'O1', 'k', 't']}
+{'marineert': ['m', 'a0', 'r', 'i0', 'n', 'e1', 'r', 't'], 'geaccrediteerd': ['x', '@0', 'A0', 'k', 'r', 'e0', 'd', 'i0', 't', 'e1', 'r', 't']}
+{'danseurs': ['d', 'A0', 'n', 's', '|1', 'r', 's'], 'ramoneurs': ['r', 'a0', 'm', 'o0', 'n', '|1', 'r', 's']}
+{'fazant': ['f', 'a0', 'z', 'A1', 'n', 't'], 'gebrand': ['x', '@0', 'b', 'r', 'A1', 'n', 't']}
+{'soupeert': ['s', 'u0', 'p', 'e1', 'r', 't'], 'geopponeerd': ['x', '@0', 'O0', 'p', 'o0', 'n', 'e1', 'r', 't']}
+{'consacreert': ['k', 'O0', 'n', 's', 'a0', 'k', 'r', 'e1', 'r', 't'], 'musiceert': ['m', 'y0', 'z', 'i0', 's', 'e1', 'r', 't']}
+{'deposant': ['d', 'e0', 'p', 'o0', 'Z', 'A1', 'n', 't'], 'acceptant': ['A0', 'k', 's', 'E0', 'p', 't', 'A1', 'n', 't']}
+{'abundantst': ['a0', 'b', '}0', 'n', 'd', 'A1', 'n', 't', 's', 't'], 'degoutantst': ['d', 'e0', 'G', 'u0', 't', 'A1', 'n', 't', 's', 't']}
+{'geinfereerd': ['x', '@0', 'I0', 'n', 'f', '@0', 'r', 'e1', 'r', 't'], 'monoftongeert': ['m', 'o0', 'n', 'O0', 'f', 't', 'O0', 'N', 'G', 'e1', 'r', 't']}
+{'saboteert': ['s', 'A0', 'b', 'o0', 't', 'e1', 'r', 't'], 'palissadeert': ['p', 'a0', 'l', 'i0', 's', 'a0', 'd', 'e1', 'r', 't']}
+{'acceptant': ['A0', 'k', 's', 'E0', 'p', 't', 'A1', 'n', 't'], 'chrysant': ['x', 'r', 'i0', 's', 'A1', 'n', 't']}
+{'toppenant': ['t', 'O0', 'p', '@0', 'n', 'A1', 'n', 't'], 'sympathisant': ['s', 'I0', 'm', 'p', 'a0', 't', 'i0', 's', 'A1', 'n', 't']}
+{'volant': ['v', 'o0', 'l', 'A1', 'n', 't'], 'luitenant-adjudant': ['l', 'L0', 't', '@0', 'n', 'A1', 'n', 't', 'A0', 't', 'j', 'y0', 'd', 'A1', 'n', 't']}
+{'verdijt': ['v', '@0', 'r', 'd', 'K1', 't'], 'hydrauliciteit': ['h', 'i0', 'd', 'r', 'M0', 'l', 'i0', 's', 'i0', 't', 'K1', 't']}
+{'longimetrie': ['l', 'O0', 'N', 'G', 'i0', 'm', 'e0', 't', 'r', 'i1'], 'semasiologie': ['s', 'e0', 'm', 'a0', 'S', 'o0', 'l', 'o0', 'G', 'i1']}
+{'geoculeerd': ['x', '@0', 'o0', 'k', 'y0', 'l', 'e1', 'r', 't'], 'reformeert': ['r', 'e0', 'f', 'O0', 'r', 'm', 'e1', 'r', 't']}
+{'romantiseert': ['r', 'o0', 'm', 'A0', 'n', 't', 'i0', 'z', 'e1', 'r', 't'], 'antedateert': ['A0', 'n', 't', '@0', 'd', 'a0', 't', 'e1', 'r', 't']}
+{'bacchant': ['b', 'A0', 'x', 'A1', 'n', 't'], 'extravagant': ['E0', 'k', 's', 't', 'r', 'a0', 'v', 'a0', 'G', 'A1', 'n', 't']}
+{'saboteert': ['s', 'A0', 'b', 'o0', 't', 'e1', 'r', 't'], 'seksualiseert': ['s', 'E0', 'k', 's', 'y0', 'w', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't']}
+{'convenant': ['k', 'O0', 'n', 'v', '@0', 'n', 'A1', 'n', 't'], 'sympathisant': ['s', 'I0', 'm', 'p', 'a0', 't', 'i0', 's', 'A1', 'n', 't']}
+{'gekalibreerd': ['x', '@0', 'k', 'a0', 'l', 'i0', 'b', 'r', 'e1', 'r', 't'], 'culmineert': ['k', '}0', 'l', 'm', 'i0', 'n', 'e1', 'r', 't']}
+{'gecontamineerd': ['x', '@0', 'k', 'O0', 'n', 't', 'a0', 'm', 'i0', 'n', 'e1', 'r', 't'], 'gireert': ['x', 'i0', 'r', 'e1', 'r', 't']}
+{'debitant': ['d', 'e0', 'b', 'i0', 't', 'A1', 'n', 't'], 'chrysant': ['x', 'r', 'i0', 's', 'A1', 'n', 't']}
+{'beslaand': ['b', '@0', 's', 'l', 'a1', 'n', 't'], 'gaand': ['x', 'a1', 'n', 't']}
+{'kandideer': ['k', 'A0', 'n', 'd', 'i0', 'd', 'e1', 'r'], 'laiciseer': ['l', 'a0', 'i0', 's', 'i0', 'z', 'e1', 'r']}
+{'agiteert': ['a0', 'G', 'i0', 't', 'e1', 'r', 't'], 'presseert': ['p', 'r', 'E0', 's', 'e1', 'r', 't']}
+{'fondant': ['f', 'O0', 'n', 'd', 'A1', 'n', 't'], 'variant': ['v', 'a0', 'r', 'i0', 'j', 'A1', 'n', 't']}
+{'consolideert': ['k', 'O0', 'n', 's', 'o0', 'l', 'i0', 'd', 'e1', 'r', 't'], 'komplotteert': ['k', 'O0', 'm', 'p', 'l', 'O0', 't', 'e1', 'r', 't']}
+{'gedisponeerd': ['x', '@0', 'd', 'I0', 's', 'p', 'o0', 'n', 'e1', 'r', 't'], 'monoftongeert': ['m', 'o0', 'n', 'O0', 'f', 't', 'O0', 'N', 'G', 'e1', 'r', 't']}
+{'studeer': ['s', 't', 'y0', 'd', 'e1', 'r'], 'isoleer': ['i0', 's', 'o0', 'l', 'e1', 'r']}
+{'gedisponeerd': ['x', '@0', 'd', 'I0', 's', 'p', 'o0', 'n', 'e1', 'r', 't'], 'saboteert': ['s', 'A0', 'b', 'o0', 't', 'e1', 'r', 't']}
+{'mant': ['m', 'A1', 'n', 't'], 'luitenant-adjudant': ['l', 'L0', 't', '@0', 'n', 'A1', 'n', 't', 'A0', 't', 'j', 'y0', 'd', 'A1', 'n', 't']}
+{'geoculeerd': ['x', '@0', 'o0', 'k', 'y0', 'l', 'e1', 'r', 't'], 'gedetoneerd': ['x', '@0', 'd', 'e0', 't', 'o0', 'n', 'e1', 'r', 't']}
+{'exhibeert': ['E0', 'k', 's', 'i0', 'b', 'e1', 'r', 't'], 'mediatiseert': ['m', 'e0', 'd', 'i0', 'j', 'a0', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'saboteert': ['s', 'A0', 'b', 'o0', 't', 'e1', 'r', 't'], 'geextensiveerd': ['x', '@0', 'E0', 'k', 's', 't', 'E0', 'n', 'z', 'i0', 'v', 'e1', 'r', 't']}
+{'getantaliseerd': ['x', '@0', 't', 'A0', 'n', 't', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't'], 'nielleert': ['n', 'i0', 'j', 'E0', 'l', 'e1', 'r', 't']}
+{'ontstaand': ['O0', 'n', 't', 's', 't', 'a1', 'n', 't'], 'gaand': ['x', 'a1', 'n', 't']}
+{'geencadreerd': ['x', '@0', 'E0', 'N', 'k', 'a0', 'd', 'r', 'e1', 'r', 't'], 'substantiveert': ['s', '}0', 'p', 's', 't', 'A0', 'n', 't', 'i0', 'v', 'e1', 'r', 't']}
+{'troposfeer': ['t', 'r', 'o0', 'p', 'O0', 's', 'f', 'e1', 'r'], 'pelletiseer': ['p', 'E0', 'l', '@0', 't', 'i0', 'z', 'e1', 'r']}
+{'bacchant': ['b', 'A0', 'x', 'A1', 'n', 't'], 'gebrand': ['x', '@0', 'b', 'r', 'A1', 'n', 't']}
+{'gekant': ['x', '@0', 'k', 'A1', 'n', 't'], 'constant': ['k', 'O0', 'n', 's', 't', 'A1', 'n', 't']}
+{'triomfant': ['t', 'r', 'i0', 'j', 'O0', 'm', 'f', 'A1', 'n', 't'], 'acceptant': ['A0', 'k', 's', 'E0', 'p', 't', 'A1', 'n', 't']}
+{'bezeer': ['b', '@0', 'z', 'e1', 'r'], 'chromosfeer': ['x', 'r', 'o0', 'm', 'o0', 's', 'f', 'e1', 'r']}
+{'egoist': ['e0', 'G', 'o0', 'w', 'I1', 's', 't'], 'ebenist': ['e0', 'b', '@0', 'n', 'I1', 's', 't']}
+{'jubileert': ['j', 'y0', 'b', 'i0', 'l', 'e1', 'r', 't'], 'geamortiseerd': ['x', '@0', 'a0', 'm', 'O0', 'r', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'fluidiseert': ['f', 'l', 'y0', 'w', 'i0', 'd', 'i0', 'z', 'e1', 'r', 't'], 'gefosforesceerd': ['x', '@0', 'f', 'O0', 's', 'f', 'O0', 'r', 'E0', 's', 'e1', 'r', 't']}
+{'abondantst': ['a0', 'b', 'O0', 'n', 'd', 'A1', 'n', 't', 's', 't'], 'degoutantst': ['d', 'e0', 'G', 'u0', 't', 'A1', 'n', 't', 's', 't']}
+{'bijeen': ['b', 'K0', 'e1', 'n'], 'xyleen': ['k', 's', 'i0', 'l', 'e1', 'n']}
+{'gecreosoteerd': ['x', '@0', 'k', 'r', 'e0', 'j', 'o0', 's', 'o0', 't', 'e1', 'r', 't'], 'geinfereerd': ['x', '@0', 'I0', 'n', 'f', '@0', 'r', 'e1', 'r', 't']}
+{'asociaalst': ['a0', 's', 'o0', 'S', 'a1', 'l', 's', 't'], 'feudaalst': ['f', '|0', 'd', 'a1', 'l', 's', 't']}
+{'toppenant': ['t', 'O0', 'p', '@0', 'n', 'A1', 'n', 't'], 'bestand': ['b', '@0', 's', 't', 'A1', 'n', 't']}
+{'embarkeert': ['E0', 'm', 'b', 'A0', 'r', 'k', 'e1', 'r', 't'], 'communiceert': ['k', 'O0', 'm', 'y0', 'n', 'i0', 's', 'e1', 'r', 't']}
+{'conglutineert': ['k', 'O0', 'N', 'G', 'l', 'y0', 't', 'i0', 'n', 'e1', 'r', 't'], 'toupeert': ['t', 'u0', 'p', 'e1', 'r', 't']}
+{'deposant': ['d', 'e0', 'p', 'o0', 'Z', 'A1', 'n', 't'], 'platteband': ['p', 'l', 'A0', 't', '@0', 'b', 'A1', 'n', 't']}
+{'platteband': ['p', 'l', 'A0', 't', '@0', 'b', 'A1', 'n', 't'], 'variant': ['v', 'a0', 'r', 'i0', 'j', 'A1', 'n', 't']}
+{'conglutineer': ['k', 'O0', 'N', 'G', 'l', 'y0', 't', 'i0', 'n', 'e1', 'r'], 'studeer': ['s', 't', 'y0', 'd', 'e1', 'r']}
+{'passeer': ['p', 'A0', 's', 'e1', 'r'], 'reincarneer': ['r', 'e0', 'j', 'I0', 'N', 'k', 'A0', 'r', 'n', 'e1', 'r']}
+{'platteband': ['p', 'l', 'A0', 't', '@0', 'b', 'A1', 'n', 't'], 'ontbrand': ['O0', 'n', 'd', 'b', 'r', 'A1', 'n', 't']}
+{'debitant': ['d', 'e0', 'b', 'i0', 't', 'A1', 'n', 't'], 'overspant': ['o0', 'v', '@0', 'r', 's', 'p', 'A1', 'n', 't']}
+{'Italianisant': ['i0', 't', 'a0', 'l', 'i0', 'j', 'a0', 'n', 'i0', 'z', 'A1', 'n', 't'], 'immigrant': ['I0', 'm', 'i0', 'G', 'r', 'A1', 'n', 't']}
+{'geinfereerd': ['x', '@0', 'I0', 'n', 'f', '@0', 'r', 'e1', 'r', 't'], 'gepivoteerd': ['x', '@0', 'p', 'i0', 'v', 'o0', 't', 'e1', 'r', 't']}
+{'fluidiseert': ['f', 'l', 'y0', 'w', 'i0', 'd', 'i0', 'z', 'e1', 'r', 't'], 'musiceert': ['m', 'y0', 'z', 'i0', 's', 'e1', 'r', 't']}
+{'agiteert': ['a0', 'G', 'i0', 't', 'e1', 'r', 't'], 'gekwadreerd': ['x', '@0', 'k', 'w', 'A0', 'd', 'r', 'e1', 'r', 't']}
+{'gezand': ['x', '@0', 'z', 'A1', 'n', 't'], 'sympathisant': ['s', 'I0', 'm', 'p', 'a0', 't', 'i0', 's', 'A1', 'n', 't']}
+{'patroneer': ['p', 'A0', 't', 'r', 'o0', 'n', 'e1', 'r'], 'charmeer': ['S', 'A0', 'r', 'm', 'e1', 'r']}
+{'eclipseert': ['e0', 'k', 'l', 'I0', 'p', 's', 'e1', 'r', 't'], 'geaccrediteerd': ['x', '@0', 'A0', 'k', 'r', 'e0', 'd', 'i0', 't', 'e1', 'r', 't']}
+{'constant': ['k', 'O0', 'n', 's', 't', 'A1', 'n', 't'], 'sympathisant': ['s', 'I0', 'm', 'p', 'a0', 't', 'i0', 's', 'A1', 'n', 't']}
+{'thaumatologie': ['t', 'M0', 'm', 'a0', 't', 'o0', 'l', 'o0', 'G', 'i1'], 'lymfografie': ['l', 'I0', 'm', 'f', 'o0', 'G', 'r', 'a0', 'f', 'i1']}
+{'gepsalmodieerd': ['x', '@0', 'p', 's', 'A0', 'l', 'm', 'o0', 'd', 'i0', 'j', 'e1', 'r', 't'], 'gedemagnetiseerd': ['x', '@0', 'd', 'e0', 'm', 'A0', 'G', 'n', 'e0', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'acceptant': ['A0', 'k', 's', 'E0', 'p', 't', 'A1', 'n', 't'], 'gebrand': ['x', '@0', 'b', 'r', 'A1', 'n', 't']}
+{'triomfant': ['t', 'r', 'i0', 'j', 'O0', 'm', 'f', 'A1', 'n', 't'], 'platteband': ['p', 'l', 'A0', 't', '@0', 'b', 'A1', 'n', 't']}
+{'cabaretiers': ['k', 'a0', 'b', 'a0', 'r', 'E0', 't', 'j', 'e1', 's'], 'baissiers': ['b', 'E0', 'S', 'e1', 's']}
+{'gerebelleerd': ['x', '@0', 'r', '@0', 'b', 'E0', 'l', 'e1', 'r', 't'], 'musiceert': ['m', 'y0', 'z', 'i0', 's', 'e1', 'r', 't']}
+{'bestand': ['b', '@0', 's', 't', 'A1', 'n', 't'], 'ontbrand': ['O0', 'n', 'd', 'b', 'r', 'A1', 'n', 't']}
+{'riskantst': ['r', 'I0', 's', 'k', 'A1', 'n', 't', 's', 't'], 'flagrantst': ['f', 'l', 'A0', 'G', 'r', 'A1', 'n', 't', 's', 't']}
+{'deposant': ['d', 'e0', 'p', 'o0', 'Z', 'A1', 'n', 't'], 'convenant': ['k', 'O0', 'n', 'v', '@0', 'n', 'A1', 'n', 't']}
+{'geextensiveerd': ['x', '@0', 'E0', 'k', 's', 't', 'E0', 'n', 'z', 'i0', 'v', 'e1', 'r', 't'], 'geinfereerd': ['x', '@0', 'I0', 'n', 'f', '@0', 'r', 'e1', 'r', 't']}
+{'gezand': ['x', '@0', 'z', 'A1', 'n', 't'], 'gebrand': ['x', '@0', 'b', 'r', 'A1', 'n', 't']}
+{'gireert': ['x', 'i0', 'r', 'e1', 'r', 't'], 'gesubsidieerd': ['x', '@0', 's', '}0', 'p', 's', 'i0', 'd', 'i0', 'j', 'e1', 'r', 't']}
+{'gewaardeerd': ['x', '@0', 'w', 'a0', 'r', 'd', 'e1', 'r', 't'], 'mediatiseert': ['m', 'e0', 'd', 'i0', 'j', 'a0', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'gedetoneerd': ['x', '@0', 'd', 'e0', 't', 'o0', 'n', 'e1', 'r', 't'], 'reformeert': ['r', 'e0', 'f', 'O0', 'r', 'm', 'e1', 'r', 't']}
+{'jubileert': ['j', 'y0', 'b', 'i0', 'l', 'e1', 'r', 't'], 'gestationeerd': ['x', '@0', 's', 't', 'A0', 't', 'S', 'o0', 'n', 'e1', 'r', 't']}
+{'piketteert': ['p', 'i0', 'k', 'E0', 't', 'e1', 'r', 't'], 'musiceert': ['m', 'y0', 'z', 'i0', 's', 'e1', 'r', 't']}
+{'implementeer': ['I0', 'm', 'p', 'l', '@0', 'm', 'E0', 'n', 't', 'e1', 'r'], 'incorporeer': ['I0', 'N', 'k', 'O0', 'r', 'p', 'o0', 'r', 'e1', 'r']}
+{'automobilist': ['M0', 't', 'o0', 'm', 'o0', 'b', 'i0', 'l', 'I1', 's', 't'], 'rondist': ['r', 'O0', 'n', 'd', 'I1', 's', 't']}
+{'geembeteerd': ['x', '@0', 'A0', 'm', 'b', 'E0', 't', 'e1', 'r', 't'], 'gedesavoueerd': ['x', '@0', 'd', 'E0', 's', 'a0', 'v', 'u0', 'w', 'e1', 'r', 't']}
+{'musiceert': ['m', 'y0', 'z', 'i0', 's', 'e1', 'r', 't'], 'gedemagnetiseerd': ['x', '@0', 'd', 'e0', 'm', 'A0', 'G', 'n', 'e0', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'pirouetteert': ['p', 'i0', 'r', 'u0', 'w', 'E0', 't', 'e1', 'r', 't'], 'geinfereerd': ['x', '@0', 'I0', 'n', 'f', '@0', 'r', 'e1', 'r', 't']}
+{'rekwestrant': ['r', 'e0', 'k', 'w', 'E0', 's', 't', 'r', 'A1', 'n', 't'], 'mant': ['m', 'A1', 'n', 't']}
+{'rekwestrant': ['r', 'e0', 'k', 'w', 'E0', 's', 't', 'r', 'A1', 'n', 't'], 'bacchant': ['b', 'A0', 'x', 'A1', 'n', 't']}
+{'deposant': ['d', 'e0', 'p', 'o0', 'Z', 'A1', 'n', 't'], 'mant': ['m', 'A1', 'n', 't']}
+{'semasiologie': ['s', 'e0', 'm', 'a0', 'S', 'o0', 'l', 'o0', 'G', 'i1'], 'psychotherapie': ['p', 's', 'i0', 'x', 'o0', 't', 'e0', 'r', 'a0', 'p', 'i1']}
+{'geoculeerd': ['x', '@0', 'o0', 'k', 'y0', 'l', 'e1', 'r', 't'], 'illusioneert': ['I0', 'l', 'y0', 'Z', 'o0', 'n', 'e1', 'r', 't']}
+{'embarkeert': ['E0', 'm', 'b', 'A0', 'r', 'k', 'e1', 'r', 't'], 'amplificeert': ['A0', 'm', 'p', 'l', 'i0', 'f', 'i0', 's', 'e1', 'r', 't']}
+{'meert': ['m', 'e1', 'r', 't'], 'gesubsidieerd': ['x', '@0', 's', '}0', 'p', 's', 'i0', 'd', 'i0', 'j', 'e1', 'r', 't']}
+{'sociocratie': ['s', 'o0', 'S', 'o0', 'k', 'r', 'a0', 't', 's', 'i1'], 'psychotherapie': ['p', 's', 'i0', 'x', 'o0', 't', 'e0', 'r', 'a0', 'p', 'i1']}
+{'gewaardeerd': ['x', '@0', 'w', 'a0', 'r', 'd', 'e1', 'r', 't'], 'eclipseert': ['e0', 'k', 'l', 'I0', 'p', 's', 'e1', 'r', 't']}
+{'deposant': ['d', 'e0', 'p', 'o0', 'Z', 'A1', 'n', 't'], 'chrysant': ['x', 'r', 'i0', 's', 'A1', 'n', 't']}
+{'sympathisant': ['s', 'I0', 'm', 'p', 'a0', 't', 'i0', 's', 'A1', 'n', 't'], 'ontbrand': ['O0', 'n', 'd', 'b', 'r', 'A1', 'n', 't']}
+{'volant': ['v', 'o0', 'l', 'A1', 'n', 't'], 'extravagant': ['E0', 'k', 's', 't', 'r', 'a0', 'v', 'a0', 'G', 'A1', 'n', 't']}
+{'fusioneert': ['f', 'y0', 'Z', 'o0', 'n', 'e1', 'r', 't'], 'geamortiseerd': ['x', '@0', 'a0', 'm', 'O0', 'r', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'triomfant': ['t', 'r', 'i0', 'j', 'O0', 'm', 'f', 'A1', 'n', 't'], 'fondant': ['f', 'O0', 'n', 'd', 'A1', 'n', 't']}
+{'bestaand': ['b', '@0', 's', 't', 'a1', 'n', 't'], 'gaand': ['x', 'a1', 'n', 't']}
+{'reformeert': ['r', 'e0', 'f', 'O0', 'r', 'm', 'e1', 'r', 't'], 'illusioneert': ['I0', 'l', 'y0', 'Z', 'o0', 'n', 'e1', 'r', 't']}
+{'gepsalmodieerd': ['x', '@0', 'p', 's', 'A0', 'l', 'm', 'o0', 'd', 'i0', 'j', 'e1', 'r', 't'], 'vergaloppeert': ['v', '@0', 'r', 'G', 'a0', 'l', 'O0', 'p', 'e1', 'r', 't']}
+{'gireert': ['x', 'i0', 'r', 'e1', 'r', 't'], 'presseert': ['p', 'r', 'E0', 's', 'e1', 'r', 't']}
+{'geobjectiveerd': ['x', '@0', 'O0', 'b', 'j', 'E0', 'k', 't', 'i0', 'v', 'e1', 'r', 't'], 'gefalsificeerd': ['x', '@0', 'f', 'A0', 'l', 's', 'i0', 'f', 'i0', 's', 'e1', 'r', 't']}
+{'fusioneert': ['f', 'y0', 'Z', 'o0', 'n', 'e1', 'r', 't'], 'gepivoteerd': ['x', '@0', 'p', 'i0', 'v', 'o0', 't', 'e1', 'r', 't']}
+{'triomfant': ['t', 'r', 'i0', 'j', 'O0', 'm', 'f', 'A1', 'n', 't'], 'extravagant': ['E0', 'k', 's', 't', 'r', 'a0', 'v', 'a0', 'G', 'A1', 'n', 't']}
+{'europeaniseert': ['|0', 'r', 'o0', 'p', 'e0', 'j', 'a0', 'n', 'i0', 'z', 'e1', 'r', 't'], 'ongeclausuleerd': ['O0', 'N', 'G', '@0', 'k', 'l', 'M0', 'z', 'y0', 'l', 'e1', 'r', 't']}
+{'diaconaal': ['d', 'i0', 'j', 'a0', 'k', 'o0', 'n', 'a1', 'l'], 'kwartaal': ['k', 'w', 'A0', 'r', 't', 'a1', 'l']}
+{'alieneert': ['a0', 'l', 'i0', 'j', 'e0', 'n', 'e1', 'r', 't'], 'ongeclausuleerd': ['O0', 'N', 'G', '@0', 'k', 'l', 'M0', 'z', 'y0', 'l', 'e1', 'r', 't']}
+{'fondant': ['f', 'O0', 'n', 'd', 'A1', 'n', 't'], 'gebrand': ['x', '@0', 'b', 'r', 'A1', 'n', 't']}
+{'gecarboniseerd': ['x', '@0', 'k', 'A0', 'r', 'b', 'o0', 'n', 'i0', 'z', 'e1', 'r', 't'], 'jubileert': ['j', 'y0', 'b', 'i0', 'l', 'e1', 'r', 't']}
+{'gedisponeerd': ['x', '@0', 'd', 'I0', 's', 'p', 'o0', 'n', 'e1', 'r', 't'], 'gecreosoteerd': ['x', '@0', 'k', 'r', 'e0', 'j', 'o0', 's', 'o0', 't', 'e1', 'r', 't']}
+{'getierceerd': ['x', '@0', 't', 'i0', 'j', 'E0', 'r', 's', 'e1', 'r', 't'], 'nielleert': ['n', 'i0', 'j', 'E0', 'l', 'e1', 'r', 't']}
+{'jubileert': ['j', 'y0', 'b', 'i0', 'l', 'e1', 'r', 't'], 'palissadeert': ['p', 'a0', 'l', 'i0', 's', 'a0', 'd', 'e1', 'r', 't']}
+{'staand': ['s', 't', 'a1', 'n', 't'], 'misgaand': ['m', 'I0', 's', 'x', 'a1', 'n', 't']}
+{'implementeer': ['I0', 'm', 'p', 'l', '@0', 'm', 'E0', 'n', 't', 'e1', 'r'], 'troposfeer': ['t', 'r', 'o0', 'p', 'O0', 's', 'f', 'e1', 'r']}
+{'constant': ['k', 'O0', 'n', 's', 't', 'A1', 'n', 't'], 'luitenant-adjudant': ['l', 'L0', 't', '@0', 'n', 'A1', 'n', 't', 'A0', 't', 'j', 'y0', 'd', 'A1', 'n', 't']}
+{'acceptant': ['A0', 'k', 's', 'E0', 'p', 't', 'A1', 'n', 't'], 'contribuant': ['k', 'O0', 'n', 't', 'r', 'i0', 'b', 'y0', 'w', 'A1', 'n', 't']}
+{'geitereerd': ['x', '@0', 'i0', 't', '@0', 'r', 'e1', 'r', 't'], 'epateert': ['e0', 'p', 'a0', 't', 'e1', 'r', 't']}
+{'comprimeert': ['k', 'O0', 'm', 'p', 'r', 'i0', 'm', 'e1', 'r', 't'], 'repareert': ['r', 'e0', 'p', 'a0', 'r', 'e1', 'r', 't']}
+{'intrigantst': ['I0', 'n', 't', 'r', 'i0', 'G', 'A1', 'n', 't', 's', 't'], 'abondantst': ['a0', 'b', 'O0', 'n', 'd', 'A1', 'n', 't', 's', 't']}
+{'triomfant': ['t', 'r', 'i0', 'j', 'O0', 'm', 'f', 'A1', 'n', 't'], 'volant': ['v', 'o0', 'l', 'A1', 'n', 't']}
+{'piketteert': ['p', 'i0', 'k', 'E0', 't', 'e1', 'r', 't'], 'gefalsificeerd': ['x', '@0', 'f', 'A0', 'l', 's', 'i0', 'f', 'i0', 's', 'e1', 'r', 't']}
+{'fondant': ['f', 'O0', 'n', 'd', 'A1', 'n', 't'], 'extravagant': ['E0', 'k', 's', 't', 'r', 'a0', 'v', 'a0', 'G', 'A1', 'n', 't']}
+{'geextensiveerd': ['x', '@0', 'E0', 'k', 's', 't', 'E0', 'n', 'z', 'i0', 'v', 'e1', 'r', 't'], 'individualiseert': ['I0', 'n', 'd', 'i0', 'v', 'i0', 'd', 'y0', 'w', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't']}
+{'geinfereerd': ['x', '@0', 'I0', 'n', 'f', '@0', 'r', 'e1', 'r', 't'], 'individualiseert': ['I0', 'n', 'd', 'i0', 'v', 'i0', 'd', 'y0', 'w', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't']}
+{'volant': ['v', 'o0', 'l', 'A1', 'n', 't'], 'gebrand': ['x', '@0', 'b', 'r', 'A1', 'n', 't']}
+{'verdijt': ['v', '@0', 'r', 'd', 'K1', 't'], 'illegaliteit': ['I0', 'l', '@0', 'G', 'a0', 'l', 'i0', 't', 'K1', 't']}
+{'geroutineerd': ['x', '@0', 'r', 'u0', 't', 'i0', 'n', 'e1', 'r', 't'], 'exciteert': ['E0', 'k', 's', 'i0', 't', 'e1', 'r', 't']}
+{'deposant': ['d', 'e0', 'p', 'o0', 'Z', 'A1', 'n', 't'], 'bestand': ['b', '@0', 's', 't', 'A1', 'n', 't']}
+{'saboteert': ['s', 'A0', 'b', 'o0', 't', 'e1', 'r', 't'], 'fusioneert': ['f', 'y0', 'Z', 'o0', 'n', 'e1', 'r', 't']}
+{'overspant': ['o0', 'v', '@0', 'r', 's', 'p', 'A1', 'n', 't'], 'contribuant': ['k', 'O0', 'n', 't', 'r', 'i0', 'b', 'y0', 'w', 'A1', 'n', 't']}
+{'geobjectiveerd': ['x', '@0', 'O0', 'b', 'j', 'E0', 'k', 't', 'i0', 'v', 'e1', 'r', 't'], 'gefosforesceerd': ['x', '@0', 'f', 'O0', 's', 'f', 'O0', 'r', 'E0', 's', 'e1', 'r', 't']}
+{'entomografie': ['E0', 'n', 't', 'o0', 'm', 'o0', 'G', 'r', 'a0', 'f', 'i1'], 'sociocratie': ['s', 'o0', 'S', 'o0', 'k', 'r', 'a0', 't', 's', 'i1']}
+{'gecreosoteerd': ['x', '@0', 'k', 'r', 'e0', 'j', 'o0', 's', 'o0', 't', 'e1', 'r', 't'], 'palissadeert': ['p', 'a0', 'l', 'i0', 's', 'a0', 'd', 'e1', 'r', 't']}
+{'danseurs': ['d', 'A0', 'n', 's', '|1', 'r', 's'], 'adjunct-administrateurs': ['A0', 't', 'j', '}1', 'N', 'k', 't', 'A0', 'd', 'm', 'i0', 'n', 'i0', 's', 't', 'r', 'a0', 't', '|1', 'r', 's']}
+{'meert': ['m', 'e1', 'r', 't'], 'gekwadreerd': ['x', '@0', 'k', 'w', 'A0', 'd', 'r', 'e1', 'r', 't']}
+{'debitant': ['d', 'e0', 'b', 'i0', 't', 'A1', 'n', 't'], 'luitenant-adjudant': ['l', 'L0', 't', '@0', 'n', 'A1', 'n', 't', 'A0', 't', 'j', 'y0', 'd', 'A1', 'n', 't']}
+{'bestand': ['b', '@0', 's', 't', 'A1', 'n', 't'], 'contribuant': ['k', 'O0', 'n', 't', 'r', 'i0', 'b', 'y0', 'w', 'A1', 'n', 't']}
+{'geroutineerd': ['x', '@0', 'r', 'u0', 't', 'i0', 'n', 'e1', 'r', 't'], 'communiceert': ['k', 'O0', 'm', 'y0', 'n', 'i0', 's', 'e1', 'r', 't']}
+{'extravagant': ['E0', 'k', 's', 't', 'r', 'a0', 'v', 'a0', 'G', 'A1', 'n', 't'], 'ontbrand': ['O0', 'n', 'd', 'b', 'r', 'A1', 'n', 't']}
+{'sympathisant': ['s', 'I0', 'm', 'p', 'a0', 't', 'i0', 's', 'A1', 'n', 't'], 'plant': ['p', 'l', 'A1', 'n', 't']}
+{'tarifeert': ['t', 'a0', 'r', 'i0', 'f', 'e1', 'r', 't'], 'soupeert': ['s', 'u0', 'p', 'e1', 'r', 't']}
+{'volant': ['v', 'o0', 'l', 'A1', 'n', 't'], 'bacchant': ['b', 'A0', 'x', 'A1', 'n', 't']}
+{'verbrod': ['v', '@0', 'r', 'b', 'r', 'O1', 't'], 'geravot': ['x', '@0', 'r', 'a0', 'v', 'O1', 't']}
+{'epateert': ['e0', 'p', 'a0', 't', 'e1', 'r', 't'], 'amplificeert': ['A0', 'm', 'p', 'l', 'i0', 'f', 'i0', 's', 'e1', 'r', 't']}
+{'gepsalmodieerd': ['x', '@0', 'p', 's', 'A0', 'l', 'm', 'o0', 'd', 'i0', 'j', 'e1', 'r', 't'], 'gerebelleerd': ['x', '@0', 'r', '@0', 'b', 'E0', 'l', 'e1', 'r', 't']}
+{'geroutineerd': ['x', '@0', 'r', 'u0', 't', 'i0', 'n', 'e1', 'r', 't'], 'desorganiseert': ['d', 'E0', 's', 'O0', 'r', 'G', 'a0', 'n', 'i0', 'z', 'e1', 'r', 't']}
+{'toppenant': ['t', 'O0', 'p', '@0', 'n', 'A1', 'n', 't'], 'variant': ['v', 'a0', 'r', 'i0', 'j', 'A1', 'n', 't']}
+{'vercommercialiseer': ['v', '@0', 'r', 'k', 'O0', 'm', '@0', 'r', 'S', 'a0', 'l', 'i0', 'z', 'e1', 'r'], 'reincarneer': ['r', 'e0', 'j', 'I0', 'N', 'k', 'A0', 'r', 'n', 'e1', 'r']}
+{'chrysant': ['x', 'r', 'i0', 's', 'A1', 'n', 't'], 'contribuant': ['k', 'O0', 'n', 't', 'r', 'i0', 'b', 'y0', 'w', 'A1', 'n', 't']}
+{'verordonneerd': ['v', '@0', 'r', 'O0', 'r', 'd', 'O0', 'n', 'e1', 'r', 't'], 'substantiveert': ['s', '}0', 'p', 's', 't', 'A0', 'n', 't', 'i0', 'v', 'e1', 'r', 't']}
+{'gecreosoteerd': ['x', '@0', 'k', 'r', 'e0', 'j', 'o0', 's', 'o0', 't', 'e1', 'r', 't'], 'gemineerd': ['x', '@0', 'm', 'i0', 'n', 'e1', 'r', 't']}
+{'zweit': ['z', 'w', 'K1', 't'], 'smijt': ['s', 'm', 'K1', 't']}
+{'gedisponeerd': ['x', '@0', 'd', 'I0', 's', 'p', 'o0', 'n', 'e1', 'r', 't'], 'jubileert': ['j', 'y0', 'b', 'i0', 'l', 'e1', 'r', 't']}
+{'gireert': ['x', 'i0', 'r', 'e1', 'r', 't'], 'musiceert': ['m', 'y0', 'z', 'i0', 's', 'e1', 'r', 't']}
+{'embarkeert': ['E0', 'm', 'b', 'A0', 'r', 'k', 'e1', 'r', 't'], 'exciteert': ['E0', 'k', 's', 'i0', 't', 'e1', 'r', 't']}
+{'fazant': ['f', 'a0', 'z', 'A1', 'n', 't'], 'rekestrant': ['r', 'e0', 'k', 'E0', 's', 't', 'r', 'A1', 'n', 't']}
+{'geroutineerd': ['x', '@0', 'r', 'u0', 't', 'i0', 'n', 'e1', 'r', 't'], 'amplificeert': ['A0', 'm', 'p', 'l', 'i0', 'f', 'i0', 's', 'e1', 'r', 't']}
+{'chromosfeer': ['x', 'r', 'o0', 'm', 'o0', 's', 'f', 'e1', 'r'], 'laiciseer': ['l', 'a0', 'i0', 's', 'i0', 'z', 'e1', 'r']}
+{'anatomiseert': ['a0', 'n', 'a0', 't', 'o0', 'm', 'i0', 'z', 'e1', 'r', 't'], 'geaccrediteerd': ['x', '@0', 'A0', 'k', 'r', 'e0', 'd', 'i0', 't', 'e1', 'r', 't']}
+{'riskantst': ['r', 'I0', 's', 'k', 'A1', 'n', 't', 's', 't'], 'abondantst': ['a0', 'b', 'O0', 'n', 'd', 'A1', 'n', 't', 's', 't']}
+{'fazant': ['f', 'a0', 'z', 'A1', 'n', 't'], 'overspant': ['o0', 'v', '@0', 'r', 's', 'p', 'A1', 'n', 't']}
+{'exciteert': ['E0', 'k', 's', 'i0', 't', 'e1', 'r', 't'], 'communiceert': ['k', 'O0', 'm', 'y0', 'n', 'i0', 's', 'e1', 'r', 't']}
+{'meert': ['m', 'e1', 'r', 't'], 'piketteert': ['p', 'i0', 'k', 'E0', 't', 'e1', 'r', 't']}
+{'flagrantst': ['f', 'l', 'A0', 'G', 'r', 'A1', 'n', 't', 's', 't'], 'degoutantst': ['d', 'e0', 'G', 'u0', 't', 'A1', 'n', 't', 's', 't']}
+{'constant': ['k', 'O0', 'n', 's', 't', 'A1', 'n', 't'], 'gezand': ['x', '@0', 'z', 'A1', 'n', 't']}
+{'prominent': ['p', 'r', 'o0', 'm', 'i0', 'n', 'E1', 'n', 't'], 'assistent-resident': ['A0', 's', 'i0', 's', 't', 'E1', 'n', 't', 'r', 'e0', 'z', 'i0', 'd', 'E1', 'n', 't']}
+{'ongeemancipeerd': ['O0', 'N', 'G', '@0', 'e0', 'm', 'A0', 'n', 's', 'i0', 'p', 'e1', 'r', 't'], 'geremitteerd': ['x', '@0', 'r', 'e0', 'm', 'I0', 't', 'e1', 'r', 't']}
+{'agiteert': ['a0', 'G', 'i0', 't', 'e1', 'r', 't'], 'consacreert': ['k', 'O0', 'n', 's', 'a0', 'k', 'r', 'e1', 'r', 't']}
+{'devesteer': ['d', 'e0', 'v', 'E0', 's', 't', 'e1', 'r'], 'reincarneer': ['r', 'e0', 'j', 'I0', 'N', 'k', 'A0', 'r', 'n', 'e1', 'r']}
+{'pikantst': ['p', 'i0', 'k', 'A1', 'n', 't', 's', 't'], 'degoutantst': ['d', 'e0', 'G', 'u0', 't', 'A1', 'n', 't', 's', 't']}
+{'debitant': ['d', 'e0', 'b', 'i0', 't', 'A1', 'n', 't'], 'plant': ['p', 'l', 'A1', 'n', 't']}
+{'gecheckt': ['x', '@0', 't', 'S', 'E1', 'k', 't'], 'gebackt': ['x', '@0', 'b', 'E1', 'k', 't']}
+{'geitereerd': ['x', '@0', 'i0', 't', '@0', 'r', 'e1', 'r', 't'], 'embarkeert': ['E0', 'm', 'b', 'A0', 'r', 'k', 'e1', 'r', 't']}
+{'geitalianiseerd': ['x', '@0', 'i0', 't', 'a0', 'l', 'i0', 'j', 'a0', 'n', 'i0', 'z', 'e1', 'r', 't'], 'imputeert': ['I0', 'm', 'p', 'y0', 't', 'e1', 'r', 't']}
+{'tabuleert': ['t', 'a0', 'b', 'y0', 'l', 'e1', 'r', 't'], 'imputeert': ['I0', 'm', 'p', 'y0', 't', 'e1', 'r', 't']}
+{'palissadeert': ['p', 'a0', 'l', 'i0', 's', 'a0', 'd', 'e1', 'r', 't'], 'gestationeerd': ['x', '@0', 's', 't', 'A0', 't', 'S', 'o0', 'n', 'e1', 'r', 't']}
+{'rekwestrant': ['r', 'e0', 'k', 'w', 'E0', 's', 't', 'r', 'A1', 'n', 't'], 'plant': ['p', 'l', 'A1', 'n', 't']}
+{'gewaardeerd': ['x', '@0', 'w', 'a0', 'r', 'd', 'e1', 'r', 't'], 'gecollabeerd': ['x', '@0', 'k', 'O0', 'l', 'a0', 'b', 'e1', 'r', 't']}
+{'saboteert': ['s', 'A0', 'b', 'o0', 't', 'e1', 'r', 't'], 'gestationeerd': ['x', '@0', 's', 't', 'A0', 't', 'S', 'o0', 'n', 'e1', 'r', 't']}
+{'weerschal': ['w', 'e0', 'r', 's', 'x', 'A1', 'l'], 'geknal': ['x', '@0', 'k', 'n', 'A1', 'l']}
+{'gecarboniseerd': ['x', '@0', 'k', 'A0', 'r', 'b', 'o0', 'n', 'i0', 'z', 'e1', 'r', 't'], 'monoftongeert': ['m', 'o0', 'n', 'O0', 'f', 't', 'O0', 'N', 'G', 'e1', 'r', 't']}
+{'romantiseert': ['r', 'o0', 'm', 'A0', 'n', 't', 'i0', 'z', 'e1', 'r', 't'], 'substantiveert': ['s', '}0', 'p', 's', 't', 'A0', 'n', 't', 'i0', 'v', 'e1', 'r', 't']}
+{'agitprop': ['a0', 'G', 'I0', 't', 'p', 'r', 'O1', 'p'], 'envelop': ['E0', 'n', 'v', '@0', 'l', 'O1', 'p']}
+{'melancholie': ['m', 'e0', 'l', 'A0', 'N', 'x', 'o0', 'l', 'i1'], 'entomografie': ['E0', 'n', 't', 'o0', 'm', 'o0', 'G', 'r', 'a0', 'f', 'i1']}
+{'rekestrant': ['r', 'e0', 'k', 'E0', 's', 't', 'r', 'A1', 'n', 't'], 'gezand': ['x', '@0', 'z', 'A1', 'n', 't']}
+{'beslaand': ['b', '@0', 's', 'l', 'a1', 'n', 't'], 'bestaand': ['b', '@0', 's', 't', 'a1', 'n', 't']}
+{'getierceerd': ['x', '@0', 't', 'i0', 'j', 'E0', 'r', 's', 'e1', 'r', 't'], 'denatureert': ['d', 'e0', 'n', 'a0', 't', 'y0', 'r', 'e1', 'r', 't']}
+{'gepsalmodieerd': ['x', '@0', 'p', 's', 'A0', 'l', 'm', 'o0', 'd', 'i0', 'j', 'e1', 'r', 't'], 'gefosforesceerd': ['x', '@0', 'f', 'O0', 's', 'f', 'O0', 'r', 'E0', 's', 'e1', 'r', 't']}
+{'neo-liberaal': ['n', 'e0', 'j', 'o0', 'l', 'i0', 'b', '@0', 'r', 'a1', 'l'], 'coitaal': ['k', 'o0', 'w', 'i0', 't', 'a1', 'l']}
+{'ontbeerd': ['O0', 'n', 'd', 'b', 'e1', 'r', 't'], 'geaccrediteerd': ['x', '@0', 'A0', 'k', 'r', 'e0', 'd', 'i0', 't', 'e1', 'r', 't']}
+{'illusioneert': ['I0', 'l', 'y0', 'Z', 'o0', 'n', 'e1', 'r', 't'], 'toupeert': ['t', 'u0', 'p', 'e1', 'r', 't']}
+{'gedisponeerd': ['x', '@0', 'd', 'I0', 's', 'p', 'o0', 'n', 'e1', 'r', 't'], 'geamortiseerd': ['x', '@0', 'a0', 'm', 'O0', 'r', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'geroutineerd': ['x', '@0', 'r', 'u0', 't', 'i0', 'n', 'e1', 'r', 't'], 'hydrateert': ['h', 'i0', 'd', 'r', 'a0', 't', 'e1', 'r', 't']}
+{'digitaliseert': ['d', 'i0', 'G', 'i0', 't', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't'], 'gestagneerd': ['x', '@0', 's', 't', 'A0', 'G', 'n', 'e1', 'r', 't']}
+{'constant': ['k', 'O0', 'n', 's', 't', 'A1', 'n', 't'], 'contribuant': ['k', 'O0', 'n', 't', 'r', 'i0', 'b', 'y0', 'w', 'A1', 'n', 't']}
+{'geblancheerd': ['x', '@0', 'b', 'l', 'A0', 'n', 'S', 'e1', 'r', 't'], 'meert': ['m', 'e1', 'r', 't']}
+{'incorporeer': ['I0', 'N', 'k', 'O0', 'r', 'p', 'o0', 'r', 'e1', 'r'], 'pelletiseer': ['p', 'E0', 'l', '@0', 't', 'i0', 'z', 'e1', 'r']}
+{'bestand': ['b', '@0', 's', 't', 'A1', 'n', 't'], 'luitenant-adjudant': ['l', 'L0', 't', '@0', 'n', 'A1', 'n', 't', 'A0', 't', 'j', 'y0', 'd', 'A1', 'n', 't']}
+{'epicurist': ['e0', 'p', 'i0', 'k', 'y0', 'r', 'I1', 's', 't'], 'ebenist': ['e0', 'b', '@0', 'n', 'I1', 's', 't']}
+{'tarifeert': ['t', 'a0', 'r', 'i0', 'f', 'e1', 'r', 't'], 'gedesavoueerd': ['x', '@0', 'd', 'E0', 's', 'a0', 'v', 'u0', 'w', 'e1', 'r', 't']}
+{'exciteert': ['E0', 'k', 's', 'i0', 't', 'e1', 'r', 't'], 'amplificeert': ['A0', 'm', 'p', 'l', 'i0', 'f', 'i0', 's', 'e1', 'r', 't']}
+{'overspant': ['o0', 'v', '@0', 'r', 's', 'p', 'A1', 'n', 't'], 'plant': ['p', 'l', 'A1', 'n', 't']}
+{'digitaliseert': ['d', 'i0', 'G', 'i0', 't', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't'], 'culmineert': ['k', '}0', 'l', 'm', 'i0', 'n', 'e1', 'r', 't']}
+{'geroutineerd': ['x', '@0', 'r', 'u0', 't', 'i0', 'n', 'e1', 'r', 't'], 'arroseert': ['A0', 'r', 'o0', 'z', 'e1', 'r', 't']}
+{'gemineerd': ['x', '@0', 'm', 'i0', 'n', 'e1', 'r', 't'], 'seksualiseert': ['s', 'E0', 'k', 's', 'y0', 'w', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't']}
+{'luitenant-adjudant': ['l', 'L0', 't', '@0', 'n', 'A1', 'n', 't', 'A0', 't', 'j', 'y0', 'd', 'A1', 'n', 't'], 'convenant': ['k', 'O0', 'n', 'v', '@0', 'n', 'A1', 'n', 't']}
+{'romantiseert': ['r', 'o0', 'm', 'A0', 'n', 't', 'i0', 'z', 'e1', 'r', 't'], 'mandateert': ['m', 'A0', 'n', 'd', 'a0', 't', 'e1', 'r', 't']}
+{'kandidaat': ['k', 'A0', 'n', 'd', 'i0', 'd', 'a1', 't'], 'granulaat': ['x', 'r', 'a0', 'n', 'y0', 'l', 'a1', 't']}
+{'piketteert': ['p', 'i0', 'k', 'E0', 't', 'e1', 'r', 't'], 'gekwadreerd': ['x', '@0', 'k', 'w', 'A0', 'd', 'r', 'e1', 'r', 't']}
+{'exhibeert': ['E0', 'k', 's', 'i0', 'b', 'e1', 'r', 't'], 'anatomiseert': ['a0', 'n', 'a0', 't', 'o0', 'm', 'i0', 'z', 'e1', 'r', 't']}
+{'fazant': ['f', 'a0', 'z', 'A1', 'n', 't'], 'extravagant': ['E0', 'k', 's', 't', 'r', 'a0', 'v', 'a0', 'G', 'A1', 'n', 't']}
+{'gekant': ['x', '@0', 'k', 'A1', 'n', 't'], 'plant': ['p', 'l', 'A1', 'n', 't']}
+{'gerebelleerd': ['x', '@0', 'r', '@0', 'b', 'E0', 'l', 'e1', 'r', 't'], 'piketteert': ['p', 'i0', 'k', 'E0', 't', 'e1', 'r', 't']}
+{'saboteert': ['s', 'A0', 'b', 'o0', 't', 'e1', 'r', 't'], 'gecarboniseerd': ['x', '@0', 'k', 'A0', 'r', 'b', 'o0', 'n', 'i0', 'z', 'e1', 'r', 't']}
+{'norbertijn': ['n', 'O0', 'r', 'b', '@0', 'r', 't', 'K1', 'n'], 'praktizijn': ['p', 'r', 'A0', 'k', 't', 'i0', 'z', 'K1', 'n']}
+{'gekant': ['x', '@0', 'k', 'A1', 'n', 't'], 'platteband': ['p', 'l', 'A0', 't', '@0', 'b', 'A1', 'n', 't']}
+{'culmineert': ['k', '}0', 'l', 'm', 'i0', 'n', 'e1', 'r', 't'], 'gecollabeerd': ['x', '@0', 'k', 'O0', 'l', 'a0', 'b', 'e1', 'r', 't']}
+{'mant': ['m', 'A1', 'n', 't'], 'variant': ['v', 'a0', 'r', 'i0', 'j', 'A1', 'n', 't']}
+{'chiropodist': ['x', 'i0', 'r', 'o0', 'p', 'o0', 'd', 'I1', 's', 't'], 'hygienist': ['h', 'i0', 'G', 'i0', 'j', 'e0', 'n', 'I1', 's', 't']}
+{'volant': ['v', 'o0', 'l', 'A1', 'n', 't'], 'convenant': ['k', 'O0', 'n', 'v', '@0', 'n', 'A1', 'n', 't']}
+{'ontbeer': ['O0', 'n', 'd', 'b', 'e1', 'r'], 'laiciseer': ['l', 'a0', 'i0', 's', 'i0', 'z', 'e1', 'r']}
+{'epicurist': ['e0', 'p', 'i0', 'k', 'y0', 'r', 'I1', 's', 't'], 'egoist': ['e0', 'G', 'o0', 'w', 'I1', 's', 't']}
+{'geneert': ['Z', '@0', 'n', 'e1', 'r', 't'], 'tabuleert': ['t', 'a0', 'b', 'y0', 'l', 'e1', 'r', 't']}
+{'geobjectiveerd': ['x', '@0', 'O0', 'b', 'j', 'E0', 'k', 't', 'i0', 'v', 'e1', 'r', 't'], 'gireert': ['x', 'i0', 'r', 'e1', 'r', 't']}
+{'geobjectiveerd': ['x', '@0', 'O0', 'b', 'j', 'E0', 'k', 't', 'i0', 'v', 'e1', 'r', 't'], 'meert': ['m', 'e1', 'r', 't']}
+{'geextensiveerd': ['x', '@0', 'E0', 'k', 's', 't', 'E0', 'n', 'z', 'i0', 'v', 'e1', 'r', 't'], 'gepivoteerd': ['x', '@0', 'p', 'i0', 'v', 'o0', 't', 'e1', 'r', 't']}
+{'piketteert': ['p', 'i0', 'k', 'E0', 't', 'e1', 'r', 't'], 'gedemagnetiseerd': ['x', '@0', 'd', 'e0', 'm', 'A0', 'G', 'n', 'e0', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'gezand': ['x', '@0', 'z', 'A1', 'n', 't'], 'contribuant': ['k', 'O0', 'n', 't', 'r', 'i0', 'b', 'y0', 'w', 'A1', 'n', 't']}
+{'geplaand': ['x', '@0', 'p', 'l', 'a1', 'n', 't'], 'bestaand': ['b', '@0', 's', 't', 'a1', 'n', 't']}
+{'deposant': ['d', 'e0', 'p', 'o0', 'Z', 'A1', 'n', 't'], 'extravagant': ['E0', 'k', 's', 't', 'r', 'a0', 'v', 'a0', 'G', 'A1', 'n', 't']}
+{'stenocardie': ['s', 't', 'e0', 'n', 'o0', 'k', 'A0', 'r', 'd', 'i1'], 'exogamie': ['E0', 'k', 's', 'o0', 'G', 'a0', 'm', 'i1']}
+{'geobjectiveerd': ['x', '@0', 'O0', 'b', 'j', 'E0', 'k', 't', 'i0', 'v', 'e1', 'r', 't'], 'fluidiseert': ['f', 'l', 'y0', 'w', 'i0', 'd', 'i0', 'z', 'e1', 'r', 't']}
+{'eclipseert': ['e0', 'k', 'l', 'I0', 'p', 's', 'e1', 'r', 't'], 'culmineert': ['k', '}0', 'l', 'm', 'i0', 'n', 'e1', 'r', 't']}
+{'cyclamaat': ['s', 'i0', 'k', 'l', 'a0', 'm', 'a1', 't'], 'inaccuraat': ['I0', 'n', 'A0', 'k', 'y0', 'r', 'a1', 't']}
+{'volant': ['v', 'o0', 'l', 'A1', 'n', 't'], 'ontbrand': ['O0', 'n', 'd', 'b', 'r', 'A1', 'n', 't']}
+{'geitalianiseerd': ['x', '@0', 'i0', 't', 'a0', 'l', 'i0', 'j', 'a0', 'n', 'i0', 'z', 'e1', 'r', 't'], 'geciseleerd': ['x', '@0', 's', 'i0', 'z', '@0', 'l', 'e1', 'r', 't']}
+{'geamortiseerd': ['x', '@0', 'a0', 'm', 'O0', 'r', 't', 'i0', 'z', 'e1', 'r', 't'], 'gestationeerd': ['x', '@0', 's', 't', 'A0', 't', 'S', 'o0', 'n', 'e1', 'r', 't']}
+{'stochastiek': ['s', 't', 'o0', 'x', 'A0', 's', 't', 'i1', 'k'], 'balsemiek': ['b', 'A0', 'l', 's', '@0', 'm', 'i1', 'k']}
+{'mant': ['m', 'A1', 'n', 't'], 'rekestrant': ['r', 'e0', 'k', 'E0', 's', 't', 'r', 'A1', 'n', 't']}
+{'dupliceer': ['d', 'y0', 'p', 'l', 'i0', 's', 'e1', 'r'], 'structureer': ['s', 't', 'r', '}0', 'k', 't', 'y0', 'r', 'e1', 'r']}
+{'studeer': ['s', 't', 'y0', 'd', 'e1', 'r'], 'enthousiasmeer': ['E0', 'n', 't', 'u0', 'Z', 'A0', 's', 'm', 'e1', 'r']}
+{'fusioneert': ['f', 'y0', 'Z', 'o0', 'n', 'e1', 'r', 't'], 'geinfereerd': ['x', '@0', 'I0', 'n', 'f', '@0', 'r', 'e1', 'r', 't']}
+{'platteband': ['p', 'l', 'A0', 't', '@0', 'b', 'A1', 'n', 't'], 'convenant': ['k', 'O0', 'n', 'v', '@0', 'n', 'A1', 'n', 't']}
+{'structureer': ['s', 't', 'r', '}0', 'k', 't', 'y0', 'r', 'e1', 'r'], 'pelletiseer': ['p', 'E0', 'l', '@0', 't', 'i0', 'z', 'e1', 'r']}
+{'fazant': ['f', 'a0', 'z', 'A1', 'n', 't'], 'chrysant': ['x', 'r', 'i0', 's', 'A1', 'n', 't']}
+{'bacchant': ['b', 'A0', 'x', 'A1', 'n', 't'], 'contribuant': ['k', 'O0', 'n', 't', 'r', 'i0', 'b', 'y0', 'w', 'A1', 'n', 't']}
+{'jubileert': ['j', 'y0', 'b', 'i0', 'l', 'e1', 'r', 't'], 'pirouetteert': ['p', 'i0', 'r', 'u0', 'w', 'E0', 't', 'e1', 'r', 't']}
+{'staand': ['s', 't', 'a1', 'n', 't'], 'gaand': ['x', 'a1', 'n', 't']}
+{'verordonneerd': ['v', '@0', 'r', 'O0', 'r', 'd', 'O0', 'n', 'e1', 'r', 't'], 'geencadreerd': ['x', '@0', 'E0', 'N', 'k', 'a0', 'd', 'r', 'e1', 'r', 't']}
+{'mant': ['m', 'A1', 'n', 't'], 'bestand': ['b', '@0', 's', 't', 'A1', 'n', 't']}
+{'fondant': ['f', 'O0', 'n', 'd', 'A1', 'n', 't'], 'mant': ['m', 'A1', 'n', 't']}
+{'digitaliseert': ['d', 'i0', 'G', 'i0', 't', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't'], 'gekalibreerd': ['x', '@0', 'k', 'a0', 'l', 'i0', 'b', 'r', 'e1', 'r', 't']}
+{'marineert': ['m', 'a0', 'r', 'i0', 'n', 'e1', 'r', 't'], 'gecollabeerd': ['x', '@0', 'k', 'O0', 'l', 'a0', 'b', 'e1', 'r', 't']}
+{'gesubsidieerd': ['x', '@0', 's', '}0', 'p', 's', 'i0', 'd', 'i0', 'j', 'e1', 'r', 't'], 'musiceert': ['m', 'y0', 'z', 'i0', 's', 'e1', 'r', 't']}
+{'geitereerd': ['x', '@0', 'i0', 't', '@0', 'r', 'e1', 'r', 't'], 'communiceert': ['k', 'O0', 'm', 'y0', 'n', 'i0', 's', 'e1', 'r', 't']}
+{'alieneert': ['a0', 'l', 'i0', 'j', 'e0', 'n', 'e1', 'r', 't'], 'kristalliseert': ['k', 'r', 'I0', 's', 't', 'A0', 'l', 'i0', 'z', 'e1', 'r', 't']}
+{'gestagneerd': ['x', '@0', 's', 't', 'A0', 'G', 'n', 'e1', 'r', 't'], 'geaccrediteerd': ['x', '@0', 'A0', 'k', 'r', 'e0', 'd', 'i0', 't', 'e1', 'r', 't']}
+{'platteband': ['p', 'l', 'A0', 't', '@0', 'b', 'A1', 'n', 't'], 'extravagant': ['E0', 'k', 's', 't', 'r', 'a0', 'v', 'a0', 'G', 'A1', 'n', 't']}
+{'gecontamineerd': ['x', '@0', 'k', 'O0', 'n', 't', 'a0', 'm', 'i0', 'n', 'e1', 'r', 't'], 'gefosforesceerd': ['x', '@0', 'f', 'O0', 's', 'f', 'O0', 'r', 'E0', 's', 'e1', 'r', 't']}
+{'deposant': ['d', 'e0', 'p', 'o0', 'Z', 'A1', 'n', 't'], 'volant': ['v', 'o0', 'l', 'A1', 'n', 't']}
+{'fusioneert': ['f', 'y0', 'Z', 'o0', 'n', 'e1', 'r', 't'], 'seksualiseert': ['s', 'E0', 'k', 's', 'y0', 'w', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't']}
+{'gecontamineerd': ['x', '@0', 'k', 'O0', 'n', 't', 'a0', 'm', 'i0', 'n', 'e1', 'r', 't'], 'gedemagnetiseerd': ['x', '@0', 'd', 'e0', 'm', 'A0', 'G', 'n', 'e0', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'gefalsificeerd': ['x', '@0', 'f', 'A0', 'l', 's', 'i0', 'f', 'i0', 's', 'e1', 'r', 't'], 'gesubsidieerd': ['x', '@0', 's', '}0', 'p', 's', 'i0', 'd', 'i0', 'j', 'e1', 'r', 't']}
+{'irrelevantst': ['I0', 'r', 'e0', 'l', '@0', 'v', 'A1', 'n', 't', 's', 't'], 'flagrantst': ['f', 'l', 'A0', 'G', 'r', 'A1', 'n', 't', 's', 't']}
+{'desorganiseert': ['d', 'E0', 's', 'O0', 'r', 'G', 'a0', 'n', 'i0', 'z', 'e1', 'r', 't'], 'hydrateert': ['h', 'i0', 'd', 'r', 'a0', 't', 'e1', 'r', 't']}
+{'gebrand': ['x', '@0', 'b', 'r', 'A1', 'n', 't'], 'plant': ['p', 'l', 'A1', 'n', 't']}
+{'gecreosoteerd': ['x', '@0', 'k', 'r', 'e0', 'j', 'o0', 's', 'o0', 't', 'e1', 'r', 't'], 'individualiseert': ['I0', 'n', 'd', 'i0', 'v', 'i0', 'd', 'y0', 'w', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't']}
+{'geobjectiveerd': ['x', '@0', 'O0', 'b', 'j', 'E0', 'k', 't', 'i0', 'v', 'e1', 'r', 't'], 'gekwadreerd': ['x', '@0', 'k', 'w', 'A0', 'd', 'r', 'e1', 'r', 't']}
+{'mant': ['m', 'A1', 'n', 't'], 'bacchant': ['b', 'A0', 'x', 'A1', 'n', 't']}
+{'chrysant': ['x', 'r', 'i0', 's', 'A1', 'n', 't'], 'plant': ['p', 'l', 'A1', 'n', 't']}
+{'fluidiseert': ['f', 'l', 'y0', 'w', 'i0', 'd', 'i0', 'z', 'e1', 'r', 't'], 'gekwadreerd': ['x', '@0', 'k', 'w', 'A0', 'd', 'r', 'e1', 'r', 't']}
+{'gedisponeerd': ['x', '@0', 'd', 'I0', 's', 'p', 'o0', 'n', 'e1', 'r', 't'], 'individualiseert': ['I0', 'n', 'd', 'i0', 'v', 'i0', 'd', 'y0', 'w', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't']}
+{'acceptant': ['A0', 'k', 's', 'E0', 'p', 't', 'A1', 'n', 't'], 'luitenant-adjudant': ['l', 'L0', 't', '@0', 'n', 'A1', 'n', 't', 'A0', 't', 'j', 'y0', 'd', 'A1', 'n', 't']}
+{'geoculeerd': ['x', '@0', 'o0', 'k', 'y0', 'l', 'e1', 'r', 't'], 'toupeert': ['t', 'u0', 'p', 'e1', 'r', 't']}
+{'gecreosoteerd': ['x', '@0', 'k', 'r', 'e0', 'j', 'o0', 's', 'o0', 't', 'e1', 'r', 't'], 'fusioneert': ['f', 'y0', 'Z', 'o0', 'n', 'e1', 'r', 't']}
+{'variant': ['v', 'a0', 'r', 'i0', 'j', 'A1', 'n', 't'], 'convenant': ['k', 'O0', 'n', 'v', '@0', 'n', 'A1', 'n', 't']}
+{'bacchant': ['b', 'A0', 'x', 'A1', 'n', 't'], 'luitenant-adjudant': ['l', 'L0', 't', '@0', 'n', 'A1', 'n', 't', 'A0', 't', 'j', 'y0', 'd', 'A1', 'n', 't']}
+{'constant': ['k', 'O0', 'n', 's', 't', 'A1', 'n', 't'], 'extravagant': ['E0', 'k', 's', 't', 'r', 'a0', 'v', 'a0', 'G', 'A1', 'n', 't']}
+{'exhibeert': ['E0', 'k', 's', 'i0', 'b', 'e1', 'r', 't'], 'geaccrediteerd': ['x', '@0', 'A0', 'k', 'r', 'e0', 'd', 'i0', 't', 'e1', 'r', 't']}
+{'algemeen': ['A0', 'l', 'G', '@0', 'm', 'e1', 'n'], 'bijeen': ['b', 'K0', 'e1', 'n']}
+{'triomfant': ['t', 'r', 'i0', 'j', 'O0', 'm', 'f', 'A1', 'n', 't'], 'gebrand': ['x', '@0', 'b', 'r', 'A1', 'n', 't']}
+{'staand': ['s', 't', 'a1', 'n', 't'], 'gemaand': ['x', '@0', 'm', 'a1', 'n', 't']}
+{'gerebelleerd': ['x', '@0', 'r', '@0', 'b', 'E0', 'l', 'e1', 'r', 't'], 'consacreert': ['k', 'O0', 'n', 's', 'a0', 'k', 'r', 'e1', 'r', 't']}
+{'toppenant': ['t', 'O0', 'p', '@0', 'n', 'A1', 'n', 't'], 'mant': ['m', 'A1', 'n', 't']}
+{'bacchant': ['b', 'A0', 'x', 'A1', 'n', 't'], 'convenant': ['k', 'O0', 'n', 'v', '@0', 'n', 'A1', 'n', 't']}
+{'gefalsificeerd': ['x', '@0', 'f', 'A0', 'l', 's', 'i0', 'f', 'i0', 's', 'e1', 'r', 't'], 'consacreert': ['k', 'O0', 'n', 's', 'a0', 'k', 'r', 'e1', 'r', 't']}
+{'gecontamineerd': ['x', '@0', 'k', 'O0', 'n', 't', 'a0', 'm', 'i0', 'n', 'e1', 'r', 't'], 'geblancheerd': ['x', '@0', 'b', 'l', 'A0', 'n', 'S', 'e1', 'r', 't']}
+{'geroutineerd': ['x', '@0', 'r', 'u0', 't', 'i0', 'n', 'e1', 'r', 't'], 'transmuteert': ['t', 'r', 'A0', 'n', 's', 'm', 'y0', 't', 'e1', 'r', 't']}
+{'commandeer': ['k', 'O0', 'm', 'A0', 'n', 'd', 'e1', 'r'], 'chanteer': ['S', 'A0', 'n', 't', 'e1', 'r']}
+{'overspant': ['o0', 'v', '@0', 'r', 's', 'p', 'A1', 'n', 't'], 'gebrand': ['x', '@0', 'b', 'r', 'A1', 'n', 't']}
+{'deposant': ['d', 'e0', 'p', 'o0', 'Z', 'A1', 'n', 't'], 'gekant': ['x', '@0', 'k', 'A1', 'n', 't']}
+{'gesubsidieerd': ['x', '@0', 's', '}0', 'p', 's', 'i0', 'd', 'i0', 'j', 'e1', 'r', 't'], 'gedemagnetiseerd': ['x', '@0', 'd', 'e0', 'm', 'A0', 'G', 'n', 'e0', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'antipapist': ['A0', 'n', 't', 'i0', 'p', 'a0', 'p', 'I1', 's', 't'], 'avantgardist': ['a0', 'v', 'A0', 'N', 'g', 'A0', 'r', 'd', 'I1', 's', 't']}
+{'geinfereerd': ['x', '@0', 'I0', 'n', 'f', '@0', 'r', 'e1', 'r', 't'], 'geamortiseerd': ['x', '@0', 'a0', 'm', 'O0', 'r', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'volant': ['v', 'o0', 'l', 'A1', 'n', 't'], 'fondant': ['f', 'O0', 'n', 'd', 'A1', 'n', 't']}
+{'constant': ['k', 'O0', 'n', 's', 't', 'A1', 'n', 't'], 'overspant': ['o0', 'v', '@0', 'r', 's', 'p', 'A1', 'n', 't']}
+{'rekwestrant': ['r', 'e0', 'k', 'w', 'E0', 's', 't', 'r', 'A1', 'n', 't'], 'constant': ['k', 'O0', 'n', 's', 't', 'A1', 'n', 't']}
+{'geblancheerd': ['x', '@0', 'b', 'l', 'A0', 'n', 'S', 'e1', 'r', 't'], 'presseert': ['p', 'r', 'E0', 's', 'e1', 'r', 't']}
+{'gecontamineerd': ['x', '@0', 'k', 'O0', 'n', 't', 'a0', 'm', 'i0', 'n', 'e1', 'r', 't'], 'gekwadreerd': ['x', '@0', 'k', 'w', 'A0', 'd', 'r', 'e1', 'r', 't']}
+{'escamoteert': ['E0', 's', 'k', 'a0', 'm', 'o0', 't', 'e1', 'r', 't'], 'europeaniseert': ['|0', 'r', 'o0', 'p', 'e0', 'j', 'a0', 'n', 'i0', 'z', 'e1', 'r', 't']}
+{'ontstaand': ['O0', 'n', 't', 's', 't', 'a1', 'n', 't'], 'misgaand': ['m', 'I0', 's', 'x', 'a1', 'n', 't']}
+{'implementeer': ['I0', 'm', 'p', 'l', '@0', 'm', 'E0', 'n', 't', 'e1', 'r'], 'structureer': ['s', 't', 'r', '}0', 'k', 't', 'y0', 'r', 'e1', 'r']}
+{'gestationeerd': ['x', '@0', 's', 't', 'A0', 't', 'S', 'o0', 'n', 'e1', 'r', 't'], 'seksualiseert': ['s', 'E0', 'k', 's', 'y0', 'w', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't']}
+{'fazant': ['f', 'a0', 'z', 'A1', 'n', 't'], 'contribuant': ['k', 'O0', 'n', 't', 'r', 'i0', 'b', 'y0', 'w', 'A1', 'n', 't']}
+{'geblancheerd': ['x', '@0', 'b', 'l', 'A0', 'n', 'S', 'e1', 'r', 't'], 'agiteert': ['a0', 'G', 'i0', 't', 'e1', 'r', 't']}
+{'platteband': ['p', 'l', 'A0', 't', '@0', 'b', 'A1', 'n', 't'], 'acceptant': ['A0', 'k', 's', 'E0', 'p', 't', 'A1', 'n', 't']}
+{'gekant': ['x', '@0', 'k', 'A1', 'n', 't'], 'gebrand': ['x', '@0', 'b', 'r', 'A1', 'n', 't']}
+{'thaumatologie': ['t', 'M0', 'm', 'a0', 't', 'o0', 'l', 'o0', 'G', 'i1'], 'biometrie': ['b', 'i0', 'j', 'o0', 'm', 'e0', 't', 'r', 'i1']}
+{'melancholie': ['m', 'e0', 'l', 'A0', 'N', 'x', 'o0', 'l', 'i1'], 'sociocratie': ['s', 'o0', 'S', 'o0', 'k', 'r', 'a0', 't', 's', 'i1']}
+{'rekestrant': ['r', 'e0', 'k', 'E0', 's', 't', 'r', 'A1', 'n', 't'], 'variant': ['v', 'a0', 'r', 'i0', 'j', 'A1', 'n', 't']}
+{'lawineus': ['l', 'a0', 'w', 'i0', 'n', '|1', 's'], 'tumultueus': ['t', 'y0', 'm', '}0', 'l', 't', 'y0', 'w', '|1', 's']}
+{'overspant': ['o0', 'v', '@0', 'r', 's', 'p', 'A1', 'n', 't'], 'ontbrand': ['O0', 'n', 'd', 'b', 'r', 'A1', 'n', 't']}
+{'volant': ['v', 'o0', 'l', 'A1', 'n', 't'], 'gezand': ['x', '@0', 'z', 'A1', 'n', 't']}
+{'pardonneer': ['p', 'A0', 'r', 'd', 'O0', 'n', 'e1', 'r'], 'materialiseer': ['m', 'a0', 't', 'e0', 'r', 'i0', 'j', 'a0', 'l', 'i0', 'z', 'e1', 'r']}
+{'intrigantst': ['I0', 'n', 't', 'r', 'i0', 'G', 'A1', 'n', 't', 's', 't'], 'degoutantst': ['d', 'e0', 'G', 'u0', 't', 'A1', 'n', 't', 's', 't']}
+{'fazant': ['f', 'a0', 'z', 'A1', 'n', 't'], 'sympathisant': ['s', 'I0', 'm', 'p', 'a0', 't', 'i0', 's', 'A1', 'n', 't']}
+{'culmineert': ['k', '}0', 'l', 'm', 'i0', 'n', 'e1', 'r', 't'], 'geaccrediteerd': ['x', '@0', 'A0', 'k', 'r', 'e0', 'd', 'i0', 't', 'e1', 'r', 't']}
+{'kristallografie': ['k', 'r', 'I0', 's', 't', 'A0', 'l', 'o0', 'G', 'r', 'a0', 'f', 'i1'], 'histopathologie': ['h', 'I0', 's', 't', 'o0', 'p', 'A0', 't', 'o0', 'l', 'o0', 'G', 'i1']}
+{'gezand': ['x', '@0', 'z', 'A1', 'n', 't'], 'plant': ['p', 'l', 'A1', 'n', 't']}
+{'meert': ['m', 'e1', 'r', 't'], 'consacreert': ['k', 'O0', 'n', 's', 'a0', 'k', 'r', 'e1', 'r', 't']}
+{'gebrand': ['x', '@0', 'b', 'r', 'A1', 'n', 't'], 'convenant': ['k', 'O0', 'n', 'v', '@0', 'n', 'A1', 'n', 't']}
+{'luciditeit': ['l', 'y0', 's', 'i0', 'd', 'i0', 't', 'K1', 't'], 'smijt': ['s', 'm', 'K1', 't']}
+{'piketteert': ['p', 'i0', 'k', 'E0', 't', 'e1', 'r', 't'], 'gireert': ['x', 'i0', 'r', 'e1', 'r', 't']}
+{'pantheist': ['p', 'A0', 'n', 't', 'e0', 'j', 'I1', 's', 't'], 'antipapist': ['A0', 'n', 't', 'i0', 'p', 'a0', 'p', 'I1', 's', 't']}
+{'pirouetteert': ['p', 'i0', 'r', 'u0', 'w', 'E0', 't', 'e1', 'r', 't'], 'monoftongeert': ['m', 'o0', 'n', 'O0', 'f', 't', 'O0', 'N', 'G', 'e1', 'r', 't']}
+{'longimetrie': ['l', 'O0', 'N', 'G', 'i0', 'm', 'e0', 't', 'r', 'i1'], 'sociocratie': ['s', 'o0', 'S', 'o0', 'k', 'r', 'a0', 't', 's', 'i1']}
+{'debitant': ['d', 'e0', 'b', 'i0', 't', 'A1', 'n', 't'], 'mant': ['m', 'A1', 'n', 't']}
+{'gerebelleerd': ['x', '@0', 'r', '@0', 'b', 'E0', 'l', 'e1', 'r', 't'], 'gefosforesceerd': ['x', '@0', 'f', 'O0', 's', 'f', 'O0', 'r', 'E0', 's', 'e1', 'r', 't']}
+{'volant': ['v', 'o0', 'l', 'A1', 'n', 't'], 'variant': ['v', 'a0', 'r', 'i0', 'j', 'A1', 'n', 't']}
+{'verdijt': ['v', '@0', 'r', 'd', 'K1', 't'], 'appetijt': ['A0', 'p', '@0', 't', 'K1', 't']}
+{'triomfant': ['t', 'r', 'i0', 'j', 'O0', 'm', 'f', 'A1', 'n', 't'], 'variant': ['v', 'a0', 'r', 'i0', 'j', 'A1', 'n', 't']}
+{'irrelevantst': ['I0', 'r', 'e0', 'l', '@0', 'v', 'A1', 'n', 't', 's', 't'], 'briljantst': ['b', 'r', 'I0', 'l', 'j', 'A1', 'n', 't', 's', 't']}
+{'jubileert': ['j', 'y0', 'b', 'i0', 'l', 'e1', 'r', 't'], 'monoftongeert': ['m', 'o0', 'n', 'O0', 'f', 't', 'O0', 'N', 'G', 'e1', 'r', 't']}
+{'radeert': ['r', 'a0', 'd', 'e1', 'r', 't'], 'substantiveert': ['s', '}0', 'p', 's', 't', 'A0', 'n', 't', 'i0', 'v', 'e1', 'r', 't']}
+{'toppenant': ['t', 'O0', 'p', '@0', 'n', 'A1', 'n', 't'], 'debitant': ['d', 'e0', 'b', 'i0', 't', 'A1', 'n', 't']}
+{'geextensiveerd': ['x', '@0', 'E0', 'k', 's', 't', 'E0', 'n', 'z', 'i0', 'v', 'e1', 'r', 't'], 'gestationeerd': ['x', '@0', 's', 't', 'A0', 't', 'S', 'o0', 'n', 'e1', 'r', 't']}
+{'pirouetteert': ['p', 'i0', 'r', 'u0', 'w', 'E0', 't', 'e1', 'r', 't'], 'fusioneert': ['f', 'y0', 'Z', 'o0', 'n', 'e1', 'r', 't']}
+{'piketteer': ['p', 'i0', 'k', 'E0', 't', 'e1', 'r'], 'patroneer': ['p', 'A0', 't', 'r', 'o0', 'n', 'e1', 'r']}
+{'feminist': ['f', 'e0', 'm', 'i0', 'n', 'I1', 's', 't'], 'trompettist': ['t', 'r', 'O0', 'm', 'p', 'E0', 't', 'I1', 's', 't']}
+{'geobjectiveerd': ['x', '@0', 'O0', 'b', 'j', 'E0', 'k', 't', 'i0', 'v', 'e1', 'r', 't'], 'consacreert': ['k', 'O0', 'n', 's', 'a0', 'k', 'r', 'e1', 'r', 't']}
+{'gekalibreerd': ['x', '@0', 'k', 'a0', 'l', 'i0', 'b', 'r', 'e1', 'r', 't'], 'anatomiseert': ['a0', 'n', 'a0', 't', 'o0', 'm', 'i0', 'z', 'e1', 'r', 't']}
+{'debitant': ['d', 'e0', 'b', 'i0', 't', 'A1', 'n', 't'], 'variant': ['v', 'a0', 'r', 'i0', 'j', 'A1', 'n', 't']}
+{'desorganiseert': ['d', 'E0', 's', 'O0', 'r', 'G', 'a0', 'n', 'i0', 'z', 'e1', 'r', 't'], 'exciteert': ['E0', 'k', 's', 'i0', 't', 'e1', 'r', 't']}
+{'gepsalmodieerd': ['x', '@0', 'p', 's', 'A0', 'l', 'm', 'o0', 'd', 'i0', 'j', 'e1', 'r', 't'], 'gireert': ['x', 'i0', 'r', 'e1', 'r', 't']}
+{'constant': ['k', 'O0', 'n', 's', 't', 'A1', 'n', 't'], 'platteband': ['p', 'l', 'A0', 't', '@0', 'b', 'A1', 'n', 't']}
+{'fazant': ['f', 'a0', 'z', 'A1', 'n', 't'], 'bacchant': ['b', 'A0', 'x', 'A1', 'n', 't']}
+{'gemaand': ['x', '@0', 'm', 'a1', 'n', 't'], 'misgaand': ['m', 'I0', 's', 'x', 'a1', 'n', 't']}
+{'rekwestrant': ['r', 'e0', 'k', 'w', 'E0', 's', 't', 'r', 'A1', 'n', 't'], 'variant': ['v', 'a0', 'r', 'i0', 'j', 'A1', 'n', 't']}
+{'palissadeert': ['p', 'a0', 'l', 'i0', 's', 'a0', 'd', 'e1', 'r', 't'], 'pirouetteert': ['p', 'i0', 'r', 'u0', 'w', 'E0', 't', 'e1', 'r', 't']}
+{'geembeteerd': ['x', '@0', 'A0', 'm', 'b', 'E0', 't', 'e1', 'r', 't'], 'plombeert': ['p', 'l', 'O0', 'm', 'b', 'e1', 'r', 't']}
+{'gewaardeerd': ['x', '@0', 'w', 'a0', 'r', 'd', 'e1', 'r', 't'], 'culmineert': ['k', '}0', 'l', 'm', 'i0', 'n', 'e1', 'r', 't']}
+{'gekant': ['x', '@0', 'k', 'A1', 'n', 't'], 'extravagant': ['E0', 'k', 's', 't', 'r', 'a0', 'v', 'a0', 'G', 'A1', 'n', 't']}
+{'fossiliseer': ['f', 'O0', 's', 'i0', 'l', 'i0', 'z', 'e1', 'r'], 'keer': ['k', 'e1', 'r']}
+{'escamoteert': ['E0', 's', 'k', 'a0', 'm', 'o0', 't', 'e1', 'r', 't'], 'repareert': ['r', 'e0', 'p', 'a0', 'r', 'e1', 'r', 't']}
+{'bestand': ['b', '@0', 's', 't', 'A1', 'n', 't'], 'sympathisant': ['s', 'I0', 'm', 'p', 'a0', 't', 'i0', 's', 'A1', 'n', 't']}
+{'ongeemancipeerd': ['O0', 'N', 'G', '@0', 'e0', 'm', 'A0', 'n', 's', 'i0', 'p', 'e1', 'r', 't'], 'komplotteert': ['k', 'O0', 'm', 'p', 'l', 'O0', 't', 'e1', 'r', 't']}
+{'keer': ['k', 'e1', 'r'], 'moderniseer': ['m', 'o0', 'd', 'E0', 'r', 'n', 'i0', 'z', 'e1', 'r']}
+{'distantieert': ['d', 'I0', 's', 't', 'A0', 'n', 'S', 'e1', 'r', 't'], 'denatureert': ['d', 'e0', 'n', 'a0', 't', 'y0', 'r', 'e1', 'r', 't']}
+{'abundantst': ['a0', 'b', '}0', 'n', 'd', 'A1', 'n', 't', 's', 't'], 'briljantst': ['b', 'r', 'I0', 'l', 'j', 'A1', 'n', 't', 's', 't']}
+{'gekalibreerd': ['x', '@0', 'k', 'a0', 'l', 'i0', 'b', 'r', 'e1', 'r', 't'], 'gewaardeerd': ['x', '@0', 'w', 'a0', 'r', 'd', 'e1', 'r', 't']}
+{'volant': ['v', 'o0', 'l', 'A1', 'n', 't'], 'bestand': ['b', '@0', 's', 't', 'A1', 'n', 't']}
+{'toppenant': ['t', 'O0', 'p', '@0', 'n', 'A1', 'n', 't'], 'luitenant-adjudant': ['l', 'L0', 't', '@0', 'n', 'A1', 'n', 't', 'A0', 't', 'j', 'y0', 'd', 'A1', 'n', 't']}
+{'gewaardeerd': ['x', '@0', 'w', 'a0', 'r', 'd', 'e1', 'r', 't'], 'gestagneerd': ['x', '@0', 's', 't', 'A0', 'G', 'n', 'e1', 'r', 't']}
+{'volant': ['v', 'o0', 'l', 'A1', 'n', 't'], 'rekestrant': ['r', 'e0', 'k', 'E0', 's', 't', 'r', 'A1', 'n', 't']}
+{'jubileert': ['j', 'y0', 'b', 'i0', 'l', 'e1', 'r', 't'], 'fusioneert': ['f', 'y0', 'Z', 'o0', 'n', 'e1', 'r', 't']}
+{'beloer': ['b', '@0', 'l', 'u1', 'r'], 'hartenboer': ['h', 'A0', 'r', 't', '@0', 'b', 'u1', 'r']}
+{'geblancheerd': ['x', '@0', 'b', 'l', 'A0', 'n', 'S', 'e1', 'r', 't'], 'gekwadreerd': ['x', '@0', 'k', 'w', 'A0', 'd', 'r', 'e1', 'r', 't']}
+{'gezand': ['x', '@0', 'z', 'A1', 'n', 't'], 'ontbrand': ['O0', 'n', 'd', 'b', 'r', 'A1', 'n', 't']}
+{'gecontamineerd': ['x', '@0', 'k', 'O0', 'n', 't', 'a0', 'm', 'i0', 'n', 'e1', 'r', 't'], 'piketteert': ['p', 'i0', 'k', 'E0', 't', 'e1', 'r', 't']}
+{'triomfant': ['t', 'r', 'i0', 'j', 'O0', 'm', 'f', 'A1', 'n', 't'], 'overspant': ['o0', 'v', '@0', 'r', 's', 'p', 'A1', 'n', 't']}
+{'catalepsie': ['k', 'A0', 't', 'a0', 'l', 'E0', 'p', 's', 'i1'], 'biometrie': ['b', 'i0', 'j', 'o0', 'm', 'e0', 't', 'r', 'i1']}
+{'meert': ['m', 'e1', 'r', 't'], 'gefalsificeerd': ['x', '@0', 'f', 'A0', 'l', 's', 'i0', 'f', 'i0', 's', 'e1', 'r', 't']}
+{'variant': ['v', 'a0', 'r', 'i0', 'j', 'A1', 'n', 't'], 'chrysant': ['x', 'r', 'i0', 's', 'A1', 'n', 't']}
+{'toppenant': ['t', 'O0', 'p', '@0', 'n', 'A1', 'n', 't'], 'rekwestrant': ['r', 'e0', 'k', 'w', 'E0', 's', 't', 'r', 'A1', 'n', 't']}
+{'escamoteert': ['E0', 's', 'k', 'a0', 'm', 'o0', 't', 'e1', 'r', 't'], 'kristalliseert': ['k', 'r', 'I0', 's', 't', 'A0', 'l', 'i0', 'z', 'e1', 'r', 't']}
+{'platteband': ['p', 'l', 'A0', 't', '@0', 'b', 'A1', 'n', 't'], 'bestand': ['b', '@0', 's', 't', 'A1', 'n', 't']}
+{'triomfant': ['t', 'r', 'i0', 'j', 'O0', 'm', 'f', 'A1', 'n', 't'], 'ontbrand': ['O0', 'n', 'd', 'b', 'r', 'A1', 'n', 't']}
+{'meert': ['m', 'e1', 'r', 't'], 'gedemagnetiseerd': ['x', '@0', 'd', 'e0', 'm', 'A0', 'G', 'n', 'e0', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'flagrantst': ['f', 'l', 'A0', 'G', 'r', 'A1', 'n', 't', 's', 't'], 'briljantst': ['b', 'r', 'I0', 'l', 'j', 'A1', 'n', 't', 's', 't']}
+{'gepsalmodieerd': ['x', '@0', 'p', 's', 'A0', 'l', 'm', 'o0', 'd', 'i0', 'j', 'e1', 'r', 't'], 'geblancheerd': ['x', '@0', 'b', 'l', 'A0', 'n', 'S', 'e1', 'r', 't']}
+{'irrelevantst': ['I0', 'r', 'e0', 'l', '@0', 'v', 'A1', 'n', 't', 's', 't'], 'abondantst': ['a0', 'b', 'O0', 'n', 'd', 'A1', 'n', 't', 's', 't']}
+{'platteband': ['p', 'l', 'A0', 't', '@0', 'b', 'A1', 'n', 't'], 'mant': ['m', 'A1', 'n', 't']}
+{'hypnotiseert': ['h', 'i0', 'p', 'n', 'o0', 't', 'i0', 'z', 'e1', 'r', 't'], 'repareert': ['r', 'e0', 'p', 'a0', 'r', 'e1', 'r', 't']}
+{'passeer': ['p', 'A0', 's', 'e1', 'r'], 'devesteer': ['d', 'e0', 'v', 'E0', 's', 't', 'e1', 'r']}
+{'kwartaal': ['k', 'w', 'A0', 'r', 't', 'a1', 'l'], 'rituaal': ['r', 'i0', 't', 'y0', 'w', 'a1', 'l']}
+{'ontstaand': ['O0', 'n', 't', 's', 't', 'a1', 'n', 't'], 'geplaand': ['x', '@0', 'p', 'l', 'a1', 'n', 't']}
+{'gefalsificeerd': ['x', '@0', 'f', 'A0', 'l', 's', 'i0', 'f', 'i0', 's', 'e1', 'r', 't'], 'gedemagnetiseerd': ['x', '@0', 'd', 'e0', 'm', 'A0', 'G', 'n', 'e0', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'toppenant': ['t', 'O0', 'p', '@0', 'n', 'A1', 'n', 't'], 'gekant': ['x', '@0', 'k', 'A1', 'n', 't']}
+{'ruineer': ['r', 'y0', 'w', 'i0', 'n', 'e1', 'r'], 'devesteer': ['d', 'e0', 'v', 'E0', 's', 't', 'e1', 'r']}
+{'deposant': ['d', 'e0', 'p', 'o0', 'Z', 'A1', 'n', 't'], 'rekwestrant': ['r', 'e0', 'k', 'w', 'E0', 's', 't', 'r', 'A1', 'n', 't']}
+{'confirmeert': ['k', 'O0', 'n', 'f', 'I0', 'r', 'm', 'e1', 'r', 't'], 'toupeert': ['t', 'u0', 'p', 'e1', 'r', 't']}
+{'convenant': ['k', 'O0', 'n', 'v', '@0', 'n', 'A1', 'n', 't'], 'contribuant': ['k', 'O0', 'n', 't', 'r', 'i0', 'b', 'y0', 'w', 'A1', 'n', 't']}
+{'desorganiseert': ['d', 'E0', 's', 'O0', 'r', 'G', 'a0', 'n', 'i0', 'z', 'e1', 'r', 't'], 'epateert': ['e0', 'p', 'a0', 't', 'e1', 'r', 't']}
+{'deposant': ['d', 'e0', 'p', 'o0', 'Z', 'A1', 'n', 't'], 'plant': ['p', 'l', 'A1', 'n', 't']}
+{'riskantst': ['r', 'I0', 's', 'k', 'A1', 'n', 't', 's', 't'], 'abundantst': ['a0', 'b', '}0', 'n', 'd', 'A1', 'n', 't', 's', 't']}
+{'intrigantst': ['I0', 'n', 't', 'r', 'i0', 'G', 'A1', 'n', 't', 's', 't'], 'briljantst': ['b', 'r', 'I0', 'l', 'j', 'A1', 'n', 't', 's', 't']}
+{'ontbeerd': ['O0', 'n', 'd', 'b', 'e1', 'r', 't'], 'anatomiseert': ['a0', 'n', 'a0', 't', 'o0', 'm', 'i0', 'z', 'e1', 'r', 't']}
+{'fazant': ['f', 'a0', 'z', 'A1', 'n', 't'], 'convenant': ['k', 'O0', 'n', 'v', '@0', 'n', 'A1', 'n', 't']}
+{'volant': ['v', 'o0', 'l', 'A1', 'n', 't'], 'fazant': ['f', 'a0', 'z', 'A1', 'n', 't']}
+{'pirouetteert': ['p', 'i0', 'r', 'u0', 'w', 'E0', 't', 'e1', 'r', 't'], 'geamortiseerd': ['x', '@0', 'a0', 'm', 'O0', 'r', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'transmuteert': ['t', 'r', 'A0', 'n', 's', 'm', 'y0', 't', 'e1', 'r', 't'], 'communiceert': ['k', 'O0', 'm', 'y0', 'n', 'i0', 's', 'e1', 'r', 't']}
+{'mant': ['m', 'A1', 'n', 't'], 'sympathisant': ['s', 'I0', 'm', 'p', 'a0', 't', 'i0', 's', 'A1', 'n', 't']}
+{'solemniseer': ['s', 'o0', 'l', 'E0', 'm', 'n', 'i0', 'z', 'e1', 'r'], 'devesteer': ['d', 'e0', 'v', 'E0', 's', 't', 'e1', 'r']}
+{'gepousseerd': ['x', '@0', 'p', 'u0', 's', 'e1', 'r', 't'], 'tarifeert': ['t', 'a0', 'r', 'i0', 'f', 'e1', 'r', 't']}
+{'geroutineerd': ['x', '@0', 'r', 'u0', 't', 'i0', 'n', 'e1', 'r', 't'], 'geitereerd': ['x', '@0', 'i0', 't', '@0', 'r', 'e1', 'r', 't']}
+{'agiteert': ['a0', 'G', 'i0', 't', 'e1', 'r', 't'], 'gireert': ['x', 'i0', 'r', 'e1', 'r', 't']}
+{'multipliceer': ['m', '}0', 'l', 't', 'i0', 'p', 'l', 'i0', 's', 'e1', 'r'], 'moderniseer': ['m', 'o0', 'd', 'E0', 'r', 'n', 'i0', 'z', 'e1', 'r']}
+{'passeer': ['p', 'A0', 's', 'e1', 'r'], 'ruineer': ['r', 'y0', 'w', 'i0', 'n', 'e1', 'r']}
+{'acceptant': ['A0', 'k', 's', 'E0', 'p', 't', 'A1', 'n', 't'], 'convenant': ['k', 'O0', 'n', 'v', '@0', 'n', 'A1', 'n', 't']}
+{'jubileert': ['j', 'y0', 'b', 'i0', 'l', 'e1', 'r', 't'], 'geextensiveerd': ['x', '@0', 'E0', 'k', 's', 't', 'E0', 'n', 'z', 'i0', 'v', 'e1', 'r', 't']}
+{'debitant': ['d', 'e0', 'b', 'i0', 't', 'A1', 'n', 't'], 'rekestrant': ['r', 'e0', 'k', 'E0', 's', 't', 'r', 'A1', 'n', 't']}
+{'hypnotiseert': ['h', 'i0', 'p', 'n', 'o0', 't', 'i0', 'z', 'e1', 'r', 't'], 'comprimeert': ['k', 'O0', 'm', 'p', 'r', 'i0', 'm', 'e1', 'r', 't']}
+{'gepsalmodieerd': ['x', '@0', 'p', 's', 'A0', 'l', 'm', 'o0', 'd', 'i0', 'j', 'e1', 'r', 't'], 'gecontamineerd': ['x', '@0', 'k', 'O0', 'n', 't', 'a0', 'm', 'i0', 'n', 'e1', 'r', 't']}
+{'platteband': ['p', 'l', 'A0', 't', '@0', 'b', 'A1', 'n', 't'], 'contribuant': ['k', 'O0', 'n', 't', 'r', 'i0', 'b', 'y0', 'w', 'A1', 'n', 't']}
+{'fazant': ['f', 'a0', 'z', 'A1', 'n', 't'], 'luitenant-adjudant': ['l', 'L0', 't', '@0', 'n', 'A1', 'n', 't', 'A0', 't', 'j', 'y0', 'd', 'A1', 'n', 't']}
+{'triomfant': ['t', 'r', 'i0', 'j', 'O0', 'm', 'f', 'A1', 'n', 't'], 'debitant': ['d', 'e0', 'b', 'i0', 't', 'A1', 'n', 't']}
+{'bacchant': ['b', 'A0', 'x', 'A1', 'n', 't'], 'ontbrand': ['O0', 'n', 'd', 'b', 'r', 'A1', 'n', 't']}
+{'gekwadreerd': ['x', '@0', 'k', 'w', 'A0', 'd', 'r', 'e1', 'r', 't'], 'gesubsidieerd': ['x', '@0', 's', '}0', 'p', 's', 'i0', 'd', 'i0', 'j', 'e1', 'r', 't']}
+{'gemaand': ['x', '@0', 'm', 'a1', 'n', 't'], 'gaand': ['x', 'a1', 'n', 't']}
+{'gecontamineerd': ['x', '@0', 'k', 'O0', 'n', 't', 'a0', 'm', 'i0', 'n', 'e1', 'r', 't'], 'agiteert': ['a0', 'G', 'i0', 't', 'e1', 'r', 't']}
+{'geobjectiveerd': ['x', '@0', 'O0', 'b', 'j', 'E0', 'k', 't', 'i0', 'v', 'e1', 'r', 't'], 'vergaloppeert': ['v', '@0', 'r', 'G', 'a0', 'l', 'O0', 'p', 'e1', 'r', 't']}
+{'platteband': ['p', 'l', 'A0', 't', '@0', 'b', 'A1', 'n', 't'], 'gezand': ['x', '@0', 'z', 'A1', 'n', 't']}
+{'toppenant': ['t', 'O0', 'p', '@0', 'n', 'A1', 'n', 't'], 'bacchant': ['b', 'A0', 'x', 'A1', 'n', 't']}
+{'conglutineer': ['k', 'O0', 'N', 'G', 'l', 'y0', 't', 'i0', 'n', 'e1', 'r'], 'enthousiasmeer': ['E0', 'n', 't', 'u0', 'Z', 'A0', 's', 'm', 'e1', 'r']}
+{'desorganiseert': ['d', 'E0', 's', 'O0', 'r', 'G', 'a0', 'n', 'i0', 'z', 'e1', 'r', 't'], 'communiceert': ['k', 'O0', 'm', 'y0', 'n', 'i0', 's', 'e1', 'r', 't']}
+{'intrigantst': ['I0', 'n', 't', 'r', 'i0', 'G', 'A1', 'n', 't', 's', 't'], 'abundantst': ['a0', 'b', '}0', 'n', 'd', 'A1', 'n', 't', 's', 't']}
+{'geitereerd': ['x', '@0', 'i0', 't', '@0', 'r', 'e1', 'r', 't'], 'exciteert': ['E0', 'k', 's', 'i0', 't', 'e1', 'r', 't']}
+{'repareert': ['r', 'e0', 'p', 'a0', 'r', 'e1', 'r', 't'], 'kristalliseert': ['k', 'r', 'I0', 's', 't', 'A0', 'l', 'i0', 'z', 'e1', 'r', 't']}
+{'rekestrant': ['r', 'e0', 'k', 'E0', 's', 't', 'r', 'A1', 'n', 't'], 'sympathisant': ['s', 'I0', 'm', 'p', 'a0', 't', 'i0', 's', 'A1', 'n', 't']}
+{'triomfant': ['t', 'r', 'i0', 'j', 'O0', 'm', 'f', 'A1', 'n', 't'], 'rekwestrant': ['r', 'e0', 'k', 'w', 'E0', 's', 't', 'r', 'A1', 'n', 't']}
+{'toppenant': ['t', 'O0', 'p', '@0', 'n', 'A1', 'n', 't'], 'fazant': ['f', 'a0', 'z', 'A1', 'n', 't']}
+{'individualiseert': ['I0', 'n', 'd', 'i0', 'v', 'i0', 'd', 'y0', 'w', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't'], 'gepivoteerd': ['x', '@0', 'p', 'i0', 'v', 'o0', 't', 'e1', 'r', 't']}
+{'toppenant': ['t', 'O0', 'p', '@0', 'n', 'A1', 'n', 't'], 'ontbrand': ['O0', 'n', 'd', 'b', 'r', 'A1', 'n', 't']}
+{'alumiseert': ['a0', 'l', 'y0', 'm', 'i0', 'z', 'e1', 'r', 't'], 'komplotteert': ['k', 'O0', 'm', 'p', 'l', 'O0', 't', 'e1', 'r', 't']}
+{'gebrand': ['x', '@0', 'b', 'r', 'A1', 'n', 't'], 'luitenant-adjudant': ['l', 'L0', 't', '@0', 'n', 'A1', 'n', 't', 'A0', 't', 'j', 'y0', 'd', 'A1', 'n', 't']}
+{'agiteert': ['a0', 'G', 'i0', 't', 'e1', 'r', 't'], 'gedemagnetiseerd': ['x', '@0', 'd', 'e0', 'm', 'A0', 'G', 'n', 'e0', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'riskantst': ['r', 'I0', 's', 'k', 'A1', 'n', 't', 's', 't'], 'degoutantst': ['d', 'e0', 'G', 'u0', 't', 'A1', 'n', 't', 's', 't']}
+{'fondant': ['f', 'O0', 'n', 'd', 'A1', 'n', 't'], 'gezand': ['x', '@0', 'z', 'A1', 'n', 't']}
+{'convenant': ['k', 'O0', 'n', 'v', '@0', 'n', 'A1', 'n', 't'], 'ontbrand': ['O0', 'n', 'd', 'b', 'r', 'A1', 'n', 't']}
+{'staand': ['s', 't', 'a1', 'n', 't'], 'geplaand': ['x', '@0', 'p', 'l', 'a1', 'n', 't']}
+{'gepsalmodieerd': ['x', '@0', 'p', 's', 'A0', 'l', 'm', 'o0', 'd', 'i0', 'j', 'e1', 'r', 't'], 'meert': ['m', 'e1', 'r', 't']}
+{'deposant': ['d', 'e0', 'p', 'o0', 'Z', 'A1', 'n', 't'], 'constant': ['k', 'O0', 'n', 's', 't', 'A1', 'n', 't']}
+{'triomfant': ['t', 'r', 'i0', 'j', 'O0', 'm', 'f', 'A1', 'n', 't'], 'deposant': ['d', 'e0', 'p', 'o0', 'Z', 'A1', 'n', 't']}
+{'luitenant-adjudant': ['l', 'L0', 't', '@0', 'n', 'A1', 'n', 't', 'A0', 't', 'j', 'y0', 'd', 'A1', 'n', 't'], 'chrysant': ['x', 'r', 'i0', 's', 'A1', 'n', 't']}
+{'geextensiveerd': ['x', '@0', 'E0', 'k', 's', 't', 'E0', 'n', 'z', 'i0', 'v', 'e1', 'r', 't'], 'palissadeert': ['p', 'a0', 'l', 'i0', 's', 'a0', 'd', 'e1', 'r', 't']}
+{'incorporeer': ['I0', 'N', 'k', 'O0', 'r', 'p', 'o0', 'r', 'e1', 'r'], 'troposfeer': ['t', 'r', 'o0', 'p', 'O0', 's', 'f', 'e1', 'r']}
+{'saboteert': ['s', 'A0', 'b', 'o0', 't', 'e1', 'r', 't'], 'geamortiseerd': ['x', '@0', 'a0', 'm', 'O0', 'r', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'retracteer': ['r', 'e0', 't', 'r', 'A0', 'k', 't', 'e1', 'r'], 'charmeer': ['S', 'A0', 'r', 'm', 'e1', 'r']}
+{'debitant': ['d', 'e0', 'b', 'i0', 't', 'A1', 'n', 't'], 'ontbrand': ['O0', 'n', 'd', 'b', 'r', 'A1', 'n', 't']}
+{'fondant': ['f', 'O0', 'n', 'd', 'A1', 'n', 't'], 'plant': ['p', 'l', 'A1', 'n', 't']}
+{'gerebelleerd': ['x', '@0', 'r', '@0', 'b', 'E0', 'l', 'e1', 'r', 't'], 'meert': ['m', 'e1', 'r', 't']}
+{'negeert': ['n', '@0', 'G', 'e1', 'r', 't'], 'soupeert': ['s', 'u0', 'p', 'e1', 'r', 't']}
+{'gerebelleerd': ['x', '@0', 'r', '@0', 'b', 'E0', 'l', 'e1', 'r', 't'], 'agiteert': ['a0', 'G', 'i0', 't', 'e1', 'r', 't']}
+{'irrelevantst': ['I0', 'r', 'e0', 'l', '@0', 'v', 'A1', 'n', 't', 's', 't'], 'degoutantst': ['d', 'e0', 'G', 'u0', 't', 'A1', 'n', 't', 's', 't']}
+{'geblancheerd': ['x', '@0', 'b', 'l', 'A0', 'n', 'S', 'e1', 'r', 't'], 'vergaloppeert': ['v', '@0', 'r', 'G', 'a0', 'l', 'O0', 'p', 'e1', 'r', 't']}
+{'gekant': ['x', '@0', 'k', 'A1', 'n', 't'], 'sympathisant': ['s', 'I0', 'm', 'p', 'a0', 't', 'i0', 's', 'A1', 'n', 't']}
+{'mant': ['m', 'A1', 'n', 't'], 'gezand': ['x', '@0', 'z', 'A1', 'n', 't']}
+{'rekwestrant': ['r', 'e0', 'k', 'w', 'E0', 's', 't', 'r', 'A1', 'n', 't'], 'luitenant-adjudant': ['l', 'L0', 't', '@0', 'n', 'A1', 'n', 't', 'A0', 't', 'j', 'y0', 'd', 'A1', 'n', 't']}
+{'agiteert': ['a0', 'G', 'i0', 't', 'e1', 'r', 't'], 'gefalsificeerd': ['x', '@0', 'f', 'A0', 'l', 's', 'i0', 'f', 'i0', 's', 'e1', 'r', 't']}
+{'gekant': ['x', '@0', 'k', 'A1', 'n', 't'], 'contribuant': ['k', 'O0', 'n', 't', 'r', 'i0', 'b', 'y0', 'w', 'A1', 'n', 't']}
+{'gecollabeerd': ['x', '@0', 'k', 'O0', 'l', 'a0', 'b', 'e1', 'r', 't'], 'geaccrediteerd': ['x', '@0', 'A0', 'k', 'r', 'e0', 'd', 'i0', 't', 'e1', 'r', 't']}
+{'palissadeert': ['p', 'a0', 'l', 'i0', 's', 'a0', 'd', 'e1', 'r', 't'], 'gemineerd': ['x', '@0', 'm', 'i0', 'n', 'e1', 'r', 't']}
+{'gekwadreerd': ['x', '@0', 'k', 'w', 'A0', 'd', 'r', 'e1', 'r', 't'], 'gedemagnetiseerd': ['x', '@0', 'd', 'e0', 'm', 'A0', 'G', 'n', 'e0', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'constant': ['k', 'O0', 'n', 's', 't', 'A1', 'n', 't'], 'fazant': ['f', 'a0', 'z', 'A1', 'n', 't']}
+{'embarkeert': ['E0', 'm', 'b', 'A0', 'r', 'k', 'e1', 'r', 't'], 'epateert': ['e0', 'p', 'a0', 't', 'e1', 'r', 't']}
+{'gekant': ['x', '@0', 'k', 'A1', 'n', 't'], 'acceptant': ['A0', 'k', 's', 'E0', 'p', 't', 'A1', 'n', 't']}
+{'gedetoneerd': ['x', '@0', 'd', 'e0', 't', 'o0', 'n', 'e1', 'r', 't'], 'toupeert': ['t', 'u0', 'p', 'e1', 'r', 't']}
+{'specialite': ['s', 'p', 'e0', 'S', 'a0', 'l', 'i0', 't', 'e1'], 'rez-de-chaussee': ['r', 'e0', 'd', '@0', 'S', 'o0', 's', 'e1']}
+{'chrysant': ['x', 'r', 'i0', 's', 'A1', 'n', 't'], 'extravagant': ['E0', 'k', 's', 't', 'r', 'a0', 'v', 'a0', 'G', 'A1', 'n', 't']}
+{'saboteert': ['s', 'A0', 'b', 'o0', 't', 'e1', 'r', 't'], 'individualiseert': ['I0', 'n', 'd', 'i0', 'v', 'i0', 'd', 'y0', 'w', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't']}
+{'deviantst': ['d', 'e0', 'v', 'i0', 'j', 'A1', 'n', 't', 's', 't'], 'irritantst': ['I0', 'r', 'i0', 't', 'A1', 'n', 't', 's', 't']}
+{'acceptant': ['A0', 'k', 's', 'E0', 'p', 't', 'A1', 'n', 't'], 'plant': ['p', 'l', 'A1', 'n', 't']}
+{'debitant': ['d', 'e0', 'b', 'i0', 't', 'A1', 'n', 't'], 'fazant': ['f', 'a0', 'z', 'A1', 'n', 't']}
+{'hypnotiseert': ['h', 'i0', 'p', 'n', 'o0', 't', 'i0', 'z', 'e1', 'r', 't'], 'alieneert': ['a0', 'l', 'i0', 'j', 'e0', 'n', 'e1', 'r', 't']}
+{'gireert': ['x', 'i0', 'r', 'e1', 'r', 't'], 'vergaloppeert': ['v', '@0', 'r', 'G', 'a0', 'l', 'O0', 'p', 'e1', 'r', 't']}
+{'getantaliseerd': ['x', '@0', 't', 'A0', 'n', 't', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't'], 'denatureert': ['d', 'e0', 'n', 'a0', 't', 'y0', 'r', 'e1', 'r', 't']}
+{'comprimeert': ['k', 'O0', 'm', 'p', 'r', 'i0', 'm', 'e1', 'r', 't'], 'kristalliseert': ['k', 'r', 'I0', 's', 't', 'A0', 'l', 'i0', 'z', 'e1', 'r', 't']}
+{'meert': ['m', 'e1', 'r', 't'], 'vergaloppeert': ['v', '@0', 'r', 'G', 'a0', 'l', 'O0', 'p', 'e1', 'r', 't']}
+{'gebrand': ['x', '@0', 'b', 'r', 'A1', 'n', 't'], 'extravagant': ['E0', 'k', 's', 't', 'r', 'a0', 'v', 'a0', 'G', 'A1', 'n', 't']}
+{'constant': ['k', 'O0', 'n', 's', 't', 'A1', 'n', 't'], 'rekestrant': ['r', 'e0', 'k', 'E0', 's', 't', 'r', 'A1', 'n', 't']}
+{'saboteert': ['s', 'A0', 'b', 'o0', 't', 'e1', 'r', 't'], 'jubileert': ['j', 'y0', 'b', 'i0', 'l', 'e1', 'r', 't']}
+{'mant': ['m', 'A1', 'n', 't'], 'contribuant': ['k', 'O0', 'n', 't', 'r', 'i0', 'b', 'y0', 'w', 'A1', 'n', 't']}
+{'extravagant': ['E0', 'k', 's', 't', 'r', 'a0', 'v', 'a0', 'G', 'A1', 'n', 't'], 'contribuant': ['k', 'O0', 'n', 't', 'r', 'i0', 'b', 'y0', 'w', 'A1', 'n', 't']}
+{'monoftongeert': ['m', 'o0', 'n', 'O0', 'f', 't', 'O0', 'N', 'G', 'e1', 'r', 't'], 'gepivoteerd': ['x', '@0', 'p', 'i0', 'v', 'o0', 't', 'e1', 'r', 't']}
+{'gefalsificeerd': ['x', '@0', 'f', 'A0', 'l', 's', 'i0', 'f', 'i0', 's', 'e1', 'r', 't'], 'gekwadreerd': ['x', '@0', 'k', 'w', 'A0', 'd', 'r', 'e1', 'r', 't']}
+{'hydrateert': ['h', 'i0', 'd', 'r', 'a0', 't', 'e1', 'r', 't'], 'communiceert': ['k', 'O0', 'm', 'y0', 'n', 'i0', 's', 'e1', 'r', 't']}
+{'pikantst': ['p', 'i0', 'k', 'A1', 'n', 't', 's', 't'], 'intrigantst': ['I0', 'n', 't', 'r', 'i0', 'G', 'A1', 'n', 't', 's', 't']}
+{'vergaloppeert': ['v', '@0', 'r', 'G', 'a0', 'l', 'O0', 'p', 'e1', 'r', 't'], 'gesubsidieerd': ['x', '@0', 's', '}0', 'p', 's', 'i0', 'd', 'i0', 'j', 'e1', 'r', 't']}
+{'gekant': ['x', '@0', 'k', 'A1', 'n', 't'], 'fondant': ['f', 'O0', 'n', 'd', 'A1', 'n', 't']}
+{'agiteert': ['a0', 'G', 'i0', 't', 'e1', 'r', 't'], 'vergaloppeert': ['v', '@0', 'r', 'G', 'a0', 'l', 'O0', 'p', 'e1', 'r', 't']}
+{'irrelevantst': ['I0', 'r', 'e0', 'l', '@0', 'v', 'A1', 'n', 't', 's', 't'], 'intrigantst': ['I0', 'n', 't', 'r', 'i0', 'G', 'A1', 'n', 't', 's', 't']}
+{'ontstaand': ['O0', 'n', 't', 's', 't', 'a1', 'n', 't'], 'beslaand': ['b', '@0', 's', 'l', 'a1', 'n', 't']}
+{'monoftongeert': ['m', 'o0', 'n', 'O0', 'f', 't', 'O0', 'N', 'G', 'e1', 'r', 't'], 'gemineerd': ['x', '@0', 'm', 'i0', 'n', 'e1', 'r', 't']}
+{'rekestrant': ['r', 'e0', 'k', 'E0', 's', 't', 'r', 'A1', 'n', 't'], 'bacchant': ['b', 'A0', 'x', 'A1', 'n', 't']}
+{'arroseert': ['A0', 'r', 'o0', 'z', 'e1', 'r', 't'], 'exciteert': ['E0', 'k', 's', 'i0', 't', 'e1', 'r', 't']}
+{'geextensiveerd': ['x', '@0', 'E0', 'k', 's', 't', 'E0', 'n', 'z', 'i0', 'v', 'e1', 'r', 't'], 'pirouetteert': ['p', 'i0', 'r', 'u0', 'w', 'E0', 't', 'e1', 'r', 't']}
+{'fluidiseert': ['f', 'l', 'y0', 'w', 'i0', 'd', 'i0', 'z', 'e1', 'r', 't'], 'gireert': ['x', 'i0', 'r', 'e1', 'r', 't']}
+{'gecarboniseerd': ['x', '@0', 'k', 'A0', 'r', 'b', 'o0', 'n', 'i0', 'z', 'e1', 'r', 't'], 'fusioneert': ['f', 'y0', 'Z', 'o0', 'n', 'e1', 'r', 't']}
+{'platteband': ['p', 'l', 'A0', 't', '@0', 'b', 'A1', 'n', 't'], 'overspant': ['o0', 'v', '@0', 'r', 's', 'p', 'A1', 'n', 't']}
+{'ontbeer': ['O0', 'n', 'd', 'b', 'e1', 'r'], 'chromosfeer': ['x', 'r', 'o0', 'm', 'o0', 's', 'f', 'e1', 'r']}
+{'gekalibreerd': ['x', '@0', 'k', 'a0', 'l', 'i0', 'b', 'r', 'e1', 'r', 't'], 'gestagneerd': ['x', '@0', 's', 't', 'A0', 'G', 'n', 'e1', 'r', 't']}
+{'rekwestrant': ['r', 'e0', 'k', 'w', 'E0', 's', 't', 'r', 'A1', 'n', 't'], 'acceptant': ['A0', 'k', 's', 'E0', 'p', 't', 'A1', 'n', 't']}
+{'rekwestrant': ['r', 'e0', 'k', 'w', 'E0', 's', 't', 'r', 'A1', 'n', 't'], 'extravagant': ['E0', 'k', 's', 't', 'r', 'a0', 'v', 'a0', 'G', 'A1', 'n', 't']}
+{'rekwisiteur': ['r', 'e0', 'k', 'w', 'i0', 's', 'i0', 't', '|1', 'r'], 'hoofdagent-rechercheur': ['h', 'o1', 'v', 'd', 'a0', 'G', 'E0', 'n', 't', 'r', 'e0', 'S', 'E0', 'r', 'S', '|1', 'r']}
+{'acceptant': ['A0', 'k', 's', 'E0', 'p', 't', 'A1', 'n', 't'], 'overspant': ['o0', 'v', '@0', 'r', 's', 'p', 'A1', 'n', 't']}
+{'geextensiveerd': ['x', '@0', 'E0', 'k', 's', 't', 'E0', 'n', 'z', 'i0', 'v', 'e1', 'r', 't'], 'geamortiseerd': ['x', '@0', 'a0', 'm', 'O0', 'r', 't', 'i0', 'z', 'e1', 'r', 't']}
+{'rekestrant': ['r', 'e0', 'k', 'E0', 's', 't', 'r', 'A1', 'n', 't'], 'plant': ['p', 'l', 'A1', 'n', 't']}
+{'gekant': ['x', '@0', 'k', 'A1', 'n', 't'], 'debitant': ['d', 'e0', 'b', 'i0', 't', 'A1', 'n', 't']}
+{'gerebelleerd': ['x', '@0', 'r', '@0', 'b', 'E0', 'l', 'e1', 'r', 't'], 'gekwadreerd': ['x', '@0', 'k', 'w', 'A0', 'd', 'r', 'e1', 'r', 't']}
+{'exhibeert': ['E0', 'k', 's', 'i0', 'b', 'e1', 'r', 't'], 'gekalibreerd': ['x', '@0', 'k', 'a0', 'l', 'i0', 'b', 'r', 'e1', 'r', 't']}
+{'geamortiseerd': ['x', '@0', 'a0', 'm', 'O0', 'r', 't', 'i0', 'z', 'e1', 'r', 't'], 'monoftongeert': ['m', 'o0', 'n', 'O0', 'f', 't', 'O0', 'N', 'G', 'e1', 'r', 't']}
+{'geitereerd': ['x', '@0', 'i0', 't', '@0', 'r', 'e1', 'r', 't'], 'desorganiseert': ['d', 'E0', 's', 'O0', 'r', 'G', 'a0', 'n', 'i0', 'z', 'e1', 'r', 't']}
+{'volant': ['v', 'o0', 'l', 'A1', 'n', 't'], 'contribuant': ['k', 'O0', 'n', 't', 'r', 'i0', 'b', 'y0', 'w', 'A1', 'n', 't']}
+{'geembeteerd': ['x', '@0', 'A0', 'm', 'b', 'E0', 't', 'e1', 'r', 't'], 'tarifeert': ['t', 'a0', 'r', 'i0', 'f', 'e1', 'r', 't']}
+{'gepousseerd': ['x', '@0', 'p', 'u0', 's', 'e1', 'r', 't'], 'negeert': ['n', '@0', 'G', 'e1', 'r', 't']}
+{'anatomiseert': ['a0', 'n', 'a0', 't', 'o0', 'm', 'i0', 'z', 'e1', 'r', 't'], 'gestagneerd': ['x', '@0', 's', 't', 'A0', 'G', 'n', 'e1', 'r', 't']}
+{'extravagant': ['E0', 'k', 's', 't', 'r', 'a0', 'v', 'a0', 'G', 'A1', 'n', 't'], 'plant': ['p', 'l', 'A1', 'n', 't']}
+{'triomfant': ['t', 'r', 'i0', 'j', 'O0', 'm', 'f', 'A1', 'n', 't'], 'chrysant': ['x', 'r', 'i0', 's', 'A1', 'n', 't']}
+{'gecarboniseerd': ['x', '@0', 'k', 'A0', 'r', 'b', 'o0', 'n', 'i0', 'z', 'e1', 'r', 't'], 'gemineerd': ['x', '@0', 'm', 'i0', 'n', 'e1', 'r', 't']}
+{'rekestrant': ['r', 'e0', 'k', 'E0', 's', 't', 'r', 'A1', 'n', 't'], 'overspant': ['o0', 'v', '@0', 'r', 's', 'p', 'A1', 'n', 't']}
+{'triomfant': ['t', 'r', 'i0', 'j', 'O0', 'm', 'f', 'A1', 'n', 't'], 'contribuant': ['k', 'O0', 'n', 't', 'r', 'i0', 'b', 'y0', 'w', 'A1', 'n', 't']}
+{'convenant': ['k', 'O0', 'n', 'v', '@0', 'n', 'A1', 'n', 't'], 'extravagant': ['E0', 'k', 's', 't', 'r', 'a0', 'v', 'a0', 'G', 'A1', 'n', 't']}
+{'luitenant-adjudant': ['l', 'L0', 't', '@0', 'n', 'A1', 'n', 't', 'A0', 't', 'j', 'y0', 'd', 'A1', 'n', 't'], 'contribuant': ['k', 'O0', 'n', 't', 'r', 'i0', 'b', 'y0', 'w', 'A1', 'n', 't']}
+{'acceptant': ['A0', 'k', 's', 'E0', 'p', 't', 'A1', 'n', 't'], 'bacchant': ['b', 'A0', 'x', 'A1', 'n', 't']}
+{'constant': ['k', 'O0', 'n', 's', 't', 'A1', 'n', 't'], 'convenant': ['k', 'O0', 'n', 'v', '@0', 'n', 'A1', 'n', 't']}
+{'piketteert': ['p', 'i0', 'k', 'E0', 't', 'e1', 'r', 't'], 'vergaloppeert': ['v', '@0', 'r', 'G', 'a0', 'l', 'O0', 'p', 'e1', 'r', 't']}
+{'platteband': ['p', 'l', 'A0', 't', '@0', 'b', 'A1', 'n', 't'], 'sympathisant': ['s', 'I0', 'm', 'p', 'a0', 't', 'i0', 's', 'A1', 'n', 't']}
+{'gedesavoueerd': ['x', '@0', 'd', 'E0', 's', 'a0', 'v', 'u0', 'w', 'e1', 'r', 't'], 'plombeert': ['p', 'l', 'O0', 'm', 'b', 'e1', 'r', 't']}
+{'digitaliseert': ['d', 'i0', 'G', 'i0', 't', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't'], 'exhibeert': ['E0', 'k', 's', 'i0', 'b', 'e1', 'r', 't']}
+{'melancholie': ['m', 'e0', 'l', 'A0', 'N', 'x', 'o0', 'l', 'i1'], 'semasiologie': ['s', 'e0', 'm', 'a0', 'S', 'o0', 'l', 'o0', 'G', 'i1']}
+{'triomfant': ['t', 'r', 'i0', 'j', 'O0', 'm', 'f', 'A1', 'n', 't'], 'fazant': ['f', 'a0', 'z', 'A1', 'n', 't']}
+{'geextensiveerd': ['x', '@0', 'E0', 'k', 's', 't', 'E0', 'n', 'z', 'i0', 'v', 'e1', 'r', 't'], 'fusioneert': ['f', 'y0', 'Z', 'o0', 'n', 'e1', 'r', 't']}
+{'triomfant': ['t', 'r', 'i0', 'j', 'O0', 'm', 'f', 'A1', 'n', 't'], 'convenant': ['k', 'O0', 'n', 'v', '@0', 'n', 'A1', 'n', 't']}
+{'gepousseerd': ['x', '@0', 'p', 'u0', 's', 'e1', 'r', 't'], 'plombeert': ['p', 'l', 'O0', 'm', 'b', 'e1', 'r', 't']}
+{'individualiseert': ['I0', 'n', 'd', 'i0', 'v', 'i0', 'd', 'y0', 'w', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't'], 'gestationeerd': ['x', '@0', 's', 't', 'A0', 't', 'S', 'o0', 'n', 'e1', 'r', 't']}
+{'embarkeert': ['E0', 'm', 'b', 'A0', 'r', 'k', 'e1', 'r', 't'], 'desorganiseert': ['d', 'E0', 's', 'O0', 'r', 'G', 'a0', 'n', 'i0', 'z', 'e1', 'r', 't']}
+{'comprimeert': ['k', 'O0', 'm', 'p', 'r', 'i0', 'm', 'e1', 'r', 't'], 'ongeclausuleerd': ['O0', 'N', 'G', '@0', 'k', 'l', 'M0', 'z', 'y0', 'l', 'e1', 'r', 't']}
+{'bestand': ['b', '@0', 's', 't', 'A1', 'n', 't'], 'gebrand': ['x', '@0', 'b', 'r', 'A1', 'n', 't']}
+{'gezand': ['x', '@0', 'z', 'A1', 'n', 't'], 'luitenant-adjudant': ['l', 'L0', 't', '@0', 'n', 'A1', 'n', 't', 'A0', 't', 'j', 'y0', 'd', 'A1', 'n', 't']}
+{'bezeer': ['b', '@0', 'z', 'e1', 'r'], 'ontbeer': ['O0', 'n', 'd', 'b', 'e1', 'r']}
+{'confirmeert': ['k', 'O0', 'n', 'f', 'I0', 'r', 'm', 'e1', 'r', 't'], 'gedetoneerd': ['x', '@0', 'd', 'e0', 't', 'o0', 'n', 'e1', 'r', 't']}
+{'exhibeert': ['E0', 'k', 's', 'i0', 'b', 'e1', 'r', 't'], 'gestagneerd': ['x', '@0', 's', 't', 'A0', 'G', 'n', 'e1', 'r', 't']}
+{'briljantst': ['b', 'r', 'I0', 'l', 'j', 'A1', 'n', 't', 's', 't'], 'degoutantst': ['d', 'e0', 'G', 'u0', 't', 'A1', 'n', 't', 's', 't']}
+{'deposant': ['d', 'e0', 'p', 'o0', 'Z', 'A1', 'n', 't'], 'ontbrand': ['O0', 'n', 'd', 'b', 'r', 'A1', 'n', 't']}
+{'digitaliseert': ['d', 'i0', 'G', 'i0', 't', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't'], 'eclipseert': ['e0', 'k', 'l', 'I0', 'p', 's', 'e1', 'r', 't']}
+{'toppenant': ['t', 'O0', 'p', '@0', 'n', 'A1', 'n', 't'], 'volant': ['v', 'o0', 'l', 'A1', 'n', 't']}
+{'advocaat': ['A0', 't', 'f', 'o0', 'k', 'a1', 't'], 'correlaat': ['k', 'O0', 'r', '@0', 'l', 'a1', 't']}
+{'geblancheerd': ['x', '@0', 'b', 'l', 'A0', 'n', 'S', 'e1', 'r', 't'], 'fluidiseert': ['f', 'l', 'y0', 'w', 'i0', 'd', 'i0', 'z', 'e1', 'r', 't']}
+{'acceptant': ['A0', 'k', 's', 'E0', 'p', 't', 'A1', 'n', 't'], 'sympathisant': ['s', 'I0', 'm', 'p', 'a0', 't', 'i0', 's', 'A1', 'n', 't']}
+{'digitaliseert': ['d', 'i0', 'G', 'i0', 't', 'a0', 'l', 'i0', 'z', 'e1', 'r', 't'], 'ontbeerd': ['O0', 'n', 'd', 'b', 'e1', 'r', 't']}
+{'fondant': ['f', 'O0', 'n', 'd', 'A1', 'n', 't'], 'ontbrand': ['O0', 'n', 'd', 'b', 'r', 'A1', 'n', 't']}
+{'mant': ['m', 'A1', 'n', 't'], 'overspant': ['o0', 'v', '@0', 'r', 's', 'p', 'A1', 'n', 't']}
+{'agiteert': ['a0', 'G', 'i0', 't', 'e1', 'r', 't'], 'fluidiseert': ['f', 'l', 'y0', 'w', 'i0', 'd', 'i0', 'z', 'e1', 'r', 't']}
+{'intransigentst': ['I0', 'n', 't', 'r', 'A0', 'n', 's', 'i0', 'G', 'E1', 'n', 't', 's', 't'], 'incoherentst': ['I0', 'N', 'k', 'o0', 'h', 'e0', 'r', 'E1', 'n', 't', 's', 't']}
+{'proviandeer': ['p', 'r', 'o0', 'v', 'i0', 'j', 'A0', 'n', 'd', 'e1', 'r'], 'chanteer': ['S', 'A0', 'n', 't', 'e1', 'r']}

@@ -106,7 +106,7 @@ def getVowelsConsonants(word):
     vowels, consonants = [], [] # Useful for Assonance, Consonance
 
     for phoneme in pron:
-        print(word, pron)
+        # print(word, pron)
         p_list = list(filter(None, re.split(r'(\d+)', str(phoneme))))
         phone = p_list[0]
 
@@ -577,43 +577,51 @@ def main():
     SPP_SOLUTION_WRITE_LIST = []
     DPP_SOLUTION_WRITE_LIST = []
 
-    SUFFIXES = [["en", "eren", "heden", "mannen", "mensen", "vrouwen"], "er"]
+    SUFFIXES = [["en", "eren", "heden", "mannen", "mensen", "vrouwen"], "ert", \
+                "weg", ["pjes", "tjes"], "schap", "e", "dom", "'s", 'nde', \
+                'ling', 'opt', ['iere', 'ieren'], 'its', 'eer', 'ouw', 'aat', ['ant', 'and']
+                    ]
 
-    # random.shuffle(SUFFIXES)
-    # for suffix in SUFFIXES:
-    #     lim = 200
-    #     spp = singlePerfectPairs(suffix, lim, lim, 1000)
-    #     dpp = doublePerfectPairs(suffix, 500, 500, 1000)
+    random.shuffle(SUFFIXES)
+    for suffix in SUFFIXES:
+        lim = 500
 
-    #     SPP_SOLUTION_WRITE_LIST.extend(spp)
-    #     DPP_SOLUTION_WRITE_LIST.extend(dpp)
+        if suffix in ['opt', 'its', 'eer', 'ouw', 'uik', 'aat', ['ant', 'and']]:
+            lim = 1000
+        
 
-    # write_clean_file("data/dutch/solutions/singlePerfect.txt", 
-    #                  "data/dutch/test/singlePerfect.txt",
-    #                  SPP_SOLUTION_WRITE_LIST)
+        spp = singlePerfectPairs(suffix, lim, lim, 1000)
+        # dpp = doublePerfectPairs(suffix, lim, lim, 1000)
+
+        SPP_SOLUTION_WRITE_LIST.extend(spp)
+        # DPP_SOLUTION_WRITE_LIST.extend(dpp)
+
+    write_clean_file("data/dutch/solutions/singlePerfect.txt", 
+                     "data/dutch/test/singlePerfect.txt",
+                     SPP_SOLUTION_WRITE_LIST)
     
     # write_clean_file("data/dutch/solutions/doublePerfect.txt", 
     #                  "data/dutch/test/doublePerfect.txt",
     #                  DPP_SOLUTION_WRITE_LIST)
 
-    ass, cons = SlantPairs()
-    write_clean_file("data/dutch/solutions/assonance.txt",
-                     "data/dutch/test/assonance.txt",
-                     ass)
+    # ass, cons = SlantPairs()
+    # write_clean_file("data/dutch/solutions/assonance.txt",
+    #                  "data/dutch/test/assonance.txt",
+    #                  ass)
     
-    write_clean_file("data/dutch/solutions/consonance.txt",
-                     "data/dutch/test/consonance.txt",
-                     cons)
+    # write_clean_file("data/dutch/solutions/consonance.txt",
+    #                  "data/dutch/test/consonance.txt",
+    #                  cons)
 
-    allit = alliterativePairs(1000)
-    write_clean_file("data/dutch/solutions/alliterative.txt",
-                     "data/dutch/test/alliterative.txt",
-                     allit)
+    # allit = alliterativePairs(1000)
+    # write_clean_file("data/dutch/solutions/alliterative.txt",
+    #                  "data/dutch/test/alliterative.txt",
+    #                  allit)
 
-    nons = nonRhymingPairs(100, 20, 5000)
-    write_clean_file("data/dutch/solutions/non.txt",
-                     "data/dutch/test/non.txt",
-                     nons, 5000)
+    # nons = nonRhymingPairs(100, 20, 5000)
+    # write_clean_file("data/dutch/solutions/non.txt",
+    #                  "data/dutch/test/non.txt",
+    #                  nons, 5000)
 
     print("DONE!!")
 
