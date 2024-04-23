@@ -1,7 +1,7 @@
 #!/bin/bash
-#SBATCH --job-name=small
-#SBATCH --output=logs/olmo/small.out
-#SBATCH --error=logs/olmo/small.err
+#SBATCH --job-name=small2
+#SBATCH --output=logs/crystal/small.out
+#SBATCH --error=logs/crystal/small.err
 #SBATCH --partition=general
 #SBATCH --nodes=1
 #SBATCH --gres=gpu:v100:1
@@ -18,8 +18,8 @@ echo "Starting"
 
 # python ol.py
 
-python eval_small.py "olmo" "singlePerfect" "title"
-python eval_small.py "olmo" "singlePerfect" "description"
+python eval_small.py "crystal" "singlePerfect" "title"
+python eval_small.py "crystal" "singlePerfect" "description"
 echo "SINGLE PERFECT DONE!!"
 
 

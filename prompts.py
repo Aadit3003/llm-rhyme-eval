@@ -23,18 +23,18 @@ SYSTEM_PROMPT_ENDINGS = {
 
 RHYME_PROMPTS = {
         "title":{ # Title
-            "singlePerfect": "Do these words form a perfect rhyme? ",
-            "doublePerfect": "Do these words form a perfect rhyme? ",
-            "assonance": "Do these words show assonance? ",
-            "consonance": "Do these words show consonance? ",
-            "alliterative": "Do these words show alliteration? "
+            "singlePerfect": "Do these Dutch words form a perfect rhyme? ",
+            "doublePerfect": "Do these Dutch words form a perfect rhyme? ",
+            "assonance": "Do these Dutch words show assonance? ",
+            "consonance": "Do these Dutch words show consonance? ",
+            "alliterative": "Do these Dutch words show alliteration? "
         },
         "description":{ # Description
-            "singlePerfect": "Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds? ",
-            "doublePerfect": "Do these words rhyme i.e. have different consonants followed by identical vowel and consonant sounds? ",
-            "assonance": "Do these words have identical vowel sounds but different consonant sounds? ",
-            "consonance": "Do these words have identical consonant sounds but different vowel sounds? ",
-            "alliterative": "Do these words begin with the same consonant sound? "
+            "singlePerfect": "Do these Dutch words rhyme i.e. have different consonants followed by identical vowel and consonant sounds? ",
+            "doublePerfect": "Do these Dutch words rhyme i.e. have different consonants followed by identical vowel and consonant sounds? ",
+            "assonance": "Do these Dutch words have identical vowel sounds but different consonant sounds? ",
+            "consonance": "Do these Dutch words have identical consonant sounds but different vowel sounds? ",
+            "alliterative": "Do these Dutch words begin with the same consonant sound? "
         }
 }
 
@@ -46,7 +46,7 @@ word2 = "whale"
 
 def get_prompt(model_family, prompt_type, rhyme_type, word1, word2):
 
-    if model_family in ["llama2", "cyrstal"]:
+    if model_family in ["llama2", "crystal"]:
         prompt_prefix = SYSTEM_START_PROMPTS[model_family]
         prompt_suffix = SYSTEM_PROMPT_ENDINGS[model_family]
 
@@ -92,8 +92,8 @@ def clean_answer(model_family, answer, prompt):
 
     return answer
 
-# P = """<s>[INST] <<SYS>> You are a helpful assistant. Always give a Yes/No answer and justify it. <</SYS>> Do these words form a perfect rhyme? seader-jammu [/INST]"""
-# A = """<s><s> [INST] <<SYS>> You are a helpful assistant. Always give a Yes/No answer and justify it. <</SYS>> Do these words form a perfect rhyme? seader-jammu [/INST]  No, the words "seeder" and "Jammu" do not form a perfect rhyme. A perfect rhyme is when two words have the same ending sound, such as "cat / hat." While "seeder" ends in -der and "Jammu" ends in -ju, they do not share the same final sound, so they do not rhyme perfectly.</s>"""
+# P = """<s>[INST] <<SYS>> You are a helpful assistant. Always give a Yes/No answer and justify it. <</SYS>> Do these Dutch words form a perfect rhyme? seader-jammu [/INST]"""
+# A = """<s><s> [INST] <<SYS>> You are a helpful assistant. Always give a Yes/No answer and justify it. <</SYS>> Do these Dutch words form a perfect rhyme? seader-jammu [/INST]  No, the Dutch words "seeder" and "Jammu" do not form a perfect rhyme. A perfect rhyme is when two Dutch words have the same ending sound, such as "cat / hat." While "seeder" ends in -der and "Jammu" ends in -ju, they do not share the same final sound, so they do not rhyme perfectly.</s>"""
 
 # print(clean_answer(model_family="llama2", 
 #              answer=A,

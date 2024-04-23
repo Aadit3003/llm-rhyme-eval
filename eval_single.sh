@@ -1,10 +1,12 @@
 #!/bin/bash
-#SBATCH --job-name=ol_single
-#SBATCH --output=logs/olmo/single.out
-#SBATCH --error=logs/olmo/single.err
+#SBATCH --job-name=l3_single
+#SBATCH --output=logs/llama3/single.out
+#SBATCH --error=logs/llama3/single.err
+#SBATCH --mail-type=BEGIN,END
+#SBATCH --mail-user=aaditd@andrew.cmu.edu
 #SBATCH -N 1
-#SBATCH -p shire-general
-#SBATCH --gres=gpu:A100_80GB:2
+#SBATCH -p general
+#SBATCH --gres=gpu:A6000:1
 #SBATCH --mem=32G
 #SBATCH --time=0-08:00:00 
 
@@ -17,8 +19,8 @@ echo "Starting"
 # Your job commands go here
 
 
-python eval.py "olmo" "singlePerfect" "title"
-python eval.py "olmo" "singlePerfect" "description"
+python eval.py "llama3" "singlePerfect" "title"
+python eval.py "llama3" "singlePerfect" "description"
 echo "SINGLE PERFECT DONE!!"
 
 

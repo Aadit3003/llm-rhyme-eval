@@ -1,24 +1,24 @@
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
-from transformers import AutoTokenizer, AutoModelForCausalLM
 from huggingface_hub import login
 import argparse
-from transformers import (
-    AutoModelForSeq2SeqLM,
-    AutoTokenizer,
-)
 from clean import file_read_strings, file_write_strings
 from sklearn.metrics import f1_score
 from prompts import MODEL_NAMES, get_prompt, clean_answer
 from string import punctuation
 import re
-
 import random
 
-DATA_PATH = "data/english/test"
-OUTPUT_PATH = "output/english"
-NON_RHYME_PATH = "data/english/test/non.txt"
 
+# DATA_PATH = "data/english/test"
+# OUTPUT_PATH = "output/english"
+# NON_RHYME_PATH = "data/english/test/non.txt"
+
+DATA_PATH = "data/dutch/test"
+OUTPUT_PATH = "output/dutch"
+NON_RHYME_PATH = "data/dutch/test/non.txt"
+
+# TEXT GENERATION FUNCTIONS
 
 def llama2_generate(prompt, model, tokenizer):
     DEV = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -36,7 +36,6 @@ def llama2_generate(prompt, model, tokenizer):
     text =  str(tokenizer.decode(outputs[0]))
 
     return text
-
 
 def llama3_generate(prompt, model, tokenizer):
     DEV = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
@@ -82,8 +81,8 @@ def olmo_generate(prompt, model, tokenizer):
     prompt = tokenizer.apply_chat_template(chat, tokenize=False, add_generation_prompt=True)
     inputs = tokenizer.encode(prompt, add_special_tokens=False, return_tensors="pt")
     # optional verifying cuda
-    inputs = {k: v.to('cuda') for k,v in inputs.items()}
-    response = model.generate(input_ids=inputs.input_ids.to('cuda'), max_new_tokens=100, do_sample=True, top_k=50, top_p=0.95)
+    # inputs = {k: v.to('cuda') for k,v in inputs.items()}
+    response = model.generate(input_ids=inputs.to(model.device), max_new_tokens=100, do_sample=True, top_k=50, top_p=0.95)
     
     return tokenizer.batch_decode(response, skip_special_tokens=True)[0]
 
@@ -99,6 +98,8 @@ def text_generate(model_family, prompt, model, tokenizer):
         return olmo_generate(prompt, model, tokenizer)
     
     raise Exception("No such model supported!!!")
+
+# EVALUATION CODE
 
 def evaluate(model, tokenizer, rhyme_type, prompt_type, model_family):
 
@@ -160,6 +161,9 @@ def evaluate(model, tokenizer, rhyme_type, prompt_type, model_family):
         print()
         print("_______________________________________________________")
         answer_strings.append(f"{word1}, {word2}, Gold: {golds[i]}, Pred: {pred} || {answer}")
+
+        if i % 100 == 0:
+            print(f"        {i} DONE!")
         i += 1
 
     file_write_strings(output_file, answer_strings)
@@ -220,12 +224,10 @@ if __name__ == "__main__":
     elif model_family in "olmo":
         generator_model = AutoModelForCausalLM.from_pretrained(generator_model_name, 
                                                           cache_dir = cache_path,
-                                                          trust_remote_code=True, torch_dtype=torch.float16, load_in_8bit=True)
+                                                          trust_remote_code=True)
         generator_tokenizer = AutoTokenizer.from_pretrained(generator_model_name, 
                                                        cache_dir = cache_path,
                                                        trust_remote_code=True)
-
-
 
     evaluate(
              model=generator_model,
@@ -236,3 +238,5 @@ if __name__ == "__main__":
              )
     
     print("DONE GURL!!")
+
+

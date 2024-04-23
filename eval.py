@@ -9,9 +9,14 @@ from string import punctuation
 import re
 import random
 
-DATA_PATH = "data/english/test"
-OUTPUT_PATH = "output/english"
-NON_RHYME_PATH = "data/english/test/non.txt"
+
+# DATA_PATH = "data/english/test"
+# OUTPUT_PATH = "output/english"
+# NON_RHYME_PATH = "data/english/test/non.txt"
+
+DATA_PATH = "data/dutch/test"
+OUTPUT_PATH = "output/dutch"
+NON_RHYME_PATH = "data/dutch/test/non.txt"
 
 # TEXT GENERATION FUNCTIONS
 
@@ -157,9 +162,13 @@ def evaluate(model, tokenizer, rhyme_type, prompt_type, model_family):
         # print("_______________________________________________________")
         answer_strings.append(f"{word1}, {word2}, Gold: {golds[i]}, Pred: {pred} || {answer}")
 
-        if i % 100 == 0:
-            print(f"        {i} DONE!")
+
         i += 1
+
+        if i % 100 == 1:
+            print(f"        {i} DONE!")
+            print(f"         Current F1-Score is {f1_score(golds[:i], preds)}")
+
 
     file_write_strings(output_file, answer_strings)
 
