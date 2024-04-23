@@ -1,14 +1,14 @@
 #!/bin/bash
-#SBATCH --job-name=l_double
-#SBATCH --output=logs/llama2/double.out
-#SBATCH --error=logs/llama2/double.err
+#SBATCH --job-name=l3_double
+#SBATCH --output=logs/llama3/double.out
+#SBATCH --error=logs/llama3/double.err
 #SBATCH --mail-type=BEGIN,END
 #SBATCH --mail-user=aaditd@andrew.cmu.edu
 #SBATCH -N 1
-#SBATCH -p shire-general
+#SBATCH -p general
 #SBATCH --gres=gpu:A6000
 #SBATCH --mem=32G
-#SBATCH --time=04:00:00
+#SBATCH --time=08:00:00
 
 echo "LOADING THE ENVIRONMENT"
 source ~/.bashrc
@@ -21,8 +21,8 @@ echo "Starting"
 
 
 
-# python eval.py "llama2" "doublePerfect" "title"
-python eval.py "llama2" "doublePerfect" "description"
+python eval.py "llama3" "doublePerfect" "title"
+python eval.py "llama3" "doublePerfect" "description"
 echo "DOUBLE PERFECT DONE!!"
 
 

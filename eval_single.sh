@@ -20,7 +20,7 @@ echo "Starting"
 
 
 python eval.py "llama3" "singlePerfect" "title"
-python eval.py "llama3" "singlePerfect" "description"
+# python eval.py "llama3" "singlePerfect" "description"
 echo "SINGLE PERFECT DONE!!"
 
 

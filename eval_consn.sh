@@ -1,14 +1,14 @@
 #!/bin/bash
-#SBATCH --job-name=l_consonance
+#SBATCH --job-name=l2_consonance
 #SBATCH --output=logs/llama2/consonance.out
 #SBATCH --error=logs/llama2/consonance.err
 #SBATCH --mail-type=BEGIN,END
 #SBATCH --mail-user=aaditd@andrew.cmu.edu
 #SBATCH -N 1
-#SBATCH -p shire-general
+#SBATCH -p general
 #SBATCH --gres=gpu:A6000
 #SBATCH --mem=32G
-#SBATCH --time=04:00:00
+#SBATCH --time=08:00:00
 
 echo "LOADING THE ENVIRONMENT"
 source ~/.bashrc
@@ -21,8 +21,8 @@ echo "Starting"
 
 
 
-# python eval.py "llama2" "consonance" "title"
-python eval.py "llama2" "consonance" "description"
+python eval.py "llama2" "consonance" "title"
+# python eval.py "llama2" "consonance" "description"
 echo "CONSONANCE DONE!!"
 
 
