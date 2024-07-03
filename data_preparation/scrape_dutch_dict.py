@@ -1,21 +1,35 @@
+"""
+{'VOWELS': {')', 'A', '!', '|', '}', 'I', 'L', 'M', '*', 'e', '@', 'O', 'E', 'a', '<', 'K', 'i', 'o', 'u', 'y'}, 
+ 'CONSONANTS': {'Z', 'w', 'z', 'v', 'p', 'g', 'N', 'l', 'S', 'j', '_', 'x', 'k', 'b', 'r', 'h', 'm', 's', 'G', 't', 'd', 'f', 'n'}}
+
+{'VOWELS': {'u', 'M', '(', 'y', '*', 'A', '!', 'o', '@', 'e', '}', '|', '<', 'L', 'O', 'i', 'E', 'K', 'a', ')', 'I'}, 
+ 'CONSONANTS': {'l', 'f', 'd', 'v', 'k', 'r', 'z', 't', 'g', 'N', 'b', 'w', 'Z', 'm', 'S', 'p', 'n', 's', 'h', '_', 'G', 'j', 'x'}}
+
+{'VOWELS': {'@', 'M', 'I', '(', '}', 'K', ')', 'u', '<', 'A', '|', 'o', 'y', 'L', 'a', 'E', '*', 'e', 'O', '!', 'i'}, 
+ 'CONSONANTS': {'v', 'S', 'Z', 'd', 'g', 's', 'm', 'n', 'k', 'x', 'l', 'h', 'w', 'z', 'N', 't', 'G', 'j', 'f', 'b', 'r', 'p', '_'}}
+
+{'VOWELS': {'M', ')', 'y', '*', '}', '<', 'L', 'i', 'A', '@', '|', 'o', 'K', 'O', 'u', 'e', 'a', 'I', '!', 'E', '('}, 
+ 'CONSONANTS': {'z', 'l', 'm', 'k', 'x', 'S', 'j', 'Z', 'G', 'w', 'h', 'v', 'p', 'r', 'd', 'b', 'f', 's', '_', 'n', 'g', 't', 'N'}}
+
+"""
+
 import pandas as pd
 import matplotlib.pyplot as plt
 import numpy as np
 import re
 import os
 import random
-from clean import write_clean_file, file_read_strings
+from utils import write_clean_file, file_read_strings
 # random.seed(2)
 
 # ARPABET Constants
-VOWELS = ["AO", "AH", "OY", "AW", "UW", \
-        "UH", "OW", "AY", "IH", "ER", \
-        "EH", "IY", "AE", "AA", "EY"] # 15
+VOWELS = ['@', 'M', 'I', '(', '}', 'K', ')', 'u', \
+        '<', 'A', '|', 'o', 'y', 'L', 'a', 'E', \
+        '*', 'e', 'O', '!', 'i'] # 22
 
-CONSONANTS = ["B", "CH", "D", "DH", "F", "G", \
-            "HH", "JH", "K", "L", "M", "N", \
-            "NG", "P", "R", "S", "SH", "T", \
-            "TH", "V", "W", "Y", "Z", "ZH"] # 24
+CONSONANTS = ['v', 'S', 'Z', 'd', 'g', 's', 'm', \
+            'n', 'k', 'x', 'l', 'h', 'w', 'z', \
+            'N', 't', 'G', 'j', 'f', 'b', 'r', 'p', '_'] # 23
 PRON_DICTIONARY = {}
 
 SUFFIX_MAP = {
@@ -40,51 +54,6 @@ SUFFIX_MAP = {
 
 
 
-"""
-        Phoneme Example Translation
-        ------- ------- -----------
-        AA	odd     AA D
-        AE	at	AE T
-        AH	hut	HH AH T
-        AO	ought	AO T
-        AW	cow	K AW
-        AY	hide	HH AY D
-        B 	be	B IY
-        CH	cheese	CH IY Z
-        D 	dee	D IY
-        DH	thee	DH IY
-        EH	Ed	EH D
-        ER	hurt	HH ER T
-        EY	ate	EY T
-        F 	fee	F IY
-        G 	green	G R IY N
-        HH	he	HH IY
-        IH	it	IH T
-        IY	eat	IY T
-        JH	gee	JH IY
-        K 	key	K IY
-        L 	lee	L IY
-        M 	me	M IY
-        N 	knee	N IY
-        NG	ping	P IH NG
-        OW	oat	OW T
-        OY	toy	T OY
-        P 	pee	P IY
-        R 	read	R IY D
-        S 	sea	S IY
-        SH	she	SH IY
-        T 	tea	T IY
-        TH	theta	TH EY T AH
-        UH	hood	HH UH D
-        UW	two	T UW
-        V 	vee	V IY
-        W 	we	W IY
-        Y 	yield	Y IY L D
-        Z 	zee	Z IY
-        ZH	seizure	S IY ZH ER
-
-"""
-
 
 # UTILITY FUNCTIONS
 def populate_Dictionary(file):
@@ -105,7 +74,8 @@ def populate_Dictionary(file):
         word, pron = entry.split(" ", 1)
         pron = pron.strip().split(" ")
         # word, pron
-        PRON_DICTIONARY[word.lower()] = pron
+        if pron != ['']:
+            PRON_DICTIONARY[word] = pron
 
 
     # return PRON_DICTIONARY
@@ -136,6 +106,7 @@ def getVowelsConsonants(word):
     vowels, consonants = [], [] # Useful for Assonance, Consonance
 
     for phoneme in pron:
+        # print(word, pron)
         p_list = list(filter(None, re.split(r'(\d+)', str(phoneme))))
         phone = p_list[0]
 
@@ -599,57 +570,58 @@ def nonRhymingPairs(patternLimit = 10, comparisonLimit = 20, lengthLimit = 1000)
 
 # MAIN
 def main():
-    filename = "/home/aaditd/3_Rhyming/llm-rhyme/cmudict-0.7b"
+    filename = "/home/aaditd/3_Rhyming/llm-rhyme/aadit's-dutch-dict"
     populate_Dictionary(filename)
 
     
     SPP_SOLUTION_WRITE_LIST = []
     DPP_SOLUTION_WRITE_LIST = []
 
-    SUFFIXES = ["ing", ["sion", "tion"], ["ence", "ance"], 'acy', \
-                'al', 'dom', ['er', 'or'], 'ism', 'ist', ['ity', 'ty'], \
-                'ment', 'ness', 'ship', 'ure', ['ery', 'ary'], 'age', ['ant', 'ent'], \
-                ['air', 'are'], ['eel', 'ill', 'eal', 'ial'], ['ch', 'tch'], \
-                'op', 'ept', 'ed', 'ect', 'ept']
+    SUFFIXES = [["en", "eren", "heden", "mannen", "mensen", "vrouwen"], "ert", \
+                "weg", ["pjes", "tjes"], "schap", "e", "dom", "'s", 'nde', \
+                'ling', 'opt', ['iere', 'ieren'], 'its', 'eer', 'ouw', 'aat', ['ant', 'and']
+                    ]
 
     random.shuffle(SUFFIXES)
     for suffix in SUFFIXES:
-        if suffix in [['air', 'are'],'op', 'ept', 'ed', 'ect', 'ept', ['eel', 'ill', 'eal', 'ial']]:
-            lim = 500
-        else:
-            lim = 200
-        # spp = singlePerfectPairs(suffix, lim, lim, 1000)
-        # dpp = doublePerfectPairs(suffix, 500, 500, 1000)
+        lim = 500
 
-        # SPP_SOLUTION_WRITE_LIST.extend(spp)
+        if suffix in ['opt', 'its', 'eer', 'ouw', 'uik', 'aat', ['ant', 'and']]:
+            lim = 1000
+        
+
+        spp = singlePerfectPairs(suffix, lim, lim, 1000)
+        # dpp = doublePerfectPairs(suffix, lim, lim, 1000)
+
+        SPP_SOLUTION_WRITE_LIST.extend(spp)
         # DPP_SOLUTION_WRITE_LIST.extend(dpp)
 
-    # write_clean_file("data/english/solutions/singlePerfect.txt", 
-                    #  "data/english/test/singlePerfect.txt",
-                    #  SPP_SOLUTION_WRITE_LIST)
+    write_clean_file("data/dutch/solutions/singlePerfect.txt", 
+                     "data/dutch/test/singlePerfect.txt",
+                     SPP_SOLUTION_WRITE_LIST)
     
-    # write_clean_file("data/english/solutions/doublePerfect.txt", 
-    #                  "data/english/test/doublePerfect.txt",
+    # write_clean_file("data/dutch/solutions/doublePerfect.txt", 
+    #                  "data/dutch/test/doublePerfect.txt",
     #                  DPP_SOLUTION_WRITE_LIST)
 
     # ass, cons = SlantPairs()
-    # write_clean_file("data/english/solutions/assonance.txt",
-    #                  "data/english/test/assonance.txt",
+    # write_clean_file("data/dutch/solutions/assonance.txt",
+    #                  "data/dutch/test/assonance.txt",
     #                  ass)
     
-    # write_clean_file("data/english/solutions/consonance.txt",
-    #                  "data/english/test/consonance.txt",
+    # write_clean_file("data/dutch/solutions/consonance.txt",
+    #                  "data/dutch/test/consonance.txt",
     #                  cons)
 
     # allit = alliterativePairs(1000)
-    # write_clean_file("data/english/solutions/alliterative.txt",
-    #                  "data/english/test/alliterative.txt",
+    # write_clean_file("data/dutch/solutions/alliterative.txt",
+    #                  "data/dutch/test/alliterative.txt",
     #                  allit)
 
-    nons = nonRhymingPairs(100, 20, 5000)
-    write_clean_file("data/english/solutions/non.txt",
-                     "data/english/test/non.txt",
-                     nons, 5000)
+    # nons = nonRhymingPairs(100, 20, 5000)
+    # write_clean_file("data/dutch/solutions/non.txt",
+    #                  "data/dutch/test/non.txt",
+    #                  nons, 5000)
 
     print("DONE!!")
 

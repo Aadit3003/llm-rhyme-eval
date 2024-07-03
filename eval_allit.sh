@@ -21,8 +21,8 @@ echo "Starting"
 
 
 
-python eval.py "llama3" "alliterative" "title"
-python eval.py "llama3" "alliterative" "description"
+python evaluate_rhyme.py "llama3" "alliterative" "title"
+python evaluate_rhyme.py "llama3" "alliterative" "description"
 echo "ALLITERATIVE DONE!!"
 
 

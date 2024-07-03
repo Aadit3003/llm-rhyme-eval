@@ -21,8 +21,8 @@ echo "Starting"
 
 
 
-python eval.py "llama2" "consonance" "title"
-# python eval.py "llama2" "consonance" "description"
+python evaluate_rhyme.py "llama2" "consonance" "title"
+python evaluate_rhyme.py "llama2" "consonance" "description"
 echo "CONSONANCE DONE!!"
 
 

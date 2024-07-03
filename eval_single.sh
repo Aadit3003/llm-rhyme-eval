@@ -19,8 +19,8 @@ echo "Starting"
 # Your job commands go here
 
 
-python eval.py "llama3" "singlePerfect" "title"
-# python eval.py "llama3" "singlePerfect" "description"
+python evaluate_rhyme.py "llama3" "singlePerfect" "title"
+python evaluate_rhyme.py "llama3" "singlePerfect" "description"
 echo "SINGLE PERFECT DONE!!"
 
 

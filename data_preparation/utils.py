@@ -1,3 +1,7 @@
+""" This module contains useful functions that read and write strings from/to files
+"""
+
+
 import os
 import re
 import random
