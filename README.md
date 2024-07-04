@@ -4,6 +4,11 @@ In this project, we investigate the phonological capabilities of LLMs by testing
 
 This project was completed under the guidance of Prof. David Mortensen, at LTI, CMU. For more details refer to the [report](https://github.com/Aadit3003/llm-rhyme/blob/85faec464d38443517b90497e032cf2f9bb28e9a/report.pdf) and the slides from my [talk](https://github.com/Aadit3003/llm-rhyme/blob/85faec464d38443517b90497e032cf2f9bb28e9a/talk_slides.pdf)!
 
+## **Main Contributions**
+* [Dutch Pronunciation dictionary](https://github.com/Aadit3003/llm-rhyme/blob/85faec464d38443517b90497e032cf2f9bb28e9a/aadit's-dutch-dict) in CMU-Dict format with 349k words.
+* [English](https://github.com/Aadit3003/llm-rhyme/tree/85faec464d38443517b90497e032cf2f9bb28e9a/data/english) and [Dutch](https://github.com/Aadit3003/llm-rhyme/tree/85faec464d38443517b90497e032cf2f9bb28e9a/data/dutch) Rhyming datasets, both with 5k word pairs corresponding to five types of rhymes (1k each) (including orthographic and phonemic representation), and 5k non-rhyming word pairs.
+* Inference [Outputs](https://github.com/Aadit3003/llm-rhyme/tree/85faec464d38443517b90497e032cf2f9bb28e9a/output) on both rhyme datasets using three open-source LLMs (Llama2-7b, Llama3-8B, and CrystalChat).
+
 ## **Results**
 English Results (F1 scores) (Title Prompts):
 |      Model     | Single Perfect | Double Perfect | Assonance | Consonance | Alliteration |
@@ -22,12 +27,6 @@ Dutch Results (F1 scores) (Title Prompts):
 Based on the F1 scores, the overall performance order seems to be Llama3-8B > Llama2-7b > CrystalChat-7b. Perfect rhymes seem to be difficult for both languages, whereas assonance, consonance, and alliteration are nearly identical in English and Dutch. Description-level prompts benefit models like Llama2 or CrystalChat, but Llama3 is virtually unaffected.
 
 _For a more detailed results and discussion section refer to the [report](https://github.com/Aadit3003/llm-rhyme/blob/85faec464d38443517b90497e032cf2f9bb28e9a/report.pdf)_
-
-## **Main Contributions**
-* [Dutch Pronunciation dictionary](https://github.com/Aadit3003/llm-rhyme/blob/85faec464d38443517b90497e032cf2f9bb28e9a/aadit's-dutch-dict) in CMU-Dict format with 349k words.
-* [English](https://github.com/Aadit3003/llm-rhyme/tree/85faec464d38443517b90497e032cf2f9bb28e9a/data/english) and [Dutch](https://github.com/Aadit3003/llm-rhyme/tree/85faec464d38443517b90497e032cf2f9bb28e9a/data/dutch) Rhyming datasets, both with 5k word pairs corresponding to five types of rhymes (1k each) (including orthographic and phonemic representation), and 5k non-rhyming word pairs.
-* Inference [Outputs](https://github.com/Aadit3003/llm-rhyme/tree/85faec464d38443517b90497e032cf2f9bb28e9a/output) on both rhyme datasets using three open-source LLMs (Llama2-7b, Llama3-8B, and CrystalChat).
-
 
 ## Directory Structure
 * bash_scripts - Bash scripts to run evaluate_rhyme.py in different configurations.
