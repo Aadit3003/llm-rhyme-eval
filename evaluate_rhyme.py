@@ -1,26 +1,40 @@
-import torch
-from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
-from huggingface_hub import login
+""" This module is used to evaluate three different LLMs (Llama2, LLama3, and CrystalChat) on 
+the English and Dutch rhyming datasets created in scrape_cmu_dict.py and scrape_dutch_dict.py respectively.
+
+It uses two different types of prompts for each LLM, from the file prompts.py
+
+The outputs and logs from different runs (corresponding to each model and dataset) are stored in the
+outputs/ and logs/ directories.
+"""
 import argparse
-from clean import file_read_strings, file_write_strings
-from sklearn.metrics import f1_score
-from prompts import MODEL_NAMES, get_prompt, clean_answer
 from string import punctuation
 import re
 import random
 
+import torch
+from transformers import AutoModelForCausalLM, AutoTokenizer, BitsAndBytesConfig
+from huggingface_hub import login
+from sklearn.metrics import f1_score
 
-# DATA_PATH = "data/english/test"
-# OUTPUT_PATH = "output/english"
-# NON_RHYME_PATH = "data/english/test/non.txt"
+from clean import file_read_strings, file_write_strings
+from prompts import MODEL_NAMES, get_prompt, clean_answer
 
-DATA_PATH = "data/dutch/test"
-OUTPUT_PATH = "output/dutch"
-NON_RHYME_PATH = "data/dutch/test/non.txt"
 
 # TEXT GENERATION FUNCTIONS
 
 def llama2_generate(prompt, model, tokenizer):
+    """
+    Prompts Llama2-7b-chat-hf about a single rhyme pair and returns the text from its response.
+    Used in the evaluate_rhyme_dataset() function.
+    
+    Args:
+        prompt: A title/description level prompt generated using get_prompt() for this LLM.
+        model: A model of the type AutoModelForCausalLM with the appropriate id
+        tokenizer: A tokenizer of the type AutoTokenizer with the appropriate id
+
+    Returns:
+        The text from the model which includes the binary judgement about the rhyme pair, as well as the model's reasoning.
+    """
     DEV = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
     inputs = tokenizer.encode(prompt, return_tensors="pt").to(DEV)
 
@@ -38,6 +52,18 @@ def llama2_generate(prompt, model, tokenizer):
     return text
 
 def llama3_generate(prompt, model, tokenizer):
+    """
+    Prompts Llama3-8B-Instruct about a single rhyme pair and returns the text from its response.
+    Used in the evaluate_rhyme_dataset() function.
+
+    Args:
+        prompt: A title/description level prompt generated using get_prompt() for this LLM.
+        model: A model of the type AutoModelForCausalLM with the appropriate id
+        tokenizer: A tokenizer of the type AutoTokenizer with the appropriate id
+
+    Returns:
+        The text from the model which includes the binary judgement about the rhyme pair, as well as the model's reasoning.
+    """
     DEV = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
     messages = [
@@ -67,6 +93,19 @@ def llama3_generate(prompt, model, tokenizer):
     return text
 
 def crystal_generate(prompt, model, tokenizer):
+    """
+    Prompts CrystalChat-7b about a single rhyme pair and returns the text from its response.
+    Used in the evaluate_rhyme_dataset() function.
+    
+
+    Args:
+        prompt: A title/description level prompt generated using get_prompt() for this LLM.
+        model: A model of the type AutoModelForCausalLM with the appropriate id
+        tokenizer: A tokenizer of the type AutoTokenizer with the appropriate id
+
+    Returns:
+        The text from the model which includes the binary judgement about the rhyme pair, as well as the model's reasoning.
+    """
     input_ids = tokenizer(prompt, return_tensors="pt").input_ids.to(device)
     gen_tokens = model.generate(input_ids, do_sample=True, max_length=400)
 
@@ -74,6 +113,19 @@ def crystal_generate(prompt, model, tokenizer):
     return tokenizer.batch_decode(gen_tokens)[0]
 
 def olmo_generate(prompt, model, tokenizer):
+    """
+    Prompts OLMo-7B-Instruct about a single rhyme pair and returns the text from its response.
+    Used in the evaluate_rhyme_dataset() function.
+    
+
+    Args:
+        prompt: A title/description level prompt generated using get_prompt() for this LLM.
+        model: A model of the type AutoModelForCausalLM with the appropriate id
+        tokenizer: A tokenizer of the type AutoTokenizer with the appropriate id
+
+    Returns:
+        The text from the model which includes the binary judgement about the rhyme pair, as well as the model's reasoning.
+    """
     
     chat = [
         { "role": "user", "content": prompt},
@@ -88,6 +140,20 @@ def olmo_generate(prompt, model, tokenizer):
 
 
 def text_generate(model_family, prompt, model, tokenizer):
+    """
+    An abstraction that accesses any of the four models above and based on the
+    'model family' command line argument, prompts the appropriate model. 
+    Used in the evaluate_rhyme_dataset() function.
+    
+    Args:
+        model_family: A command line argument specifying the LLM to prompt
+        prompt: A title/description level prompt generated using get_prompt() for this LLM
+        model: A model of the type AutoModelForCausalLM with the appropriate id
+        tokenizer: A tokenizer of the type AutoTokenizer with the appropriate id
+
+    Returns:
+        The text from the model which includes the binary judgement about the rhyme pair, as well as the model's reasoning.
+    """
     if model_family == "llama2":
         return llama2_generate(prompt, model, tokenizer)
     elif model_family == "llama3":
@@ -101,7 +167,22 @@ def text_generate(model_family, prompt, model, tokenizer):
 
 # EVALUATION CODE
 
-def evaluate(model, tokenizer, rhyme_type, prompt_type, model_family):
+def evaluate_rhyme_dataset(model, tokenizer, rhyme_type, prompt_type, model_family):
+    """
+    The main evaluation function which takes the model family, prompt type and
+    tests it on one of the five rhyme types, returning the F-1 score and writing
+    the outputs to the corresponding txt files.
+
+    Args:
+        model: A model of the type AutoModelForCausalLM with the appropriate id
+        tokenizer: A tokenizer of the type AutoTokenizer with the appropriate id
+        rhyme_type: One of the five rhyme types to test the model on
+        prompt_type: Title/Description level prompts to use with the model
+        model_family: The LLM to prompt for the current evaluation run
+
+    Returns:
+        _type_: _description_
+    """
 
     first_n = 500
 
@@ -183,14 +264,26 @@ def evaluate(model, tokenizer, rhyme_type, prompt_type, model_family):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
+    parser.add_argument("language", type=str, help='English/Dutch rhyming dataset')
     parser.add_argument("model_family", type=str, help='LLM family')
     parser.add_argument("rhyme_type", type=str, help='Type of Rhyme')
     parser.add_argument("prompt_type", type=str, help='Type of Prompt')
     args = parser.parse_args()
 
+    language = args.language
     model_family = args.model_family
     rhyme_type = args.rhyme_type
     prompt_type = args.prompt_type
+    
+    if language == "English":
+        DATA_PATH = "data/english/test"
+        OUTPUT_PATH = "output/english"
+        NON_RHYME_PATH = "data/english/test/non.txt"
+        
+    elif language == "Dutch":
+        DATA_PATH = "data/dutch/test"
+        OUTPUT_PATH = "output/dutch"
+        NON_RHYME_PATH = "data/dutch/test/non.txt"
 
 
     # Loading the Generator Model
@@ -233,7 +326,8 @@ if __name__ == "__main__":
                                                        cache_dir = cache_path,
                                                        trust_remote_code=True)
 
-    evaluate(
+    # Run the evaluation
+    evaluate_rhyme_dataset(
              model=generator_model,
              tokenizer=generator_tokenizer,
              rhyme_type= rhyme_type,

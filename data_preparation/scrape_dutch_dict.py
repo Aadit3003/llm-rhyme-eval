@@ -11,8 +11,8 @@ import re
 import random
 
 from utils import write_clean_file, file_read_strings
-from scrape_cmu_dict import populate_Dictionary, findWords, product, getVowelsConsonants, lenSymbolOverlap, findPrimaryStressedSyllable, findLastSyllable
-from scrape_cmu_dict import singlePerfectPairs, doublePerfectPairs, assonancePairs, consonancePairs, alliterativePairs, PerfectPairs, SlantPairs, nonRhymingPairs
+from scrape_cmu_dict import populate_dictionary, find_words, product, get_vowels_consonants, len_symbol_overlap, find_primary_stressed_syllable, find_last_syllable
+from scrape_cmu_dict import single_perfect_pairs, double_perfect_pairs, assonance_pairs, consonance_pairs, alliterative_pairs, perfect_pairs, slant_pairs, non_rhyming_pairs
 # random.seed(2)
 
 """
@@ -65,7 +65,7 @@ SUFFIX_MAP = {
 # MAIN
 def main():
     filename = "/home/aaditd/3_Rhyming/llm-rhyme/aadit's-dutch-dict"
-    populate_Dictionary(filename)
+    populate_dictionary(filename)
 
     
     SPP_SOLUTION_WRITE_LIST = []
@@ -86,8 +86,8 @@ def main():
             lim = 1000
         
 
-        spp = singlePerfectPairs(suffix, lim, lim, 1000)
-        dpp = doublePerfectPairs(suffix, lim, lim, 1000)
+        spp = single_perfect_pairs(suffix, lim, lim, 1000)
+        dpp = double_perfect_pairs(suffix, lim, lim, 1000)
 
         SPP_SOLUTION_WRITE_LIST.extend(spp)
         DPP_SOLUTION_WRITE_LIST.extend(dpp)
@@ -100,7 +100,7 @@ def main():
                      "data/dutch/test/doublePerfect.txt",
                      DPP_SOLUTION_WRITE_LIST)
 
-    ass, cons = SlantPairs()
+    ass, cons = slant_pairs()
     write_clean_file("data/dutch/solutions/assonance.txt",
                      "data/dutch/test/assonance.txt",
                      ass)
@@ -109,12 +109,12 @@ def main():
                      "data/dutch/test/consonance.txt",
                      cons)
 
-    allit = alliterativePairs(1000)
+    allit = alliterative_pairs(1000)
     write_clean_file("data/dutch/solutions/alliterative.txt",
                      "data/dutch/test/alliterative.txt",
                      allit)
 
-    nons = nonRhymingPairs(100, 20, 5000)
+    nons = non_rhyming_pairs(100, 20, 5000)
     write_clean_file("data/dutch/solutions/non.txt",
                      "data/dutch/test/non.txt",
                      nons, 5000)

@@ -91,7 +91,7 @@ SUFFIX_MAP = {
 
 
 # UTILITY FUNCTIONS
-def populate_Dictionary(file: str):
+def populate_dictionary(file: str):
     """
     Returns a dictionary of the form:-
     {
@@ -120,7 +120,7 @@ def populate_Dictionary(file: str):
 
     # return PRON_DICTIONARY
 
-def findWords(suffix: str) -> list[str]:
+def find_words(suffix: str) -> list[str]:
     """
     Returns a list of words from the pronunciation dictionary ending in a particular suffix.
     """
@@ -152,7 +152,7 @@ def product(*args):
 
 # SYLLABLE FUNCTIONS
 
-def getVowelsConsonants(word: str):
+def get_vowels_consonants(word: str):
     """
     word: An input word
     
@@ -189,7 +189,7 @@ def getVowelsConsonants(word: str):
 
     return vc, vowels, consonants
 
-def lenSymbolOverlap(symbol_set_1, symbol_set_2) -> int:
+def len_symbol_overlap(symbol_set_1, symbol_set_2) -> int:
     """
     Given two sets of symbols, determines how many are shared between the two.
     
@@ -206,7 +206,7 @@ def lenSymbolOverlap(symbol_set_1, symbol_set_2) -> int:
     # print(f"")
     return len(overlap)
 
-def findPrimaryStressedSyllable(vc):
+def find_primary_stressed_syllable(vc):
     """
     Finds the primary stressed syllable, and returns the onset, remaining word, and the type of stress.
     Used to find single and double perfect rhyming word pairs.
@@ -257,7 +257,7 @@ def findPrimaryStressedSyllable(vc):
     
     return (onset, remaining, type)
 
-def findLastSyllable(vc):
+def find_last_syllable(vc):
     """
     Finds the nucleus and coda of the final syllable in a word. 
     
@@ -283,7 +283,7 @@ def findLastSyllable(vc):
 
 # RHYME FUNCTIONS
 
-def singlePerfectPairs(suffixes, outerLimit = 300, comparisonLimit = 300, lengthLimit = 500):
+def single_perfect_pairs(suffixes, outerLimit = 300, comparisonLimit = 300, lengthLimit = 500):
     """
     A function to find Single Perfect rhyming pairs: 
     Words with final stress, that are identical after the stressed vowel (Different onset, but same nucleus and coda)
@@ -302,10 +302,10 @@ def singlePerfectPairs(suffixes, outerLimit = 300, comparisonLimit = 300, length
     candidate_words = []
 
     if type(suffixes) == 'str':
-        candidate_words = findWords(suffixes)
+        candidate_words = find_words(suffixes)
     else:
         for suffix in suffixes:
-            candidate_words.extend(findWords(suffix))
+            candidate_words.extend(find_words(suffix))
     n = len(candidate_words)
     print(f"Found {n} words ending with \"{suffixes}\"")
 
@@ -319,11 +319,11 @@ def singlePerfectPairs(suffixes, outerLimit = 300, comparisonLimit = 300, length
 
         j = 0
         for other_word in remaining_words:
-            vc_current, _, _ = getVowelsConsonants(current_word)
-            vc_other, _, _ = getVowelsConsonants(other_word)
+            vc_current, _, _ = get_vowels_consonants(current_word)
+            vc_other, _, _ = get_vowels_consonants(other_word)
 
-            onset_current, remaining_current, type_cur = findPrimaryStressedSyllable(vc_current)
-            onset_other, remaining_other, type_oth = findPrimaryStressedSyllable(vc_other)
+            onset_current, remaining_current, type_cur = find_primary_stressed_syllable(vc_current)
+            onset_other, remaining_other, type_oth = find_primary_stressed_syllable(vc_other)
 
 
             if remaining_current == remaining_other and type_cur == type_oth:
@@ -348,7 +348,7 @@ def singlePerfectPairs(suffixes, outerLimit = 300, comparisonLimit = 300, length
     random.shuffle(single_perfect_pairs)
     return single_perfect_pairs[:lengthLimit]
 
-def doublePerfectPairs(suffixes, outerLimit = 100, comparisonLimit = 100, lengthLimit = 1000):
+def double_perfect_pairs(suffixes, outerLimit = 100, comparisonLimit = 100, lengthLimit = 1000):
     """
     A function to find Double Perfect rhyming pairs: 
     Words with penultimate stress, that are identical after the stressed vowel (Different onset, but same remaining phonemes)
@@ -367,10 +367,10 @@ def doublePerfectPairs(suffixes, outerLimit = 100, comparisonLimit = 100, length
     candidate_words = []
 
     if type(suffixes) == 'str':
-        candidate_words = findWords(suffixes)
+        candidate_words = find_words(suffixes)
     else:
         for suffix in suffixes:
-            candidate_words.extend(findWords(suffix))
+            candidate_words.extend(find_words(suffix))
     n = len(candidate_words)
     print(f"Found {n} words ending with \"{suffixes}\"")
 
@@ -384,11 +384,11 @@ def doublePerfectPairs(suffixes, outerLimit = 100, comparisonLimit = 100, length
 
         j = 0
         for other_word in remaining_words:
-            vc_current, _, _ = getVowelsConsonants(current_word)
-            vc_other, _, _ = getVowelsConsonants(other_word)
+            vc_current, _, _ = get_vowels_consonants(current_word)
+            vc_other, _, _ = get_vowels_consonants(other_word)
 
-            onset_current, remaining_current, type_cur = findPrimaryStressedSyllable(vc_current)
-            onset_other, remaining_other, type_oth = findPrimaryStressedSyllable(vc_other)
+            onset_current, remaining_current, type_cur = find_primary_stressed_syllable(vc_current)
+            onset_other, remaining_other, type_oth = find_primary_stressed_syllable(vc_other)
 
 
             if remaining_current == remaining_other and type_cur == type_oth:
@@ -411,7 +411,7 @@ def doublePerfectPairs(suffixes, outerLimit = 100, comparisonLimit = 100, length
     random.shuffle(double_perfect_pairs)
     return double_perfect_pairs[:lengthLimit]
 
-def assonancePairs(innerLimit = 5, outerLimit = 1000):
+def assonance_pairs(innerLimit = 5, outerLimit = 1000):
     """
     A function to find Assonance pairs: 
     Words with identical vowels, but no common consonants
@@ -431,7 +431,7 @@ def assonancePairs(innerLimit = 5, outerLimit = 1000):
     random.shuffle(all_words)
     # Populate Vowel and Consonant Maps (All seen combinations!)
     for word in all_words:
-        _, vowels, consonants = getVowelsConsonants(word)
+        _, vowels, consonants = get_vowels_consonants(word)
         vowels = ' '.join(vowels)
         # print(vowels)
         consonants = ' '.join(consonants)
@@ -456,7 +456,7 @@ def assonancePairs(innerLimit = 5, outerLimit = 1000):
                 current_word, current_cons = words[i]
                 other_words = words[0:i]
                 for other_word, other_cons in other_words:
-                    if lenSymbolOverlap(current_cons, other_cons) == 0:
+                    if len_symbol_overlap(current_cons, other_cons) == 0:
                         assonancePairs.append({
                             current_word: PRON_DICTIONARY[current_word],
                             other_word: PRON_DICTIONARY[other_word]
@@ -472,7 +472,7 @@ def assonancePairs(innerLimit = 5, outerLimit = 1000):
 
     return assonancePairs
 
-def consonancePairs(innerLimit = 5, outerLimit = 1000):
+def consonance_pairs(innerLimit = 5, outerLimit = 1000):
     """
     A function to find Consonant: 
     Words with the same sequence of consonants, but completely different vowels
@@ -493,7 +493,7 @@ def consonancePairs(innerLimit = 5, outerLimit = 1000):
     random.shuffle(all_words)
     # Populate Vowel and Consonant Maps (All seen combinations!)
     for word in all_words:
-        _, vowels, consonants = getVowelsConsonants(word)
+        _, vowels, consonants = get_vowels_consonants(word)
         vowels = ' '.join(vowels)
         # print(vowels)
         consonants = ' '.join(consonants)
@@ -524,7 +524,7 @@ def consonancePairs(innerLimit = 5, outerLimit = 1000):
                 if inner > innerLimit:
                     break
                 for other_word, other_vows in other_words:
-                    if lenSymbolOverlap(current_vows, other_vows) == 0:
+                    if len_symbol_overlap(current_vows, other_vows) == 0:
                         consonancePairs.append({
                             current_word: PRON_DICTIONARY[current_word],
                             other_word: PRON_DICTIONARY[other_word]
@@ -536,7 +536,7 @@ def consonancePairs(innerLimit = 5, outerLimit = 1000):
 
     return consonancePairs
 
-def alliterativePairs(perConsLimit = 100, lengthLimit = 1000):
+def alliterative_pairs(perConsLimit = 100, lengthLimit = 1000):
     """
     A function to find Alliterative rhyming pairs: 
     Words with initial stress, the same initial consonant (onset), but different stressed vowels.
@@ -583,7 +583,7 @@ def alliterativePairs(perConsLimit = 100, lengthLimit = 1000):
             if i > perConsLimit: break
 
             if PRON_DICTIONARY[word][0] == consonant:
-                vc, _, _ = getVowelsConsonants(word)
+                vc, _, _ = get_vowels_consonants(word)
                 
                 symbol, type = vc[1]
                 if type == 'v':
@@ -626,19 +626,19 @@ def alliterativePairs(perConsLimit = 100, lengthLimit = 1000):
     return alliterations_pairs[:lengthLimit]
 
 
-def PerfectPairs(suffixes):
+def perfect_pairs(suffixes):
     """
     Returns Single and Double perfect rhyming pairs given a list of suffixes to match words against
     """
-    return singlePerfectPairs(suffixes), doublePerfectPairs(suffixes)
+    return single_perfect_pairs(suffixes), double_perfect_pairs(suffixes)
 
-def SlantPairs():
+def slant_pairs():
     """
     Returns Assonance and Consonance pairs.
     """
-    return assonancePairs(), consonancePairs()
+    return assonance_pairs(), consonance_pairs()
 
-def nonRhymingPairs(patternLimit = 10, comparisonLimit = 20, lengthLimit = 1000):
+def non_rhyming_pairs(patternLimit = 10, comparisonLimit = 20, lengthLimit = 1000):
     """
     A function to find Non-Rhyming pairs: 
     Words with zero vowel overlap and zero consonantal overlap.
@@ -662,7 +662,7 @@ def nonRhymingPairs(patternLimit = 10, comparisonLimit = 20, lengthLimit = 1000)
     random.shuffle(all_words)
     # Populate Vowel and Consonant Maps (All seen combinations!)
     for word in all_words:
-        _, vowels, consonants = getVowelsConsonants(word)
+        _, vowels, consonants = get_vowels_consonants(word)
         vowels = ' '.join(vowels)
         # print(vowels)
         consonants = ' '.join(consonants)
@@ -691,7 +691,7 @@ def nonRhymingPairs(patternLimit = 10, comparisonLimit = 20, lengthLimit = 1000)
         other_patterns = consonant_patterns[0:i]
 
         for other_pattern in other_patterns:
-            if lenSymbolOverlap(current_pattern, other_pattern) <= 2:
+            if len_symbol_overlap(current_pattern, other_pattern) <= 2:
 
                 current_word_list = CONS_MAP[current_pattern]
                 other_word_list = CONS_MAP[other_pattern]
@@ -706,7 +706,7 @@ def nonRhymingPairs(patternLimit = 10, comparisonLimit = 20, lengthLimit = 1000)
                         if count > comparisonLimit: break
 
                         o_word, o_vowels = ow
-                        if lenSymbolOverlap(c_vowels, o_vowels) == 0:
+                        if len_symbol_overlap(c_vowels, o_vowels) == 0:
                             non_rhyming_pairs.append({
                                 c_word: PRON_DICTIONARY[c_word],
                                 o_word: PRON_DICTIONARY[o_word]
@@ -727,7 +727,7 @@ def nonRhymingPairs(patternLimit = 10, comparisonLimit = 20, lengthLimit = 1000)
 # MAIN
 def main():
     filename = "/home/aaditd/3_Rhyming/llm-rhyme/cmudict-0.7b"
-    populate_Dictionary(filename)
+    populate_dictionary(filename)
 
     
     SPP_SOLUTION_WRITE_LIST = []
@@ -747,8 +747,8 @@ def main():
             lim = 500
         else:
             lim = 200
-        spp = singlePerfectPairs(suffix, lim, lim, 1000)
-        dpp = doublePerfectPairs(suffix, 500, 500, 1000)
+        spp = single_perfect_pairs(suffix, lim, lim, 1000)
+        dpp = double_perfect_pairs(suffix, 500, 500, 1000)
 
         SPP_SOLUTION_WRITE_LIST.extend(spp)
         DPP_SOLUTION_WRITE_LIST.extend(dpp)
@@ -761,7 +761,7 @@ def main():
                      "data/english/test/doublePerfect.txt",
                      DPP_SOLUTION_WRITE_LIST)
 
-    ass, cons = SlantPairs()
+    ass, cons = slant_pairs()
     write_clean_file("data/english/solutions/assonance.txt",
                      "data/english/test/assonance.txt",
                      ass)
@@ -770,12 +770,12 @@ def main():
                      "data/english/test/consonance.txt",
                      cons)
 
-    allit = alliterativePairs(1000)
+    allit = alliterative_pairs(1000)
     write_clean_file("data/english/solutions/alliterative.txt",
                      "data/english/test/alliterative.txt",
                      allit)
 
-    nons = nonRhymingPairs(100, 20, 5000)
+    nons = non_rhyming_pairs(100, 20, 5000)
     write_clean_file("data/english/solutions/non.txt",
                      "data/english/test/non.txt",
                      nons, 5000)

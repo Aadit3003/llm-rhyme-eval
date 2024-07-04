@@ -1,3 +1,9 @@
+""" This module contains the system prompts in the appropriate formats
+for each of the four LLMs (Llama2, Llama3, CrystalChat, and Olmo).
+
+The title prompts only mention the rhyme types by name, whereas the
+description prompts provide a brief explanation of the rhyme types.
+"""
 MODEL_NAMES = {
     "llama2": "meta-llama/Llama-2-7b-chat-hf", # DONE!
     "llama3": "meta-llama/Meta-Llama-3-8B-Instruct",
@@ -45,6 +51,18 @@ word1 = "bean"
 word2 = "whale"
 
 def get_prompt(model_family, prompt_type, rhyme_type, word1, word2):
+    """
+    Generates a title/description-level system prompt for the specified LLM using the two words for a particular rhyme type.
+    Used in the evaluate_rhyme_dataset() function in the evaluate_rhyme.py module.
+
+    Args:
+        model_family: The LLM to prompt for the current evaluation run
+        prompt_type: Whether to use the title/description level prompt with the model
+        rhyme_type: One of the five rhyme types to test the model on
+        word1: The first English/Dutch word of the pair
+        word2: The second English/Dutch word of the pair
+
+    """
 
     if model_family in ["llama2", "crystal"]:
         prompt_prefix = SYSTEM_START_PROMPTS[model_family]
@@ -59,6 +77,15 @@ def get_prompt(model_family, prompt_type, rhyme_type, word1, word2):
         return RHYME_PROMPTS[prompt_type][rhyme_type] + f"{word1}-{word2}"
 
 def clean_answer(model_family, answer, prompt):
+    """
+    Cleans (post-processes) the answer string from the LLM by removing the prompt, unneccesary tags, and whitespaces. 
+    Used in the evaluate_rhyme_dataset() function in the evaluate_rhyme.py module.
+
+    Args:
+        model_family: The LLM promoted for the current evaluation run
+        answer: The raw text returned by the LLM upon being prompted
+        prompt: The system prompt used with the LLM
+    """
 
     if model_family == "crystal":
         answer = answer.replace("  ", " ")
@@ -86,17 +113,20 @@ def clean_answer(model_family, answer, prompt):
         answer = answer.replace("\n", "")
         return answer.strip()
 
+    else:
+        raise Exception("Didn't edit!!!!")
+
+
+def main():
+    # For debugging purposes
+    P = """<s>[INST] <<SYS>> You are a helpful assistant. Always give a Yes/No answer and justify it. <</SYS>> Do these Dutch words form a perfect rhyme? seader-jammu [/INST]"""
+    A = """<s><s> [INST] <<SYS>> You are a helpful assistant. Always give a Yes/No answer and justify it. <</SYS>> Do these Dutch words form a perfect rhyme? seader-jammu [/INST]  No, the Dutch words "seeder" and "Jammu" do not form a perfect rhyme. A perfect rhyme is when two Dutch words have the same ending sound, such as "cat / hat." While "seeder" ends in -der and "Jammu" ends in -ju, they do not share the same final sound, so they do not rhyme perfectly.</s>"""
+
+    print(clean_answer(model_family="llama2", 
+                answer=A,
+                prompt=P))
+
+    print(get_prompt("llama3", "title", "assonance", "bot", "cop"))
     
-    raise Exception("Didn't edit!!!!")
-
-
-    return answer
-
-# P = """<s>[INST] <<SYS>> You are a helpful assistant. Always give a Yes/No answer and justify it. <</SYS>> Do these Dutch words form a perfect rhyme? seader-jammu [/INST]"""
-# A = """<s><s> [INST] <<SYS>> You are a helpful assistant. Always give a Yes/No answer and justify it. <</SYS>> Do these Dutch words form a perfect rhyme? seader-jammu [/INST]  No, the Dutch words "seeder" and "Jammu" do not form a perfect rhyme. A perfect rhyme is when two Dutch words have the same ending sound, such as "cat / hat." While "seeder" ends in -der and "Jammu" ends in -ju, they do not share the same final sound, so they do not rhyme perfectly.</s>"""
-
-# print(clean_answer(model_family="llama2", 
-#              answer=A,
-#              prompt=P))
-
-# print(get_prompt("llama3", "title", "assonance", "bot", "cop"))
+if __name__ == "__main__":
+    main()
