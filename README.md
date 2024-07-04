@@ -28,25 +28,25 @@ For more details refer to the [report](https://github.com/Aadit3003/llm-rhyme/bl
 
 
 ## Directory Structure
-* bash_scripts
-* data
-* data_preparation
-    * _create_aadit's_dutch_dict.py_
-    * _scrape_cmu_dict.py_
-    * _scrape_dutch_dict.py_
-    * _utils.py_
-* logs
-* output
+* bash_scripts - Bash scripts to run evaluate_rhyme.py in different configurations.
+* **data** - The English and Dutch datasets organized by <language>/<model_family>/<prompt_type>/<rhyme_type>/. The 'solutions' directory contains the words with orthographic and phonemic representation both, whereas the 'test' directory contains only the word pairs. Each txt file contains 1k word pairs and the non.txt file contains 5k non-rhyming word pairs.
+* **data_preparation**
+    * _create_aadit's_dutch_dict.py_ - The script to convert Celex2 data into aadit's-dutch-dict, following the CMU-Dict format.
+    * _scrape_cmu_dict.py_ - The script to extract the five types of rhyming words from CMU-Dict (cmudict-0.7b).
+    * _scrape_dutch_dict.py_ - The script to extract the five types of rhyming word pairs from aadit's-dutch-dict.
+    * _utils.py_ - utilities for file read/write, string operations
+* logs - Logs from the various evaluation runs.
+* **output** - The LLM inference outputs organized by <language>/<model_family>/<prompt_type>/<rhyme_type>/
 
-**aadit's-dutch-dict** \
-**cmudict-0.7b**
+**aadit's-dutch-dict** - The file containing Celex2 data (in the CMU-Dict format) (349k words and their orthographic-phonemic representation).\
+**cmudict-0.7b** - The file containing CMU-Dict data (134k words and their orthographic-phonemic representation).
 
-_evaluate_rhyme.py_ \
-_prompts.py_ 
+**_evaluate_rhyme.py_** - The script to evaluate an LLM for a particular rhyming dataset. Returns the F1 score and stores the inference outputs. \
+**_prompts.py_** - The script to generate the prompts used by evaluate_rhyme.py for different LLM families.
 
-README.md \
-report.pdf \
-talk_slides.pdf 
+
+report.pdf - The report containing details about experimental design and results. \
+talk_slides.pdf - The slides to my presentation on this study.
 
 ## Reproduce the Results
 
