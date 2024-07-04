@@ -19,11 +19,11 @@ echo "Starting"
 # Your job commands go here
 
 
-python evaluate_rhyme.py "english" "llama3" "assonance" "title"
-python evaluate_rhyme.py "english" "llama3" "assonance" "description"
+python ../evaluate_rhyme.py "english" "llama3" "assonance" "title"
+python ../evaluate_rhyme.py "english" "llama3" "assonance" "description"
 
-python evaluate_rhyme.py "dutch" "llama2" "consonance" "title"
-python evaluate_rhyme.py "dutch" "llama2" "consonance" "description"
+python ../evaluate_rhyme.py "dutch" "llama2" "consonance" "title"
+python ../evaluate_rhyme.py "dutch" "llama2" "consonance" "description"
 echo "CONSONANCE DONE!!"
 
 

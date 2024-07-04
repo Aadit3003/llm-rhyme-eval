@@ -21,11 +21,11 @@ echo "Starting"
 
 
 
-python evaluate_rhyme.py "english" "llama3" "alliterative" "title"
-python evaluate_rhyme.py "english" "llama3" "alliterative" "description"
+python ../evaluate_rhyme.py "english" "llama3" "alliterative" "title"
+python ../evaluate_rhyme.py "english" "llama3" "alliterative" "description"
 
-python evaluate_rhyme.py "dutch" "llama3" "alliterative" "title"
-python evaluate_rhyme.py "dutch" "llama3" "alliterative" "description"
+python ../evaluate_rhyme.py "dutch" "llama3" "alliterative" "title"
+python ../evaluate_rhyme.py "dutch" "llama3" "alliterative" "description"
 
 echo "ALLITERATIVE DONE!!"
 
