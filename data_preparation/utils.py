@@ -40,6 +40,20 @@ def file_write_strings(path, lst):
 
 
 def write_clean_file(solution_filename, test_filename, lines, limit=1000):
+    """
+    Writes the output of the rhyming functions to the solution and testing files. 
+    This is used in the main function of scrape_cmu_dict.py and scrape_dutch_dict.py
+    to construct the English and Dutch datasets respectively.
+    
+    Args:
+        solution_filename: The solution text file to write the rhyme pairs to (The words and their phonemic representations)
+        test_filename: The testing text file to write the rhyme pairs to (only the words)
+        lines: The list of rhyme pairs returned from any of the rhyming functions (singlePerfect, doublePerfect etc.)
+            A list of dictionaries, where each dictionary has two keys corresponding to the rhyme pair.
+            Each key corresponds to a value, which is simply the word's phonemic representation from the global
+            pronunciation dictionary.
+        limit: The total number of desired entries in the dataset
+    """
 
     solution_list = lines
     test_list = [' '.join(list(a.keys())) for a in solution_list]
