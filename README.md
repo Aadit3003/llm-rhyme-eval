@@ -2,6 +2,8 @@
 
 In this project, we investigate the phonological capabilities of LLMs by testing whether they are able to discern rhyming and non-rhyming word-pairs in two Germanic languages (Dutch and English). We mine English (CMU-Dict) and Dutch (Celex2) pronunciation dictionaries and construct rhyming datasets for five types of rhymes [Single perfect/Double Perfect/Assonance/Consonance/Alliteration]. We test three open-source LLMs: **Llama2-7b-chat-hf**, **Llama3-8B-Instruct** and **CrystalChat-7b** on the English and Dutch datasets.  Additionally, we test out prompt variation (title/description-level prompts) with the models.
 
+This project was completed under the guidance of Prof. David Mortensen, at LTI, CMU. For more details refer to the [report](https://github.com/Aadit3003/llm-rhyme/blob/85faec464d38443517b90497e032cf2f9bb28e9a/report.pdf) and the slides from my [talk](https://github.com/Aadit3003/llm-rhyme/blob/85faec464d38443517b90497e032cf2f9bb28e9a/talk_slides.pdf)!
+
 ## **Results**
 English Results (F1 scores) (Title Prompts):
 |      Model     | Single Perfect | Double Perfect | Assonance | Consonance | Alliteration |
@@ -19,7 +21,7 @@ Dutch Results (F1 scores) (Title Prompts):
 
 Based on the F1 scores, the overall performance order seems to be Llama3-8B > Llama2-7b > CrystalChat-7b. Perfect rhymes seem to be difficult for both languages, whereas assonance, consonance, and alliteration are nearly identical in English and Dutch. Description-level prompts benefit models like Llama2 or CrystalChat, but Llama3 is virtually unaffected.
 
-For more details refer to the [report](https://github.com/Aadit3003/llm-rhyme/blob/85faec464d38443517b90497e032cf2f9bb28e9a/report.pdf) and the slides from my [talk](https://github.com/Aadit3003/llm-rhyme/blob/85faec464d38443517b90497e032cf2f9bb28e9a/talk_slides.pdf)!
+_For a more detailed results and discussion section refer to the [report](https://github.com/Aadit3003/llm-rhyme/blob/85faec464d38443517b90497e032cf2f9bb28e9a/report.pdf)_
 
 ## **Main Contributions**
 * [Dutch Pronunciation dictionary](https://github.com/Aadit3003/llm-rhyme/blob/85faec464d38443517b90497e032cf2f9bb28e9a/aadit's-dutch-dict) in CMU-Dict format with 349k words.
