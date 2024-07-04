@@ -1,14 +1,18 @@
-# llm-rhyme
-LLM Rhyming Project
+# Evaluating the Multilingual Rhyming capabilities of Open-Source LLMs
+
 Intro About the purpose
     Types of Rhymes
     Models
     Evaluation metrics
 
     Results Tables
-Link to paper
-Link to slides
-Main Steps
+
+For more details refer to the [report]([url](https://github.com/Aadit3003/llm-rhyme/blob/85faec464d38443517b90497e032cf2f9bb28e9a/report.pdf)) and slides from my [talk](https://github.com/Aadit3003/llm-rhyme/blob/85faec464d38443517b90497e032cf2f9bb28e9a/talk_slides.pdf)! \
+
+Main Contributions:
+* [Dutch Pronunciation dictionary](https://github.com/Aadit3003/llm-rhyme/blob/85faec464d38443517b90497e032cf2f9bb28e9a/aadit's-dutch-dict) in CMU-Dict format with 349k words.
+* [English]([url](https://github.com/Aadit3003/llm-rhyme/tree/85faec464d38443517b90497e032cf2f9bb28e9a/data/english)) and [Dutch]([url](https://github.com/Aadit3003/llm-rhyme/tree/85faec464d38443517b90497e032cf2f9bb28e9a/data/dutch)) Rhyming datasets with five types of rhymes, along with orthographic and phonemic representation.
+* Inference [Outputs](https://github.com/Aadit3003/llm-rhyme/tree/85faec464d38443517b90497e032cf2f9bb28e9a/output) on both rhyme datasets using three open-source LLMs (Llama2-7b, Llama3-8B, and CrystalChat).
 
 
 ## Directory Structure
