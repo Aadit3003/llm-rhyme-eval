@@ -12,13 +12,25 @@ Main Steps
 
 
 ## Directory Structure
-data
-logs
-data_preparation
-output
-evaluation scripts
-data scraping scripts
-bash scripts
+* bash_scripts
+* data
+* data_preparation
+    * _create_aadit's_dutch_dict.py_
+    * _scrape_cmu_dict.py_
+    * _scrape_dutch_dict.py_
+    * _utils.py_
+* logs
+* output
+
+**aadit's-dutch-dict** \
+**cmudict-0.7b**
+
+_evaluate_rhyme.py_ \
+_prompts.py_ 
+
+README.md \
+report.pdf \
+talk_slides.pdf 
 
 ## Reproduce
 Environment
