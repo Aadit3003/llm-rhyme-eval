@@ -9,12 +9,12 @@ import random
 from utils import write_clean_file, file_read_strings, file_write_strings
 
 
-PHON_PATH = "/home/aaditd/3_Rhyming/llm-rhyme/celex2/dutch/dpw/dpw.cd"
-STRESS_PATH = "/home/aaditd/3_Rhyming/llm-rhyme/celex2/dutch/dpw/stress.txt"
-DICTIONARY_PATH = "/home/aaditd/3_Rhyming/llm-rhyme/aadit's-dutch-dict"
+PHON_PATH = "../celex2/dutch/dpw/dpw.cd"
+STRESS_PATH = "../celex2/dutch/dpw/stress.txt"
+DICTIONARY_PATH = "../aadit's-dutch-dict"
 
-SILLZ_PATH = "/home/aaditd/3_Rhyming/llm-rhyme/celex2/dutch/dpw/brackets_sillz.txt"
-TIPZ_PATH = "/home/aaditd/3_Rhyming/llm-rhyme/celex2/dutch/dpw/brackets_tipz.txt"
+SILLZ_PATH = "../celex2/dutch/dpw/brackets_sillz.txt"
+TIPZ_PATH = "../celex2/dutch/dpw/brackets_tipz.txt"
 
 random.seed(2)
 first_n = len(file_read_strings(PHON_PATH))

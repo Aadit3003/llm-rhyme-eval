@@ -2,7 +2,7 @@
 from the CMU Pronunciation dictionary.
 
 The output for each of the five rhyme types is stored in 
-the corresponding directories in data/english/solutions/ and data/english/test/
+the corresponding directories in ../data/english/solutions/ and ../data/english/test/
 """
 
 import random
@@ -753,31 +753,31 @@ def main():
         SPP_SOLUTION_WRITE_LIST.extend(spp)
         DPP_SOLUTION_WRITE_LIST.extend(dpp)
 
-    write_clean_file("data/english/solutions/singlePerfect.txt", 
-                     "data/english/test/singlePerfect.txt",
+    write_clean_file("../data/english/solutions/singlePerfect.txt", 
+                     "../data/english/test/singlePerfect.txt",
                      SPP_SOLUTION_WRITE_LIST)
     
-    write_clean_file("data/english/solutions/doublePerfect.txt", 
-                     "data/english/test/doublePerfect.txt",
+    write_clean_file("../data/english/solutions/doublePerfect.txt", 
+                     "../data/english/test/doublePerfect.txt",
                      DPP_SOLUTION_WRITE_LIST)
 
     ass, cons = slant_pairs()
-    write_clean_file("data/english/solutions/assonance.txt",
-                     "data/english/test/assonance.txt",
+    write_clean_file("../data/english/solutions/assonance.txt",
+                     "../data/english/test/assonance.txt",
                      ass)
     
-    write_clean_file("data/english/solutions/consonance.txt",
-                     "data/english/test/consonance.txt",
+    write_clean_file("../data/english/solutions/consonance.txt",
+                     "../data/english/test/consonance.txt",
                      cons)
 
     allit = alliterative_pairs(1000)
-    write_clean_file("data/english/solutions/alliterative.txt",
-                     "data/english/test/alliterative.txt",
+    write_clean_file("../data/english/solutions/alliterative.txt",
+                     "../data/english/test/alliterative.txt",
                      allit)
 
     nons = non_rhyming_pairs(100, 20, 5000)
-    write_clean_file("data/english/solutions/non.txt",
-                     "data/english/test/non.txt",
+    write_clean_file("../data/english/solutions/non.txt",
+                     "../data/english/test/non.txt",
                      nons, 5000)
 
     print("DONE!!")

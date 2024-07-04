@@ -3,7 +3,7 @@ from the Aadit's Dutch Pronunciation dictionary created using
 create_aadit's_dutch_dict.py.
 
 The output for each of the five rhyme types is stored in 
-the corresponding directories in data/dutch/solutions/ and data/dutch/test/
+the corresponding directories in ../data/dutch/solutions/ and ../data/dutch/test/
 """
 
 
@@ -92,31 +92,31 @@ def main():
         SPP_SOLUTION_WRITE_LIST.extend(spp)
         DPP_SOLUTION_WRITE_LIST.extend(dpp)
 
-    write_clean_file("data/dutch/solutions/singlePerfect.txt", 
-                     "data/dutch/test/singlePerfect.txt",
+    write_clean_file("../data/dutch/solutions/singlePerfect.txt", 
+                     "../data/dutch/test/singlePerfect.txt",
                      SPP_SOLUTION_WRITE_LIST)
     
-    write_clean_file("data/dutch/solutions/doublePerfect.txt", 
-                     "data/dutch/test/doublePerfect.txt",
+    write_clean_file("../data/dutch/solutions/doublePerfect.txt", 
+                     "../data/dutch/test/doublePerfect.txt",
                      DPP_SOLUTION_WRITE_LIST)
 
     ass, cons = slant_pairs()
-    write_clean_file("data/dutch/solutions/assonance.txt",
-                     "data/dutch/test/assonance.txt",
+    write_clean_file("../data/dutch/solutions/assonance.txt",
+                     "../data/dutch/test/assonance.txt",
                      ass)
     
-    write_clean_file("data/dutch/solutions/consonance.txt",
-                     "data/dutch/test/consonance.txt",
+    write_clean_file("../data/dutch/solutions/consonance.txt",
+                     "../data/dutch/test/consonance.txt",
                      cons)
 
     allit = alliterative_pairs(1000)
-    write_clean_file("data/dutch/solutions/alliterative.txt",
-                     "data/dutch/test/alliterative.txt",
+    write_clean_file("../data/dutch/solutions/alliterative.txt",
+                     "../data/dutch/test/alliterative.txt",
                      allit)
 
     nons = non_rhyming_pairs(100, 20, 5000)
-    write_clean_file("data/dutch/solutions/non.txt",
-                     "data/dutch/test/non.txt",
+    write_clean_file("../data/dutch/solutions/non.txt",
+                     "../data/dutch/test/non.txt",
                      nons, 5000)
 
     print("DONE!!")
