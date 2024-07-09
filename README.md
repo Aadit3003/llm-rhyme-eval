@@ -45,7 +45,7 @@ _For a more detailed results and discussion section refer to the [report](https:
 **_evaluate_rhyme.py_** - The script to evaluate an LLM for a particular rhyming dataset. Returns the F1 score and stores the inference outputs. \
 **_prompts.py_** - The script to generate the prompts used by evaluate_rhyme.py for different LLM families.
 
-
+environment.txt - The virtual environment packages (with versions) listed explicitly. \
 report.pdf - The report containing details about experimental design and results. \
 talk_slides.pdf - The slides to my presentation on this study.
 
