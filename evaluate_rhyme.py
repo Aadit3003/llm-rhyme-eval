@@ -47,9 +47,8 @@ def llama2_generate(prompt, model, tokenizer):
         repetition_penalty=1.3
     )
     outputs = model.generate(**generate_kwargs)
-    text =  str(tokenizer.decode(outputs[0]))
-
-    return text
+    
+    return str(tokenizer.decode(outputs[0]))
 
 def llama3_generate(prompt, model, tokenizer):
     """
@@ -83,14 +82,13 @@ def llama3_generate(prompt, model, tokenizer):
         temperature=0.6, 
         top_p=0.9, 
         do_sample=True,
-        eos_token_id = [tokenizer.eos_token_id, tokenizer.convert_tokens_to_ids("<|eot_id|>")],
+        eos_token_id=[tokenizer.eos_token_id, tokenizer.convert_tokens_to_ids("<|eot_id|>")],
         max_new_tokens=100,
         repetition_penalty=1.3
     )
     outputs = model.generate(**generate_kwargs)
-    text =  str(tokenizer.decode(outputs[0]))
-
-    return text
+    
+    return str(tokenizer.decode(outputs[0]))
 
 def crystal_generate(prompt, model, tokenizer):
     """
@@ -107,10 +105,15 @@ def crystal_generate(prompt, model, tokenizer):
         The text from the model which includes the binary judgement about the rhyme pair, as well as the model's reasoning.
     """
     input_ids = tokenizer(prompt, return_tensors="pt").input_ids.to(device)
-    gen_tokens = model.generate(input_ids, do_sample=True, max_length=400)
+    generate_kwargs = dict(
+        input_ids=input_ids,
+        do_sample=True,
+        max_length=400
+        
+    )
+    outputs = model.generate(**generate_kwargs)
 
-    
-    return tokenizer.batch_decode(gen_tokens)[0]
+    return str(tokenizer.batch_decode(outputs)[0])
 
 def olmo_generate(prompt, model, tokenizer):
     """
@@ -131,12 +134,18 @@ def olmo_generate(prompt, model, tokenizer):
         { "role": "user", "content": prompt},
     ]
     prompt = tokenizer.apply_chat_template(chat, tokenize=False, add_generation_prompt=True)
-    inputs = tokenizer.encode(prompt, add_special_tokens=False, return_tensors="pt")
-    # optional verifying cuda
-    # inputs = {k: v.to('cuda') for k,v in inputs.items()}
-    response = model.generate(input_ids=inputs.to(model.device), max_new_tokens=100, do_sample=True, top_k=50, top_p=0.95)
+    inputs = tokenizer.encode(prompt, add_special_tokens=False, return_tensors="pt").to(model.device),
+
+    generate_kwargs = dict(
+        input_ids=inputs,
+        max_new_tokens=100, 
+        do_sample=True,
+        top_k=50,
+        top_p=0.95
+    )
+    outputs = model.generate(**generate_kwargs)
     
-    return tokenizer.batch_decode(response, skip_special_tokens=True)[0]
+    return str(tokenizer.batch_decode(outputs, skip_special_tokens=True)[0])
 
 
 def text_generate(model_family, prompt, model, tokenizer):
@@ -220,9 +229,6 @@ def evaluate_rhyme_dataset(model, tokenizer, rhyme_type, prompt_type, model_fami
 
         r = re.compile(r'[\s{}]+'.format(re.escape(punctuation)))
         answer_tokens = r.split(answer.strip().lower())[0:15]
-        # print()
-        # print(answer_tokens)
-        # print()
 
         if "yes" in answer_tokens:
             pred = 1
@@ -234,33 +240,16 @@ def evaluate_rhyme_dataset(model, tokenizer, rhyme_type, prompt_type, model_fami
             pred = 0
 
         preds.append(pred)
-        # print("PROMPT: ")
-        # print(prompt)
-        # print()
-        # print("ANSWER: ")
-        # print(ans)
-        # print()
-        # print("_______________________________________________________")
         answer_strings.append(f"{word1}, {word2}, Gold: {golds[i]}, Pred: {pred} || {answer}")
 
 
-        i += 1
-
-        if i % 100 == 1:
-            print(f"        {i} DONE!")
-            print(f"         Current F1-Score is {f1_score(golds[:i], preds)}")
-
-
     file_write_strings(output_file, answer_strings)
-
     F1 = f1_score(golds, preds)
 
-
     print(f"Non yes/no happened {count} times!")
-    print(f"RHYME TYPE: {rhyme_type} | PROMPT TYPE: {prompt_type} | F-1 Score: {F1}")
+    print(f"RHYME TYPE: {rhyme_type} | PROMPT TYPE: {prompt_type} | F1 Score: {F1}")
 
     return F1
-
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser()
@@ -285,7 +274,6 @@ if __name__ == "__main__":
         OUTPUT_PATH = "output/dutch"
         NON_RHYME_PATH = "data/dutch/test/non.txt"
 
-
     # Loading the Generator Model
     torch.backends.cuda.enable_mem_efficient_sdp(False)
     torch.backends.cuda.enable_flash_sdp(False)
@@ -296,8 +284,6 @@ if __name__ == "__main__":
     generator_model_name = MODEL_NAMES[model_family]
     login("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")
         
-
-
     if model_family in ["llama2", "llama3"]:
         bnb_config = BitsAndBytesConfig(
             load_in_4bit=True,
