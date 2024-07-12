@@ -235,7 +235,7 @@ def evaluate_rhyme_dataset(model, tokenizer, rhyme_type, prompt_type, model_fami
         elif "no" in answer_tokens or "not" in answer_tokens:
             pred = 0
         else:
-            print("     Came Here")
+            print("No model response")
             count += 1
             pred = 0
 
